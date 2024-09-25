@@ -148,11 +148,18 @@ pred = [1., gdp_growth, net_approv, two_terms]
 print ('Interval:', np.round(np.dot(pred, conf),2),
        'Average:', np.round(np.dot(pred, results.params),2))
 
+# If Dems were not incumb
+net_approv = -20; gdp_growth = 2.7; two_terms = 1
+pred = [1., gdp_growth, net_approv, two_terms]
+print ('Interval:', np.round(np.dot(pred, conf),2),
+       'Average:', np.round(np.dot(pred, results.params),2))
+
 </code></pre>
 
 <pre><code class="text">Interval: [49.25 51.99] Average: 50.62
 Interval: [48.93 51.14] Average: 50.04
 Interval: [49.48 52.58] Average: 51.03
+Interval: [42.95 50.51] Average: 46.73
 </code></pre>
 
 <p>References</p>

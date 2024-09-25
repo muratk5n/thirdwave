@@ -18,6 +18,37 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
+def kh_djt_538_polls():
+
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/president_polls.csv')
+    cols = ['poll_id','sample_size','answer','pct','end_date']
+
+    dfs = df[df.answer == 'Harris'].copy()
+    dfs['harris_share'] = dfs.sample_size * dfs.pct / 100.
+    dfs['Date'] = pd.to_datetime(dfs.end_date)
+    g1 = dfs.groupby('Date').sum(['sample_size','harris_share'])
+    g1 = g1[g1.index > '2024-08-15']
+    g1['harris_pct'] = g1.harris_share / g1.sample_size
+
+    dfs = df[df.answer == 'Trump'].copy()
+    dfs['trump_share'] = dfs.sample_size * dfs.pct / 100.
+    dfs['Date'] = pd.to_datetime(dfs.end_date)
+    g2 = dfs.groupby('Date').sum(['sample_size','trump_share'])
+    g2 = g2[g2.index > '2024-08-15']
+    g2['trump_pct'] = g2.trump_share / g2.sample_size
+
+    dfall = pd.concat([g1,g2],axis=1)
+    dfall = dfall[['trump_pct','harris_pct']]
+    dfall.plot(title='Trump & Harris Combined Polls - ' + datetime.datetime.now().strftime("%m/%d"))
+    print (dfall.tail(4))
+
+def get_quandl(year, series):
+    import quandl, os
+    fname = '%s/.nomterr.conf' % os.environ['HOME']
+    conf = json.loads(open(fname).read())
+    df = quandl.get(series, start_date=str(year)+"-01-01", returns="pandas",authtoken=conf['quandl'])
+    return df
+
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()
     url = "https://www.boxofficemojo.com/search/?q=" + q
@@ -389,7 +420,10 @@ def prepare_ukraine_suriyak():
     cext2_coords = get_coords_for_label(content, reg_ext2)
     rrrs.append(np.array(cext2_coords))
     cext3_coords = get_coords_for_label(content, reg_ext3)
-    rrrs.append(np.array(cext3_coords)[0:300])
+    v3a = np.array(cext3_coords)[0:300]
+    v3b = np.array(cext3_coords)[-20:-1]
+    v3 = np.vstack((v3b, v3a))
+    rrrs.append(v3)
     
     polys = []
     for i,reg in enumerate(regs):
@@ -420,6 +454,7 @@ def prepare_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    prepare_ukraine_suriyak()
-    #prepare_sahel_suriyak()
+    #prepare_ukraine_suriyak()
+    prepare_sahel_suriyak()
+    #kh_djt_538_polls()
     

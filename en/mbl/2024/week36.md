@@ -640,10 +640,9 @@ as the article.
 SP 500 data, combined with Schiller PE, shifted by 10 years,
 
 ```python
-df = u.get_yahoo_tickers(1900, ["^GSPC"])
-df.columns = ['SPY']
-df = df.resample('MS').mean()
+df = pd.read_csv('sp500.csv',index_col='Date',parse_dates=True)
 df['schiller'] = pd.read_csv('schiller.csv',index_col='Date',parse_dates=True)['Schiller']
+df = df[df.index > '1940-01-01']
 df['SPY10'] = df.SPY.shift(-12*10)
 df['chg'] = ((df.SPY10 - df.SPY) / df.SPY)*100
 u.two_plot(df.chg, 'spy', df['schiller'], 'schiller')

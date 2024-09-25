@@ -41,11 +41,11 @@ print (df['growann'].tail(5))
 </code></pre>
 
 <pre><code class="text">DATE
-2022-10-01    2.566018
-2023-01-01    2.244165
 2023-04-01    2.060217
 2023-07-01    4.861686
-2023-10-01    3.208889
+2023-10-01    3.396030
+2024-01-01    1.409499
+2024-04-01    2.841666
 Name: growann, dtype: float64
 </code></pre>
 
@@ -111,10 +111,10 @@ plt.savefig('taylor.jpg',quality=40)
 </code></pre>
 
 <pre><code class="text">DATE
-2020-01-01     4.624963
-2021-01-01    11.363714
-2022-01-01    14.706453
-2023-01-01    10.870215
+2021-01-01     7.326191
+2022-01-01    10.642702
+2023-01-01     6.851878
+2024-01-01     4.166089
 Freq: AS-JAN, Name: Taylor, dtype: float64
 </code></pre>
 
@@ -238,11 +238,11 @@ plt.savefig('unemploy.png')
 
 <pre><code class="text">            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2023-10-01     3.8     7.2     8.323843           13961.0
-2023-11-01     3.7     7.0     8.090313           13602.0
-2023-12-01     3.7     7.1     8.387230           14044.5
-2024-01-01     3.7     7.2     8.445922           14128.0
 2024-02-01     3.9     7.3     8.551838           14318.0
+2024-03-01     3.8     7.3     8.354031           14026.0
+2024-04-01     3.9     7.4     8.550619           14363.5
+2024-05-01     4.0     7.4     8.689755           14575.5
+2024-06-01     4.1     7.4     8.425144           14155.0
 </code></pre>
 
 <p><img alt="" src="unemploy.png" /></p>
@@ -280,10 +280,10 @@ plt.savefig('profitmargin.png')
 
 <pre><code class="text">                  CP    FINSLC1         PM
 DATE                                      
-2023-01-01  2881.042  22054.259  13.063427
 2023-04-01  2902.860  22167.124  13.095339
 2023-07-01  3017.805  22362.503  13.494934
 2023-10-01  3096.319  22577.456  13.714207
+2024-01-01  3168.191  22680.542  13.968762
 </code></pre>
 
 <p><img alt="" src="profitmargin.png" /></p>
@@ -300,12 +300,12 @@ plt.savefig('dollar.png')
 </code></pre>
 
 <pre><code class="text">Date
-2024-03-26    104.290001
-2024-03-27    104.349998
-2024-03-28    104.550003
-2024-03-29    104.487000
+2024-07-15    104.190002
+2024-07-16    104.269997
+2024-07-17    103.750000
+2024-07-18    104.194000
 Name: Close, dtype: float64
-[ 81.36293117 111.560877  ]
+[ 81.45356581 111.58452385]
 </code></pre>
 
 <p><img alt="" src="dollar.png" /></p>
@@ -328,6 +328,21 @@ DATE
 </code></pre>
 
 <p><img alt="" src="wilshire.png" /></p>
+<p>Schiller P/E</p>
+<p>Overlay Schiller's P/E ratio on top SP 500 10-year returns [6] since
+1920s. Lows and highs arrive 10 years after the market is most
+expensive and cheapest, respectively. The two graphs should show
+perfect reverse correlation. </p>
+<pre><code class="python">df = pd.read_csv('../../mbl/2024/sp500.csv',index_col='Date',parse_dates=True)
+df['schiller'] = pd.read_csv('../../mbl/2024/schiller.csv',index_col='Date',parse_dates=True)['Schiller']
+df = df[df.index &gt; '1940-01-01']
+df['SPY10'] = df.SPY.shift(-12*10)
+df['chg'] = ((df.SPY10 - df.SPY) / df.SPY)*100
+u.two_plot2(df.chg, 'spy', df['schiller'], 'schiller')
+plt.savefig('schiller.jpg')
+</code></pre>
+
+<p><img alt="" src="schiller.jpg" /></p>
 <p><a name='junkbond'></a></p>
 <p>Junk Bond Yields</p>
 <pre><code class="python">df = u.get_fred(1980,['BAMLH0A2HYBEY'])
@@ -372,26 +387,17 @@ DATE
 <p><img alt="" src="treasuries.png" /></p>
 <p><a name='tcurve'></a></p>
 <p>Treasury Curve</p>
-<pre><code class="python">df = u.get_fred(2021,['DGS3MO','DGS6MO','DGS1','DGS2','DGS3','DGS5','DGS7','DGS10','DGS20','DGS30'])
-inv = df.tail(1).T
-inv.columns = ['Treasury Curve']
-inv.plot()
-plt.ylim(0,6)
-plt.savefig('tcurve.jpg',quality=50)
+<pre><code class="python">df = u.get_fred(1980,['DGS2','DGS10'])
+df = df.interpolate()
+df['inv'] = df.DGS10 - df.DGS2
+df['inv'].plot(grid=True)
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('tcurve.jpg')
 </code></pre>
 
 <p><img alt="" src="tcurve.jpg" /></p>
-<p><a name='fedbalance'></a></p>
-<p>The FED Balance Sheet and SP500</p>
-<pre><code class="python">df = u.get_fred(2020,['SP500','WALCL'])
-df.columns = ['SP500','FED Total Assets']
-df = df.interpolate()
-u.two_plot(df, df.columns[0],df.columns[1])
-plt.axvline(x='13-03-2023',color='y',linestyle='dashed')
-plt.savefig('fedbalance.jpg',quality=50)
-</code></pre>
-
-<p><img alt="" src="fedbalance.jpg" /></p>
 <p><a name='vix'></a></p>
 <p>VIX</p>
 <pre><code class="python">df = u.get_yahoofin(2000,&quot;^VIX&quot;)
@@ -430,10 +436,10 @@ print (df['Credit to GDP'].tail(4))
 </code></pre>
 
 <pre><code class="text">DATE
-2022-07-01    191.770916
-2022-10-01    192.405169
-2023-01-01    191.454003
-2023-04-01    190.315568
+2023-04-01    183.173453
+2023-07-01    181.993818
+2023-10-01    181.139971
+2024-01-01    180.507244
 Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 </code></pre>
 
@@ -504,10 +510,10 @@ plt.savefig('gini.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2023-01-01    0.438
 2023-04-01    0.438
 2023-07-01    0.438
 2023-10-01    0.440
+2024-01-01    0.440
 dtype: float64
 </code></pre>
 
@@ -530,10 +536,10 @@ plt.savefig('top10-2.jpg')
 
 <pre><code class="text">              Top 10%  Bottom 50%
 DATE                             
-2023-01-01  66.557696    2.569562
-2023-04-01  66.512291    2.555786
-2023-07-01  66.297166    2.547747
-2023-10-01  66.927900    2.485612
+2023-04-01  66.550627    2.553121
+2023-07-01  66.344121    2.542600
+2023-10-01  66.815687    2.487873
+2024-01-01  66.996773    2.492360
 </code></pre>
 
 <p><img alt="" src="top10-2.jpg" /></p>
@@ -553,7 +559,7 @@ print (&quot;Perc change since the 80s = %0.2f&quot; % ((t2-t1) / t2 * 100))
 plt.savefig('household.jpg')
 </code></pre>
 
-<pre><code class="text">Perc change since the 80s = 7.78
+<pre><code class="text">Perc change since the 80s = 7.83
 </code></pre>
 
 <p><img alt="" src="household.jpg" /></p>
@@ -576,11 +582,11 @@ print (df.tail(5))
 
 <pre><code class="text">            XTEXVA01CNM667S
 DATE                       
-2023-12-01     2.814782e+11
 2024-01-01     2.960003e+11
 2024-02-01     2.980984e+11
 2024-03-01     2.939816e+11
 2024-04-01     2.980429e+11
+2024-05-01     3.009224e+11
 </code></pre>
 
 <p><img alt="" src="exchina.jpg" /></p>
@@ -592,6 +598,7 @@ key in a <code>.quandl</code> file in the same directory as this file.</p>
 <p>[3] <a href="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28080/versions/1/previews/gini.m/index.html">Mathworks</a></p>
 <p>[4] <a href="https://www.philosophicaleconomics.com/2014/03/foreignpm/">Philosophical Economics</a></p>
 <p>[5] <a href="https://app.hedgeye.com/mu/he_qio_4q19_10-3-2019?encoded_data=ft9F,6yjgJ3+iFdaasKwdMTJVgzgnZlI=,">Hedgeeye</a></p>
+<p>[6] <a href="http://www.econ.yale.edu/~shiller/data.htm">Schiller</a></p>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>

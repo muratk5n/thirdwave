@@ -174,7 +174,7 @@ catastrophe' if [Pokrovsk] falls to Russia"
 
 \#Frontline \#UA \#RU 08/19 - 08/30
 
-[[-]](mbl/2024/ukrdata/map33-ext.html)
+[[-]](ukrdata/map33-ext.html)
 
 ---
 
@@ -606,7 +606,7 @@ Hezbollah As A Terrorist Group"
 The update is somewhat old, from the 18th, but shows changes compared to
 07/02. RSF made gains within that period.
 
-[[-]](mbl/2024/sdndata/map4-ext.html)
+[[-]](sdndata/map4-ext.html)
 
 ---
 

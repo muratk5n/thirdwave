@@ -777,6 +777,15 @@ def two_plot(df, col1, col2):
     h2, l2 = ax2.get_legend_handles_labels()
     plt.legend(h1+h2, l1+l2, loc=2)
 
+def two_plot2(s1, col1, s2, col2):
+    plt.figure(figsize=(12,5))
+    ax1 = s1.plot(color='blue', grid=True, label=col1)
+    ax2 = s2.plot(color='red', grid=True, label=col2,secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2)
+    
+
 def lineproc(file_name,chunk_i,N,hookobj,skip_lines=0):
     file_size = os.path.getsize(file_name)
     hookobj.infile = file_name # lineprocessor object

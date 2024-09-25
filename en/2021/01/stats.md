@@ -23,11 +23,11 @@ print (df['growann'].tail(5))
 
 ```text
 DATE
-2022-10-01    2.566018
-2023-01-01    2.244165
 2023-04-01    2.060217
 2023-07-01    4.861686
-2023-10-01    3.208889
+2023-10-01    3.396030
+2024-01-01    1.409499
+2024-04-01    2.841666
 Name: growann, dtype: float64
 ```
 
@@ -102,10 +102,10 @@ plt.savefig('taylor.jpg',quality=40)
 
 ```text
 DATE
-2020-01-01     4.624963
-2021-01-01    11.363714
-2022-01-01    14.706453
-2023-01-01    10.870215
+2021-01-01     7.326191
+2022-01-01    10.642702
+2023-01-01     6.851878
+2024-01-01     4.166089
 Freq: AS-JAN, Name: Taylor, dtype: float64
 ```
 
@@ -258,11 +258,11 @@ plt.savefig('unemploy.png')
 ```text
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2023-10-01     3.8     7.2     8.323843           13961.0
-2023-11-01     3.7     7.0     8.090313           13602.0
-2023-12-01     3.7     7.1     8.387230           14044.5
-2024-01-01     3.7     7.2     8.445922           14128.0
 2024-02-01     3.9     7.3     8.551838           14318.0
+2024-03-01     3.8     7.3     8.354031           14026.0
+2024-04-01     3.9     7.4     8.550619           14363.5
+2024-05-01     4.0     7.4     8.689755           14575.5
+2024-06-01     4.1     7.4     8.425144           14155.0
 ```
 
 ![](unemploy.png)
@@ -315,10 +315,10 @@ plt.savefig('profitmargin.png')
 ```text
                   CP    FINSLC1         PM
 DATE                                      
-2023-01-01  2881.042  22054.259  13.063427
 2023-04-01  2902.860  22167.124  13.095339
 2023-07-01  3017.805  22362.503  13.494934
 2023-10-01  3096.319  22577.456  13.714207
+2024-01-01  3168.191  22680.542  13.968762
 ```
 
 ![](profitmargin.png)
@@ -342,12 +342,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2024-03-26    104.290001
-2024-03-27    104.349998
-2024-03-28    104.550003
-2024-03-29    104.487000
+2024-07-15    104.190002
+2024-07-16    104.269997
+2024-07-17    103.750000
+2024-07-18    104.194000
 Name: Close, dtype: float64
-[ 81.36293117 111.560877  ]
+[ 81.45356581 111.58452385]
 ```
 
 ![](dollar.png)
@@ -375,6 +375,25 @@ DATE
 ```
 
 ![](wilshire.png)
+
+Schiller P/E
+
+Overlay Schiller's P/E ratio on top SP 500 10-year returns [6] since
+1920s. Lows and highs arrive 10 years after the market is most
+expensive and cheapest, respectively. The two graphs should show
+perfect reverse correlation. 
+
+```python
+df = pd.read_csv('../../mbl/2024/sp500.csv',index_col='Date',parse_dates=True)
+df['schiller'] = pd.read_csv('../../mbl/2024/schiller.csv',index_col='Date',parse_dates=True)['Schiller']
+df = df[df.index > '1940-01-01']
+df['SPY10'] = df.SPY.shift(-12*10)
+df['chg'] = ((df.SPY10 - df.SPY) / df.SPY)*100
+u.two_plot2(df.chg, 'spy', df['schiller'], 'schiller')
+plt.savefig('schiller.jpg')
+```
+
+![](schiller.jpg)
 
 <a name='junkbond'></a>
 
@@ -433,30 +452,17 @@ DATE
 Treasury Curve
 
 ```python
-df = u.get_fred(2021,['DGS3MO','DGS6MO','DGS1','DGS2','DGS3','DGS5','DGS7','DGS10','DGS20','DGS30'])
-inv = df.tail(1).T
-inv.columns = ['Treasury Curve']
-inv.plot()
-plt.ylim(0,6)
-plt.savefig('tcurve.jpg',quality=50)
+df = u.get_fred(1980,['DGS2','DGS10'])
+df = df.interpolate()
+df['inv'] = df.DGS10 - df.DGS2
+df['inv'].plot(grid=True)
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('tcurve.jpg')
 ```
 
 ![](tcurve.jpg)
-
-<a name='fedbalance'></a>
-
-The FED Balance Sheet and SP500
-
-```python
-df = u.get_fred(2020,['SP500','WALCL'])
-df.columns = ['SP500','FED Total Assets']
-df = df.interpolate()
-u.two_plot(df, df.columns[0],df.columns[1])
-plt.axvline(x='13-03-2023',color='y',linestyle='dashed')
-plt.savefig('fedbalance.jpg',quality=50)
-```
-
-![](fedbalance.jpg)
 
 <a name='vix'></a>
 
@@ -506,10 +512,10 @@ print (df['Credit to GDP'].tail(4))
 
 ```text
 DATE
-2022-07-01    191.770916
-2022-10-01    192.405169
-2023-01-01    191.454003
-2023-04-01    190.315568
+2023-04-01    183.173453
+2023-07-01    181.993818
+2023-10-01    181.139971
+2024-01-01    180.507244
 Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 ```
 
@@ -591,10 +597,10 @@ plt.savefig('gini.png')
 
 ```text
 DATE
-2023-01-01    0.438
 2023-04-01    0.438
 2023-07-01    0.438
 2023-10-01    0.440
+2024-01-01    0.440
 dtype: float64
 ```
 
@@ -622,10 +628,10 @@ plt.savefig('top10-2.jpg')
 ```text
               Top 10%  Bottom 50%
 DATE                             
-2023-01-01  66.557696    2.569562
-2023-04-01  66.512291    2.555786
-2023-07-01  66.297166    2.547747
-2023-10-01  66.927900    2.485612
+2023-04-01  66.550627    2.553121
+2023-07-01  66.344121    2.542600
+2023-10-01  66.815687    2.487873
+2024-01-01  66.996773    2.492360
 ```
 
 ![](top10-2.jpg)
@@ -650,7 +656,7 @@ plt.savefig('household.jpg')
 ```
 
 ```text
-Perc change since the 80s = 7.78
+Perc change since the 80s = 7.83
 ```
 
 ![](household.jpg)
@@ -684,11 +690,11 @@ print (df.tail(5))
 ```text
             XTEXVA01CNM667S
 DATE                       
-2023-12-01     2.814782e+11
 2024-01-01     2.960003e+11
 2024-02-01     2.980984e+11
 2024-03-01     2.939816e+11
 2024-04-01     2.980429e+11
+2024-05-01     3.009224e+11
 ```
 
 ![](exchina.jpg)
@@ -707,4 +713,6 @@ key in a `.quandl` file in the same directory as this file.
 [4] [Philosophical Economics](https://www.philosophicaleconomics.com/2014/03/foreignpm/)
 
 [5] [Hedgeeye](https://app.hedgeye.com/mu/he_qio_4q19_10-3-2019?encoded_data=ft9F,6yjgJ3+iFdaasKwdMTJVgzgnZlI=,)
+
+[6] [Schiller](http://www.econ.yale.edu/~shiller/data.htm)
 

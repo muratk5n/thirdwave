@@ -1,110 +1,151 @@
 
-Cetta, de la Pena: "This paper provides elements in support of the
-random zero-point radiation field (ZPF) as an essential ontological
-ingredient needed to explain distinctive properties of
-quantum-mechanical systems. We show that when an otherwise classical
-particle is connected to the ZPF, a drastic, qualitative change in the
-dynamics takes place, leading eventually to the quantum dynamics...
+Pinned Post
 
-[An] inspection of the current literature readily reveals the
-existence of about two dozen different interpretations of QM, some
-more popular than others, and none of them experimentally
-verified. How can it be that a fundamental theory that provides the
-basis for a most significant part of contemporary physics, admits such
-a variety of alternative, even contradictory interpretations? No
-serious physicist or philosopher of science in his five senses would
-claim to come up with a better interpretation of Newtonian mechanics
-or Maxwellian electrodynamics. Reformulations of a known accepted
-theory may appear, of course, but fundamental theories do not accept
-reinterpretations. Special relativity did not reinterpret classical
-mechanics, it extended mechanics to wider domains, and together with
-quantum theory helped to specify its range of applicability. We should
-conclude that in the case of quantum mechanics, such variety of
-interpretations is indicative of a crucial underdetermination of the
-theory...
+\#Gaetz \#3SimpleIdeas
 
-[To] understand the origin of so many different visions about the same
-fundamental theory, it is convenient to place ourselves in the context
-in which QM was born. We recall that the quantum formalism—its
-excellent mathematical apparatus that we still use today with
-success—was born in the absence of a deep understanding of the quantum
-phenomenology...
-
-It is against this background that Heisenberg worked on his version of
-the theory, the matrix mechanics. Heisenberg discovered that the
-quantum particles have an unavoidable random behavior. Being persuaded
-of the completeness of his theory, he took this randomness for an
-essential, irreducible trait that neither needs nor admits a deeper
-explanation...
-
-Unknowingly, Schrödinger’s wave theory implied the introduction of a
-new element into the quantum description. The point is that electron
-interference patterns are produced by the accumulation of a high
-number of point-like events, each one created by a single electron. A
-single particle produces an isolated, randomly located bright point on
-the detecting screen, the interference—the wave manifestation—becoming
-evident only after very many hits. The conclusion—normally one that
-goes unnoticed—is that Schrödinger’s wave function refers not to a
-single particle, but to an ensemble of them. Well interpreted,
-Schrödinger theory is intrinsically statistical in nature, and deals
-with ensembles rather than individual particles.  Nevertheless, the
-statistical perspective of the quantum phenomenon was dismissed in
-general—and adamantly opposed by the Copenhagen school in particular,
-which prevails to date under different guises.. This opened the door
-to another infelicitous ingredient, the observer. The introduction of
-an active character in order to ’explain’ the reduction of the
-distinctive quantum mixtures to the pure states observed, added a
-subjective ingredient to the already odd quantum scheme.  All in all,
-such variety of interpretations and re-interpretations indicates that
-something of importance is missing in the theory. Having so many
-variations indicates that the issue is actually not one of
-interpretation, but of an essential incompleteness. The absence of an
-appropriate guiding ontological element has turned the physical
-situation into a mystery...
-
-However, rather than [an] incompletenesses.. we are referring to an
-essential ingredient that is missing. The point is that whatever is to
-be added to the incomplete theoretical framework should be able to
-address simultaneously some of its main puzzles, including not just
-the nature of quantum fluctuations; atomic stability, quantum
-transitions, discrete atomic spectra, wavelike phenomena and the like
-should find their natural explanation in a coherent scheme.
-
-The present paper is one of a series that deals with the development
-of stochastic electrodynamics (SED) as a physical foundation for
-quantum mechanics. In previous work we have shown that, by including
-the zero-point radiation field (ZPF), SED allows us to arrive at a
-consistent description of the stationary states and to derive the
-(nonrelativistic) radiative corrections proper for QED"
-
-[[-]](https://arxiv.org/pdf/2210.16388)
+[[-]](https://www.youtube.com/embed/kJ8xSnXfnFg?start=3&end=40)
 
 ---
 
-I see CNBC shared a list of reactors under construction, but we have
-to stress HTR-PM in China, HTTR in Japan, HTGR-POLA in Poland in the
-list are all helium-cooled reactors. So the main feature of these
-reactors is not they are small, they are *cooled differently* which
-gives them additional safety features. Proper detail was not provided
-in this article.
+H2 Europe: "German asset manager KGAL has invested an undisclosed
+amount into a proposed green hydrogen project with up to 1,050MW of
+electrolyser capacity in the municipality of Lubmin, on Germany’s
+northeastern coast. The plant’s developers, GP Joule and PtX
+Development — the latter of which has already secured a site — plan to
+initially install 210MW of electrolysers in the first phase, although
+a timeline for scale-up to more than 1GW of capacity has not been
+disclosed"
 
 ---
 
-CNBC: "New nuclear plant designs, called small modular reactors, could
-speed deployment of carbon-free power"
-
-[[-]](https://www.cnbc.com/2024/09/07/how-small-modular-reactors-could-expand-nuclear-power-in-the-us.html)
-
----
-
-F24: "Hezbollah fires rockets, Israel strikes after attack kills
-Lebanese emergency workers"
+H2 Central: "Uruguay readies offshore wind licence for green hydrogen
+production.. Uruguay’s state-owned energy company Ancap may soon grant
+concessions on four offshore blocks to produce green hydrogen as the
+country seeks to position itself as a 'global exporter'"
 
 ---
 
-\#Frontline \#UA \#RU 08/30 - 09/09
+"ReNu Energy secures $8M grant for green hydrogen initiative"
 
-[[-]](mbl/2024/ukrdata/map34-ext.html)
+---
+
+Officially I'll stick to the original prediction... I'm using polling
+data to gauge a lower bound on Dem campaigning, meh, not terrible so
+far. Combined, let's still say Kamaller, I'll eat crow if it goes the
+other way.
+
+---
+
+If we negate the incumb adv for Dems, their chance for win is,
+
+```
+Interval: [42.95 50.51] Average: 46.73
+```
+
+Most likely a loss.
+
+---
+
+Should Trump be seen as an incumbent? He did not get his chance for a
+second term, he is running for that now, just like an incumbent
+would. Since 2020 was such a confusing time, a chaos, squint a little,
+it could look like two incumbents are running against each other. That
+would change the outcome of the Abramovitz formula.
+
+---
+
+Theory of Everything attempts keep falling short bcz the previous
+layer(s) have faults. We should not delude ourselves thinking the WWI
+generation had everything figured out. Yankee sci culture is too
+insecure to go there, US led sci consensus keeps trying to maintain
+the foundational layer and somehow "connect stuff on top" and have
+their grand theory. Everything is a f-ing mess and this modern
+consensus is to blame. Just look at international relations and
+project that onto science. Same dipshittery everywhere, with the same
+sad result.
+
+---
+
+Good point by Marmet.. you can come up with eqns that fit the data,
+but are those the right equations that explain the reality that
+produce that data?
+
+---
+
+Einstein was wrong
+
+---
+
+Paul Marmet: "Many experiments, like the Michelson-Morley and Sagnac
+experiments and others, are testing the fundamental nature of
+light. It is conflicting to observe that the velocity of photons is
+measured as a constant, when the observer moves away from that light
+source. Since all other particles are measured with additive
+velocities ($V-v$) or ($V+v$) with respect to a moving frame, why can
+photons not obey that same rule?  Since Newton's mechanics has shown
+that all relative velocities produce a Doppler frequency shift, we
+must expect that some special phenomena prevent us from detecting the
+real change of relative velocity. It is quite incorrect to believe
+that this phenomenon cannot be explained using physical reality and
+Newton physics.  As required by the principle of mass-energy
+conservation, the atoms (nucleus and electrons) forming the local
+standard reference meter and the moving clock have acquired some extra
+mass due to the materialization of kinetic energy. Quantum mechanics
+shows that this increase of energy changes the de Broglie electron
+wavelength and consequently, the Bohr radius and the clock rate. It is
+surprising to find new hypotheses like space-time distortion, and even
+more, the suggestion of 'new logic' to explain these observations,
+while it is not taken into account that the rate of the moving clock
+is naturally modified due to the increase of mass (following the
+absorption of kinetic energy). The simple application of the principle
+of mass-energy conservation explains naturally all these experiments..
+We must recall that an empirical equation used to predict the outcome
+of a physical system is *not an explanation*"
+
+[[-]](https://periodicos.uem.br/ojs/index.php/ActaSciTechnol/article/view/3062)
+
+---
+
+Puerto Rico was clearly invaded by US corporate power..
+
+Kinzer, *Overthrow, US' Century of Regime Change*: "During the early
+years of the twentieth century, four American corporations gobbled up
+most of Puerto Rico's best land. On it they planted sugar, a crop
+suited to large-scale farming. The big losers were families who grew
+coffee, which is known as the 'poor man's crop' because it can be
+cultivated on small plots. By 1930, sugar accounted for 60 percent of
+the country's exports, while coffee, once the island's principal crop,
+had fallen to just 1 percent... With little access to land, ordinary
+Puerto Ricans became steadily poorer. One study found that while 17
+percent of them were unemployed at the time of the American invasion,
+30 percent were unemployed a quarter century later"
+
+---
+
+TASS: "Telegram updates policies, will now share user details with law
+enforcement, abandons privacy"
+
+---
+
+ProPublica: "Israel Deliberately Blocked Humanitarian Aid to Gaza, Two
+Government Bodies Concluded. Antony Blinken Rejected Them"
+
+[[-]](https://www.propublica.org/article/gaza-palestine-israel-blocked-humanitarian-aid-blinken)
+
+---
+
+Informed Comment: "Calls for US Arms Embargo as Israel Kills Nearly
+500 in Lebanon"
+
+---
+
+Al-Monitor: "Dead end'? US shows lack of leverage as Israel pounds
+Lebanon.. For nearly a year, one of..  Biden's top priorities has been
+to prevent the Gaza war from spiraling into an all-out regional
+conflict. Weeks ahead of an election -- and just as Biden begins his
+farewell visit to the UN General Assembly -- Israel is pounding
+Lebanon, killing hundreds and highlighting the powerlessness of his
+warnings"
 
 ---
 
@@ -154,6 +195,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
 
 
