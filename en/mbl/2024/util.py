@@ -40,6 +40,7 @@ def kh_djt_538_polls():
     dfall = pd.concat([g1,g2],axis=1)
     dfall = dfall[['trump_pct','harris_pct']]
     dfall.plot(title='Trump & Harris Combined Polls - ' + datetime.datetime.now().strftime("%m/%d"))
+    plt.savefig('/tmp/538.jpg')
     print (dfall.tail(4))
 
 def get_quandl(year, series):
@@ -344,7 +345,8 @@ regs = [
 
 reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
 reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
-reg_ext3 = "Kursk-Russian Armed Forces"
+reg_ext3 = "Kursk-Russian Armed Forces 1"
+reg_ext4 = "Kursk-Russian Armed Forces 2"
 
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
@@ -362,10 +364,6 @@ def prep_suriyak():
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
             content = myfile.read().decode('utf-8')
-
-            content = re.sub("Kursk-Ukrainian Armed Forces",
-                             "Kursk-Ukrainian Armed Forces 2",
-                             content,count=1)
 
             content = re.sub("Luhansk People's Republic \(East Luhansk\)",
                              "Luhansk People's Republic (East Luhansk 1)",
@@ -398,11 +396,22 @@ def prep_suriyak():
             content = re.sub("N.Kharkov-Russian Armed Forces\<",
                              "N.Kharkov-Russian Armed Forces 2<",
                              content,count=1)
+
+            content = re.sub("Kursk-Russian Armed Forces<",
+                             "Kursk-Russian Armed Forces 1<",
+                             content,count=1)
+
+            content = re.sub("Kursk-Russian Armed Forces<",
+                             "Kursk-Russian Armed Forces 2<",
+                             content,count=1)
+
+            
         
     fout = open("/tmp/ukraine.kml","w")
     fout.write(content)
     fout.close()
 
+    
 def prepare_ukraine_suriyak():
     """
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
@@ -420,20 +429,23 @@ def prepare_ukraine_suriyak():
     cext2_coords = get_coords_for_label(content, reg_ext2)
     rrrs.append(np.array(cext2_coords))
     cext3_coords = get_coords_for_label(content, reg_ext3)
-    v3a = np.array(cext3_coords)[0:300]
-    v3b = np.array(cext3_coords)[-20:-1]
-    v3 = np.vstack((v3b, v3a))
-    rrrs.append(v3)
-    
+    cext4_coords = get_coords_for_label(content, reg_ext4)
+
+
+    polys = []
+    polys.append(Polygon(cext3_coords))
+    polys.append(Polygon(cext4_coords))
+    res = unary_union(polys)    
+    cext3_cext4 = list(res.exterior.coords)
+    cext3_cext4 = np.array(cext3_cext4)[350:1000]
+    rrrs.append(cext3_cext4)
+          
     polys = []
     for i,reg in enumerate(regs):
         coords = get_coords_for_label(content, reg)
         polys.append(Polygon(coords))
-
-    res = unary_union(polys)
-    
+    res = unary_union(polys)    
     rrr = list(res.exterior.coords)
-
     rrr = rrr[0:-3700]
     c = np.array(rrr)
     rrrs.append(c)
@@ -454,7 +466,7 @@ def prepare_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    #prepare_ukraine_suriyak()
-    prepare_sahel_suriyak()
+    prepare_ukraine_suriyak()
+    #prepare_sahel_suriyak()
     #kh_djt_538_polls()
     

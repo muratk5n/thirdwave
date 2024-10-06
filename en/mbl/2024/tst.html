@@ -29,33 +29,6 @@
 import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
-
-<pre><code class="python">df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/president_polls.csv')
-</code></pre>
-
-<pre><code class="python">cols = ['poll_id','pollster','sample_size','answer','pct','end_date']
-print (df[cols].head(30))
-</code></pre>
-
-<pre><code class="python">u.kh_djt_538_polls()
-plt.savefig('/tmp/538.jpg')
-</code></pre>
-
-<pre><code class="text">            trump_pct  harris_pct
-Date                             
-2024-09-19   0.468208    0.489408
-2024-09-20   0.464579    0.496868
-2024-09-21   0.457992    0.481633
-2024-09-22   0.450000    0.500000
-</code></pre>
-
-<pre><code class="python">import datetime
-sd = datetime.datetime.now().strftime(&quot;%m/%d&quot;)
-print (sd)
-</code></pre>
-
-<pre><code class="text">09/24
-</code></pre>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>

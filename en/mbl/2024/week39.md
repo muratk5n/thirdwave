@@ -1,2 +1,438 @@
 # Week 39
 
+Tom Van Flandern: "Newton remarked.. the logical mind, competent in
+philosophical matters, finds it inconceivable that one object might
+act on another across a gulf of space without some intermediaries
+passing between the objects to convey the action. The alternative
+would require some form of magic, an effect without a cause. As such,
+it would violate the causality principle, one of the fundamental
+Principles of Physics. These principles have a higher status than the
+so-called 'laws of physics,' such as Newton’s Universal Law of
+Gravitation. Such laws may change as knowledge increases.  By
+contrast, the Principles of Physics are deductions about nature so
+closely related to pure logic that a definite observed violation of
+one of them would bring into question the very nature of the reality
+we live in"
+
+---
+
+Fleming: "Fatio’s idea was that space is filled with corpuscles, and
+as these corpuscles move through space, they randomly strike each
+other and astronomical bodies, pushing them. If we consider two
+bodies, the first body shadows the second body from the corpuscular
+pressure force coming from behind the first body, and in this way
+there is more force pushing the bodies together than pushing them
+apart... Fatio’s theory is a true quantum gravity theory, as it is
+based entirely on quantum electrodynamic principles. It also unifies
+the gravitational force with the electromagnetic and mechanical
+forces. The existence of the Casimir force tells us that the
+Fatio-Casimir force must exist..
+
+Vacuum fluctuations exert pressure uniformly in all directions such
+that a body in otherwise empty space is pushed on equally from all
+sides. The body is not heated either as proved by the Casimir
+force. Pressure differentials due to Fatio’s shadowing effect cause
+gravitational acceleration. Baseline vacuum pressure is positive and
+uniform from all directions. In other words, aether gravitates without
+producing a detectable gravitational force since it pushes equally
+from all sides"
+
+---
+
+Salvaggio: "Reasoning in OpenAI’s latest model seems to be.. a form of
+prompt engineering known as 'chain of thought' engineering. Users of
+the LLM would make a previous model work step by step, using
+computational thinking to constrain the random outcome of a prompt
+more carefully...  OpenAI isn’t sharing what these steps look like
+because I kid you not, 'the model must have the freedom to express its
+thoughts in unaltered form.' [meaning they don't know what the f--k
+goes on in there, it is an unstructured jumble]..
+
+There is a strange obsession with disproving the parrot claim among
+LLM evangelists...  But it’s stochastic, all the way
+down. Chain-of-thought prompting is the difference between a
+fill-in-the-blank quiz and a multiple-choice quiz... It also helps
+prevent 'attention' from drifting in the model. Attention is the term
+used for token storage: there’s a limit on how many words a model can
+pay attention to, so if you generate well beyond a prompt, the model’s
+attention is more likely to drift. That’s a problem with complex
+prompts — the model starts generating, and once you fill the memory
+buffer, every word knocks another word out of its 'attention span.'
+
+Does this mean that I think the model is useless? No. I just think the
+model is a stochastic parrot. And it’s being designed backward. I’m
+not sure companies need to be investing in massive, environmentally
+hostile, water-intensive, energy-draining,
+intellectual-property-ignoring datasets if the end result is that they
+just end up blocking out access to a vast proportion of the resulting
+model"
+
+---
+
+The Guardian: "Kamala Harris has called for an end to the Senate
+filibuster to make good on her pledge to restore the right to abortion
+through legislation."
+
+---
+
+Politico: "Harris in Arizona visit vows to outdo Biden on border
+security"
+
+---
+
+Look at how they are dressed, in uniforms of sorts.. But it is their
+*personal* uniform, as they are not part of a security / military
+apparatus, they are a one-man-army of their own. The fascination with
+violence must have its cultural basis here (it turns out Rapaille
+identified sex equates to violence in US emotional brain).
+
+---
+
+Militocracy-descendant cultures centralized violence, its populace are
+used to the pecking order when it comes to the subject.. Anglo comic
+book heroes are somewhat bizarre compared to it, the characters are
+somewhat laughed at in many places outside US. Plutocracies see
+themselves as decentralized peoples who can wheel and deal and of
+course, apply violence, at a personal level, almost in an enterprenual
+spirit when it is "necessary". Such are the Anglo heroes, they are
+ass-kicking enterpreneurs, like Batman (the dumbest looking hero of
+all time).
+
+---
+
+Afghanistan remained a basket case, US could not, would not "fix" the
+place, again bcz of US business interests. Cotton could be grown there
+instead of poppy seeds, but USAID cannot help growth of such products
+in other countries bcz of a law (Bumpers Amendment) that prohibits
+supporting products in other countries that can compete with US
+companies. Bidness interests invade a place, bidness interest keep the
+place a basket case.  No surprise some in US asking themselves why
+invade and stay at a place if you cannot help a place? Criticism of US
+inverventionism has some of its roots in its dysfunction as well as
+the money spent on it that could be spent elsewhere.
+
+---
+
+I don't think Eps had anything on Trump, but the way Eps was placed in
+the news circulation would have made DJT suspicious. All of a sudden
+you are in the news cycle along with Andrew Windsor, f-ing Clintons..
+it's disgusting. Even if Eps talked out of his ass, he could be
+damaging, and Trump could want to take action on that.
+
+---
+
+If you think about it, this is Trump's M.O. Remember the Soleimani
+assasination. Surgical strike, taking out one guy. Boom.
+
+---
+
+JE's brother is adamant about this theory, and he doesn't sound like a
+kooky guy.
+
+---
+
+Was deep state involved in Jeffrey Epstein's death? Why go look at the
+depths? There is a clear suspect with something to gain visible for
+everyone to see - it's Trump.  Anyone who can have doors opened,
+cameras blinded in a federal detention must be pretty powerful figure,
+federally. Who is more powerful than the freaking President?
+
+---
+
+Penguin S01E01 - good episode. 
+
+---
+
+Fleming: "The curved space model runs into serious difficulties when
+you consider more than two objects in very different orbits. For
+example, the Earth has a nearly circular orbit, but a comet passing
+near the Earth is following a large elliptical path that is nearly
+perpendicular to the Earth’s orbit. How can space be simultaneously
+curved in two perpendicular directions? It makes no sense. If one
+considers millions of photons crossing a single point in space from
+different directions, it makes even less sense.  It makes no sense to
+adopt a curved space model when a geometrically flat space model
+works, and it does work when you have aether. Why do physicists desire
+such a complicated and unnecessary model? Probably they do it because
+science fiction is more fun and interesting to think about than real
+science"
+
+---
+
+Light being "tired" is the wrong terminology. Light enters water it
+slows down, it exits water it speeds up again. If it was "tired"
+wouldn't it want to remain slow, want to rest a little while?
+<img width='15' src='https://cdn.fosstodon.org/media_attachments/files/113/205/336/923/051/671/original/7784a1ddcf3530bd.jpeg'/>
+<img width='15' src='https://cdn.fosstodon.org/media_attachments/files/113/205/336/923/051/671/original/7784a1ddcf3530bd.jpeg'/>
+<img width='15' src='https://cdn.fosstodon.org/media_attachments/files/113/205/336/923/051/671/original/7784a1ddcf3530bd.jpeg'/>
+
+---
+
+The speed of light $c$ is also the speed of light in a certain
+medium. That medium is the aether = quantum field. Quantum field
+exists, otherwise Casimir Effect would not work (experimentally
+proven). Space is not empty. Aether (QF) provides resistance to light
+in certain ways that results in $c$.  Other mediums slow down light in
+different ways, making the speed less than $c$ like glass and water.
+
+---
+
+We already know light slows down in different medium. It slows down
+when it enters into glass. Same with water.
+
+---
+
+"@fuck_cars_bot@botsin.space
+
+'Floridian death cult: As a record-breaking hurricane makes landfall,
+evacuation routes are clogged with people trapped in their
+cars. Stormwater is expected to reach depths of 20 feet'"
+
+---
+
+Nikkei Asia: "Who is Shigeru Ishiba? Japan set for ex-Abe rival as
+prime minister"
+
+---
+
+Dampier: "Among the fatal flaws in the Telecom Act of 1996 were its
+various ‘competition tests,’ which were open to considerable
+interpretation and latitude at the FCC. The Republican supporters of
+the bill argued that the presence of an open and free marketplace
+would, by itself, induce competition among various entrants. They were
+generally unconcerned with the question of whether new competition
+would actually arrive. Their priority was lifting the protective
+levers of legacy regulation as soon as possible. Many Democrats
+assumed what appeared to be carefully drafted regulatory language
+would protect consumers by preventing the FCC from lifting protections
+too early in the competitive process. But lobbyists consistently
+outmaneuvered lawmakers, finding ways to insert loopholes and
+compromise language that introduced inconsistencies that could be
+dealt with and eliminated either by the FCC or the courts later...
+
+The first warning the 1996 Act was going awry came a year after the
+bill was signed into law. Phone companies started raising rates from
+1.50 - 6 dollars a month on average. AT&T was petitioning to hike
+rates $7 a month. Someone would have to pay to replace the scrapped
+subsidy system in a competitive market — subsidies that had been in
+place at the nation’s phone companies for decades. By charging higher
+rates for phone service in cities and for pricier long distance calls
+before the arrival of companies like MCI and Sprint, the phone
+companies used this revenue to subsidize their Universal Service
+obligations, keeping rural phone bills low and often below the real
+cost of providing service. To establish a truly competitive phone
+business, the subsidies had to be reformed or go, and that meant
+someone had to cover the difference"
+
+---
+
+Dampier: "[Clinton's] Telecom Act of 1996 Sowed the Seeds of a Telecom
+Oligopoly.. How exactly did America get stuck with a broadband
+monopoly in many areas, a duopoly in most others? It did not happen by
+accident.. By understanding the trickery and legislative shell games
+practiced by lobbyists and their elected partners in Congress, you
+will learn to recognize when the telecom industry and their friends
+are preparing to sell you another bill of goods"
+
+[[-]](https://stopthecap.com/2018/07/19/historical-truths-the-telecom-act-of-1996-sowed-the-seeds-of-a-telecom-oligopoly/)
+
+---
+
+US gave it to the French and Brits, the French gave it to Israel,
+Russia stole it from the Americans, then gave it to China,
+India. China gave the tech to Pakistan to balance out
+India. Reportedly Pakistan recently told Anatolians ("Turks") here you
+take nuke tech from us to be used against Israelis, you bomb the
+muckers so it's not on us. An extreme scenario surely.
+
+---
+
+AFAIK unless the original research at Los Alamos is passed down onto a
+country, that country is not able to create a nuclear weapon.. They
+made a key finding at that lab that is crucial to get the thing to
+function. Other countries have built nukes independently but they
+never truly seem to work because they are missing that key piece. I
+believe North Korea, Iran's programs are not functional, not at weapon
+grade level. But of course Russia can just give the tech to them, just
+like they gave it to China and India.
+
+---
+
+Firspost: "Zelenskyy’s visit to the US did not sit well with the
+Republicans as the party’s presidential nominee slammed the
+comedian-turned-politician. After former US President Donald Trump
+lambasted Zelenskyy and claimed that he is 'refusing' to negotiate a
+peace deal with Russian President Vladimir Putin, US House Speaker
+Mike Johnson condemned the Ukrainian leader’s visit to a munitions
+factory in Scranton, Pennsylvania"
+
+---
+
+WION: "Israel rules out US-France ceasefire plan; asks military to
+fight with 'full force'"
+
+---
+
+Firstpost: "Netanyahu denies Israel-Hezbollah ceasefire"
+
+---
+
+TASS: "Israel, Lebanon may agree on ceasefire 'in coming hours' —
+newspaper"
+
+---
+
+Firstpost: "Japan’s next-gen ‘Zeta-class’ Supercomputer worth $760
+million to be 1,000x faster than any other"
+
+---
+
+I've checked the Sudan RSF / SAF frontline, there's been no notable
+changes for over a month. A little RSF gain around Al Madina Arab,
+some loss in Wad an Nail, gain SE Shukri. That's it. This conflict is
+frozen.
+
+---
+
+H2 Europe: "German asset manager KGAL has invested an undisclosed
+amount into a proposed green hydrogen project with up to 1,050MW of
+electrolyser capacity in the municipality of Lubmin, on Germany’s
+northeastern coast. The plant’s developers, GP Joule and PtX
+Development — the latter of which has already secured a site — plan to
+initially install 210MW of electrolysers in the first phase, although
+a timeline for scale-up to more than 1GW of capacity has not been
+disclosed"
+
+---
+
+H2 Central: "Uruguay readies offshore wind licence for green hydrogen
+production.. Uruguay’s state-owned energy company Ancap may soon grant
+concessions on four offshore blocks to produce green hydrogen as the
+country seeks to position itself as a 'global exporter'"
+
+---
+
+
+"ReNu Energy secures $8M grant for green hydrogen initiative"
+
+---
+
+Officially I'll stick to the original prediction... I'm using polling
+data to gauge a lower bound on Dem campaigning, meh, not terrible so
+far. Combined, let's still say Kamaller, I'll eat crow if it goes the
+other way.
+
+---
+
+If we negate the incumb adv for Dems, their chance for win is,
+
+```
+Interval: [42.95 50.51] Average: 46.73
+```
+
+Most likely a loss.
+
+---
+
+Should Trump be seen as an incumbent? He did not get his chance for a
+second term, he is running for that now, just like an incumbent
+would. Since 2020 was such a confusing time, a chaos, squint a little,
+it could look like two incumbents are running against each other. That
+would change the outcome of the Abramovitz formula.
+
+---
+
+Theory of Everything attempts keep falling short bcz the previous
+layer(s) have faults. We should not delude ourselves thinking the WWI
+generation had everything figured out. Yankee sci culture is too
+insecure to go there, US led sci consensus keeps trying to maintain
+the foundational layer and somehow "connect stuff on top" and have
+their grand theory. Everything is a f-ing mess and this modern
+consensus is to blame. Just look at international relations and
+project that onto science. Same dipshittery everywhere, with the same
+sad result.
+
+---
+
+Good point by Marmet.. you can come up with eqns that fit the data,
+but are those the right equations that explain the reality that
+produce that data?
+
+---
+
+Einstein was wrong
+
+---
+
+Paul Marmet: "Many experiments, like the Michelson-Morley and Sagnac
+experiments and others, are testing the fundamental nature of
+light. It is conflicting to observe that the velocity of photons is
+measured as a constant, when the observer moves away from that light
+source. Since all other particles are measured with additive
+velocities ($V-v$) or ($V+v$) with respect to a moving frame, why can
+photons not obey that same rule?  Since Newton's mechanics has shown
+that all relative velocities produce a Doppler frequency shift, we
+must expect that some special phenomena prevent us from detecting the
+real change of relative velocity. It is quite incorrect to believe
+that this phenomenon cannot be explained using physical reality and
+Newton physics.  As required by the principle of mass-energy
+conservation, the atoms (nucleus and electrons) forming the local
+standard reference meter and the moving clock have acquired some extra
+mass due to the materialization of kinetic energy. Quantum mechanics
+shows that this increase of energy changes the de Broglie electron
+wavelength and consequently, the Bohr radius and the clock rate. It is
+surprising to find new hypotheses like space-time distortion, and even
+more, the suggestion of 'new logic' to explain these observations,
+while it is not taken into account that the rate of the moving clock
+is naturally modified due to the increase of mass (following the
+absorption of kinetic energy). The simple application of the principle
+of mass-energy conservation explains naturally all these experiments..
+We must recall that an empirical equation used to predict the outcome
+of a physical system is *not an explanation*"
+
+[[-]](https://periodicos.uem.br/ojs/index.php/ActaSciTechnol/article/view/3062)
+
+---
+
+Puerto Rico was clearly invaded by US corporate power..
+
+Kinzer, *Overthrow, US' Century of Regime Change*: "During the early
+years of the twentieth century, four American corporations gobbled up
+most of Puerto Rico's best land. On it they planted sugar, a crop
+suited to large-scale farming. The big losers were families who grew
+coffee, which is known as the 'poor man's crop' because it can be
+cultivated on small plots. By 1930, sugar accounted for 60 percent of
+the country's exports, while coffee, once the island's principal crop,
+had fallen to just 1 percent... With little access to land, ordinary
+Puerto Ricans became steadily poorer. One study found that while 17
+percent of them were unemployed at the time of the American invasion,
+30 percent were unemployed a quarter century later"
+
+---
+
+TASS: "Telegram updates policies, will now share user details with law
+enforcement, abandons privacy"
+
+---
+
+ProPublica: "Israel Deliberately Blocked Humanitarian Aid to Gaza, Two
+Government Bodies Concluded. Antony Blinken Rejected Them"
+
+[[-]](https://www.propublica.org/article/gaza-palestine-israel-blocked-humanitarian-aid-blinken)
+
+---
+
+Informed Comment: "Calls for US Arms Embargo as Israel Kills Nearly
+500 in Lebanon"
+
+---
+
+Al-Monitor: "Dead end'? US shows lack of leverage as Israel pounds
+Lebanon.. For nearly a year, one of..  Biden's top priorities has been
+to prevent the Gaza war from spiraling into an all-out regional
+conflict. Weeks ahead of an election -- and just as Biden begins his
+farewell visit to the UN General Assembly -- Israel is pounding
+Lebanon, killing hundreds and highlighting the powerlessness of his
+warnings"
+
+---

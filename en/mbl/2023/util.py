@@ -409,6 +409,20 @@ def get_yahoofin(year,ticker):
     df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
     return df
 
+def get_yahoo_ticker2(year, ticker):
+    d1 = datetime.datetime.strptime(str(year) + "-09-01", "%Y-%m-%d").timestamp()
+    d2 = datetime.datetime.now().timestamp()
+    url = "https://query2.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=history&includeAdjustedClose=true" 
+    url = url % (ticker,int(d1),int(d2))
+    r = urllib2.urlopen(url).read()
+    res = json.loads(r)
+    ts = res['chart']['result'][0]['timestamp']
+    adjclose = res['chart']['result'][0]['indicators']['adjclose'][0]['adjclose']
+    ts = [datetime.datetime.fromtimestamp(x).strftime("%Y-%m-%d") for x in ts]
+    df = pd.DataFrame(adjclose,index=pd.to_datetime(ts),columns=[ticker])
+    return df
+
+
 def get_bp_country(country,year=None):
     fin = '../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
