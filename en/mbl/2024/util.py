@@ -327,7 +327,22 @@ def baci_top_product(frc, toc):
     for x in textwrap.wrap(s, width=70):
     	print (x)
         
-sudan_regs = [
+def get_coords_for_label(content, reg):
+    q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
+    print (q)
+    res = re.findall(q, content,re.DOTALL)
+    res = res[0]
+    res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
+    tmp = res2[0].split(",0")
+    coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
+    coords = [[float(x),float(y)] for x,y in coords]
+    return coords
+    
+##############################################################################    
+##############################################################################    
+##############################################################################    
+
+sudan_regs2 = [
     "RSF-N.Kordofan",
     "RSF- White Nile",
     "RSF-Khartoum",
@@ -336,41 +351,70 @@ sudan_regs = [
     "RSF-S.Darfur",
     "RSF-N.Darfur",
     "RSF-C.Darfur",
-    "RSF-W. Darfur",
+    "RSF-W. Darfur 1",
     "RSF-W. Darfur 2",
     "RSF-Sennar",
     "RSF-E.Darfur",
     "RSF-W.Kordofan"]
 
-def prepare_sahel_suriyak():
-    """
-    Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
-    """    
-    content = open("/tmp/sahel.kml").read()
-    polys = []
-    for i,reg in enumerate(sudan_regs):
-        q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
-        print (q)
-        res = re.findall(q, content,re.DOTALL)
-        res = res[0]
-        res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
-        for r in res2:
-            tmp = r.split(",0")
-            coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
-            coords = [[float(x),float(y)] for x,y in coords]
-            polys.append(Polygon(coords))
+def prep_sahel():
 
-    res = unary_union(polys)
-    rrr = list(res.exterior.coords)
+    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Sahel.kmz') as myzip:
+        with myzip.open('doc.kml') as myfile:
+            content = myfile.read().decode('utf-8')
 
-    c = np.array(rrr)
-    plt.plot(c[:,0].T,c[:,1].T)
-    plt.savefig('/tmp/out.jpg')    
-    
-    fout = open("/tmp/out.json","w")
-    fout.write(str(rrr).replace("(","[").replace(")","]"))
+            content = re.sub("RSF-W. Darfur<",
+                             "RSF-W. Darfur 1<",
+                             content,count=1)
+
+            content = re.sub("RSF-W. Darfur<",
+                             "RSF-W. Darfur 2<",
+                             content,count=1)
+        
+    fout = open("/tmp/sahel.kml","w")
+    fout.write(content)
     fout.close()
 
+def map_sahel_suriyak():
+    """
+    Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
+    """
+    prep_sahel()
+    
+    content = open("/tmp/sahel.kml").read()
+
+    rrrs = []              
+    polys = []              
+    for i,reg in enumerate(sudan_regs2):
+        coords = get_coords_for_label(content, reg)
+        polys.append(Polygon(coords))
+    res = unary_union(polys)    
+    rrr = list(res.exterior.coords)
+    c = np.array(rrr)
+    rrrs.append(c)
+        
+        #coords = np.array(coords)
+        #print (coords)
+        #rrrs.append(coords)
+
+    for x in rrrs:
+        plt.plot(x[:,0].T,x[:,1].T,'r')
+    plt.savefig('/tmp/out.jpg')
+    
+    np.set_printoptions(threshold=sys.maxsize)
+    fout = open("/tmp/out.json","w")
+    fout.write('[\n')
+    for i,rrr in enumerate(rrrs):
+        fout.write(json.dumps(rrr.tolist()))
+        if i < len(rrrs)-1: fout.write(',')
+        fout.write('\n')
+    fout.write(']\n')
+    fout.close()
+
+
+##############################################################################    
+##############################################################################    
+##############################################################################    
 
 regs = [
     "S..Zaporizhia-Russian Armed Forces",
@@ -394,18 +438,7 @@ reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
 reg_ext3 = "Kursk-Russian Armed Forces 1"
 reg_ext4 = "Kursk-Russian Armed Forces 2"
 
-def get_coords_for_label(content, reg):
-    q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
-    print (q)
-    res = re.findall(q, content,re.DOTALL)
-    res = res[0]
-    res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
-    tmp = res2[0].split(",0")
-    coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
-    coords = [[float(x),float(y)] for x,y in coords]
-    return coords
-
-def prep_suriyak():
+def prep_ukraine():
 
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
@@ -442,21 +475,17 @@ def prep_suriyak():
             content = re.sub("Kursk-Russian Armed Forces<",
                              "Kursk-Russian Armed Forces 2<",
                              content,count=1)
-
-            
-        
+                    
     fout = open("/tmp/ukraine.kml","w")
     fout.write(content)
     fout.close()
 
     
-def prepare_ukraine_suriyak():
+def map_ukraine_suriyak():
     """
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
-    Code searches coordinate blocks by name. Must rename some like Central Donetsk,
-    or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
     """
-    prep_suriyak()
+    prep_ukraine()
     
     content = open("/tmp/ukraine.kml").read()
 
@@ -504,7 +533,7 @@ def prepare_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    prepare_ukraine_suriyak()
-    #prepare_sahel_suriyak()
+    #map_ukraine_suriyak()
+    map_sahel_suriyak()
     #kh_djt_538_polls()
     
