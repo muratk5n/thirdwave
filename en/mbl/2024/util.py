@@ -18,6 +18,54 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
+#url = "https://morningconsult.com/global-leader-approval"
+
+def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
+
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    today = datetime.datetime.now()
+    start = today - datetime.timedelta(days=ago)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=1.0&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        sd = d.strftime("%Y-%m-%d %H:%M:%S")
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        diff = (today-d).days+1
+        res.append([sd,s,lat,lon,diff])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon','ago']
+    df = df.set_index('date')    
+    return df
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
+
+
 def kh_djt_538_polls():
 
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/president_polls.csv')
@@ -334,8 +382,6 @@ regs = [
     "Luhansk People's Republic \(South Luhansk\)",
     "Donetsk People's Republic \(Central Donetsk 1\)",
     "Donetsk People's Republic \(Central Donetsk 2\)",
-    "Donetsk People's Republic \(Central Donetsk 3\)",
-    "Donetsk People's Republic \(Central Donetsk 4\)",
     "Donetsk People's Republic \(East Donetsk\)",
     "Donetsk People's Republic \(West Donetsk\)",
     "Donetsk People's Republic \(South Donetsk\)",
@@ -379,14 +425,6 @@ def prep_suriyak():
 
             content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
                              "Donetsk People's Republic (Central Donetsk 2)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 3)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 4)",
                              content,count=1)
 
             content = re.sub("N.Kharkov-Russian Armed Forces\<",

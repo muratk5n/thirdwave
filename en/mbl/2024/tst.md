@@ -7,6 +7,12 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.global_leader_approval()
+```
+
+
+
 
 
 

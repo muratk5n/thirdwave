@@ -1,5 +1,81 @@
 # Week 40
 
+A correct, already unified theory would have been settled on by now if
+Eurasia remained the center of science. US stewardship is the prime
+culprit in the deadlock we find ourselves in.
+
+---
+
+The Albert quote below fittingly became huge in America after he
+arrived there because it suited to the culture code of the land, one
+they attached themselves - DREAM. But after decades of "imaginative"
+and dreamy shit where are we?  Nowhere. Two fundamental theories
+cannot be reconciled, unification attempts failed and failed even
+after mammoth efforts expanded, including Albert's. Clearly imagination
+is not the most important factor.
+
+---
+
+Not true. Knowledge is more important than imagination. If we assign
+weights I'd say 90% knowledge 10% imagination.
+
+We also need to ask the question "what kind of imagination?". We need
+the type of imagination that is straightforward, internally
+consistent, and has a certain craft attached to it that makes it a
+solid base for what's to follow. Space-time could be wildly
+imaginative but is not crafty, incorrect, essentially a weak idea.
+
+Einstein: "Imagination is more important than knowledge"
+
+---
+
+Surah Al-Anfal: "They planned, but Allah also planned. And Allah is
+the best of planners."
+
+---
+
+The moneyed class, the private complex does not have to congregate
+anywhere, secretly scheme about stuff.. They are organized like
+al-Qaida, there are seperate, independent cells which are loosely tied
+together via ideology. This is how they do economic terrorism.  To
+fight it the oppo must fight all the cells, along with the ideology
+itself.
+
+---
+
+George Carlin: "You don't need a formal conspiracy when interests
+converge"
+
+---
+
+Ukraine before the war was an oligarch-controlled, corrupt country led
+by the US proconsul Nuland where elections had become a mere
+show. Historically we also know US overthrew democracies via
+coups.. It seems as the United States is the real threat to democracy.
+
+---
+
+NST: "GCC reassure Tehran of neutrality in Iran-Israel conflict"
+
+---
+
+Politico: "US officials quietly backed Israel’s military push against
+Hezbollah"
+
+---
+
+TASS: "If US moves to resume nuclear tests, Moscow will respond in
+kind — Russian diplomat"
+
+---
+
+TASS: "Japan maintains the course toward solving the territorial
+dispute and signing a peace treaty with Russia, despite difficulties
+in the Japanese-Russian relationship, Japan’s new Prime Minister
+Shigeru Ishiba said, delivering his first keynote speech in
+parliament"
+
+---
 
 Doctorow: "Epic Systems makes the dominant electronic health record
 (EHR) system in America.. How could a product so manifestly unfit for

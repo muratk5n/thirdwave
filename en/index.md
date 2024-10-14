@@ -1,86 +1,79 @@
 
-Pinned Post
-
-\#TaNehisiCoates \#Apartheid
-
-[[-]](https://www.youtube.com/embed/qgWt-QcPYMo?start=250&end=336)
+They could've performed tests.. possible. Politically time is right for it.
+I'm just saying it's not clear in the data.
 
 ---
 
-A correct, already unified theory would have been settled on by now if
-Eurasia remained the center of science. US stewardship is the prime
-culprit in the deadlock we find ourselves in.
+Quakes together with NPP and other facilities.. Not sure if there is a pattern.
+
+```python
+import json
+irn = json.loads(open("iran-nuke.json").read())
+irn.update(res)
+u.map_coords(irn, zoom=7, outfile="map7.html")	    
+```
+
+[[-]](mbl/2024/map7.html)
 
 ---
 
-The Albert quote below fittingly became huge in America after he
-arrived there because it suited to the culture code of the land, one
-they attached themselves - DREAM. But after decades of "imaginative"
-and dreamy shit where are we?  Nowhere. Two fundamental theories
-cannot be reconciled, unification attempts failed and failed even
-after mammoth efforts expanded, including Albert's. Clearly imagination
-is not the most important factor.
+Locations of quakes, one in the North one in the South
+
+```python
+res = dict((k + " magnitude:" + str(v['mag']),
+            [v['lat'],v['lon']]) for k,v in df.iterrows())
+u.map_coords(res, zoom=4, outfile="map6.html")	    
+```
+
+[[-]](mbl/2024/map6.html)
 
 ---
 
-Not true. Knowledge is more important than imagination. If we assign
-weights I'd say 90% knowledge 10% imagination.
-
-We also need to ask the question "what kind of imagination?". We need
-the type of imagination that is straightforward, internally
-consistent, and has a certain craft attached to it that makes it a
-solid base for what's to follow. Space-time could be wildly
-imaginative but is not crafty, incorrect, essentially a weak idea.
-
-Einstein: "Imagination is more important than knowledge"
+Data is from USGS.
 
 ---
 
-Surah Al-Anfal: "They planned, but Allah also planned. And Allah is
-the best of planners."
+There were not one, but two quakes
+
+```python
+df = u.eq_at(35.59431085, 53.395109027, 800, 8)
+df
+```
+
+```text
+Out[1]: 
+                     mag      lat      lon  ago
+date                                           
+2024-10-05 06:29:26  4.1  32.3247  56.4756    8
+2024-10-05 22:15:34  4.5  35.3597  52.8989    7
+```
 
 ---
 
-The moneyed class, the private complex does not have to congregate
-anywhere, secretly scheme about stuff.. They are organized like
-al-Qaida, there are seperate, independent cells which are loosely tied
-together via ideology. This is how they do economic terrorism.  To
-fight it the oppo must fight all the cells, along with the ideology
-itself.
+Earthquakes in Iran.. were they nuclear weapon tests?
 
 ---
 
-George Carlin: "You don't need a formal conspiracy when interests
-converge"
+Al-Monitor: "'Very challenging': Israel faces Hezbollah in tricky
+terrain..As Israel undertakes its fourth ground offensive in southern
+Lebanon in 50 years, its troops again face rocky terrain mined with
+explosives and full of hiding places that previous generations of
+soldiers have battled over"
 
 ---
 
-Ukraine before the war was an oligarch-controlled, corrupt country led
-by the US proconsul Nuland where elections had become a mere
-show. Historically we also know US overthrew democracies via
-coups.. It seems as the United States is the real threat to democracy.
+F24: "Israel's decision to begin ground attacks against Hezbollah in
+Lebanon has sparked a debate about the wisdom of opening up a second
+front and presents Israeli soldiers with a different challenge from
+the dense urban environment of Gaza. Analysts believe Hezbollah has
+built an intricate network of tunnels cut deep into the hills of
+southern Lebanon, a tall order for the Israeli military."
 
 ---
 
-NST: "GCC reassure Tehran of neutrality in Iran-Israel conflict"
-
----
-
-Politico: "US officials quietly backed Israel’s military push against
-Hezbollah"
-
----
-
-TASS: "If US moves to resume nuclear tests, Moscow will respond in
-kind — Russian diplomat"
-
----
-
-TASS: "Japan maintains the course toward solving the territorial
-dispute and signing a peace treaty with Russia, despite difficulties
-in the Japanese-Russian relationship, Japan’s new Prime Minister
-Shigeru Ishiba said, delivering his first keynote speech in
-parliament"
+F24: "Forty nations that contribute to the UN peacekeeping force in
+Lebanon said in a statement on Saturday that they 'strongly condemn
+recent attacks' on the peacekeepers."
 
 ---
 
