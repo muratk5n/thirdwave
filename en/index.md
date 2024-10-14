@@ -34,8 +34,8 @@ if only scientists had been predicting this"
 ---
 
 Schahill, *Blackwater*: "[Naomi] Klein, who traveled to Iraq during
-Bremer's tenure in the country and has written extensively on his
-rule, described the effects of his edict-based governance as such:
+Bremer's tenure in the country and has written extensively on.. the
+effects of his edict-based governance as such:
 
 >[Bremer] enacted a radical set of laws unprecedented in their
 >generosity to multinational corporations. There was Order 37, which
@@ -140,9 +140,9 @@ targeted by Israeli snipers in Gaza"
 
 Some pushback from SAF. Gains west of Sennar, Khartoum and around Bakhit.
 
-\#SAF \#RSF \#Frontline 09/25 - 10/14
+\#Sudan \#SAF \#RSF \#Frontline 09/25 - 10/14
 
-[[-]](sdndata/map3-ext.html)
+[[-]](mbl/2024/sdndata/map6-ext.html)
 
 ---
 
@@ -192,3 +192,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
