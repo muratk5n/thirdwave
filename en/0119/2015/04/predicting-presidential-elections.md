@@ -28,7 +28,7 @@ s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
 1980,-7.9,-21.7,0,44.7
 1976,3,5,1,48.9
 1972,9.8,26,0,61.8
-1968,7,-5,1,49.6
+1968,7,-5,0,49.6
 1964,4.7,60.3,0,61.3
 1960,-1.9,37,1,49.9
 1956,3.2,53.5,0,57.8
@@ -39,11 +39,11 @@ s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
 df = pd.read_csv(io.StringIO(s))
 regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
 results = smf.ols(regr, data=df).fit()
-print ('R^2',results.rsquared)
+print ('R^2',np.round( results.rsquared, 2))
 ```
 
 ```text
-R^2 0.9011858911763367
+R^2 0.85
 ```
 
 ## 2016
@@ -144,19 +144,12 @@ pred = [1., gdp_growth, net_approv, two_terms]
 print ('Interval:', np.round(np.dot(pred, conf),2),
        'Average:', np.round(np.dot(pred, results.params),2))
 
-# If Dems were not incumb
-net_approv = -20; gdp_growth = 2.7; two_terms = 1
-pred = [1., gdp_growth, net_approv, two_terms]
-print ('Interval:', np.round(np.dot(pred, conf),2),
-       'Average:', np.round(np.dot(pred, results.params),2))
-
 ```
 
 ```text
-Interval: [49.25 51.99] Average: 50.62
-Interval: [48.93 51.14] Average: 50.04
-Interval: [49.48 52.58] Average: 51.03
-Interval: [42.95 50.51] Average: 46.73
+Interval: [47.99 51.24] Average: 49.62
+Interval: [47.7  50.34] Average: 49.02
+Interval: [48.13 51.81] Average: 49.97
 ```
 
 References
