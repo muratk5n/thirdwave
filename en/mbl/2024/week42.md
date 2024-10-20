@@ -1,5 +1,373 @@
 # Week 42
 
+"Airbus, Kansai Airports, Kawasaki Heavy Industries to accelerate
+readiness of hydrogen aircraft operations"
+
+<img width='340' src='https://mediarenditions.airbus.com/RIa0Fs1Q7DAmPU7MX7NTzrXos6_HU6HuJT-4Xhar4bk/resize?src=kpkp://airbus/38/648/648815-30i59ctdba.jpg&w=1440&h=1440&t=fit&f=webp'/>
+
+---
+
+H2 Central: "On Tuesday the next milestone for the northern German
+large-scale hydrogen project HyBit was reached with the successful
+delivery of an electrolyzer in Bremen. The joint project by swb, EWE
+and ArcelorMittal Bremen aims to reduce CO2 emissions in steel
+production and mark the start of the decarbonization of the industry"
+
+---
+
+CNBC: "U.S. deficit tops $1.8 trillion in 2024 as interest on debt
+surpasses trillion-dollar mark"
+
+---
+
+No "the Chinese" do not own all US debt. At its peak they held about
+one trillion. Japanese also holds the same amt. That is two trillion
+out of the 35 trillion dollars of debt.
+
+---
+
+Not taxing and imagining some "spend until inflation" approach is a
+bad idea for various reasons. The main one is deficit spending of any
+kind increases government debt, and that debt will be held by the
+wealthy increasing inequality. Debt is wealth. If I own your debt, you
+owe me money. Where's my f-ing money? Pay up bitch!
+
+If I hold debt I am getting the principal and the interest,
+guaranteed. That is a cash stream that I can hold, or sell to someone
+else. Especially US government debt which is still quite liquid, I can
+sell it anytime, get cold hard cash. 10 mil debt, 10 mil cash. Now I
+can buy seven homes (like that UK MP) denying purchase to others,
+those others will go down the latter and purchase home at someone
+else's reach denying them homes, and way down the line, someone ends
+up on the streets. ALL BECAUSE NO ONE TAXED THE UBER RICH.
+
+BTW the interest payments appear on the budget, they *must* be paid
+annually, which means sacrifices on other parts of the budget, in this
+day and age that means social spending gets cut.
+
+---
+
+Pikkety: "The tax debates currently underway in France and the
+discussions which took place at the 2024 G20 summit demonstrate that
+the issue of tax justice and the taxation of billionaires is not about
+to disappear from the public debate. There’s a simple reason for this:
+the sums amassed by the world’s wealthiest individuals over the last
+few decades are quite simply gigantic..
+
+Yet some people continue to reject this debate, and their arguments
+need to be carefully examined. The first is that these immense private
+fortunes are merely theoretical and don’t really exist. While it’s
+true that they often appear as numbers on a screen, just like public
+debt or salaries paid into bank accounts, these figures have a very
+real impact on people’s lives and influence the power dynamics between
+social classes and public authorities. Concretely, how would
+billionaires pay this 10% tax on their wealth increase? If they don’t
+make enough profit in a year, they’ll have to sell some of their
+shares – say 10% of their portfolio. If finding a buyer is
+challenging, the government could accept these shares as payment for
+taxes...
+
+Prime Minister Michel Barnier [plans a] tax on incomes over
+€500,000. However, this tax will bring in €2 billion compared to the
+€100 billion that could be raised from a 10% tax on the wealth of
+billionaires"
+
+[[-]](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/)
+
+---
+
+I never said all DeFi is bad. With proper tech (left-wing politics
+embedded in it -automated redistribution, digital social services that
+are guaranteed from birth-), we can start building a Third Wave money
+system.
+
+---
+
+"Avalanche is a unique network thanks to the Avalanche consensus which
+is a variation of the Proof of Stake protocol. The protocol enables
+scaling, so the system allows the processing of over 4,500
+transactions per second in comparison with Ethereum’s 14 TPS and
+Bitcoin’s 7 TPS"
+
+---
+
+Chasiv Yar is in trouble.
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/113/329/303/983/680/184/original/aeadce8414cd1a06.jpg)
+
+---
+
+Politico: "With the election just a few weeks away, the contest for
+the votes of men is heating up. Young women’s support is effectively
+locked up for the Democrats, but young men still seem up for grabs and
+the Trump-Vance ticket is making inroads, with some polls showing a
+double-digit advantage"
+
+---
+
+F24: "Leaders of US, UK, Germany and France say ending the war in Gaza
+is a 'necessity'"
+
+---
+
+F24: "On visit to Lebanon Friday, Italian Prime Minister Giorgia
+Meloni slammed attacks on UN peacekeepers in Lebanon as 'unacceptable'
+after the UN force accused Israel of firing at their positions"
+
+---
+
+BBC: "US deploys Thaad anti-missile system to Israel after Iranian
+attack.. It costs around a billion dollars a battery."
+
+---
+
+Robb Report: "This Bonkers New Alpine Is a 730 HP Hydrogen-Powered
+Supercar.. The French automaker has just unveiled the Alpenglow Hy6,
+the third iteration of a concept it has been fine-tuning over the past
+two years. This version is easily the most potent yet, with a
+hydrogen-powered V-6 that makes over 700 hp"
+
+<img width='340' src='https://robbreport.com/wp-content/uploads/2024/10/hy601.jpg?w=1000'/>
+
+---
+
+"@j_bertolotti@mathstodon.xyz
+
+I will believe that self-driving cars are ready to be deployed in the
+wild when I see one able to cross Rome from one side to the
+other. Until then they are just expensive toys"
+
+---
+
+The Lever: "[EPA] issued a final lead pipe rule requiring drinking
+water systems across the country to identify and replace lead pipes
+within 10 years, mandating more rigorous testing, and setting the
+strictest limits on the matter since federal lead standards were first
+created decades ago to help prevent exposure to the dangerous
+neurotoxin.
+
+---
+
+"@davidgerard@circumstances.run
+
+EU declares Twitter officially too dead and unimportant to fall under
+the DMA"
+
+---
+
+The EU: "Today, the Commission found that the online social networking
+service of X should not be designated as a core platform service under
+the Digital Markets Act (DMA).
+
+Today's decision comes after an in-depth market investigation launched
+on 13 May 2024 following the notification by X of its status of
+potential gatekeeper... the Commission concluded that X does indeed
+not qualify as a gatekeeper in relation to its online social
+networking service, given that the investigation revealed that X is
+not an important gateway for business users to reach end users"
+
+---
+
+EFF: "Cars collect a lot of our personal data, and car companies
+disclose a lot of that data to third parties. It’s often unclear
+what’s being collected, and what's being shared and with
+whom... G.M. [shares data] with insurance companies, sometimes without
+clear knowledge from the driver. If you're curious about what your car
+knows about you, you might be able to find out"
+
+---
+
+\#WhatNow \#TaNehisiCoates
+
+[[-]](https://www.youtube.com/embed/IPbD9PZ5FP4?start=971&end=1078)
+
+---
+
+But the real winners of the war are obviously arms manufacturers,
+private military-industrial complex.
+
+---
+
+After post 1979 removal of the mil top brass, Iran still managed to
+fight a war. At the time however observers were thinking Iran would
+not be able to engage in any conflict. In fact it is highly likely
+Saddam saw an opportunity, egged on a little by [the
+Americans](https://upload.wikimedia.org/wikipedia/commons/2/21/Saddam_rumsfeld.jpg),
+he attacked Iran to exploit the situation. But Iran not only did
+not lose, it bested Saddam esp. near the end of the war.
+
+---
+
+Fisk, *The Great War for Civilisation*: "The truth was that [Clinton
+plan] Oslo—far from holding out the possibility of statehood for the
+Palestinians—allowed Israel to renegotiate UN Security Council
+Resolution 242. Whereas 242 demanded the withdrawal of Israeli forces
+from territory captured during the 1967 war, Oslo permitted the
+Israelis to decide from which bits of the remaining 22 per cent of
+'Palestine' they would withdraw.  The 'zoning' system represented this
+new Israeli reality. The Israelis had the maps—Oslo, incredibly, was
+negotiated without proper maps on the Palestinian side — and the
+Israelis decided which zones would be 'given' to the Palestinians at
+once and which would be haggled over later.
+
+Indeed, a detailed investigation in 2000 of Israeli withdrawals under
+the Articles of Agreement would prove that not a single one of these
+accords had been honoured by the Israelis since the 1991 Madrid
+conference. In the meantime, the number of settlers illegally
+living on Palestinian land had risen in the seven years since Oslo
+from 80,000 to 150,000—even though the Israelis, as well as the
+Palestinians, were forbidden to take 'unilateral steps' under the
+terms of the agreement. The Palestinians saw this, not without reason,
+as proof of bad faith"
+
+---
+
+NBC News: "Vice President Kamala Harris said Sinwar's death 'gives us
+an opportunity to finally end the war in Gaza'"
+
+---
+
+Al-Monitor: "345,000 Gazans face 'catastrophic' hunger this winter: UN"
+
+---
+
+The New Arab: "I was shot by the Israeli army less than a month before
+[US citizen] Ayşenur Ezgi Eygi was killed. The gun Israel used was
+manufactured in the United States of America, the bullet paid for by
+my own taxes. Both of us posed no threat. In my case, I was running
+away with my back turned. In Ayşenur's case, as per protocol, she had
+stationed herself out of harm's way or any heightened risk. For her
+awareness, she was shot in the head. Despite my escape, I was shot in
+the upper thigh and hospitalised for days. Ayşenur's murder was funded
+by the American taxpayer"
+
+---
+
+UtilityDive: "Unlike fuels in use today, hydrogen produces no carbon
+when it’s burned or used as a feedstock and has applications for the
+industrial sector including steel, cement and chemicals. The U.S. is
+sitting on the potential to produce more.. For those who attended New
+York Climate Week and the U.N. General Assembly in September, much of
+the 'buzz' was around hydrogen production, whether it be from natural
+gas or zero-carbon resources like renewables or nuclear power...
+
+Clean hydrogen production has the potential to scale to about 10
+million metric tons annually by 2030 — which is roughly equivalent to
+10 million gallons of gasoline and more than a 900% increase from
+current levels — to meet domestic demand... In the Middle East, Oman
+is planning to build an estimated 620 miles of hydrogen pipelines. In
+the European Union, Denmark alone is anticipated to be home to more
+than a third of the world’s new hydrogen pipelines between 2022 and
+2026"
+
+---
+
+H2 Central: "Alpine presents Alpenglow Hy6 with the brand’s first
+6-cylinder hydrogen engine"
+
+---
+
+Pivot to AI: "AI really is the new bitcoin: Google and Facebook extend
+coal burning in Omaha"
+
+---
+
+The irony here is the systems that were supposed to be "smart" need to
+be goaded like cattle. There are now books on "prompt engineering"
+how-to guides on directing "AI". Basically LLM AI is inherently
+stupid.
+
+---
+
+The site is called Pivot to AI, the byline goes "it can't be that
+stupid, you must be prompting it wrong" 😂
+
+---
+
+F24: "Lebanese militant group Hezbollah threatened Israel with more
+attacks if its offensive in Lebanon continues, after a drone attack on
+a military base near Israel's Haifa on Sunday killed four soldiers"
+
+---
+
+Black Bill Clinton could not convince black voters to vote for his
+former secretary of state (another Clinton). 
+
+---
+
+NYT: "[2016] Four barbers and a firefighter were pondering their
+future under a Trump presidency at the Upper Cutz barbershop last
+week.. They admitted that they could not complain too much: Only two
+of them had voted... At.. [the] bustling barbershop.. talk of politics
+inevitably comes back to one man: Barack Obama. Mr. Obama’s elections
+infused many here with a feeling of connection to national politics
+they had never before experienced. But their lives have not gotten
+appreciably better, and sourness has set in. 'We went to the beach,'
+said Maanaan Sabir, 38, owner of the Juice Kitchen, a brightly painted
+shop a few blocks down West North Avenue, using a metaphor to describe
+the emotion after Mr. Obama’s election. 'And then eight years
+happened.'  All four barbers had voted for Mr. Obama. But only two
+could muster the enthusiasm to vote this time. And even then, it was a
+sort of protest. One wrote in Mrs. Clinton’s Democratic opponent,
+Senator Bernie Sanders of Vermont. The other wrote in himself"
+
+[[-]](https://www.nytimes.com/2016/11/21/us/many-in-milwaukee-neighborhood-didnt-vote-and-dont-regret-it.html)
+
+---
+
+Post-covid inflation was transitory.
+
+---
+
+CNBC: "The Federal Reserve may have pretty much just hit its 2%
+inflation target"
+
+---
+
+F24: "Kamala Harris intensified her efforts to reclaim Black male
+voters drifting towards Donald Trump as both US presidential nominees
+campaigned in Pennsylvania"
+
+---
+
+Chris Hedges: "The main section in the Wye Agreement was not about
+withdrawals, but about security. And this was liberally laced with
+references to terrorists, terrorist cells and terrorist organizations
+involving, of course, only Palestinian violence. There was not a
+single reference to killers who had come from the Jewish settler
+community... Each new accord with Israel involved a subtle rewriting
+of previous agreements. Madrid, with all its safeguards for the
+Palestinians, turned into Oslo, no safeguards at all, and a system of
+Israeli withdrawal that was so constructed that deadlines no longer
+had to be met. This turned into the 1997 Hebron Accord, which allowed
+Jewish colonists to stay in the town and made an Israeli withdrawal
+contingent upon an end to anti-Israeli violence. In 1998 the Wye
+Agreement even dropped the land for peace logo. It was now billed as
+the land for security agreement. Peace being at least temporarily
+unobtainable.
+
+Peace means respect, mutual trust, cooperation. Security means no
+violence, but it also means prison, hatred, and as we already knew,
+torture. In return, the Palestinians could have 40% of their territory
+under their control, as opposed to 90% they expected under
+Oslo.. [Robert Fisk] totally captured this process by which Israel
+makes an agreement which was always open ended, always done in stages,
+and then rolls it backward, rolls it backward, rolls it backward,
+which, of course, we're now witnessing with the areas A, B and C in
+the West Bank, which have been violated. I think the
+Palestinians.. are allowed to control on their own, about 19% of the
+West Bank. But now you have the settlers making incursions into
+Ramallah"
+
+---
+
+"@ayoub@spore.social
+
+And a reminder that this is from 2009. #Gaza #Genocide"
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/113/317/774/281/258/898/original/0df08c7b4084e689.jpeg)
+
+---
 
 Radboud University: "Don’t believe the hype: AGI is far from
 inevitable.. Creating artificial general intelligence (AGI) with
@@ -83,14 +451,6 @@ manufacturer to an arms firm in the mid-1990s, has been consistently
 profitable.
 
 But its latest accounts show the company is now in the red"
-
----
-
-Politico: "Macron warned.. Netanyahu not to 'ignore United Nations
-decisions' during a weekly meeting with his ministers Tuesday,
-according to French media reports.. 'Mr. Netanyahu must not forget
-that his country was created by a U.N. decision,' he is quoted as
-saying, referencing the U.N. General Assembly's November 1947 vote"
 
 ---
 
