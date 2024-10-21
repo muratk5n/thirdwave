@@ -1,69 +1,151 @@
 
-H2 Central: "Infinity Fuel Cell and Hydrogen, Inc., Delivers 7 kW
-Hydrogen-Oxygen Fuel Cell Designed for Future Spaceflight Missions"
+ECP: "With aims to become a key player in the global energy
+transition, Egypt is advancing its green hydrogen ambitions with a $40
+billion investment plan. Through various agreements with international
+developers and the introduction of supportive laws including tax
+credits, VAT exemptions and port fee reductions, Egypt is positioning
+itself as a major green hydrogen exporter, particularly to Europe. The
+country’s abundant solar and wind resources, combined with its
+strategic location, make it a prime hub for green energy projects...
+
+Last March, construction engineering companies SK Ecoplant and China
+State Construction Engineering Corporation agreed to collaborate on a
+$2 billion green hydrogen and ammonia facility in Egypt's Suez Canal
+Economic Zone (SCZone). The project will harness 778 MW of renewable
+energy —- 500 MW ofsolar and 278 MW of wind - to produce 50,000 tons
+of green hydrogen and 250,000 tons of green ammonia annually. The
+project is slated for completion by 2029"
 
 ---
 
-CNBC: "The solid-state batteries hype is fading"
+Gov.uk: "Flush to Fuel; transforming wastewater into hydrogen
+power.. Wastewater Fuels have developed an innovative solution to turn
+sewage into sustainable hydrogen energy..
+
+With the help of DASA funding, Wastewater Fuels have developed a
+unique innovation to harness energy from wastewater. The system uses
+stainless steel mesh rods in wastewater to break down organic material
+into hydrogen ions which are converted into hydrogen gas and stored in
+the rods. Proven through several trials, Wastewater Fuels is preparing
+for the production of a full-scale sewage facility to be deployed at
+RAF Digby"
 
 ---
 
-Doctorow: "Billionaires are why we can’t have nice things — a sensible
-climate policy, workers’ rights, a functional Supreme Court and
-legislatures that answer to the people, rather than deep-pocketed
-donors.
+"I'm on this seafood diet.. I see food, I eat it"
 
-The source of billionaires’ power isn’t mysterious: it’s their
-money. Take away the money, take away the power. With more than a
-dozen states considering wealth taxes, we’re finally in a race to the
-top, to see which state can attack the corrosive power of extreme
-wealth most aggressively"
+\#AlienRomulusMovie
 
 ---
 
-"@poemproducer@systerserver.town
+Polls are playing a different tune but not sure how reliable they are.
 
-unintelligent artificialness"
-
----
-
-Pivot to AI: "Researchers at Apple have come out with a new [paper](https://arxiv.org/pdf/2410.05229)
-showing that large language models can't reason - they're just
-pattern-matching machines"
+[[-]](https://cdn.fosstodon.org/media_attachments/files/113/339/723/530/727/313/original/e225e3ca0fce0429.jpg)
 
 ---
 
-NYT: "Fighting Rages in Gaza and Lebanon, Despite Killing of Hamas Leader"
+1968 two term flag.. This is important esp. for this election, bcz '68
+was like now, Dem party chaos, low net approval, started with one guy,
+who did not run (shot), different guy ran, lost even though the party
+was incumbent. With the data correction and some other changes, adv
+goes to Reps.
+
+[[-]](0119/2015/04/predicting-presidential-elections.html#2024)
 
 ---
 
-RULES BASED ORDER
+Ah an error in the prez prediction source data
 
-Fisk: "I have sought in vain to discover the origin of our
-journalistic use of the word “settlements.” By its nature, the
-expression is almost comforting. It has a permanence about it, a
-notion of legality. Every human wants to 'settle,' to have a home. The
-far more disturbing—and far more accurate—word for Israel’s
-land-grabbing in the West Bank and Gaza since 1967 is
-colonising. Settlers are colonists. Almost all the Israelis in the
-West Bank are living on someone else’s land. They may say that God
-gave them the land, but those Palestinians who legally owned that
-land— who had property deeds to prove it, since the British Mandate,
-since the Ottoman empire—are not allowed to appeal to God. Successive
-Israeli governments have supported this theft of property, and by
-2003, 400,000 Israeli Jews were living in the occupied territories in
-explicit violation of Article 49 of the Geneva Convention —which
-states that 'the Occupying Power shall not deport or transfer parts of
-its own civilian population into the territory it occupies.'
+---
 
-In all the long, fruitless negotiations with the Palestinians, the
-Israelis would always maintain that the return of any territory was
-“giving” land for peace—as if the occupied territories were legally
-Israeli property of which it could dispose if it was generously
-minded. So it is important to recall that the policy of implanting
-Jewish colonists on occupied Arab land since 1967 has been
-consistently and enthusiastically supported by successive Israeli
-governments"
+Bill F-ing Clinton.. That spineless, poser, know-nothing
+douchebag. All was done for the cameras.. for the show.
+
+Fisk: "Every few months in the Middle East, the Chamberlain bell is
+rung. 'Peace in our time,' it tolls. And anxious not to be blamed for
+its failure, the Arabs and Israelis leap to express their support. The
+moment Ehud Barak was elected Labour prime minister of Israel in 1999,
+the satellite television boys and girls—along with the ever-supine BBC
+World Service—were putting the 'peace process' back 'on track' once
+more, even though Barak had made it clear that Jerusalem must remain
+the united capital of Israel, that major Jewish settlements would stay
+and that no Palestinian refugees from 1948 could expect to return to
+their original Arab villages...
+
+The pumpkin of the Oslo agreement could never be turned into the
+golden carriage of peace, but it took the collapse of the Arafat–Barak
+talks at Camp David in 2000 to prove this true. Even then, Clinton was
+reduced to claiming that the Oslo negotiations were 'based' on UN
+Security Council Resolutions 242 and 338— which was not what Oslo said
+at all - and even Arafat must have realised that the end had come when
+Madeleine Albright made her preposterous offer of 'a sense of
+sovereignty' over Muslim religious sites in Jerusalem. Only the silly
+villages that Arafat might have controlled outside his would-be
+capital would have 'virtually full sovereignty,' according to the
+Americans. There then followed the wilfully misleading leaks to the
+effect that Arafat had turned down 95 per cent of 'Palestine' — in
+reality around 64 per cent of the 22 per cent of 'Palestine' that was
+left. Barak would not give up Jerusalem or abandon the
+settlements. Arafat would not make the 'concession' of ceding Israeli
+control over all of Jerusalem. So the sons of Abraham acknowledged
+what so many Israelis and Palestinians knew all along: that Oslo
+didn’t work. Clinton predictably saw fit to praise the stronger of the
+two parties; he spoke of Barak’s 'courage' and 'vision,' but merely of
+Arafat’s commitment. So much for America’s role as 'honest broker' of
+the Middle East peace"
+
+---
+
+Another issue w "spend until inflation do not tax" \#DumbMMT approach
+is gov can spend, spend, spend and never see much inflation.
+Inflation has to do with money given to all, in excess, and its
+circulation creates inflation. In an unequal economy even direct aid
+to citizens will end up with the rich, there will be no circulation,
+ie no inflation. Direct aid will go to rent, Walmart purchases, a new
+iPhone, money gone. It all ends up with big corp. Now the rich will
+take that money, buy even more assets; more homes, buy more government
+debt, Walmart will become a bigger behemoth. In a way the rich gets
+paid twice, not only did they end up with the direct aid, they now
+gobble up more assets, making more money with money.
+
+---
+
+Reuters: "Prabowo becomes Indonesia's eighth president.. from being a
+former military commander.. to sweeping the polls and now leading the
+country of 280 million people... In a wide-ranging speech lasting
+about an hour, Prabowo said self-sufficiency for food was possible
+within five years, while also pledging to become self-sufficient in
+energy.
+
+Prabowo also touched on foreign policy during his speech, saying
+Indonesia was non-aligned on the global stage, but that he stood in
+support of the Palestinian people and said Jakarta was ready to send
+more aid to Gaza"
+
+---
+
+Both Kamala and Donald are I am CRM.
+
+[[-]](2024/03/types.html#a_crm)
+
+---
+
+Times of Israel: "‘A disgrace’: Gallant rips Macron for again barring
+Israeli firms from defense expo"
+
+---
+
+Op India: "Israel to take legal and diplomatic action against French
+president Emmanuel Macron for banning Israeli companies from Euronaval
+defence show"
+
+---
+
+The American Conservative: "Trump Opposes Regime Change In Iran..
+Trump was speaking on the PBD Podcast and was asked by the
+host.. whether he desires a change in Iran’s form of government and a
+restoration of the Shah... 'We can’t get totally involved at all, you
+know. We can’t run ourselves, let’s face it,' Trump said."
 
 ---
 
@@ -113,5 +195,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
 
 
