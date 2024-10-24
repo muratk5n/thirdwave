@@ -1,5 +1,7 @@
 # 2024
 
+[Where Is Everybody](01/fermi-paradox.html)
+
 [Multimillionaires for Wealth Tax](03/dw-multimillionaires.html)
 
 [Haiti](03/haiti.html)
@@ -29,4 +31,6 @@
 [Racer](06/racer-ext.html)
 
 [Tetris](06/tetris-ext.html)
+
+[Blink](10/blink_gladwell.html)
 

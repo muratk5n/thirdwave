@@ -87,6 +87,7 @@ def kh_djt_538_polls():
 
     dfall = pd.concat([g1,g2],axis=1)
     dfall = dfall[['trump_pct','harris_pct']]
+    dfall.drop(dfall.tail(1).index,inplace=True)
     dfall.plot(title='Trump & Harris Combined Polls - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/538.jpg')
     print (dfall.tail(4))
@@ -534,6 +535,6 @@ def map_ukraine_suriyak():
 if __name__ == "__main__": 
 
     #map_ukraine_suriyak()
-    map_sahel_suriyak()
-    #kh_djt_538_polls()
+    #map_sahel_suriyak()
+    kh_djt_538_polls()
     
