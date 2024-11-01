@@ -20,6 +20,29 @@ def get_pd(): return pd
 
 #url = "https://morningconsult.com/global-leader-approval"
 
+def get_yahoo_ticker2(year, ticker):
+    d1 = datetime.datetime.strptime(str(year) + "-09-01", "%Y-%m-%d").timestamp()
+    d2 = datetime.datetime.now().timestamp()
+    url = "https://query2.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=history&includeAdjustedClose=true" 
+    url = url % (ticker,int(d1),int(d2))
+    r = urllib2.urlopen(url).read()
+    res = json.loads(r)
+    ts = res['chart']['result'][0]['timestamp']
+    adjclose = res['chart']['result'][0]['indicators']['adjclose'][0]['adjclose']
+    ts = [datetime.datetime.fromtimestamp(x).strftime("%Y-%m-%d") for x in ts]
+    df = pd.DataFrame(adjclose,index=pd.to_datetime(ts),columns=[ticker])
+    return df
+
+def get_yahoo_tickers(year,tickers):
+    res = []; cols = []
+    for ticker in tickers:
+        p = get_yahoo_ticker2(year,ticker)
+        res.append(p)
+    
+    dfall = pd.concat(res,axis=1)
+    dfall.columns = tickers
+    return dfall
+
 def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
 
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
@@ -87,7 +110,7 @@ def kh_djt_538_polls():
 
     dfall = pd.concat([g1,g2],axis=1)
     dfall = dfall[['trump_pct','harris_pct']]
-    dfall.drop(dfall.tail(1).index,inplace=True)
+    #dfall.drop(dfall.tail(1).index,inplace=True)
     dfall.plot(title='Trump & Harris Combined Polls - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/538.jpg')
     print (dfall.tail(4))
@@ -534,7 +557,7 @@ def map_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    #map_ukraine_suriyak()
+    map_ukraine_suriyak()
     #map_sahel_suriyak()
-    kh_djt_538_polls()
+    #kh_djt_538_polls()
     

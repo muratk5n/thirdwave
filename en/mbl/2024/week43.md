@@ -1,5 +1,392 @@
 # Week 43
 
+You are not a fucking alien to your region of birth. We play
+backgammon, *tavla* (*tavli* in Greek), the numbers on the dice are
+read in Farsi - yek, do, se, chahar.. There are gazillions of yogurt
+based dishes, similar in all countries around Medi / Aegan.  Döner /
+gyro / shawarma is regional. Every migrant assimilates to their
+region, adaps to its customs. The ones arriving starting 1000s had
+already done so, locals, migrants (would-be locals) alike would accept
+one of the religions of the geography, Islam. A "never-assimilating-unblemished migrant"
+did not exist, nobody brough Islam from Central Asia, just like they did
+not bring döner, or tavla from there.
+
+---
+
+The Anglo benefited both from the first and the second use of this
+alien identity. The second use was beneficial, the new Turkey wanted
+to be an ally of the Anglo to protect itself against near and bigger
+rivals, and its made up identity could be used to create chaos in
+their backyard by claiming ethnic, cultural similarity with the Turkic
+populations there. Plus the new Republic was basically declaring it
+would never use influence in its old territories (it literally labeled
+itself alien to them), so Anglo was assured it could run the roost
+without any interference from "the Turks".
+
+---
+
+Through the label "outsider Turk", a made up identity based on a
+minority group who had long been assimilated into Anatolia, all of
+Ottomans were made to look alien. We see this tall tale surfacing
+again and again. Oddly enough after the war even the TR founders
+started using the narrative, for them it made some tactical sense bcz
+by then most of West Asia was gone, and now *they* wanted to isolate
+themselves from the lost regions, indirectly from their past which was
+deemed to be a bad influence, "an obstacle to reform". In essence TR
+used the story from the opposite direction, they declared themselves
+aliens, said "they never belonged" to their backward region anyway,
+hoping now the people would "remember" their supposed adaptive,
+migrant roots and now adapt to modern civilization which was their
+stated aim. The only problem the national identity became a farce,
+based on an incorrect reading of history. It brought marginal
+benefits, but mostly created deep conflicts among the populace and its
+elites, not to mention the still-present "Kurdish Problem".
+
+---
+
+Alien. Nice.
+
+"[WWI era Arab nationalism] worked for Britain who positioned
+themselves as liberators. [One gov proclamation read:] 'Many noble
+Arabs have perished in the cause of Arab freedom, at the hands of
+those alien rulers, the Turks, who oppressed them. these noble Arabs
+shall not have suffered in vain'"
+
+[[-]](https://youtu.be/tjnBmH8b0Ko?t=199)
+
+---
+
+"@fuck_cars_bot@botsin.space
+
+'The European mind doesn't want to'"
+
+[[-]](https://files.botsin.space/media_attachments/files/113/363/320/687/681/338/original/2b20609bd0e9ad79.png)
+
+---
+
+Not really. I actually prefer major outlets *not* taking sides in the
+election, instead of telling me about it with their megaphone.
+
+Politico: "The Post’s Non-Endorsement: Poor Timing, Worse Message"
+
+---
+
+Bytes Europe: "Hydrogen, maritime projects among winners of €4.8
+billion EU grant..  Selected projects will deliver 61 kilotonnes of
+renewable fuel of non-biological origin (RFNBO) annually, contributing
+to the increase in the use and production of renewable energy in
+hydrogen in hard-to-abate applications in industry and transport... So
+far, the Innovation Fund has awarded about €7.2 billion to more than
+120 innovative projects across the European Economic Area (EEA)
+through previous calls for proposals, and as disclosed, the next call
+will be launched in early December 2024"
+
+---
+
+Oil City News: "Blue hydrogen could be Wyoming’s net-zero solution,
+study suggests.. Blue hydrogen is an energy resource sourced from
+natural gas production using a process called steam methane reforming
+that would be paired with carbon capture and storage. Like natural gas
+itself, blue hydrogen has a large range of electrical and energy
+uses. Importantly, it is much cleaner than pure natural gas"
+
+---
+
+CNBC: "A 'tidal wave' of natural gas supply — the biggest yet — will
+reshape global markets, says RBC Capital.. The expansion is likely to
+lead to a state of oversupply by the end of 2026, analysts such as
+RBC's Anan Dhanani have projected"
+
+---
+
+"Apple Intelligence"? Is that an "AI" product? Yet at the same
+time AAPL's own lab says current batch of supposed AI products
+[cannot reason](https://arxiv.org/abs/2410.05229).
+
+CNBC: "Tim Cook is likely visiting China to bolster support for Apple..This
+trip seems notable now as the company could be looking to shore up
+collaboration with local players to launch Apple Intelligence in China"
+
+---
+
+"@reycat@mastodon.social
+
+[K]ids with Samsung phones have a browser called 'Internet'. And most
+kids have an app called 'Google' (not Chrome), which they use for
+everything, even surfing the web. And telling the difference between
+an URL and a web search is equally difficult, since Chrome introduced
+the universal bar"
+
+---
+
+Clearly stuff is hidden behind apps, search bars, so the true concepts
+are getting muddled.
+
+---
+
+"@ncdominie@mastodon.scot
+
+Me in the mid-1990s, to people thirty years older than me: 'This is
+called a 'file' and this is a 'website'. Let me explain...'
+
+Me in the mid-2020s, to people thirty years younger than me: 'This is
+called a 'file' and this is a 'website'. Let me explain...'"
+
+---
+
+Doctorow: "As important as the numbers revealed by the Secret IRS
+Files were, I found the explanations even more interesting. The
+99.9999% of us who never make contact with the secretive elite wealth
+management and tax cheating industry know, in the abstract, that
+there's something scammy going on in those esoteric cults of wealth
+accumulation, but we're pretty vague on the details. When I pondered
+the 'tax loopholes' that the rich were exploiting, I pictured, you
+know, long lists of equations salted with Greek symbols, completely
+beyond my ken.
+
+But when Propublica's series laid these secret tactics out, I learned
+that they were incredibly stupid ruses, tricks so thin that the only
+way they could possibly fool the IRS is if the IRS just didn't give a
+shit (and they truly didn't – after decades of cuts and attacks, the
+IRS was far more likely to audit a family earning less than $30k/year
+than a billionaire).
+
+This has become a somewhat familiar experience. If you read the Panama
+Papers, the Paradise Papers, Luxleaks, Swissleaks, or any of the other
+spectacular leaks from the oligarch-industrial complex, you'll have
+seen the same thing: the rich employ the most tissue-thin ruses, and
+the tax authorities gobble them up. It's like the tax collectors don't
+want to fight [the] ultrawealthy.. whose net worth is larger than most
+nations"
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+A reminder that Visual Studio Code’s marketplace is still an absolute
+security clusterfuck that Microsoft have engineered.
+
+There’s active supply chain attacks in there nobody has reported on"
+
+---
+
+Yahoo News: "At least 7 countries resisting Ukraine's NATO membership
+invitation"
+
+---
+
+"New Fast and Sustainable Method for Hydrogen Production.. Under the
+leadership of Prof. Dr. Francesco Ciucci from the University of
+Bayreuth, a German-Chinese research team has developed a new method
+for the electrochemical splitting of water. This not only accelerates
+the production of hydrogen for technology and industry but also makes
+it more sustainable. The researchers report on their findings in
+*Nature Nanotechnology*"
+
+<img width='340' src='https://cdn0.scrvt.com/a534b4b72e47031e7c1755abc55cf709/e01033160199e67d/6a1b2138dac6/v/42161b7109f5/115-social-wasser-spaltung-wasserstoff-ciucci.jpg'/>
+
+[[-]](https://www.uni-bayreuth.de/en/press-release/electrochemical-water-splitting)
+
+---
+
+"@aral@mastodon.ar.al
+
+It’s only enshittification if it comes from the Palo Alto region of
+Silicon Valley, otherwise it’s just capitalism, working as designed"
+
+---
+
+The Revivalists - Zombie \#music
+
+[[-]](https://youtu.be/Srgr75_U4fg)
+
+---
+
+Their ideological descendants still roam about... They need to be
+expunged, excommunicated, tarred and feathered, tied behind a horse
+carriage dragged across the town for all to see.
+
+---
+
+The group who enacted NAFTA and pushed "gays in the military" as the
+first order of business (botching it in the process) is not "the
+left". They are economic right, social left. They are parasites in the
+Democratic Party.
+
+---
+
+What happened to IoT? You don't hear much from them anymore (two hypes
+ago).
+
+---
+
+AI hypemongers apparently reached the "negotiation phase"..  Some are
+still in denial though.
+
+---
+
+Chollet: "People have been rewriting history and saying that 'everyone
+has always believed that LLMs alone wouldn't be AGI and that extensive
+scaffolding around them would be necessary'. No, throughout most of
+2023 (the 'sparks of AGI' era) the mainstream bay area belief was that
+LLMs were *already* AGI, and that merely scaling their parameter count
+and training data size by ~2 OOM without changing anything else would
+lead to super-intelligence"
+
+---
+
+"@hooves@bark.lgbt
+
+It must be awesome to be so rich that you get warnings about crimes
+you are committing, as opposed to, like, getting arrested like normal
+people"
+
+---
+
+DOJ warns e-jagoff the $1 mil givaway to reg voters might be illegal
+
+---
+
+Politico: "Donald Trump’s upcoming rally at Madison Square Garden will
+mark the latest in a string of flashy detours from the
+battleground-state campaign trail in the closing weeks of the
+campaign... But his buzzy sideshows are just that... A[n] analysis of
+Trump’s campaign schedule since the Republican National Convention in
+mid-July, plus ad spending by his campaign, shows the former president
+is waging what amounts to a very traditional campaign in the core
+swing states"
+
+---
+
+But muneee is too sweet.. The complex is raking it in. Why end it when the
+earnings are so good?
+
+---
+
+RU could be using North Korean soldiers, UA is using Polish ones, and
+quite a few mercenaries. In a proxy war it's only fair Russia uses
+help from foreign countries. If you don't like it, work towards ending
+the conflict.. 
+
+---
+
+Al-Monitor: "Iran eyes naval drills with Saudi Arabia, Egypt amid
+simmering regional tensions"
+
+---
+
+NYT: "A Modi-Xi Meeting Could Signal a Thaw Between India and China"
+
+---
+
+Repeating an earlier share: "In 2001 someone tried to blow up a jet
+with a shoe bomb so we've had to take off our shoes at the airport for
+the last 23 years. In 2017 someone murdered 60 people in Las Vegas,
+and that resulted in the bump-stock firearm ban, for only seven
+years". Planes blowing up hurts business. Shooters buying guns is good
+business, people dying is good business too, other people will want to
+buy more guns. If we look at both cases from the lens of citizens,
+their unserved needs, politics, things make no sense. But once we
+understand business well-being is the primary issue for politicians,
+everything makes sense.
+
+---
+
+Apple Machine Learning Research: "[W]e introduce GSM-Symbolic, an
+improved benchmark.. that allow for the generation of a diverse set of
+questions. GSM-Symbolic enables more controllable evaluations,
+providing key insights and more reliable metrics for measuring the
+reasoning capabilities. [It] reveal[s] that LLMs exhibit noticeable
+variance when responding to different instantiations of the same
+question. Specifically, the performance of all models declines when
+only the numerical values in the question are altered... Furthermore,
+we investigate the fragility of mathematical reasoning in these models
+and show that their performance significantly deteriorates as the
+number of clauses in a question increases. We hypothesize that this
+decline is because current LLMs cannot perform genuine logical
+reasoning; they replicate reasoning steps from their training
+data. Adding a single clause that seems relevant to the question
+causes significant performance drops (up to 65%) across all
+state-of-the-art models, even though the clause doesn't contribute to
+the reasoning chain needed for the final answer"
+
+---
+
+Doctorow: "Of course we can tax billionaires.. They disguise their
+demands ('don’t tax billionaires') as observations ('it is technically
+impossible to tax billionaires')... Billionaires are pretty confident
+that they can’t be taxed — not just that they shouldn’t be taxed, but
+rather, that it is technically impossible to tax the
+ultra-rich. They’re not shy about explaining why, either — and neither
+is their army of lickspittles...
+
+Boy is this old trick getting old. It was already pretty thin when
+Margaret Thatcher rolled it out, insisting that 'there is no
+alternative' to her program of letting the rich get richer and the
+poor go hungry. Dressing up a demand ('stop trying to think of
+alternatives') as a scientific truth ('there is no alternative') sets
+up a world where your opponents are Doing Ideology, while you’re doing
+science.
+
+Billionaires basically don’t pay tax — that’s a big part of how they
+got to be billionaires.. By cheating on their taxes, they get to keep
+— and invest — more money than less-rich people (who get to keep more
+money than regular people and poor people, obvs). They get so much
+money that they can 'invest' it in corrupting the political process,
+for example, by flushing vast sums of dark money into elections to
+unseat politicians who care about finance crime"
+
+---
+
+None of the signals detecting an overpriced market forecasting crash
+seemed to work. The only functioning theory is Gary Stevenson's -
+massive concentration of wealth causes all asset prices to go
+up. After a brief lull, SP 500 is breaking new records. Unequal
+economy creating more inequality.
+
+---
+
+*Norteamericanos*.. 
+
+---
+
+WION: "Arab-American voters all set to ditch Kamala over support to
+Israel? Poll suggests so"
+
+---
+
+In an era where multigenerational mortgages are discussed, the info
+below should not be surprising.
+
+---
+
+Median age of first time home buyer was 29 back in 1981. Now it is 35.
+
+---
+
+Politico: "Trump files legal complaint against UK Labour Party over
+help for Kamala Harris..  Almost 100 Labour Party aides have traveled
+across the Atlantic to campaign for the US Democrats"
+
+---
+
+Not much change.. Some SAF gains in Khartoum. An RSF region in Sennar
+is cut off from the rest, a win for SAF.
+
+\#SAF \#RSF \#Sudan 10/15 - 10/23
+
+[[-]](sdndata/map7-ext.html)
+
+---
+
+Selydove, Kurakhivka are nearly encircled, not looking good for them.
+
+\#UA \#RU 10/14 - 10/23
+
+[[-]](ukrdata/map40-ext.html)
+
+---
+
 H2 Central: "In Le Cheylas, Lhyfe is laying the foundation stone of
 its largest green hydrogen production site in France, kick-starting
 large-scale production in the Auvergne-Rhône-Alpes region"
