@@ -351,6 +351,10 @@ def baci_top_product(frc, toc):
     for x in textwrap.wrap(s, width=70):
     	print (x)
         
+##############################################################################    
+##############################################################################    
+##############################################################################    
+        
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
     print (q)
@@ -361,7 +365,58 @@ def get_coords_for_label(content, reg):
     coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
     coords = [[float(x),float(y)] for x,y in coords]
     return coords
+
+def prep_isr_suriyak():
+
+    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Palestine-Lebanon Map.kmz') as myzip:
+        with myzip.open('doc.kml') as myfile:
+            content = myfile.read().decode('utf-8')
+            for i in range(1,7):
+                content = re.sub("IDF \(Area of Operations\)- Lebanon<",
+                                 "IDF (Area of Operations)- Lebanon %d<" % i,
+                                 content,count=1)
+
+            content = re.sub("Línea 22<",
+                             "Línea 22 - 1<",
+                             content,count=1)
+            content = re.sub("Línea 22<",
+                             "Línea 22 - 2<",
+                             content,count=1)
+                
+    fout = open("/tmp/isr.kml","w")
+    fout.write(content)
+    fout.close()
+
+def map_isr_suriyak():
+    prep_isr_suriyak()
+    isr_regs = [
+        "IDF..Area of Operations...Lebanon 1",
+        "IDF..Area of Operations...Lebanon 2",
+        "IDF..Area of Operations...Lebanon 3",
+        "IDF..Area of Operations...Lebanon 4",
+        "IDF..Area of Operations...Lebanon 5",
+        "IDF..Area of Operations...Lebanon 6",
+        "L.nea 21",
+        "L.nea 22 - 1",
+        "L.nea 22 - 2",
+        "L.nea 23"]
     
+    content = open("/tmp/isr.kml").read()
+
+    rrrs = []
+    for i,reg in enumerate(isr_regs):
+        coords = get_coords_for_label(content, reg)
+        rrrs.append(coords)
+
+    fout = open("/tmp/out.json","w")
+    fout.write('[\n')
+    for i,rrr in enumerate(rrrs):
+        fout.write(json.dumps(rrr))
+        if i < len(rrrs)-1: fout.write(',')
+        fout.write('\n')
+    fout.write(']\n')
+    fout.close()
+
 ##############################################################################    
 ##############################################################################    
 ##############################################################################    
@@ -557,7 +612,8 @@ def map_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    map_ukraine_suriyak()
+    #map_ukraine_suriyak()
     #map_sahel_suriyak()
+    map_isr_suriyak()
     #kh_djt_538_polls()
     

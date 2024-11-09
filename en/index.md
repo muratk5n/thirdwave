@@ -1,130 +1,86 @@
 
-H2 Central: "GreenIron signs major delivery agreement with Norwegian
-Hydrogen... GreenIron is about to start operations at its green metals
-production plant in Sandviken, Sweden, utilizing its patented
-zero-emissions technology"
+Pinned Post
+
+Fisk: "Sloppy use of language was also one of the most dangerous
+aspects of successive American 'peace' accords. Clinton was good on
+cliché and rhetoric but.. lazy when it came to points of
+detail. Despite all the handshakes and platitudes at Wye, for example,
+both Palestinians and Israelis went home with diametrically opposite
+ideas of what had been achieved. Netanyahu was able to assure Jewish
+colonists that there would be no Palestinian state, while Arafat’s men
+could persuade their few remaining supporters that another Israeli
+withdrawal would be another step towards statehood. No sooner had
+Netanyahu returned to Israel than his foreign minister, Ariel Sharon,
+urged settlers to 'seize every hilltop they can' in the West Bank. In
+a real battle of wits between equal partners, Arafat might have made a
+few Netanyahu-like conditions: no continuation of the 'peace process'
+unless Israel renounced its exclusive claim to Jerusalem as a
+capital—which precluded 'final status' talks; no more Jewish
+settlements on occupied Arab land; no more negotiations until
+Netanyahu ended Jewish settler attacks on Palestinians. But Arafat
+could not do that — and Washington would not talk to him if he did. So
+the Wye talks probably ended any Palestinian hope for a just
+peace. Israel would be allowed to go on building more Jewish
+settlements on occupied land, confiscating Palestinian identity
+papers, demolishing Palestinian homes. And Arafat — for perhaps 14 per
+cent of the 22 per cent of mandate 'Palestine' that was left — had
+promised to protect the Israelis who were building the settlements,
+confiscating the identity papers and demolishing the homes"
 
 ---
 
-AGBI: "The UAE has completed a pilot programme looking into the use of
-green hydrogen to decarbonise the steel industry... Conventional steel
-production accounts for around 8 percent of global carbon dioxide
-emissions and about 30 percent of emissions from industry...
+"@GossiTheDog@cyberplace.social
 
-In the pilot project, green hydrogen electrolysers created using solar
-power from the grid were used instead of natural gas to extract iron
-from iron ore, a vital step in steel making. The programme is aligned
-with both the UAE’s National Hydrogen Strategy 2050 and the Abu Dhabi
-Low Carbon Hydrogen Policy.
+Microsoft are effectively giving up on Copilot Pro subscription
+($20/month) as almost nobody paid for it.
 
-[T]he production of green hydrogen has started something of an arms
-race between the bloc of six GCC countries – the UAE, Bahrain, Saudi
-Arabia, Kuwait, Oman and Qatar.
+Instead they are bundling it into Microsoft 365 consumer subscriptions
+and inflating the renewal prices there. There’s no opt out.
 
-Saudi Arabia’s $8.4 billion Neom Green Hydrogen plant is set to be the
-world’s largest, and is scheduled for full operations by the end of
-2026. And earlier this month, the kingdom’s Public Investment Fund
-launched the Energy Solutions Company with an estimated 10 billion
-investment in green hydrogen"
+Effectively allows the Copilot revenue and user numbers to be
+inflated"
 
 ---
 
-Gold is not rising because "money is being debased". It is rising
-because econ is not working for the majority, goes in a funk... Low
-rates forever. That makes assets more attractive, like housing and
-gold. Gold is not some magic money-subtitute.  Liberterian libertards
-are wrong on this one, just like those MMT types. Money cannot be tied
-to a finite resource, and money cannot be printed infinitely bcz
-somehow "it's fine until you see inflation".
+CNBC: "China October exports record highest jump in 19 months, imports
+decline more than expected"
 
 ---
 
-We need to see the big picture however.. Gold is going through the
-roof because the market is betting on low growth, low rates, which
-will raising the price of assets, ie gold.
+\#UpFront \#Grim
+
+[[-]](https://www.youtube.com/embed/OwpaDQJ3eu8?start=333&end=418)
 
 ---
 
-Use it for trading I don't care
+Forbes: "The Saudis Eye Hydrogen And A New Energy Superpower Status"
 
 ---
 
-The regression below can be predictive, shift gold price back, is
-still works.
+Reuters: "Russia launches Soyuz rocket with dozens of
+satellites.. Among the 53 small satellites are two Iranian satellites,
+the Kowsar, a high-resolution imaging satellite, and Hodhod, a small
+communications satellite"
 
 ---
 
-$R^2$ is ridiculously high. Reverse correlation with oil, Euro,
-positive correlation w SP 500, silver (makes sense, related
-comodities). Oil is an indicator of econ activity, high activity means
-high demand for oil, therefore high price. Low activity means low
-rates, a boon for gold, since it is considered an asset.
+\#UA \#RU - 11/01 - 11/08
+
+[[-]](mbl/2024/ukrdata/map42.html)
 
 ---
 
-```python
-r = smf.ols('GLD2 ~ SPX + USO + SLV + EURUSD', data=df).fit()
-print ('R^2', np.round(r.rsquared,2), '%')
-print (r.params)
-```
-
-```text
-R^2 0.91 %
-Intercept    130.561772
-SPX            0.019486
-USO           -0.223693
-SLV            2.393838
-EURUSD       -64.929283
-dtype: float64
-```
+Politico: "Gavin Newsom’s quest to ‘Trump-proof’ California enrages
+incoming president"
 
 ---
 
-Is gold price correlated to anything? It is known there are
-correlations with SP 500, oil, silver and some other instruments.
+2028 campaigning already started. Here is your Dem front-runner.
 
----
-
-The Decline of Public Property
-
-<img width='340' src='https://pbs.twimg.com/media/Gav_6HCbcAAnvZq?format=jpg&name=small'/>
-
----
-
-Here's an idea gov provides initial funding to hundreds of non-profits
-each year, those orgs can provide employment, and the ones in the red
-will go bust anyway, remaining ones can continue providing a public
-service in an efficient way. Gov can track the founders for potential
-abuse but otherwise just let the existing machinery take care of them.
-
----
-
-If 'merica cannot get over its distaste for gov, non-profits can
-provide another path. The future surely does not lie with exclusively
-for-profit co's, that mentality brought you into the mess you find
-yourself in today, perhaps non-profits can do something more, represent
-larger swaths of econ in monetary terms, albeit with some push by gov.
-
----
-
-"American commitment to responsible citizenship". There is that
-feeling, sure... Tied to a culture code certainly. Is it useful?
-Debatable.
-
-Drucker, *Managing the Non-Profit Org*: "[We] know that the
-non-profits discharge a much bigger job than taking care of specific
-needs. With every second American adult serving as a volunteer in the
-non-profit sector and spending at least three hours a week in
-non-profit work, the non-profits are America's largest 'employer.' But
-they also exemplify and fulfil the fundamental American commitment to
-responsible citizenship in the community. The non-profit sector..
-represents about [2-3%].. of America's gross national product"
-
----
-
-\#UA \#RU 10/23 - 11/01
-
-[[-]](mbl/2024/ukrdata/map41-ext.html)
+Politico: "‘We won’t sit idle': Newsom goes on offensive against
+Trump.. California Gov. Gavin Newsom is calling a special session of
+the Legislature to shore up the state’s legal defenses against
+President-elect Donald Trump, he announced Thursday"
 
 ---
 
@@ -174,6 +130,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
 

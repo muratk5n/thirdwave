@@ -29,17 +29,6 @@
 import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
-
-<pre><code class="python">df = u.get_yahoo_tickers(2020,[&quot;FLAT&quot;])
-df.to_csv('/tmp/out1.csv')
-</code></pre>
-
-<pre><code class="python">import pandas as pd
-df = u.get_yahoo_tickers(2015, ['^GSPC','GLD','USO','SLV','EURUSD=X'])
-import statsmodels.formula.api as smf
-df['SPX'] = df['^GSPC']
-df['EURUSD'] = df['EURUSD=X']
-</code></pre>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>

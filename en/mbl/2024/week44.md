@@ -1,5 +1,269 @@
 # Week 44
 
+😂
+
+"@molly0xfff@hachyderm.io
+
+Coinbase’s Chief Legal Officer Paul Grewal has now replied with a threat"
+
+---
+
+"@molly0xfff@hachyderm.io
+
+As an active federal contractor, Coinbase is prohibited from making
+political contributions, including to super PACs. This makes $50
+million that they have contributed in violation of pay-to-play laws
+for contractors"
+
+---
+
+Brian Armstrong: "Today I'm announcing that @coinbase has commited
+another $25 million to support Fairshake PAC"
+
+---
+
+Director? How about Chad Stahelski?
+
+---
+
+*Blade 1998* is a favorite movie of mine Disney, do not f--k this up
+
+---
+
+Clearly studio veered away from cuck, otherwise Ali would not have agreed
+
+---
+
+Good good..
+
+"@m4n_geek@threads.net 
+
+Mahershala Ali is reportedly pleased with the latest BLADE script
+draft, and the search for a director is nearly complete"
+
+---
+
+"zuck@threads.net
+
+Threads now has almost 275M monthly actives and more than 1M daily
+sign-ups 🔥"
+
+---
+
+Bloomberg: "Hyundai Debuts New Hydrogen Car in Bet on Clean Fuel’s
+Future..
+
+- ‘Initium’ is new fuel-cell car, following 2018 release of Nexo
+
+- Hyundai to invest $4 billion over next decade toward hydrogen"
+
+---
+
+US could be exercising "rule by oligarch" approach everywhere, not
+just in Ukraine before the war. It's easy than any other forms of
+control, you aim to shift a country's governance always to one based
+on oligarchs. Once that is done, you control those oligarchs, because
+in a "globalized" system US is the gatekeeper on financial
+chokepoints, it is easy to control any country's oligarch, and through
+them, you control his country.
+
+---
+
+Partly a response to McCain saying "Russia is a 'gas station
+masquerading as a country'". Comeuppance is a bitch.
+
+---
+
+Afganistan would have been a picture of state health, advance and
+development if US were an empire. AFG would get US help to produce
+cotton, the interests of US native biz would not have overriden the
+interests of other parts of "the empire". Everyone would, after all,
+be in the same empire. The Otto treated the Balkans no different than
+it treated the Levant. US is different. It is easier to understand
+'merica as a conglomeration of trade networks, as a plutocratic mafia
+rather than a traditional hegamon, or even a state. US is like a
+McDonalds franchise, a gas station, a mall, a parking lot masquerading
+as a country.
+
+---
+
+Papa Cheney is literally the MIC itself. As a former CEO of a military
+contractor, he pushed US into a war that helped said contractor rake
+it in, and others along with it. The business of death made him rich.
+
+---
+
+I'd like to see that.. 
+
+DJT “[On Liz Cheney] She’s a radical war hawk — let’s put her with a
+rifle standing there with nine barrels shooting at her, OK?.. And
+let’s see how she feels about it, you know, when the guns are trained
+on her face.”
+
+---
+
+"India, China complete troops pull-back from border face-off points in
+Ladakh"
+
+---
+
+Firstpost: "North Korea's Choe Son Hui is on a visit to Moscow as the
+West believes up to 10,000 North Korean troops are on the brink of
+entering the more than two-year conflict on Russia's side"
+
+---
+
+CH could be an underestimated player in the sanctions game. A lot of
+countries depend on China, esp. if CH practices the chain-sanction
+technique, they can be formiddable. Obviously none of this bodes well
+for a well-functioning world-system, or "United Nations".  It will be
+more like Divided Nations.
+
+Financial Times: "Chinese sanctions hit US drone maker supplying Ukraine"
+
+---
+
+First snapshot of the Israel-Lebanon frontline. Before-After will be
+available once there are changes.
+
+\#IS \#LB
+
+[[-]](lebdata/map01.html)
+
+---
+
+H2 Central: "GreenIron signs major delivery agreement with Norwegian
+Hydrogen... GreenIron is about to start operations at its green metals
+production plant in Sandviken, Sweden, utilizing its patented
+zero-emissions technology"
+
+---
+
+AGBI: "The UAE has completed a pilot programme looking into the use of
+green hydrogen to decarbonise the steel industry... Conventional steel
+production accounts for around 8 percent of global carbon dioxide
+emissions and about 30 percent of emissions from industry...
+
+In the pilot project, green hydrogen electrolysers created using solar
+power from the grid were used instead of natural gas to extract iron
+from iron ore, a vital step in steel making. The programme is aligned
+with both the UAE’s National Hydrogen Strategy 2050 and the Abu Dhabi
+Low Carbon Hydrogen Policy.
+
+[T]he production of green hydrogen has started something of an arms
+race between the bloc of six GCC countries – the UAE, Bahrain, Saudi
+Arabia, Kuwait, Oman and Qatar.
+
+Saudi Arabia’s $8.4 billion Neom Green Hydrogen plant is set to be the
+world’s largest, and is scheduled for full operations by the end of
+2026. And earlier this month, the kingdom’s Public Investment Fund
+launched the Energy Solutions Company with an estimated 10 billion
+investment in green hydrogen"
+
+---
+
+Gold is not rising because "money is being debased". It is rising
+because econ is not working for the majority, goes in a funk... Low
+rates forever. That makes assets more attractive, like housing and
+gold. Gold is not some magic money-subtitute.  Liberterian libertards
+are wrong on this one, just like those MMT types. Money cannot be tied
+to a finite resource, and money cannot be printed infinitely bcz
+somehow "it's fine until you see inflation".
+
+---
+
+We need to see the big picture however.. Gold is going through the
+roof because the market is betting on low growth, low rates, which
+will raise the price of assets, ie gold.
+
+---
+
+Use it for trading I don't care
+
+---
+
+The regression below can be predictive, shift gold price back, it
+still works.
+
+---
+
+$R^2$ is ridiculously high. Reverse correlation with oil, Euro,
+positive correlation w SP 500, silver (makes sense, related
+comodities). Oil is an indicator of econ activity, high activity means
+high demand for oil, therefore high price. Low activity means low
+rates, a boon for gold, since it is considered an asset.
+
+---
+
+```python
+import statsmodels.formula.api as smf
+df = u.get_yahoo_tickers(2015, ['^GSPC','GLD','USO','SLV','EURUSD=X'])
+df = df.rename(columns={'EURUSD=X': "EURUSD","^GSPC": "SPX"})
+r = smf.ols('GLD ~ SPX + USO + SLV + EURUSD', data=df).fit()
+print ('R^2', np.round(r.rsquared,2), '%')
+print (r.params)
+```
+
+```text
+R^2 0.93 %
+Intercept    121.862326
+SPX            0.018018
+USO           -0.193925
+SLV            2.887015
+EURUSD       -63.320880
+dtype: float64
+```
+
+---
+
+Is gold price correlated to anything? It is known there are
+correlations with SP 500, oil, silver and some other instruments.
+
+---
+
+The Decline of Public Property
+
+<img width='340' src='https://pbs.twimg.com/media/Gav_6HCbcAAnvZq?format=jpg&name=small'/>
+
+---
+
+Here's an idea gov provides initial funding to hundreds of non-profits
+each year, those orgs can provide employment, and the ones in the red
+will go bust anyway, remaining ones can continue providing a public
+service in an efficient way. Gov can track the founders for potential
+abuse but otherwise just let the existing machinery take care of them.
+
+---
+
+If 'merica cannot get over its distaste for gov, non-profits can
+provide another path. The future surely does not lie with exclusively
+for-profit co's, that mentality brought you into the mess you find
+yourself in today, perhaps non-profits can do something more, represent
+larger swaths of econ in monetary terms, albeit with some push by gov.
+
+---
+
+"American commitment to responsible citizenship". There is that
+feeling, sure... Tied to a culture code certainly. Is it useful?
+Debatable.
+
+Drucker, *Managing the Non-Profit Org*: "[We] know that the
+non-profits discharge a much bigger job than taking care of specific
+needs. With every second American adult serving as a volunteer in the
+non-profit sector and spending at least three hours a week in
+non-profit work, the non-profits are America's largest 'employer.' But
+they also exemplify and fulfil the fundamental American commitment to
+responsible citizenship in the community. The non-profit sector..
+represents about [2-3%].. of America's gross national product"
+
+---
+
+\#UA \#RU 10/23 - 11/01
+
+[[-]](ukrdata/map41-ext.html)
+
+---
+
 Python is, of course, freely available and open-source.
 
 ---
@@ -350,7 +614,7 @@ It's so good.. eat it and you will die
 
 ---
 
-[Recipe](mbl/2024/montrecip1.txt)
+[Recipe](montrecip1.txt)
 
 ---
 

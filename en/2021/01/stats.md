@@ -439,6 +439,26 @@ plt.savefig('tcurve.jpg')
 
 ![](tcurve.jpg)
 
+```python
+df = u.get_fred(2008,['DGS2','DGS10'])
+df = df.interpolate()
+df['inv'] = df.DGS10 - df.DGS2
+df['inv'].plot(grid=True)
+print (df.inv.tail(4))
+plt.savefig('tcurve2.jpg')
+```
+
+```text
+DATE
+2024-10-31    0.12
+2024-11-01    0.16
+2024-11-04    0.14
+2024-11-05    0.07
+Name: inv, dtype: float64
+```
+
+![](tcurve2.jpg)
+
 <a name='vix'></a>
 
 VIX
