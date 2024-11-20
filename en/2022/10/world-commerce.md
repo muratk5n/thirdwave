@@ -64,5 +64,5 @@ interactive map of the extraordinary flows is below.
 
 Reference
 
-[1] [BACI](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37), International Trade Database at the Product-Level.
+[1] [BACI](https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37), International Trade Database at the Product-Level.
 

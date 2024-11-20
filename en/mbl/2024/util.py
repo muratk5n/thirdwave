@@ -371,17 +371,10 @@ def prep_isr_suriyak():
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Palestine-Lebanon Map.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
             content = myfile.read().decode('utf-8')
-            for i in range(1,7):
+            for i in range(1,11):
                 content = re.sub("IDF \(Area of Operations\)- Lebanon<",
                                  "IDF (Area of Operations)- Lebanon %d<" % i,
                                  content,count=1)
-
-            content = re.sub("Línea 22<",
-                             "Línea 22 - 1<",
-                             content,count=1)
-            content = re.sub("Línea 22<",
-                             "Línea 22 - 2<",
-                             content,count=1)
                 
     fout = open("/tmp/isr.kml","w")
     fout.write(content)
@@ -396,10 +389,10 @@ def map_isr_suriyak():
         "IDF..Area of Operations...Lebanon 4",
         "IDF..Area of Operations...Lebanon 5",
         "IDF..Area of Operations...Lebanon 6",
-        "L.nea 21",
-        "L.nea 22 - 1",
-        "L.nea 22 - 2",
-        "L.nea 23"]
+        "IDF..Area of Operations...Lebanon 7",
+        "IDF..Area of Operations...Lebanon 8",
+        "IDF..Area of Operations...Lebanon 9",
+        "IDF..Area of Operations...Lebanon 10"]
     
     content = open("/tmp/isr.kml").read()
 

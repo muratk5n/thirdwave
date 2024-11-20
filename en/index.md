@@ -1,86 +1,104 @@
 
-Pinned Post
-
-Fisk: "Sloppy use of language was also one of the most dangerous
-aspects of successive American 'peace' accords. Clinton was good on
-cliché and rhetoric but.. lazy when it came to points of
-detail. Despite all the handshakes and platitudes at Wye, for example,
-both Palestinians and Israelis went home with diametrically opposite
-ideas of what had been achieved. Netanyahu was able to assure Jewish
-colonists that there would be no Palestinian state, while Arafat’s men
-could persuade their few remaining supporters that another Israeli
-withdrawal would be another step towards statehood. No sooner had
-Netanyahu returned to Israel than his foreign minister, Ariel Sharon,
-urged settlers to 'seize every hilltop they can' in the West Bank. In
-a real battle of wits between equal partners, Arafat might have made a
-few Netanyahu-like conditions: no continuation of the 'peace process'
-unless Israel renounced its exclusive claim to Jerusalem as a
-capital—which precluded 'final status' talks; no more Jewish
-settlements on occupied Arab land; no more negotiations until
-Netanyahu ended Jewish settler attacks on Palestinians. But Arafat
-could not do that — and Washington would not talk to him if he did. So
-the Wye talks probably ended any Palestinian hope for a just
-peace. Israel would be allowed to go on building more Jewish
-settlements on occupied land, confiscating Palestinian identity
-papers, demolishing Palestinian homes. And Arafat — for perhaps 14 per
-cent of the 22 per cent of mandate 'Palestine' that was left — had
-promised to protect the Israelis who were building the settlements,
-confiscating the identity papers and demolishing the homes"
+"End welfare as we know it!". "The era of big goverment is over!".
+I think it's your legacy that is over, poser fool.
 
 ---
 
-"@GossiTheDog@cyberplace.social
-
-Microsoft are effectively giving up on Copilot Pro subscription
-($20/month) as almost nobody paid for it.
-
-Instead they are bundling it into Microsoft 365 consumer subscriptions
-and inflating the renewal prices there. There’s no opt out.
-
-Effectively allows the Copilot revenue and user numbers to be
-inflated"
+Vox: "[2016] 'If the goal was to get rid of poverty, we failed': the
+legacy of the 1996 welfare reform.. Ten years after signing the bill,
+[Clinton] took an enthusiastic victory lap in the pages of the New
+York Times. 'Welfare reform has proved a great success,' he
+declared... But another 10 years later, the mood.. changed.. New
+research had showed that in fact welfare reform fell short in the
+depths of the Great Recession — substantially increasing deep poverty
+and leaving families who can’t find work without any cash safety net"
 
 ---
 
-CNBC: "China October exports record highest jump in 19 months, imports
-decline more than expected"
+The Obamas are on their 3rd, 4th *château* now..? Black Bill Clinton
+gives them valuable speeches too, the business community must really
+like. But the Obamas are fine... they need to "represent", we'll turn
+a blind eye to that.  Bama is not doing anything his patron saint Bill
+would not do anyway...
 
 ---
 
-\#UpFront \#Grim
-
-[[-]](https://www.youtube.com/embed/OwpaDQJ3eu8?start=333&end=418)
-
----
-
-Forbes: "The Saudis Eye Hydrogen And A New Energy Superpower Status"
-
----
-
-Reuters: "Russia launches Soyuz rocket with dozens of
-satellites.. Among the 53 small satellites are two Iranian satellites,
-the Kowsar, a high-resolution imaging satellite, and Hodhod, a small
-communications satellite"
+CNN: "[2016/02] Hillary Clinton and her husband, former President Bill
+Clinton, combined to earn more than $153 million in paid speeches from
+2001 until Hillary Clinton launched her presidential campaign last
+spring, a CNN analysis shows... In total, the two gave 729 speeches
+from February 2001 until May, receiving an average payday of 210,795
+dollar for each address. The two also reported at least 7.7 million
+for at least 39 speeches to big banks, including Goldman Sachs and
+UBS, with Hillary Clinton, the Democratic 2016 front-runner,
+collecting at least 1.8 million for at least eight speeches to big
+banks"
 
 ---
 
-\#UA \#RU - 11/01 - 11/08
-
-[[-]](mbl/2024/ukrdata/map42.html)
-
----
-
-Politico: "Gavin Newsom’s quest to ‘Trump-proof’ California enrages
-incoming president"
+Speaking fees are a form of corruption.. While in office pol executes
+pro corporate policies that benefit a business, after leaving office
+gets invited by that same business to give "speeches" with a price tag
+upwards of a quarter mil..  No one gives speeches that valuable.. but
+the *value* was delivered beforehand, while in office. Now corrupt
+politician gets paid in kind.
 
 ---
 
-2028 campaigning already started. Here is your Dem front-runner.
+Robert Solow: "You see the computer age everywhere but in the
+productivity statistics."
 
-Politico: "‘We won’t sit idle': Newsom goes on offensive against
-Trump.. California Gov. Gavin Newsom is calling a special session of
-the Legislature to shore up the state’s legal defenses against
-President-elect Donald Trump, he announced Thursday"
+---
+
+The IT revolution wasn't much of a revolution. It ended up being fairy
+dust on the existing system, inequalities remained the same, and some
+became entrenched because of a new group that gained "class
+conciousness" and captured a big chunk of the Democratic party. The
+shine really started to come off when the "Twitter Revolution" went
+bust in lands of Arab Spring, and with meager growth in the developed
+world it became clear tech was not driving anything except a phony
+rise in stock prices. Krugman was right on this one, as far as output
+is concerned, "the Internet's impact on the economy has been no
+greater than the fax machine". There is a spiffy "web site" for health
+insurance, yet 85 million people in US are uninsured or
+underinsured. What did the tech deliver? Nothing except an illusion,
+the mirage of progress.
+
+---
+
+Bill Clinton is the figure to destroy because he was the first prez
+elected after the fall of Berlin Wall, at the same time an IT
+"revolution" of sorts took place seemingly confirming the "vision" of
+these fucktards, the followers of Gary Hart. The wall fell, and
+everything that followed was assumed to be "the new world order", a
+bizarre concoction of anti-worker, pro-capital, globalisation-ran-wild
+sentiment/politics... All of that culminated in Bill presidency and
+most Dems afterwards adapted this blueprint. Sadly, the approach, and
+the man had glaring deficiencies. Dems need to remove this fudge from
+their collective worldview, as the eclectic ideo clearly, visibly
+stopped working. Dems who followed it just lost a key
+demographic. Somebody needs to pay the price for that.
+
+---
+
+I have to admit until *Peacemaker* I liked nothing Gunn had ever
+done.. But a lot of ppl like his movies so I relied on others' views
+in further commentary (you need these tricks when you are an
+all-around shoot-the-shit commentator like me, to remain
+objective). PM showed me personally he could actually pull off a
+grander project. From DCEU perspective a lot hinges on the new SM, it
+is supposed to kick off a whole new cinematic universe.
+
+---
+
+Great, Gunn federated his Threads, can now follow him on
+Mastodon. JG is the director currently working on the new Supes movie,
+the reboot.
+
+"@jamesgunn@threads.net
+
+Sam McCurdy won a well-deserved Emmy for his cinematography on Shogun
+- now he’s here killing it on Peacemaker."
 
 ---
 
@@ -130,4 +148,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
 

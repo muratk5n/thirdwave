@@ -1,5 +1,60 @@
 # Week 45
 
+"@GossiTheDog@cyberplace.social
+
+Microsoft are effectively giving up on Copilot Pro subscription
+($20/month) as almost nobody paid for it.
+
+Instead they are bundling it into Microsoft 365 consumer subscriptions
+and inflating the renewal prices there. There’s no opt out.
+
+Effectively allows the Copilot revenue and user numbers to be
+inflated"
+
+---
+
+CNBC: "China October exports record highest jump in 19 months, imports
+decline more than expected"
+
+---
+
+\#UpFront \#Grim
+
+[[-]](https://www.youtube.com/embed/OwpaDQJ3eu8?start=333&end=418)
+
+---
+
+Forbes: "The Saudis Eye Hydrogen And A New Energy Superpower Status"
+
+---
+
+Reuters: "Russia launches Soyuz rocket with dozens of
+satellites.. Among the 53 small satellites are two Iranian satellites,
+the Kowsar, a high-resolution imaging satellite, and Hodhod, a small
+communications satellite"
+
+---
+
+\#UA \#RU - 11/01 - 11/08
+
+[[-]](ukrdata/map42.html)
+
+---
+
+Politico: "Gavin Newsom’s quest to ‘Trump-proof’ California enrages
+incoming president"
+
+---
+
+2028 campaigning already started. Here is your Dem front-runner.
+
+Politico: "‘We won’t sit idle': Newsom goes on offensive against
+Trump.. California Gov. Gavin Newsom is calling a special session of
+the Legislature to shore up the state’s legal defenses against
+President-elect Donald Trump, he announced Thursday"
+
+---
+
 This is from 2024 btw, November 7, not 2020, or 2016.
 
 Bernie Sanders: "60% of Americans live paycheck to paycheck and we
