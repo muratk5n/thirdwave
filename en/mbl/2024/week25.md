@@ -234,7 +234,7 @@ missile frigate of the French Navy entered the Black Sea on Sunday"
 
 \#Frontline 06/14 - 06/20
 
-[[-]](ukrdata/map23-ext.html)
+[[-]](ukrdata/map23.html)
 
 ---
 
@@ -677,7 +677,7 @@ homelessness statistics"
 
 \#Frontline \#UA \#RU 06/06 - 06/15
 
-[[-]](ukrdata/map22-ext.html)
+[[-]](ukrdata/map22.html)
 
 ---
 

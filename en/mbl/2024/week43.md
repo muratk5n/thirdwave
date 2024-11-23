@@ -375,7 +375,7 @@ is cut off from the rest, a win for SAF.
 
 \#SAF \#RSF \#Sudan 10/15 - 10/23
 
-[[-]](sdndata/map7-ext.html)
+[[-]](sdndata/map7.html)
 
 ---
 
@@ -383,7 +383,7 @@ Selydove, Kurakhivka are nearly encircled, not looking good for them.
 
 \#UA \#RU 10/14 - 10/23
 
-[[-]](ukrdata/map40-ext.html)
+[[-]](ukrdata/map40.html)
 
 ---
 

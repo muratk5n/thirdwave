@@ -455,7 +455,7 @@ Massive UA incursion in Kursk. On the Russian side capture of Niu York
 is nearly done, the pincer is about to close on Nelipivka, movement
 towards Toretsk, and major advance NW Tabaivka.
 
-[[-]](mbl/2024/ukrdata/map31-ext.html)
+[[-]](mbl/2024/ukrdata/map31.html)
 
 ---
 

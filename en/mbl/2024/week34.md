@@ -422,7 +422,7 @@ compared to 8/13, continues to expand.
 
 \#Frontline \#UA \#RU 08/13 - 08/19
 
-[[-]](ukrdata/map32-ext.html)
+[[-]](ukrdata/map32.html)
 
 ---
 

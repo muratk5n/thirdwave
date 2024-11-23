@@ -444,7 +444,7 @@ Biden war chest"
 
 \#Frontline \#UA \#RU 07/18 - 07/24
 
-[[-]](ukrdata/map28-ext.html)
+[[-]](ukrdata/map28.html)
 
 ---
 

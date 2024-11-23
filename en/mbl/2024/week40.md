@@ -458,7 +458,7 @@ Vuhledar Has Fallen
 
 \#Frontline \#UA \#RU 09/23 - 10/01
 
-[[-]](ukrdata/map37-ext.html)
+[[-]](ukrdata/map37.html)
 
 ---
 

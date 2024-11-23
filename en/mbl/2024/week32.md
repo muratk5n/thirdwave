@@ -171,7 +171,7 @@ of region captured by UA around Sumy.
 
 \#Frontline \#UA \#RU 07/31 - 08/09
 
-[[-]](mbl/2024/ukrdata/map30-ext.html)
+[[-]](mbl/2024/ukrdata/map30.html)
 
 ---
 
@@ -227,7 +227,7 @@ Your modern media landscape in a nutshell"
 
 \#Frontline \#UA \#RU 07/31 - 08/08
 
-[[-]](ukrdata/map30-ext.html)
+[[-]](ukrdata/map30.html)
 
 ---
 

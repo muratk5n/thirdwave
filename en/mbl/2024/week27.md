@@ -236,7 +236,7 @@ in five years due to AI"
 
 \#RU \#UA #Frontline 06/27 - 07/04
 
-[[-]](ukrdata/map25-ext.html)
+[[-]](ukrdata/map25.html)
 
 ---
 
@@ -478,7 +478,7 @@ President Joe Biden announced suspension of new asylum claims"
 Color red denotes RSF territory. Birdeye view suggests SAF is doing
 somewhat better compared to RSF.
 
-[[-]](sdndata/map3-ext.html)
+[[-]](sdndata/map3.html)
 
 ---
 

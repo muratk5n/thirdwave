@@ -195,7 +195,7 @@ conflict, combined with an RU controlled Vuhledar.
 
 \#Frontline \#UA \#RU 09/15 - 09/23
 
-[[-]](ukrdata/map36-ext.html)
+[[-]](ukrdata/map36.html)
 
 ---
 

@@ -476,7 +476,7 @@ so it is de-facto demilitarized.
 
 \#Frontline \#UA \#RU 10/08 - 10/15
 
-[[-]](ukrdata/map39-ext.html)
+[[-]](ukrdata/map39.html)
 
 ---
 
@@ -731,7 +731,7 @@ Some pushback from SAF. Gains west of Sennar, Khartoum and around Bakhit.
 
 \#Sudan \#SAF \#RSF \#Frontline 09/25 - 10/14
 
-[[-]](sdndata/map6-ext.html)
+[[-]](sdndata/map6.html)
 
 ---
 

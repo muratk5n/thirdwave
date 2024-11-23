@@ -427,7 +427,7 @@ earned when she had to retire"
 
 \#Frontline \#UA \#RU 07/24 - 07/31
 
-[[-]](ukrdata/map29-ext.html)
+[[-]](ukrdata/map29.html)
 
 ---
 

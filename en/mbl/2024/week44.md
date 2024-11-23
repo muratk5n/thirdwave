@@ -260,7 +260,7 @@ represents about [2-3%].. of America's gross national product"
 
 \#UA \#RU 10/23 - 11/01
 
-[[-]](ukrdata/map41-ext.html)
+[[-]](ukrdata/map41.html)
 
 ---
 

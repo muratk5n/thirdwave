@@ -453,7 +453,7 @@ TASS: "Trump criticizes $300-bln aid to Ukraine amid hurricane in US"
 
 \#Frontline \#UA \#RU 10/01 - 10/08
 
-[[-]](ukrdata/map38-ext.html)
+[[-]](ukrdata/map38.html)
 
 ---
 

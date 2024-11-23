@@ -1,104 +1,111 @@
 
-"End welfare as we know it!". "The era of big goverment is over!".
-I think it's your legacy that is over, poser fool.
+Pinned Post
+
+Thomas Frank, *New York Times*: "The Elites Had It Coming..  At the
+Republican convention in July, JD Vance described the ruination
+visited on his working-class town in Ohio by NAFTA and trade with
+China, both of which he blamed at least in part on Mr. Biden, and also
+the human toll taken by the Iraq war, which he also contrived to blame
+on Mr. Biden. Today Mr. Vance is the vice president-elect, and what I
+hope you will understand, what I want you to mull over and take to
+heart and remember for the rest of your life, is that he got there by
+mimicking the language that Americans used to associate with labor,
+with liberals, with Democrats..
+
+A party of the left that identifies with people like Mr. Cheney is a
+contradiction in terms, a walking corpse..
+
+I have begun to doubt that any combination of financial disaster or
+electoral chastisement will ever turn on the lightbulb for the
+liberals. I fear that 90s-style centrism will march on, by a
+sociological force of its own, until the parties have entirely
+switched their social positions and the world is given over to
+Trumpism. Can anything reverse it? Only a resolute determination by
+the Democratic Party to rededicate itself to the majoritarian vision
+of old: a Great Society of broad, inclusive prosperity. This means
+universal health care and a higher minimum wage. It means robust
+financial regulation and antitrust enforcement. It means unions and a
+welfare state and higher taxes on billionaires, even the cool ones. It
+means, above all, liberalism as a social movement, as a coming
+together of ordinary people"
 
 ---
 
-Vox: "[2016] 'If the goal was to get rid of poverty, we failed': the
-legacy of the 1996 welfare reform.. Ten years after signing the bill,
-[Clinton] took an enthusiastic victory lap in the pages of the New
-York Times. 'Welfare reform has proved a great success,' he
-declared... But another 10 years later, the mood.. changed.. New
-research had showed that in fact welfare reform fell short in the
-depths of the Great Recession — substantially increasing deep poverty
-and leaving families who can’t find work without any cash safety net"
+
+DIW: "[Our study shows e]nvironmental zones have positive effects on
+school performance and mental health – More primary school students
+make the jump to high school – Antidepressant prescriptions,
+depression and anxiety disorders are declining – Sustainable transport
+policy should not only be promoted with an eye on the environment
 
 ---
 
-The Obamas are on their 3rd, 4th *château* now..? Black Bill Clinton
-gives them valuable speeches too, the business community must really
-like. But the Obamas are fine... they need to "represent", we'll turn
-a blind eye to that.  Bama is not doing anything his patron saint Bill
-would not do anyway...
+"Environmental Zones (Umweltzonen) in Germany.. There are three
+different stickers: a green one certifying that the vehicle is
+environmentally acceptable; a yellow one for less acceptable vehicles
+and a red one for those that are still less acceptable... Gasoline-
+and diesel-powered vehicles without catalytic converters will be
+unable to get any kind of a sticker and will not be permitted in the
+environmental zones. All gasoline-powered cars with catalytic
+converters will get a green sticker. The first environmental zones
+were established on January 1, 2008 in Berlin, Cologne and Hannover"
 
 ---
 
-CNN: "[2016/02] Hillary Clinton and her husband, former President Bill
-Clinton, combined to earn more than $153 million in paid speeches from
-2001 until Hillary Clinton launched her presidential campaign last
-spring, a CNN analysis shows... In total, the two gave 729 speeches
-from February 2001 until May, receiving an average payday of 210,795
-dollar for each address. The two also reported at least 7.7 million
-for at least 39 speeches to big banks, including Goldman Sachs and
-UBS, with Hillary Clinton, the Democratic 2016 front-runner,
-collecting at least 1.8 million for at least eight speeches to big
-banks"
+He said this over 50 years ago.. Many ppl today voice similar
+predictions, they too will be wrong.
+
+A.I guru Marvin Minsky: "In from 3 to 8 years we will have a machine
+with the general intelligence of an average human being"
 
 ---
 
-Speaking fees are a form of corruption.. While in office pol executes
-pro corporate policies that benefit a business, after leaving office
-gets invited by that same business to give "speeches" with a price tag
-upwards of a quarter mil..  No one gives speeches that valuable.. but
-the *value* was delivered beforehand, while in office. Now corrupt
-politician gets paid in kind.
+CNBC: "Walmart's same-store sales rose 5.3%, while Target's increased
+only 0.3% year over year."
 
 ---
 
-Robert Solow: "You see the computer age everywhere but in the
-productivity statistics."
+*Dune Prophecy* not good
 
 ---
 
-The IT revolution wasn't much of a revolution. It ended up being fairy
-dust on the existing system, inequalities remained the same, and some
-became entrenched because of a new group that gained "class
-conciousness" and captured a big chunk of the Democratic party. The
-shine really started to come off when the "Twitter Revolution" went
-bust in lands of Arab Spring, and with meager growth in the developed
-world it became clear tech was not driving anything except a phony
-rise in stock prices. Krugman was right on this one, as far as output
-is concerned, "the Internet's impact on the economy has been no
-greater than the fax machine". There is a spiffy "web site" for health
-insurance, yet 85 million people in US are uninsured or
-underinsured. What did the tech deliver? Nothing except an illusion,
-the mirage of progress.
+Academic degrees should play a lesser role, also, they way degrees are
+judged needs to change. We need to go back to a [fail/pass based
+education](./0119/2011/02/grading.html) where student study the
+subject until a pass grade, however long that takes. The system can be
+turned upside down, pre-recorded videos deliver the lecture, pass/fail
+judgement will require an actual person, that professional/expert
+would be part of a DOED team of expert test adminstrators. Exam would
+be scheduled at will whenever a student feels ready.
 
 ---
 
-Bill Clinton is the figure to destroy because he was the first prez
-elected after the fall of Berlin Wall, at the same time an IT
-"revolution" of sorts took place seemingly confirming the "vision" of
-these fucktards, the followers of Gary Hart. The wall fell, and
-everything that followed was assumed to be "the new world order", a
-bizarre concoction of anti-worker, pro-capital, globalisation-ran-wild
-sentiment/politics... All of that culminated in Bill presidency and
-most Dems afterwards adapted this blueprint. Sadly, the approach, and
-the man had glaring deficiencies. Dems need to remove this fudge from
-their collective worldview, as the eclectic ideo clearly, visibly
-stopped working. Dems who followed it just lost a key
-demographic. Somebody needs to pay the price for that.
+MSNBC: "'The diploma divide': David Brooks calls for redefining
+success beyond SATs and GPAs"
 
 ---
 
-I have to admit until *Peacemaker* I liked nothing Gunn had ever
-done.. But a lot of ppl like his movies so I relied on others' views
-in further commentary (you need these tricks when you are an
-all-around shoot-the-shit commentator like me, to remain
-objective). PM showed me personally he could actually pull off a
-grander project. From DCEU perspective a lot hinges on the new SM, it
-is supposed to kick off a whole new cinematic universe.
+Borrell: "EU says ICC arrest warrants for Netanyahu, Gallant.. is a
+binding decision and all states, all state parties of the court, which
+include all members of the European Union, are binding to implement
+this court decision"
 
 ---
 
-Great, Gunn federated his Threads, can now follow him on
-Mastodon. JG is the director currently working on the new Supes movie,
-the reboot.
+Latest frontline map (below) shows this clearly
 
-"@jamesgunn@threads.net
+TASS: "Russian servicemen control 30% of Chasov Yar in DPR — expert"
 
-Sam McCurdy won a well-deserved Emmy for his cinematography on Shogun
-- now he’s here killing it on Peacemaker."
+---
+
+TASS: "State Department says US-India relations hit some headwinds due
+to Russia, BRICS"
+
+---
+
+\#UA \#RU 11/15 - 11/23
+
+[[-]](mbl/2024/ukrdata/map44.html)
 
 ---
 
@@ -148,5 +155,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-

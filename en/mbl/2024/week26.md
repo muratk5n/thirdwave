@@ -129,7 +129,7 @@ see is in Kharkiv, but is that front another meat grinder?
 
 \#Frontline \#RU \#UA 06/20 - 06/27
 
-[[-]](mbl/2024/ukrdata/map24-ext.html)
+[[-]](ukrdata/map24.html)
 
 ---
 

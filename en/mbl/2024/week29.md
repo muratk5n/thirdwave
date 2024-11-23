@@ -237,7 +237,7 @@ accelerates his party’s rejection of its Reaganite roots.
 
 \#Frontline \#RU \#UA 07/10 - 07/18
 
-[[-]](ukrdata/map27-ext.html)
+[[-]](ukrdata/map27.html)
 
 ---
 

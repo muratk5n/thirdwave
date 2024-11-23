@@ -676,7 +676,7 @@ Lebanese emergency workers"
 
 \#Frontline \#UA \#RU 08/30 - 09/09
 
-[[-]](ukrdata/map34-ext.html)
+[[-]](ukrdata/map34.html)
 
 ---
 

@@ -300,7 +300,7 @@ study"
 
 \#Frontline \#UA \#RU - 05/30 - 06/06
 
-[[-]](ukrdata/map21-ext.html)
+[[-]](ukrdata/map21.html)
 
 ---
 
