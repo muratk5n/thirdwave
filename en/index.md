@@ -31,81 +31,88 @@ together of ordinary people"
 
 ---
 
+Matthew Hass, UCCS: "Somewhere between the end of 2000 and mid
+2001.. Goldman Sachs (GS), facilitated several intricate transactions
+with Greece. These transactions employed trading methods utilizing
+elaborate financial derivatives (particularly security swaps) with the
+purpose of concealing Greek national debt. The Hellenic Republic of
+Greece was the newest member of the Eurozone at the time.
 
-DIW: "[Our study shows e]nvironmental zones have positive effects on
-school performance and mental health – More primary school students
-make the jump to high school – Antidepressant prescriptions,
-depression and anxiety disorders are declining – Sustainable transport
-policy should not only be promoted with an eye on the environment
+In order to remain in the European Union (EU), a nation must meet and
+uphold financial policies per the Maastricht Treaty. The two limits
+imposed on government finances were the following: '3% for the ratio
+of the planned or actual government deficit to gross domestic product
+[GDP] at market prices,' and '60% for the ratio of [total] government
+debt to gross domestic product [GDP] at market prices'.. In an effort
+to hide Greece’s swelling public debt from EU regulators (in 2009 debt
+to GDP ratio was 130%), Goldman Sachs implemented over-the-counter
+(OTC) trades—private trades occurring outside any regulated securities
+exchange. These trades involved exchanges of derivative contracts
+(swaps) between GS and Greece. In short, Goldman Sachs succeeded in
+avoiding EU scrutiny by giving Greece an off-the-books loan.
 
----
+Greece’s publicly reported deficit/debt ratios were artificially
+reduced in 2001 by effectively issuing the country an upfront
+‘cash-advance,’ through the use of cleverly crafted swaps by Goldman
+Sachs, at a time when such a ‘loan’ was not required by Eurostat to be
+reported as a liability. Therefore, the unconventional pseudo-loan was
+not only kept off the public books, it was also explicitly used to
+write-down the existing sovereign debt load as though the funds were
+in fact surplus government revenue..
 
-"Environmental Zones (Umweltzonen) in Germany.. There are three
-different stickers: a green one certifying that the vehicle is
-environmentally acceptable; a yellow one for less acceptable vehicles
-and a red one for those that are still less acceptable... Gasoline-
-and diesel-powered vehicles without catalytic converters will be
-unable to get any kind of a sticker and will not be permitted in the
-environmental zones. All gasoline-powered cars with catalytic
-converters will get a green sticker. The first environmental zones
-were established on January 1, 2008 in Berlin, Cologne and Hannover"
+Since these swaps and loans were kept off the books, no higher entity
+could crosscheck the methods or numbers used by Goldman Sachs. The
+swaps implemented were cross-currency swaps (CCSs) which GS
+specifically engineered with fictitious exchange rates. This gave the
+deal a lure of profitability and a guise of stability to the Hellenic
+Republic.
 
----
+These tactics may have given Greece the appearance of an improving
+financial position (required by the Maastricht Treaty for membership
+in the Eurozone), but they essentially created a house of cards that
+could only stand for so long"
 
-He said this over 50 years ago.. Many ppl today voice similar
-predictions, they too will be wrong.
-
-A.I guru Marvin Minsky: "In from 3 to 8 years we will have a machine
-with the general intelligence of an average human being"
-
----
-
-CNBC: "Walmart's same-store sales rose 5.3%, while Target's increased
-only 0.3% year over year."
-
----
-
-*Dune Prophecy* not good
-
----
-
-Academic degrees should play a lesser role, also, they way degrees are
-judged needs to change. We need to go back to a [fail/pass based
-education](./0119/2011/02/grading.html) where student study the
-subject until a pass grade, however long that takes. The system can be
-turned upside down, pre-recorded videos deliver the lecture, pass/fail
-judgement will require an actual person, that professional/expert
-would be part of a DOED team of expert test adminstrators. Exam would
-be scheduled at will whenever a student feels ready.
+[[-]](https://business.uccs.edu/sites/g/files/kjihxj2561/files/inline-files/Goldman%20Sachs_0.pdf)
 
 ---
 
-MSNBC: "'The diploma divide': David Brooks calls for redefining
-success beyond SATs and GPAs"
+Brent Welder: "This morning’s email from Bernie Sanders is not just
+some run-of-the-mill campaign email"
+
+[Page 1](https://pbs.twimg.com/media/GdFLH7RWUAAY4DK?format=jpg&name=large),
+[Page 2](https://pbs.twimg.com/media/GdFLH7RXYAArjry?format=jpg&name=large)
 
 ---
 
-Borrell: "EU says ICC arrest warrants for Netanyahu, Gallant.. is a
-binding decision and all states, all state parties of the court, which
-include all members of the European Union, are binding to implement
-this court decision"
+The key lesson here is if a party bases its votes on a numerous group,
+it increases their staying power. DJT lost in 2020 but did not lose
+*badly*. His connection to the working class helped avert a bigger
+loss which he subsequently used for his 2024 win.
 
 ---
 
-Latest frontline map (below) shows this clearly
-
-TASS: "Russian servicemen control 30% of Chasov Yar in DPR — expert"
+Ruffini, *Party of the People*, 2023: "It needs to be repeated that
+Trump lost the 2020 election. Neither his gains in key groups nor his
+false narratives about a stolen election change this fact. But Trump’s
+performance was testament to the resiliency of a Republican coalition
+built around the working-class voter, which in 2020 had grown to
+include more nonwhite voters. The rise of multiracial working-class
+conservatism, once on track to merit but a small footnote in the story
+of a landslide Trump defeat, instead became a crucial reason why the
+election was so close. For Republicans, this proved to be both a
+blessing and a curse. On the one hand, it sketched out a future road
+map to winning over diverse nonwhite voters on the same terms that it
+had won over white working-class voters. On the other hand, the
+closeness of the result gave Trump little reason to leave the stage,
+his presence clouding Republican prospects in the 2022 midterms—and
+the 2024 presidential race"
 
 ---
 
-TASS: "State Department says US-India relations hit some headwinds due
-to Russia, BRICS"
+\#RSF \#SAF 11/05 11/24 Very little change in nearly three weeks.. Why
+are these guys fighting again?
 
----
-
-\#UA \#RU 11/15 - 11/23
-
-[[-]](mbl/2024/ukrdata/map44.html)
+[[-]](mbl/2024/sdndata/map9.html)
 
 ---
 
