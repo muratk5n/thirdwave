@@ -381,8 +381,6 @@ out of politics, get the money out of healtcare [and other sectors]"
 
 "Hyundai Motor Reveals Bold and Efficient Hydrogen FCEV Concept"
 
-<img width='340' src='https://media.infosec.exchange/infosec.exchange/cache/preview_cards/images/030/904/850/original/d290e6baa57185da.jpg'/>
-
 ---
 
 Renewables Now: "China's electrolyser manufacturing capacity may hit

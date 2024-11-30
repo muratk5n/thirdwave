@@ -13,7 +13,7 @@ if sys.argv[1] == 'week':
     print("Week #" + str(week_num) + " of year " + str(year))
 
 if sys.argv[1] == 'years':
-    for year in range(2020,2024):
+    for year in range(2020,2025):
         os.system("echo '# %d\n' > %d/index.md" % (year,year))
         os.system("python -u gen.py %d >> %d/index.md" % (year,year))
     print ('title done')
@@ -38,16 +38,19 @@ if sys.argv[1] == 'pdf':
     files2 = glob.glob("**/**/*.md")
     files2 = sorted(files2)
     files = files1 + files2
-    files = [f for f in files if "mbl" not in f]
+    #files = [f for f in files if "mbl" not in f]
     for i,file in enumerate(files):
         if "index.md" in file: continue
         print (file)
         file2 = file.replace("0119/","")
         f = os.path.basename(file).replace(".md",".pdf")
         dir = os.path.dirname(file)
-        res = re.findall("(\d\d\d\d\/\d\d)",file2)[0]
-        i = int(res.replace("/",""))
-        f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
+        #res = re.findall("(\d\d\d\d\/\d\d)",file2)[0]
+        #i = int(res.replace("/",""))
+        if "/week" in file: 
+            f = "/opt/Downloads/twpdf/%04d-%s" % (i+5000,f)
+        else: 
+            f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
         os.chdir(dir)
         cmd = "pandoc %s --latex-engine=xelatex -fmarkdown-implicit_figures -o %s" % (os.path.basename(file),f)
         if not os.path.isfile(f): 

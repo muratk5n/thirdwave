@@ -391,8 +391,7 @@ def map_isr_suriyak():
         "IDF..Area of Operations...Lebanon 6",
         "IDF..Area of Operations...Lebanon 7",
         "IDF..Area of Operations...Lebanon 8",
-        "IDF..Area of Operations...Lebanon 9",
-        "IDF..Area of Operations...Lebanon 10"]
+        "IDF..Area of Operations...Lebanon 9"]
     
     content = open("/tmp/isr.kml").read()
 

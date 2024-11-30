@@ -67,20 +67,20 @@ plt.savefig('cycle.png')
 ```text
               gdpyoy
 DATE                
-2023-01-01  2.280809
 2023-04-01  2.829462
 2023-07-01  3.236308
 2023-10-01  3.196217
 2024-01-01  2.901832
 2024-04-01  3.036849
+2024-07-01  2.659241
                  inf
 DATE                
-2024-03-01  3.477385
-2024-04-01  3.357364
 2024-05-01  3.269029
 2024-06-01  2.971397
 2024-07-01  2.894753
 2024-08-01  2.530730
+2024-09-01  2.440633
+2024-10-01  2.597905
 ```
 
 <a name='taylor'></a>
@@ -728,4 +728,6 @@ key in a `.quandl` file in the same directory as this file.
 [5] [Hedgeeye](https://app.hedgeye.com/mu/he_qio_4q19_10-3-2019?encoded_data=ft9F,6yjgJ3+iFdaasKwdMTJVgzgnZlI=,)
 
 [6] [Schiller](http://www.econ.yale.edu/~shiller/data.htm)
+
+
 
