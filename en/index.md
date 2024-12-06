@@ -1,4 +1,76 @@
 
+NYT: "Russia and Iran Pledge Support for Syria’s al-Assad Against
+Advancing Rebels"
+
+---
+
+Stratfor: "The fall of Aleppo and further rebel advances in southern
+Syria will threaten Iran's supply lines to Hezbollah in neighboring
+Lebanon"
+
+---
+
+\#Wilkerson \#Gaza
+
+[[-]](https://youtu.be/OdU_egbDv8c?t=1863)
+
+---
+
+Energy News Bulletin: "Hazer bags $6.2mn [Oz] government funding for
+hydrogen production"
+
+---
+
+\#Stewart \#MorningJoe
+
+[[-]](https://www.youtube.com/embed/HNcmo-K5Xsg?start=627&end=665)
+
+---
+
+"Amnesty International investigation concludes Israel is committing
+genocide against Palestinians in Gaza .. [their] research has found
+sufficient basis to conclude that Israel has committed and is
+continuing to commit genocide against Palestinians in the occupied
+Gaza Strip, the organization said in a landmark new report published
+today"
+
+---
+
+404 Media: "Major Health Insurance Companies Take Down Leadership
+Pages Following Murder of United Healthcare CEO"
+
+---
+
+ProPublica: "[2024/02] UnitedHealthcare Tried to Deny Coverage to a
+Chronically Ill Patient. He Fought Back, Exposing the Insurer’s Inner
+Workings...  More than 200 million Americans are covered by private
+health insurance. But data from state and federal regulators shows
+that insurers reject about 1 in 7 claims for treatment. Many people,
+faced with fighting insurance companies, simply give up: One study
+found that Americans file formal appeals on only 0.1% of claims denied
+by insurers under the Affordable Care Act"
+
+---
+
+"@rusty@piaille.fr
+
+Yesterday, an American billionaire was shot dead in the middle of New
+York. This man was the CEO of a health insurance company
+[UnitedHealthcare], and he held the record for the number of denials
+of reimbursement. The worst executive in American health insurance.
+
+And so, Americans don't sympathize. This morning I'm inundated with
+jokes about an assassination, it's really strange"
+
+---
+
+"@wilbr@glitch.social
+
+That's not funny, my beloved grandma was an insurance CEO who made
+$10-20 million per year"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
