@@ -86,8 +86,8 @@ Ukraine, Iraq as examples.
 ---
 
 When the CEO of the United Fruit company wanted to arrange a coup in
-Honduras the Department of State told the him **not** to do it. DOS
-even put a tail on him, he evaded the tail, hired bunch of ships,
+Honduras the Department of State told him **not** to do it. DOS even
+put a tail on him, he evaded the tail, hired bunch of ships,
 mercenaries and went to Honduras and overthrew the government there,
 installed a puppet president in 1912. This was a businessman.
 

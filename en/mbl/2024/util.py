@@ -351,10 +351,6 @@ def baci_top_product(frc, toc):
     for x in textwrap.wrap(s, width=70):
     	print (x)
         
-##############################################################################    
-##############################################################################    
-##############################################################################    
-        
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
     print (q)
@@ -366,6 +362,10 @@ def get_coords_for_label(content, reg):
     coords = [[float(x),float(y)] for x,y in coords]
     return coords
 
+##############################################################################    
+##############################################################################    
+##############################################################################    
+            
 def prep_isr_suriyak():
 
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Palestine-Lebanon Map.kmz') as myzip:
@@ -379,7 +379,7 @@ def prep_isr_suriyak():
     fout = open("/tmp/isr.kml","w")
     fout.write(content)
     fout.close()
-
+    
 def map_isr_suriyak():
     prep_isr_suriyak()
     isr_regs = [
@@ -413,21 +413,6 @@ def map_isr_suriyak():
 ##############################################################################    
 ##############################################################################    
 
-sudan_regs2 = [
-    "RSF-N.Kordofan",
-    "RSF- White Nile",
-    "RSF-Khartoum",
-    "RSF-Gezira",
-    "RSF-W.Kordofan",
-    "RSF-S.Darfur",
-    "RSF-N.Darfur",
-    "RSF-C.Darfur",
-    "RSF-W. Darfur 1",
-    "RSF-W. Darfur 2",
-    "RSF-Sennar",
-    "RSF-E.Darfur",
-    "RSF-W.Kordofan"]
-
 def prep_sahel():
 
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Sahel.kmz') as myzip:
@@ -451,6 +436,21 @@ def map_sahel_suriyak():
     Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
     """
     prep_sahel()
+
+    sudan_regs2 = [
+        "RSF-N.Kordofan",
+        "RSF- White Nile",
+        "RSF-Khartoum",
+        "RSF-Gezira",
+        "RSF-W.Kordofan",
+        "RSF-S.Darfur",
+        "RSF-N.Darfur",
+        "RSF-C.Darfur",
+        "RSF-W. Darfur 1",
+        "RSF-W. Darfur 2",
+        "RSF-Sennar",
+        "RSF-E.Darfur",
+        "RSF-W.Kordofan"]
     
     content = open("/tmp/sahel.kml").read()
 
@@ -604,8 +604,4 @@ def map_ukraine_suriyak():
     
 if __name__ == "__main__": 
 
-    #map_ukraine_suriyak()
-    #map_sahel_suriyak()
-    map_isr_suriyak()
-    #kh_djt_538_polls()
-    
+    map_syria_suriyak()
