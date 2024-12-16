@@ -1,5 +1,42 @@
 # Week 50
 
+<iframe width="320" src="https://www.youtube.com/embed/0wapZnDvfhk?start=2607&end=2641" title="Democratic Presidential Debate 2016 by Univision - 03-09-2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+Once the dimwit boomer new generation who worked under Roddenberry
+aged enough they brought their repugnant economic right / social left
+Clintonesque attitudes into the show (this gen is mostly fucked in the
+brain), *Deep Space Nine* ushered in the Ferrengi into the mainstream,
+normalized them, now they were part of the show's "diversity" and
+money was mentioned, used frequently in episodes.. GR had died at this
+point, so the new gen had freer rein. Let's have no doubt, the most
+complained-about recent Trek fare is directly tied to that trend.
+
+---
+
+Gene Roddenberry designed Star Trek to be a post-capitalist universe,
+note their system had no use for money. There is a reason why the
+ultra-capitalist race in it, the Ferrengi look ugly, their heads
+literally made to look like ass. This is how Roddenberry wanted you to
+see ultra-capitalists.
+
+---
+
+Counterpunch: "Twelve U.S. Billionaires Now Have a Combined $2 Trillion"
+
+<img width='340' src='https://www.counterpunch.org/wp-content/uploads/2023/08/IMG_1676-840x630.jpeg'/>
+
+---
+
+<iframe width="320" src="https://www.youtube.com/embed/Nyvxt1svxso?start=84" title="George Carlin - It&#39;s A BIG Club &amp; You Ain&#39;t In It!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="320" src="https://www.youtube.com/embed/b6H6lNK783M?start=197&end=272" title="Bill Burr | CEO Gets Whacked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Chemical Analyst: "South Korea to Build the World's Largest Hydrogen
 Fuel Cell Power Plant in Gyeongju"
 
