@@ -216,11 +216,7 @@ To: Hillary Clinton..
 TR likely gave the green light, as Sunni jihadis (read: anti-Shite,
 meaning anti-Iran and of course anti-Russia) are on their camp. But
 since Asia Minor is America's bitch US likely gave the original
-order. The directive even possibly originated from Trump towards a TR
-gov eager to curry favor with him for the next administration. New US
-admin would want quick resolution in Ukraine, chaos in Syria could be
-a bargaining chip for that? But the US-jihadi connection is well known
-and goes back years.
+order... The US-jihadi connection is well known and goes back years.
 
 ---
 
