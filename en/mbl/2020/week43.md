@@ -421,10 +421,6 @@ can be used as a clean fuel"
 
 ---
 
-A, AB blood types more susceptible to covid? 
-
----
-
 "French President Macron Wants to Advance Hydrogen Alliance with Berlin"
 
 [Link](https://mobile.twitter.com/fuelcellsworks/status/1317831567977435136)

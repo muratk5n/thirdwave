@@ -12,8 +12,6 @@
 
 [The Culture Code](../../0119/2014/06/the-culture-code.html)
 
-[Blood Type Diet](../../0119/2012/04/blood-type-diet.html)
-
 [Myers-Briggs](../../0119/2012/01/mbti.html)
 
 [Ferming (Not Farming), Lab-Grown Meat](../../2022/06/lab-grown-meat.html)

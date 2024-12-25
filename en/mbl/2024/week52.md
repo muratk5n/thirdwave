@@ -1,6 +1,5 @@
 # Week 52
 
-
 Ed Zitron: "In the last year, I’ve spent about 200,000 words on a kind
 of personal journey where I’ve tried again and again to work out
 why everything digital feels so broken, and why it seems to keep
@@ -43,7 +42,7 @@ requires you to join their organization, which may or may not work"
 
 ---
 
-If Iran / Russia were unhappy with Assad but Israel was, both
+If Iran / Russia were not happy with Assad but Israel was, both
 countries could prefer a new regime given they received certain
 guarantees. In that case the toppling of Assad becomes an RU/TR/IR
 operation. How Syria shapes up after Assad will give clues which side

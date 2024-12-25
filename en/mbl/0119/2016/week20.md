@@ -146,47 +146,6 @@ This guy finally lost it - I profiled him and he is on the negative in all aspec
 
 ---
 
-Pork is banned in some religions. Is it good or bad?
-
-Not healthy
-
-I don't mean to sour anyone's bacon and egg experience, but according
-to the Blood Type Diet, there are only a few food items that are
-unhealthy for all blood types, and pork is one of them.
-
-The others are black pepper, carbonated water (soda), blue cheese,
-corn oil, american cheese.
-
----
-
-Question
-
-If we abolish centralized, fiat money, there will be no interest
-payments for any kind of debt. 
-
-Unlikely
-
-Interest collected on debt reflects risk perception on that loan. A
-risky business / person will get a higher rate, lower one a lower
-rate. Market forces will / need to do their thing, so there would be
-interest on debt even if we were using a cybercurrency like Bitcoin.
-
-We see this risk pricing at country level all the time; sometimes
-entire countries can fall out of favor with creditors, then can become
-favorites again depending on the policy changes. For example Argentina
-was ruled badly for a long time (by a nationalist / populist /
-nativist ideology, take your pick), it fell out of favor with
-creditors. There was a change of power recently, now they are back in
-the bond market. They have been out for a long time, they need money,
-so they need to offer better (higher) rates to creditors. On the other
-side because of the current easy money / QE environment, investors are
-hungry for yield, so I bet they jumped on those Argentinian bonds the
-moment they became available. It's beautiful how it all works. 
-
-Article
-
----
-
 This [bad] treatment of moneylenders is unjust but not new. For
 millennia they have been the primary scapegoats for practically every
 economic problem. They have been derided by philosophers and condemned

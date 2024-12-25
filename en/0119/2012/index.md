@@ -10,8 +10,6 @@
 
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.html)
 
-[Blood Type Diet](04/blood-type-diet.html)
-
 [The Third Industrial Revolution](04/the-third-industrial-revolution.html)
 
 [The Fabric of Creativity](05/fabric-of-creativity.html)
