@@ -1,5 +1,53 @@
 # Week 52
 
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/717/821/361/177/454/original/8cba8410e495bad8.jpeg'/>
+
+---
+
+Chomsky: "[2015] America is a plutocracy masquerading as a
+democracy.. Democrats now are mostly what used to be called ‘moderate
+Republicans.’ There’s ample evidence that most of the population, at
+the lower end of the income spectrum, is effectively disenfranchised –
+their representatives pay no attention to their opinions. Moving up
+the income ladder, influence increases slowly, but it’s only at the
+very top that it has real impact"
+
+---
+
+Gore Vidal: "There is only one party in the United States, the
+Property Party.. and it has two right wings: Republican and Democrat."
+
+---
+
+\#Chapo
+
+[[-]](https://www.youtube.com/embed/rZOHR4LMclM?start=912&end=979)
+
+---
+
+Politico: "New research shows the massive hole Dems are in.. Even
+voters who previously backed Democrats cast the party as weak and
+overly focused on diversity and elites..
+
+When asked to compare the Democratic Party to an animal, one
+participant compared the party to an ostrich because 'they’ve got
+their heads in the sand and are absolutely committed to their own
+ideas, even when they’re failing.' Another likened them to koalas, who
+'are complacent and lazy about getting policy wins that we really
+need.' Democrats, another said, are 'not a friend of the working class
+anymore'"
+
+---
+
+Malik, *The Guardian*: "A consensus is emerging: Israel is committing
+genocide in Gaza. Where is the action?"
+
+---
+
+Al Monitor: "Pope again condemns 'cruelty' of Israeli strikes on Gaza"
+
+---
+
 Ed Zitron: "In the last year, I’ve spent about 200,000 words on a kind
 of personal journey where I’ve tried again and again to work out
 why everything digital feels so broken, and why it seems to keep
