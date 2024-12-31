@@ -30,17 +30,14 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
 
-<pre><code class="python">df = u.get_fred(1980, ['GDPC1','CLVMEURSCAB1GQEA19'])
+<pre><code class="python">df = u.get_fred(1980, ['DRCCLACBS'])
 </code></pre>
 
-<pre><code class="python">df.pct_change().dropna().mean()*100
+<pre><code class="python">df.plot(title='Delinquency Rate on Credit Card Loans')
+plt.savefig('/tmp/out.jpg')
 </code></pre>
 
-<pre><code class="text">Out[1]: 
-GDPC1                 0.623935
-CLVMEURSCAB1GQEA19    0.378737
-dtype: float64
-</code></pre>
+<p>https://fred.stlouisfed.org/series/DRCCLACBS</p>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
