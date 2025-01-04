@@ -5,6 +5,12 @@ Pinned Post
 
 ---
 
+\#RU #UA 2024/12/17 - 01/13
+
+[[-]](mbl/2025/ukrdata/map01.html)
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)

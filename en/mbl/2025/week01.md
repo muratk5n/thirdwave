@@ -1,5 +1,196 @@
 # Week 1
 
+"As first-time homebuyers across the country face higher-than-ever
+costs, California Rep. Ro Khanna is going after one of the biggest
+winners of the housing crunch: Wall Street landlords. On Tuesday,
+Khanna reintroduced the Stop Wall Street Landlords Act, a bill that
+seeks to deter large institutional investors from scooping up
+single-family homes...
+
+In the first half of 2024, one in four 'low-priced' homes were
+purchased by investors, according to the realty company Redfin. In
+that same time, the percentage of Americans with a 'high degree of
+concern' about housing costs rose to 69%, per data collected by the
+Pew Research Center.
+
+If passed, Khanna’s bill would increase taxes on future home
+acquisitions made by companies and private equity funds that hold over
+$100 million in assets and bar government-supported lenders from
+backing new mortgages for such purchases. Khanna argued that
+preventing large institutional investors from treating housing as a
+speculative asset would ease an affordability crisis where demand for
+housing has far outstripped supply"
+
+---
+
+78 Lex was silly. 2006 was too angry. Gunn is right the *Smallville*
+version is definitely the best one. Can the new Lex top that?
+
+---
+
+For the 2006 Supes movie I remember B. Singer was going around saying
+"Donner's vision! Donner's vision!", and the movie flopped, I dont
+think he was able to capture Donner's vision, or if it would have
+mattered if he did. The lighthearted tone Gunn is aiming for can work,
+was that Donner's vision? Whatever. Let's hope it all works out.
+
+---
+
+Zachary Levy MD: "United Healthcare just denied a claim on one of my
+patients in the ICU with:
+
+- a brian hemorrhage
+- in a coma
+- on a ventilator
+- in heart failure
+
+.. because I haven't proven to them that caring for her in the
+hospital was 'medically necessary'.
+
+Tear it all down"
+
+---
+
+Private, corporate fascism (the latter word literally meaning
+corporatism) is worse than any other opression.. That's why biz needs
+to be kept in check, gov needs to carry a big stick, and sometimes
+bash them on the head just to show them who the boss is. Hint: it's
+the people through their representative government.
+
+The Daily Economy: "[2022/09] Imagine if officials at your local bank
+announced that they would start surveilling your public speech and
+messages, and would deduct money from your account if they didn’t like
+what you said. PayPal, the online payment services provider, unleashed
+a furor last week after announcing just such a scheme...
+
+In published amendments to its Acceptable Use Policy, the company
+informed its customers, 'You may not use the PayPal service for
+activities that ... involve the sending, posting, or publication of
+any messages, content, or materials that, in PayPal’s sole discretion
+…  promote misinformation.' PayPal claimed the right to seize $2500
+from customers’ accounts for any purported violations.
+
+PayPal’s.. former CEO David Marcus [responded:] 'PayPal’s
+new.. [policy].. goes against everything I believe in. A private
+company now gets to decide to take your money if you say something
+they disagree with. Insanity'"
+
+---
+
+"@anarchoshanties.bsky.social
+
+The Art of War is so funny when you realise it's basically a very
+frustrated Sun Tzu writing The Absolute Dipshit Entitled Brat Silver
+Spoon Nepo Baby's Guide to Not Immediately Fucking Up A War, which
+also explains why CEOs like it so much"
+
+---
+
+Euronews: "Paris and Berlin are now linked with an 8 hour daily rail
+service, that starts at €59. It produces 100th of the emissions of
+flying between the cities"
+
+---
+
+Molly White: "Not just one bad apple: FTX's practices were business as
+usual in crypto.. Over a year after Sam Bankman-Fried’s trial, perhaps
+one of the most memorable moments to stick with me was an unexpected
+one: a brief exchange between prosecutors and BlockFi founder Zac
+Prince.
+
+>BlockFi's Zac Prince: [With] crypto firms, it was much less common to have audited balance sheets because of issues with getting audits as a cryptocurrency firm.
+>
+>Prosecutor: Just to be clear, some of the balance sheets you received from crypto firms were what is called unaudited balance sheets.
+>
+>Prince: I would say the majority of balance sheets that we received from cryptocurrency firms were unaudited.
+
+This casual statement about lending hundreds of millions based on
+scrawled estimates and a 'trust me, bro' underscored the deception in
+crypto executives’ post-collapse claims that FTX was a rare bad actor
+with aberrant business practices"
+
+[[-]](https://www.citationneeded.news/not-just-one-bad-apple/)
+
+---
+
+The rest of the junk science/tech catalog is [here](0119/2018/09/junk-science.html).
+
+---
+
+Wiltshire's work was referenced earlier in [this post](2022/08/dark-energy.html).
+
+---
+
+Royal Astronomical Society: "Dark energy 'doesn’t exist'.. The new
+evidence supports the 'timescape' model of cosmic expansion, which
+doesn't have a need for dark energy because the differences in
+stretching light aren't the result of an accelerating Universe but
+instead a consequence of how we calibrate time and distance...
+
+Professor David Wiltshire, who led the study, said: 'Our findings show
+that we do not need dark energy to explain why the Universe appears to
+expand at an accelerating rate.. Dark energy is a misidentification of
+variations in the kinetic energy of expansion, which is not uniform in
+a Universe as lumpy as the one we actually live in.'
+
+He added: 'The research provides compelling evidence that may resolve
+some of the key questions around the quirks of our expanding
+cosmos... With new data, the Universe's biggest mystery could be
+settled by the end of the decade'" via @AntonPetrov
+
+[[-]](https://ras.ac.uk/news-and-press/research-highlights/dark-energy-doesnt-exist-so-cant-be-pushing-lumpy-universe-apart)
+
+---
+
+NYT: "[2015] The employees who kept the data systems humming in the
+vast Walt Disney fantasy fief did not suspect trouble when they were
+suddenly summoned to meetings with their boss... ome were performing
+so well that they thought they had been called in for bonuses...
+Instead, about 250 Disney employees were told in late October that
+they would be laid off. Many of their jobs were transferred to
+immigrants on temporary visas for highly skilled technical workers,
+who were brought in by an outsourcing firm based in India. Over the
+next three months, some Disney employees were required to train their
+replacements to do the jobs they had lost.
+
+'I just couldn’t believe they could fly people in to sit at our desks
+and take over our jobs exactly,' said one former worker, an American
+in his 40s who remains unemployed since his last day at Disney on
+Jan. 30. 'It was so humiliating to train somebody else to take over
+your job. I still can’t grasp it.'"
+
+---
+
+Captain America: Corporate Soldier.
+
+---
+
+The Nomad era in CA canon is when Cap was at odds with the goverment,
+he was on the run following the "Sokovia Accords". Of course the
+examplar, the shit, "America's Ass" would be against the government,
+and this is the time period they will focus for that show. Corporate
+subliminal messaging is telegramming the message "government is bad,
+look at Cap, you should be like him (wink wink they also want to tax
+us, so be against everything they do)". Pysop.
+
+"A Nomad TV series is being planned for Disney Plus"
+
+---
+
+Credit card delinquency rate is highest since GFC. People don't have
+money to spend... rates will stay low, pro-business pro-growth
+policies will not work, asset prices will go through the roof,
+inequality will rise. This is your future.
+
+```python
+df = u.get_fred(1980, ['DRCCLACBS'])
+df.plot(title='Delinquency Rate on Credit Card Loans')
+```
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/743/081/083/053/195/original/790917a789ddee41.jpg'/>
+
+---
+
 A goverment of cocksuckers, by cocksuckers, for cocksuckers.. Guess
 what bitch.. it can perish off the face of this earth. It happened
 before, and it can happen again.
