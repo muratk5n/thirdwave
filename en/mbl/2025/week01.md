@@ -1,5 +1,97 @@
 # Week 1
 
+NYT: "I Was a Health Insurance Executive. What I Saw Made Me
+Quit... At Cigna, my P.R. team and I handled dozens of calls from
+reporters wanting to know why the company refused to pay for a
+patient’s care. We kept many of those stories out of the press..
+
+One story that we couldn’t keep out of the press and that contributed
+most to my decision to walk away from my career in 2008 involved
+Nataline Sarkisyan, a 17-year-old leukemia patient in California whose
+scheduled liver transplant was postponed at the last minute when Cigna
+told her surgeons it wouldn’t pay. Cigna’s medical director, 2,500
+miles away from Ms. Sarkisyan, said she was too sick for the
+procedure. Her family stirred up so much media attention that Cigna
+relented, but it was too late. She died a few hours after Cigna’s
+change of heart.
+
+Ms. Sarkisyan’s death affected me personally and deeply. As a father,
+I couldn’t imagine the depth of despair her parents were facing. I
+turned in my notice a few weeks later"
+
+[[-]](https://www.nytimes.com/2024/12/18/opinion/health-insurance-united-ceo-shooting.html)
+
+---
+
+"China's largest offshore solar-hydrogen farm starts operation... The
+largest of its kind in China, the energy farm is officially known as
+the Rudong offshore photovoltaic-hydrogen energy storage project...
+By integrating hydrogen production through water electrolysis, the
+overall energy utilization efficiency is further enhanced"
+
+<img width='340' src='https://www.globaltimes.cn/Portals/0/attachment/2025/2025-01-05/9e4cc273-43fb-4d20-a735-72ff11ab4b13.jpeg'/>
+
+---
+
+Newsmax: "In a now controversial move, Tesla has reportedly replaced
+thousands of U.S. employees laid off earlier this year with foreign
+workers on H-1B visas, sparking debates over labor practices and the
+visa program's role in American job markets"
+
+---
+
+\#UnitedHealth \#Warren \#Upcoding
+
+[[-]](https://youtu.be/y8rsUomDiHw?t=72)
+
+---
+
+The tech doesn't work but there is so much money seeking investment
+targets that the hype had to keep going.. That's why Balaji was
+suicided. Moneyed interests are behind it. These bleeping bleepers are
+worse than any opressive order anyone can imagine. It's like 1984 but
+for moneyed class.
+
+---
+
+The tech is still shit, LLMs are as smart as a hamster.
+
+---
+
+\#Balaji \#OpenAI
+
+[[-]](https://youtu.be/hgX3Z5u2cfY?t=129)
+
+---
+
+Suicided
+
+The Guardian: "[2024/12] OpenAI whistleblower who died was being
+considered as witness against company"
+
+---
+
+From a strategic pov more EU presence in Syria esp. now through TR
+makes sense. Europe has a lot of intrests in Anatolia, vica
+versa. After the Syrian refugee crisis interdependence increased, but
+it is all a simple function of geography.
+
+---
+
+German FM made a visit to Syria. Syria will need lota cash to rebuild,
+and I believe Europe just showed up at the door w promise of
+truckloads, granted Syria is governed certain way. Good.. I hope the
+EU is actively involved in building gov structures in Syria. That
+would ease the reintegration of the country as well..
+
+---
+
+\#RU #UA 2024/12/17 - 01/13
+
+[[-]](ukrdata/map01.html)
+
+---
+
 "As first-time homebuyers across the country face higher-than-ever
 costs, California Rep. Ro Khanna is going after one of the biggest
 winners of the housing crunch: Wall Street landlords. On Tuesday,
@@ -113,11 +205,11 @@ with aberrant business practices"
 
 ---
 
-The rest of the junk science/tech catalog is [here](0119/2018/09/junk-science.html).
+The rest of the junk science/tech catalog is [here](../../0119/2018/09/junk-science.html).
 
 ---
 
-Wiltshire's work was referenced earlier in [this post](2022/08/dark-energy.html).
+Wiltshire's work was referenced earlier in [this post](../../2022/08/dark-energy.html).
 
 ---
 
