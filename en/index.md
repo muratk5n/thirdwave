@@ -5,49 +5,88 @@ Pinned Post
 
 ---
 
-Cocktail Martino - The Girl from Ipanema - feat. Tom Gaebel \#music
-
-[[-]](https://youtu.be/cq6Comi5I4U)
+Happy Past January 6. Insurrectionists: be better prepared next time.
 
 ---
 
-Actually I was unfair, LLMs are not as smart as an hamster.. An
-hamster is still smarter than these "AI" algorithms. I meant LLM
-*processing power* is similar to an hamster. But since their
-algorithms are shit, inefficient, the result is colorful, sometimes
-creative, parroty junk. It can sound smart, but boy, when it takes a
-wrong turn, it all goes down the cliff.. A hamster is absolutely
-smarter than any neural network based approach currently in use.
+Obviously serious researchers seeking alternatives means human level
+AI will not be reached via existing approaches. They are just wasting
+energy, creating bunch of junk.
 
 ---
 
-The Congress got off easy on January 6, they should have received a
-good ass kicking.. God knows they deserve it. Moulton, Rouzer,
-Green.. who do they work for? All they do is day trade.. Nancy too of
-course. But there are people who make *more* money than her, strangely
-enough.
+I would call the empty-patch approach supervised learning, it
+seemingly does not require labels, but the labels are generated from
+the data itself. Clustering, PCA are unsupervised, at a fundamental
+level. 
 
 ---
 
-TASS: "Number of Palestinians killed in Gaza since October 2023 surpasses 45,800"
+New "AI" idea is working on a layered architecture where vision based
+training starts first, a net is trained by taking out patches from
+real-world images, and machinery tries to predict those empty
+patches. That way the necessary internal connections are formed
+representing the outside world, visually, then other learning is
+layered on top...
+
+Will motor function be part of that training? A big part of how we
+learn the world is tied to how we move in it. When I take a big step
+vs small one, I see certain visual changes in the outside world (far
+points move little, near ones a lot), that is part of my understanding
+of the outside world.
 
 ---
 
-This is the author of the NYT opinion piece shared before, the health
-insurance exec. Dug it up from my archives, 2020.
-
-"[2020] @wendellpotter@twitter.com
-
-Amid America's \#COVID19 disaster, I must come clean about a lie I
-spread as a health insurance exec: We spent big [dollars] to push the
-idea that Canada's single-payer system was awful & the U.S. system
-much better. It was a lie"
-
-[Link](https://mobile.twitter.com/wendellpotter/status/1276158510955401216)
+Bloomberg: "NTPC’s Clean Energy Arm to Build $21 Billion Green
+Hydrogen Hub..  The clean energy unit of NTPC Ltd., India’s largest
+thermal power producer, is developing a green hydrogen hub at an
+estimated cost of 1.8 trillion rupees (21 billion dollars) as the
+country seeks to add more carbon-free fuel to meet its needs"
 
 ---
 
-NYT: "West Bank Settlers Hope Trump Will Back Annexation Dreams"
+As easy sources of oil become depleted, more risky, harder to drill
+areas will be tried... That means more oil spills. Expect more
+frequent occurences of such events.
+
+---
+
+Data from BP Statistical Review of World Energy 2024
+
+```python
+# thousand barrels daily
+data = [86572, 86572, 91717, 92085, 92588, 95002, 95172, 88928, 90282, 94292, 96376]
+prod = u.get_pd().DataFrame(data,index=range(2013,2024),columns=['world oil production'])
+prod.plot()
+```
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/785/805/963/466/010/original/589a7b09d6b46370.jpg'/>
+
+---
+
+Why did Trump do it? Voters, politicians of all stripes in those
+states like it. 
+
+---
+
+WaPo: "[2020] In reversal, Trump to ban oil drilling off coasts of
+Florida, Georgia and South Carolina.. The move comes after the White
+House previously proposed a huge expansion of drilling off
+U.S. coasts. Democratic and Republican governors have resisted
+offshore oil exploration"
+
+---
+
+CleanTechnica: "[Another admin] cannot simply undo [an environmental]
+EO with a countermanding order.. [such EOs are] similar to other
+permanent protective orders issued by Republican and Democratic
+presidents alike under the authority of the 1953 Outer Continental
+Shelf Lands Act, including Dwight Eisenhower and George H.W. Bush"
+
+---
+
+AP News: "Biden issues ban on offshore oil and gas drilling in most
+federal waters."
 
 ---
 

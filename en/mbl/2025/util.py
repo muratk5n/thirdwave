@@ -1,8 +1,10 @@
-import sys, os, matplotlib.pyplot as plt
+import sys, os, matplotlib.pyplot as plt, pandas as pd
 import re, zipfile, json, numpy as np, datetime
 from shapely.geometry import Polygon
 from shapely.ops import unary_union
 from pandas_datareader import data
+
+def get_pd(): return pd
 
 def get_fred(year, series):
     today = datetime.datetime.now()
