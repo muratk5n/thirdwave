@@ -1,5 +1,225 @@
 # Week 2
 
+Clooney got that "enterpreneurial spirit" too doesn't he, see video
+below, typical all-blue capitalist Democrat, they say nothing about
+inequality, complain about trans bathrooms, and otherwise rake it in
+and expect their side to win elections all the time... This guy has
+been an example for others, and the next gen to follow.. The smart
+one... No wonder US is screwed.
+
+[[-]](https://youtu.be/j_6bscCG7OA?t=1635)
+
+---
+
+It's not a problem of Reps/Dems bickering all the time.. The problem
+is precisely the opposite, these fuckers are exactly the same, on
+material issues that count the most, they bicker on social issues as a
+cover for them allowing the economy being looted by the corporations
+and the rich.
+
+---
+
+Remember Clooney in his more active, visible days, when he was
+'splaining' all day what was wrong with politics.. He was repeating
+that bullshit argument "Democrats and Republicans need to come
+together". That's all he had.  Then bunch of other Holywood types
+repeated this empty mantra, I guess they judged him as "the smart one"
+(for what reason, noone knows), and followed him. I'm glad the
+politics-savy Clooney figure finally imploded.
+
+---
+
+That should teach you to stay away from politics Holywood
+
+---
+
+😂 😂 😂 
+
+Daily Mail: "George Clooney Reportedly Furious at Barack Obama After
+His Bold Demand Makes Actor a Scapegoat for Kamala Harris’
+Presidential Defeat"
+
+---
+
+"Lithium, a key component of EV batteries, is extracted using heavy
+diesel-powered machinery that emits substantial amounts of CO2. This
+process undermines the environmental benefits promised by EVs. Studies
+have shown that the CO2 emissions associated with lithium mining and
+battery production often exceed the emissions saved by operating EVs,
+especially in regions reliant on fossil-fuel-based electricity grids.
+
+Furthermore, Earth’s lithium reserves are insufficient to supply a
+global population of 8 billion people. As demand surges, mining
+operations will expand into ecologically sensitive areas, exacerbating
+environmental degradation and threatening biodiversity...
+
+EVs are notably heavier than traditional internal combustion engine
+(ICE) vehicles, primarily due to their large batteries. This
+additional weight increases road friction, leading to accelerated wear
+and tear on infrastructure. Local communities bear the brunt of these
+costs, with road maintenance expenses tripling in areas with high EV
+adoption.
+
+Moreover, the increased road friction necessitates specialized tires
+for EVs. These tires are approximately three times more expensive than
+those used for traditional vehicles, adding another layer of cost for
+consumers...
+
+The lifespan of a lithium-ion battery in an EV typically ranges from 8
+to 10 years. Replacing a battery can cost between 7,000 and 15,000
+dollars, a significant financial burden for many vehicle owners. This
+issue raises questions about the long-term affordability and
+sustainability of lithium-powered EVs...
+
+Hydrogen fuel cells present a compelling alternative to lithium-ion
+batteries. Hydrogen is the most abundant element on Earth, making it a
+virtually limitless resource. Fuel cells are also ten times lighter
+than lithium-ion batteries, reducing vehicle weight and associated
+infrastructure wear and tear.
+
+Hydrogen-powered vehicles refuel in just five minutes or so, compared
+to EVs taking 45-minutes to hours. Further, the hydrogen fuel cell has
+an average lifespan of 20 years and offer longer driving ranges per
+refill compared to EVs. With advancements in technology, blue and
+green hydrogen production costs are becoming increasingly competitive"
+
+[[-]](https://www.linkedin.com/pulse/case-hydrogen-over-lithium-powered-evs-j-dean-uwkcc/)
+
+---
+
+"@cwebber@social.coop
+
+I love computing
+
+I love to compute on the computer
+
+I hate the companies that have made computing on the computer
+miserable as they try to squeeze us all through their product
+lifecycles"
+
+---
+
+If the shit worked properly, wouldn't Amazon use it in its "Just Walk
+Out" stores? \#AI
+
+[[-]](https://www.reddit.com/r/Cyberpunk/comments/1bud4o1/amazon_ditches_just_walk_out_checkouts_which/)
+
+---
+
+Autoencoders are not unsupervised either IMO, again the same idea, the
+data itself becomes label. You are still using an architecture that
+requires labels.
+
+---
+
+NYT: "Ireland Joins South Africa’s Genocide Case Against Israel"
+
+---
+
+Notice how Israel's response to anything untoward to itself is
+immediate violence. They know their protector in US very well.. Every
+rocket, every bomb represents an increase in the margin of the private
+complex, surface state, greedy mob of muppets who make money from
+mayhem in the middle east.
+
+---
+
+It's more like they want to protect Israel as the weapon-purchaser-in-chief
+in its unending fight with its neighbors.. Israel is good business. Munee
+needs to flow in their direction, lots of people eat from it.
+
+Forward: "The Heritage Foundation plans to 'identify and target'
+volunteer editors on Wikipedia who it says are 'abusing their
+position' by publishing content the group believes to be antisemitic,
+according to documents obtained by the Forward."
+
+---
+
+Happy Past January 6. Insurrectionists: be better prepared next time.
+
+---
+
+Obviously serious researchers seeking alternatives means human level
+AI will not be reached via existing approaches. They are just wasting
+energy, creating bunch of junk.
+
+---
+
+I would call the empty-patch approach supervised learning, it
+seemingly does not require labels, but the labels are generated from
+the data itself. Clustering, PCA are unsupervised, at a fundamental
+level. 
+
+---
+
+New "AI" idea is working on a layered architecture where vision based
+training starts first, a net is trained by taking out patches from
+real-world images, and machinery tries to predict those empty
+patches. That way the necessary internal connections are formed
+representing the outside world, visually, then other learning is
+layered on top...
+
+Will motor function be part of that training? A big part of how we
+learn the world is tied to how we move in it. When I take a big step
+vs small one, I see certain visual changes in the outside world (far
+points move little, near ones a lot), that is part of my understanding
+of the outside world.
+
+---
+
+Bloomberg: "NTPC’s Clean Energy Arm to Build $21 Billion Green
+Hydrogen Hub..  The clean energy unit of NTPC Ltd., India’s largest
+thermal power producer, is developing a green hydrogen hub at an
+estimated cost of 1.8 trillion rupees (21 billion dollars) as the
+country seeks to add more carbon-free fuel to meet its needs"
+
+---
+
+As easy sources of oil become depleted, more risky, harder to drill
+areas will be tried... That means more oil spills. Expect more
+frequent occurences of such events.
+
+---
+
+Data from BP Statistical Review of World Energy 2024
+
+```python
+# thousand barrels daily
+data = [86572, 86572, 91717, 92085, 92588, 95002, 95172, 88928, 90282, 94292, 96376]
+prod = u.get_pd().DataFrame(data,index=range(2013,2024),columns=['world oil production'])
+prod.plot()
+```
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/785/805/963/466/010/original/589a7b09d6b46370.jpg'/>
+
+---
+
+Why did Trump do it? Voters, politicians of all stripes in those
+states like it. 
+
+---
+
+WaPo: "[2020] In reversal, Trump to ban oil drilling off coasts of
+Florida, Georgia and South Carolina.. The move comes after the White
+House previously proposed a huge expansion of drilling off
+U.S. coasts. Democratic and Republican governors have resisted
+offshore oil exploration"
+
+---
+
+CleanTechnica: "[Another admin] cannot simply undo [an environmental]
+EO with a countermanding order.. [such EOs are] similar to other
+permanent protective orders issued by Republican and Democratic
+presidents alike under the authority of the 1953 Outer Continental
+Shelf Lands Act, including Dwight Eisenhower and George H.W. Bush"
+
+---
+
+AP News: "Biden issues ban on offshore oil and gas drilling in most
+federal waters."
+
+---
+
 Cocktail Martino - The Girl from Ipanema - feat. Tom Gaebel \#music
 
 [[-]](https://youtu.be/cq6Comi5I4U)
