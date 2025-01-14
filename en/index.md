@@ -108,11 +108,11 @@ first movie, he just cuts off the intervier, says "next question!".
 
 ---
 
-I watched the cast interview for Matrix 4, they were discussing how "a
-man plugging into the Matrix as a woman" would be *so scandalous* the
-studio would certainly nix it... Imagine that.. with all the problems
-in the world, this is where you choose to focus? Here is the level of
-rebelliousness of their art... All blue Dem dimwits
+I watched the cast interview for Matrix 4, they were discussing
+whether "a man plugging into the Matrix as a woman" would be *so
+scandalous* the studio would think nixing it... Imagine that.. with
+all the problems in the world, this is where you choose to focus? Here
+is the level of rebelliousness of their art... All-blue Dem dimwits
 
 ---
 
