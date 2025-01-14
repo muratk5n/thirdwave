@@ -1,10 +1,34 @@
 import sys, os, matplotlib.pyplot as plt, pandas as pd
-import re, zipfile, json, numpy as np, datetime
+import re, zipfile, json, numpy as np, datetime, folium
 from shapely.geometry import Polygon
 from shapely.ops import unary_union
 from pandas_datareader import data
+import urllib.request
+
+TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
+
+def modis_fire(lat,lon,outfile):
+    url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
+    f = 'MODIS_C6_1_Global_7d.csv'
+    if not os.path.isfile("/tmp/" + f):
+        data = urllib.request.urlretrieve(url + "/" + f, "/tmp/" + f)
+    THRESHOLD = 420.0
+    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv')
+    df = df[df['brightness'] > THRESHOLD]
+    df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
+    m = folium.Map(location=[lat,lon], zoom_start=10) 
+    folium.TileLayer(tiles=TILE,
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for i, row in df.iterrows():
+        folium.CircleMarker([row['latitude'],row['longitude']],
+                            color='red',
+                            radius=2.0).add_to(m)        
+    m.save(outfile)
 
 def get_fred(year, series):
     today = datetime.datetime.now()
@@ -12,10 +36,6 @@ def get_fred(year, series):
     end=datetime.datetime(today.year, today.month, today.day)
     df = data.DataReader(series, 'fred', start, end)
     return df
-
-##############################################################################    
-##############################################################################    
-##############################################################################    
 
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
@@ -143,3 +163,5 @@ def map_ukraine_suriyak():
         fout.write('\n')
     fout.write(']\n')
     fout.close()
+
+    

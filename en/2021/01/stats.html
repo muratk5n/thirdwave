@@ -41,11 +41,11 @@ print (df['growann'].tail(5))
 </code></pre>
 
 <pre><code class="text">DATE
-2023-04-01    2.450090
 2023-07-01    4.355474
 2023-10-01    3.192208
 2024-01-01    1.629067
 2024-04-01    2.988846
+2024-07-01    3.072829
 Name: growann, dtype: float64
 </code></pre>
 
@@ -85,15 +85,15 @@ DATE
 2023-10-01  3.196217
 2024-01-01  2.901832
 2024-04-01  3.036849
-2024-07-01  2.659241
+2024-07-01  2.718769
                  inf
 DATE                
-2024-05-01  3.269029
 2024-06-01  2.971397
 2024-07-01  2.894753
 2024-08-01  2.530730
 2024-09-01  2.440633
 2024-10-01  2.597905
+2024-11-01  2.749380
 </code></pre>
 
 <p><a name='taylor'></a></p>
@@ -122,7 +122,7 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 <h2>Wages and Unemployment</h2>
 <p><a name='quits'></a></p>
 <p>Job Quits, Resignations</p>
-<pre><code class="python">df = u.get_fred(1986,['JTSQUR'])
+<pre><code class="python">df = u.get_fred(2010,['JTSQUR'])
 print (df.JTSQUR.tail(5))
 df.JTSQUR.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
@@ -133,11 +133,11 @@ plt.savefig('quits.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2024-03-01    2.2
-2024-04-01    2.2
-2024-05-01    2.1
 2024-06-01    2.0
-2024-07-01    2.1
+2024-07-01    2.0
+2024-08-01    2.0
+2024-09-01    1.9
+2024-10-01    2.1
 Name: JTSQUR, dtype: float64
 </code></pre>
 
@@ -379,10 +379,10 @@ plt.savefig('tcurve.jpg')
 </code></pre>
 
 <pre><code class="text">DATE
-2024-11-04    0.14
-2024-11-05    0.07
-2024-11-06    0.15
-2024-11-07    0.10
+2024-12-11    0.11
+2024-12-12    0.14
+2024-12-13    0.15
+2024-12-16    0.14
 Name: inv, dtype: float64
 </code></pre>
 
@@ -396,10 +396,10 @@ plt.savefig('tcurve2.jpg')
 </code></pre>
 
 <pre><code class="text">DATE
-2024-10-31    0.12
-2024-11-01    0.16
-2024-11-04    0.14
-2024-11-05    0.07
+2025-01-02    0.32
+2025-01-03    0.32
+2025-01-06    0.34
+2025-01-07    0.37
 Name: inv, dtype: float64
 </code></pre>
 
@@ -414,14 +414,14 @@ df.tail(1).plot(style='r.',markersize=10)
 plt.savefig('vix.png')
 </code></pre>
 
-<pre><code class="text">             ^VIX
-2024-09-19  16.33
-2024-09-20  16.15
-2024-09-23  15.89
-2024-09-24  15.39
-2024-09-25  15.41
-2024-09-26  15.37
-2024-09-27  15.65
+<pre><code class="text">                 ^VIX
+2024-12-31  17.350000
+2025-01-01        NaN
+2025-01-02  17.930000
+2025-01-03  16.129999
+2025-01-06  16.040001
+2025-01-07  17.820000
+2025-01-09  17.700001
 </code></pre>
 
 <p><img alt="" src="vix.png" /></p>
@@ -464,10 +464,10 @@ plt.savefig('debt.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2024-04-01    17.408223
-2024-05-01    17.448622
-2024-06-01    17.466638
-2024-07-01    17.554354
+2024-08-01    17.326423
+2024-09-01    17.336602
+2024-10-01    17.395557
+2024-11-01    17.370063
 Freq: MS, Name: debt, dtype: float64
 </code></pre>
 
@@ -515,10 +515,10 @@ plt.savefig('gini.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2023-07-01    0.439
 2023-10-01    0.440
 2024-01-01    0.440
 2024-04-01    0.440
+2024-07-01    0.442
 dtype: float64
 </code></pre>
 
@@ -541,10 +541,10 @@ plt.savefig('top10-2.jpg')
 
 <pre><code class="text">              Top 10%  Bottom 50%
 DATE                             
-2023-07-01  66.408177    2.536150
-2023-10-01  66.859486    2.482500
-2024-01-01  66.911300    2.493564
-2024-04-01  66.723703    2.476985
+2023-10-01  66.900080    2.485195
+2024-01-01  66.914397    2.498967
+2024-04-01  66.746884    2.480326
+2024-07-01  67.278508    2.435828
 </code></pre>
 
 <p><img alt="" src="top10-2.jpg" /></p>
@@ -564,7 +564,7 @@ print (&quot;Perc change since the 80s = %0.2f&quot; % ((t2-t1) / t2 * 100))
 plt.savefig('household.jpg')
 </code></pre>
 
-<pre><code class="text">Perc change since the 80s = 14.43
+<pre><code class="text">Perc change since the 80s = 13.80
 </code></pre>
 
 <p><img alt="" src="household.jpg" /></p>
@@ -577,11 +577,11 @@ print (df.tail(3))
 plt.savefig('medhouse.jpg')
 </code></pre>
 
-<pre><code class="text">               MSPUS
-DATE                
-2023-10-01  423200.0
-2024-01-01  426800.0
-2024-04-01  412300.0
+<pre><code class="text">             MSPUS
+DATE              
+2024-01-01  426800
+2024-04-01  414500
+2024-07-01  420400
 </code></pre>
 
 <p><img alt="" src="medhouse.jpg" /></p>
@@ -595,11 +595,11 @@ print (df.tail(5))
 
 <pre><code class="text">            XTEXVA01CNM667S
 DATE                       
-2024-04-01     2.980464e+11
-2024-05-01     3.009204e+11
-2024-06-01     3.064574e+11
 2024-07-01     2.853014e+11
-2024-08-01     3.020341e+11
+2024-08-01     3.020314e+11
+2024-09-01     2.874257e+11
+2024-10-01     3.049651e+11
+2024-11-01     3.000794e+11
 </code></pre>
 
 <p><img alt="" src="exchina.jpg" /></p>
