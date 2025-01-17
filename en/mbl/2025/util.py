@@ -9,14 +9,47 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
-def modis_fire(lat,lon,outfile):
+def boxofficemojo(q):
+    q = q.replace(" ","+").lower()
+    url = "https://www.boxofficemojo.com/search/?q=" + q
+    res = urllib.request.urlopen(url).read().decode('utf-8')
+    reres = re.findall('a-size-medium a-link-normal a-text-bold" href="(.*?)"',res)
+    url2 = "https://www.boxofficemojo.com" + reres[0]
+    
+    res2 = urllib.request.urlopen(url2).read().decode('utf-8')
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'
+    domestic = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?International.*?money">(.*?)<'
+    intl = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Worldwide.*?money">(.*?)<'
+    worldwide = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'Domestic Opening.*?money">(.*?)<'
+    domopen = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = '<span>Earliest Release Date</span><span>(.*?)\n.*?</span>'
+    reldate = re.findall(regex2,res2,re.DOTALL)[0]
+    return {"Domestic Opening": domopen, "Domestic": domestic,
+            "International": intl, "Worldwide Total": worldwide,
+            "Release Date": reldate}
+
+
+def rottentomatoes(movie):
+   rel = movie.replace(" ","_").lower()
+   url = "https://www.rottentomatoes.com"
+   url = url + "/m/" + rel
+   hdr = {'User-Agent':'Mozilla/5.0'}
+   c = urllib.request.urlopen(url).read().decode('utf-8')
+   scores = re.findall('criticsScore.*?\>(\d\d)%\</rt-text\>',c,re.DOTALL)
+   return {"critics": scores[0], "audience": scores[1]}
+
+def modis_fire(lat,lon,dt,threshold,outfile):
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
     f = 'MODIS_C6_1_Global_7d.csv'
     if not os.path.isfile("/tmp/" + f):
         data = urllib.request.urlretrieve(url + "/" + f, "/tmp/" + f)
     THRESHOLD = 420.0
-    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv')
-    df = df[df['brightness'] > THRESHOLD]
+    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv',index_col="acq_date")
+    df = df[df.index > dt]
+    df = df[df['brightness'] > threshold]
     df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
     m = folium.Map(location=[lat,lon], zoom_start=10) 
     folium.TileLayer(tiles=TILE,

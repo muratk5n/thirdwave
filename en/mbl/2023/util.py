@@ -606,7 +606,6 @@ def rottentomatoes2(movie):
     tom = re.findall('tomatometerscore=\"(.*?)\"',res,re.DOTALL)
     return {"tomatometer score": int(tom[0]), "audience score": int(aud[0])}
 
-
 def rottentomatoes3(movie):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
