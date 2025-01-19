@@ -31,8 +31,6 @@ Pinned Post
 
 [The Middle East](0119/2019/07/middleeast.html)
 
-[Games](2024/06/games.html)
-
 [TR](../tr/index.html)
 
 ## Browse
