@@ -78,7 +78,7 @@ LLMs still fall short"
 u.modis_fire(34.11778266, -118.504923,"2025-01-13",370,"fire1.html")
 ```
 
-[[-]](mbl/2025/fire1.html)
+[[-]](fire1.html)
 
 ---
 
@@ -282,7 +282,7 @@ soon as today"
 
 \#Frontline \#UA \#RU 01/03 - 01/13
 
-[[-]](mbl/2025/ukrdata/map02.html)
+[[-]](ukrdata/map02.html)
 
 ---
 

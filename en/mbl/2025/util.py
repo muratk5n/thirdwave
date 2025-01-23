@@ -9,13 +9,22 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
+def trump_approval():
+    url = "https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv"
+    df = pd.read_csv(url,parse_dates=True,index_col='modeldate',parse_dates=True)
+    df = df[df.subgroup=='Voters']
+    df['net'] = df['approve_estimate'] - df['disapprove_estimate']
+    print (df['net'])
+    df['net'].plot(title='Trump Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    return df
+    
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()
     url = "https://www.boxofficemojo.com/search/?q=" + q
     res = urllib.request.urlopen(url).read().decode('utf-8')
     reres = re.findall('a-size-medium a-link-normal a-text-bold" href="(.*?)"',res)
     url2 = "https://www.boxofficemojo.com" + reres[0]
-    
+    print (url2)    
     res2 = urllib.request.urlopen(url2).read().decode('utf-8')
     regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'
     domestic = re.findall(regex2,res2,re.DOTALL)[0]
@@ -197,4 +206,3 @@ def map_ukraine_suriyak():
     fout.write(']\n')
     fout.close()
 
-    
