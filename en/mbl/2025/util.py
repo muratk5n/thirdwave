@@ -10,13 +10,18 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 def get_pd(): return pd
 
 def trump_approval():
-    url = "https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv"
-    df = pd.read_csv(url,parse_dates=True,index_col='modeldate',parse_dates=True)
-    df = df[df.subgroup=='Voters']
-    df['net'] = df['approve_estimate'] - df['disapprove_estimate']
-    print (df['net'])
-    df['net'].plot(title='Trump Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
-    return df
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/president_approval_polls.csv')
+    #df = pd.read_csv('/home/burak/Downloads/president_approval_polls.csv')
+    cols = ['poll_id','sample_size','yes','np','end_date']
+    df['approve'] = df.sample_size * (df.yes / 100)
+    df['disprove'] = df.sample_size * (df.no / 100)
+    df['Date'] = pd.to_datetime(df.end_date)
+    g1 = df.groupby('Date').sum(['approve','disprove'])
+    g1['net'] = (g1.approve-g1.disprove) / g1.sample_size    
+    g1['net'].plot(title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    print (g1['net'])
+    plt.savefig('/tmp/approval.jpg')
+
     
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()
@@ -89,7 +94,6 @@ def get_coords_for_label(content, reg):
     coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
     coords = [[float(x),float(y)] for x,y in coords]
     return coords
-
 
 regs = [
     "S..Zaporizhia-Russian Armed Forces",

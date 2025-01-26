@@ -22,6 +22,8 @@ their emissivity can actually drop, in direct contradiction of
 Stefan’s law. Under these circumstances, the answer cannot be found in
 the gaseous state. One must turn to condensed matter"
 
+<a name='density'></a>
+
 ### Sun Mass and Density
 
 We can attempt to calculate Sun's mass using few assumptions, ie only
@@ -95,4 +97,7 @@ References
 [2] Robitaille, Fourty Lines of Evidence for Condensed Matter
 
 [[Up](../../2018/09/junk-science.html)]
+
+
+
 
