@@ -32,29 +32,10 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-The Guardian: "How the roots of the ‘PayPal mafia’ extend to apartheid
-South Africa..  [A]s the world’s richest man insisted he wasn’t trying
-to be a Nazi, speculation inevitably focused on whether his roots in
-apartheid-era South Africa offered an insight...
-
-[T]he 'PayPal mafia' of libertarian billionaires with roots in South
-Africa under white rule [are] now hugely influential in the US tech
-industry and politics... They include Peter Thiel, the German-born
-billionaire venture capitalist and PayPal cofounder, who was educated
-in a southern African city in the 1970s where Hitler was still openly
-venerated. Thiel, a major donor to Trump’s campaign, has been critical
-of welfare programs and women being permitted to vote as undermining
-capitalism. A 2021 biography of Thiel, called The Contrarian, alleged
-that as a student at Stanford he defended apartheid as 'economically
-sound'"
-
----
-
 Here's a simple rule - do not use lithium-ion tech.
 
 This plant was seperate from the wildfires BTW, the shit just ignited,
-and turned into hellfire. This is battery-electric tech for you.
-Completely inferior tech.
+and turned into hellfire. 
 
 LA Times: "‘Horrifying’ fire at California lithium battery plant
 sparks calls for new clean energy rules"
