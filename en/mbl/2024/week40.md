@@ -608,10 +608,10 @@ latter interpretation, one describes real material objects causally
 moving within an absolute independent space-time, with a velocity $v >
 c$ (with proper internal energy-momentum and angular momenta) under
 the influence of Poincaré fields governed by the laws of relativity;
-i.e., which correspond to causal particle and field behavior.  In
-other terms, in this model, the gravitational field can carry
-gravitational waves propagating at lightspeed and Newtonian,
-attractive, superluminal fields (surrounding massive objects)"
+i.e., which correspond to causal particle and field behavior. In other
+terms, in this model, the gravitational field can carry gravitational
+waves propagating at lightspeed and Newtonian, attractive,
+superluminal fields (surrounding massive objects)"
 
 ---
 
