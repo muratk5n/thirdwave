@@ -84,6 +84,38 @@ a large language, Wales conceded and set up the non-profit"
 
 ---
 
+Based on all the previous info, everything needed for the law of
+centripetal force is there, $m,r,v$, plug those reverse engineer Sun's
+mass, and density. That result ain't the mass of plasma. 
+
+---
+
+But then how far is Earth from the Moon in kilometers? Again DIY old
+school, time the lunar eclipse, and form a relation with the variables
+seen [here](https://physicsteacher.blog/wp-content/uploads/2021/05/screenshot-2021-05-31-at-11.51.45.png?w=640).
+Aristrarchus did that 270 BC and got a pretty close answer.
+
+---
+
+The article on Sun's density required prev knowledge of Sun-Earth
+distance, how to DIY know that from first principles based on basic
+measurements? This was doable even in ancient times, when it's half-moon
+we know the 2D [placement](https://upload.wikimedia.org/wikipedia/commons/f/f3/AristarchusHalfLitMoon2.png).
+There is a right triangle, measure $\varphi$ w/ basic instruments,
+it's like 87 degrees, cosine is $L/S$, reverse that,
+
+```python
+np.round(1./np.cos(np.deg2rad(87)),2)
+```
+
+```text
+Out[1]: 19.11
+```
+
+The Sun is roughly 19 times further to Earth than the Moon.
+
+---
+
 Note "the reduction in the velocity of light" statement - with the
 scheme below the speed of light is variable.
 
@@ -107,39 +139,6 @@ infinity is represented by an effective increase in the refractive
 index of the vacuum, and so forth"
 
 [[-]](https://arxiv.org/pdf/gr-qc/9909037)
-
----
-
-Based on all the previous info, we have everything needed for the law
-of centripetal force, $m,r,v$, plug those reverse engineer Sun's mass,
-and density. That result ain't the mass of plasma. From start to finish
-all DIY.
-
----
-
-But then how far is Earth from the Moon in kilometers? Well, again DIY old
-school, time the lunar eclipse, and form a relation with the variables
-seen [here](https://physicsteacher.blog/wp-content/uploads/2021/05/screenshot-2021-05-31-at-11.51.45.png?w=640).
-Aristrarchus did that 270 BC and got a pretty close answer.
-
----
-
-The article on Sun's density required prev knowledge of Sun-Earth
-distance, how to DIY know that from first principles based on basic
-measurements? This was doable even in ancient times, when it's half-moon
-you know the placement is like [this](https://upload.wikimedia.org/wikipedia/commons/f/f3/AristarchusHalfLitMoon2.png).
-There is a right triangle, measure $\varphi$ w/ basic instruments,
-it's like 87 degrees, cosine is $L/S$, reverse that,
-
-```python
-np.round(1./np.cos(np.deg2rad(87)),2)
-```
-
-```text
-Out[1]: 19.11
-```
-
-The Sun is roughly 19 times further to Earth than the Moon.
 
 ---
 
