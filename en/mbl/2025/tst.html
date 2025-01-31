@@ -29,45 +29,6 @@
 import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
-
-<pre><code class="python">df = u.trump_approval()
-plt.savefig('/tmp/out.jpg')
-</code></pre>
-
-<pre><code class="text">modeldate
-2021-01-20   -17.305095
-2021-01-19   -15.634250
-2021-01-18   -16.363129
-2021-01-17   -15.414513
-2021-01-16   -16.788595
-                ...    
-2017-01-27     2.801420
-2017-01-26     3.454120
-2017-01-25     7.262930
-2017-01-24     9.000000
-2017-01-23     9.000000
-Name: net, Length: 1459, dtype: float64
-</code></pre>
-
-<pre><code class="python">print (df[['approve_estimate','disapprove_estimate','net']])
-</code></pre>
-
-<pre><code class="text">            approve_estimate  disapprove_estimate        net
-modeldate                                                   
-2017-01-23         46.000000            37.000000   9.000000
-2017-01-24         46.000000            37.000000   9.000000
-2017-01-25         48.616170            41.353240   7.262930
-2017-01-26         44.626920            41.172800   3.454120
-2017-01-27         44.387770            41.586350   2.801420
-...                      ...                  ...        ...
-2021-01-16         39.664908            56.453503 -16.788595
-2021-01-17         40.236178            55.650691 -15.414513
-2021-01-18         39.770617            56.133746 -16.363129
-2021-01-19         40.153860            55.788110 -15.634250
-2021-01-20         39.406442            56.711537 -17.305095
-
-[1459 rows x 3 columns]
-</code></pre>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
