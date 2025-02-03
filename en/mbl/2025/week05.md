@@ -1,5 +1,207 @@
 # Week 5
 
+NYT: "[Gates] recently brought out his second Netflix series, 'What’s
+Next? The Future With Bill Gates.' The fourth of the five episodes,
+'Can You Be Too Rich?' had people, including Senator Bernie Sanders,
+the democratic socialist from Vermont, saying definitively yes. It was
+a mild but real form of self-criticism that few other billionaires
+would subject themselves to... he supports a tax system that is more
+progressive. Every year, he adds up the taxes he has paid over his
+lifetime. He figures he has paid $14 billion.. Under a better system,
+he calculates, he would have paid 40 billion"
+
+---
+
+Gretchen Whitmer is great on clean energy. I remember the post below.
+
+[[-]](https://www.mlive.com/environment/2024/11/clean-hydrogen-hub-in-michigan-gets-22m-in-federal-backing.html)
+
+---
+
+Good for you, Shapiro. It looks like he has some positive attributes
+
+AP: "Gov. Josh Shapiro said Thursday that he wants to fast-track the
+construction of big power plants in Pennsylvania and offer hundreds of
+millions of dollars in tax breaks for projects that provide
+electricity to the grid and use hydrogen.. Shapiro, a Democrat, said
+he wants to start the 'next chapter in Pennsylvania’s long story of
+energy leadership'.. 'Pennsylvania, it’s time for us to be more
+competitive. It’s time for us to act. We need to take some big and
+decisive steps right now, build new sources of power so Pennsylvania
+doesn’t miss out,' Shapiro said at a news conference at Pittsburgh
+International Airport"
+
+---
+
+MarineLink: "Yanmar to Accelerate Hydrogen Engine Production.. Yanmar
+Power Technology has received Japanese government approval for its
+production plans for hydrogen-fueled engines and fuel cells."
+
+---
+
+Offshore Energy: "German specialty chemicals company Evonik has signed
+a term sheet with Dutch energy company VoltH2 to advance green
+hydrogen production at the Delfzijl chemical park in the Netherlands"
+
+---
+
+Marche, *The Next Civil War*: "The Patriotic Millionaires formed in
+2010 with two extraordinary goals: to lobby politicians to increase
+their taxes.. [Some..] rich know what historians know: every society
+in human history with levels of inequality like those in the United
+States today has descended into war, revolution, or plague. No
+exceptions. There are precisely zero historical precedents that don’t
+end in destruction"
+
+---
+
+Higher inequality causes lower growth, see below. There is a reverse
+correlation between GINI and GDP increase, and, since we shift one
+series back in time, the correlation suggests causation.
+
+```python
+# Get GINI, GDP
+df = u.get_fred(1980,['SIPOVGINIUSA','GDP']).interpolate()
+df['Growth'] = df.GDP.pct_change().shift(-3)
+df[['SIPOVGINIUSA','Growth']].corr()
+```
+
+```text
+Out[1]: 
+              SIPOVGINIUSA   Growth
+SIPOVGINIUSA     1.000000 -0.283214
+Growth          -0.283214  1.000000
+```
+
+---
+
+Whose fault is it... Can we also ask why is the military running
+training flights over heavily populated areas, near known flight
+routes, close to both the White House and the Pentagon? The
+military-industrial complex is a sprawling enterprise.. it intrudes
+into everyone's space. The public does not need more helicopters, more
+training flights, more weapons, more bombs. 
+
+---
+
+RSF is getting its ass kicked.. They lost most of Sennar and its
+connection to their main area. They are losing in Al Jazirah,
+Khartoum, South Kurdufan...
+
+\#Sudan \#RSF \#SAF - 11/24 - 01/31
+
+[[-]](sdndata/map01.html)
+
+---
+
+MV Times: "Amid rumors and speculation that federal immigration
+enforcement agents would conduct raids [in Martha's Vineyard] on
+Thursday, schools and local businesses reported widespread absenteeism
+because undocumented immigrants were staying at home.
+
+Lumberyards have been eerily empty. Some Martha’s Vineyard schools
+have reported nearly double their normal absentee rate, which
+officials say is likely because parents — and their children — are
+staying home over fears of being deported. A proprietor of a large
+Island business reported that 20 percent of their staff have not shown
+up to work, what they believe is over fear of deportation"
+
+---
+
+HotCars: "AVL RACETECH, the motorsport arm of AVL, took a massive leap
+forward in 2022 by unveiling [a 2.0-liter hydrogen-powered internal
+combustion engine (H₂-ICE) prototype. With water injection technology
+and a turbocharged design, the engine delivers performance figures
+that rival modern gasoline racing engines while offering the promise
+of zero tailpipe..
+
+AVL RACETECH Hydrogen Engine Highlights
+
+- 150 kW per liter
+- Up to 369 lb-ft between 3,000 and 4,000 RPM
+- Up to 410 horsepower at 6,500 RPM
+
+Key to this achievement is AVL’s innovative water injection system. By
+injecting water into the intake air, the system increases boost
+pressure.. This allows the engine to generate up to 369 lb-ft between
+3,000 and 4,000 RPM. The design is backed by AVL’s expertise in
+advanced simulation modeling and 3D flow calculations, ensuring
+maximum efficiency without compromising safety or reliability"
+
+---
+
+Just like you cannot formulate physics by running regression on
+physics datasets, language, human thought can not be formulated via
+language data alone. Larger scale produces interesting answers, but no
+real-world deployable solutions that include
+[planning](https://www.theatlantic.com/technology/archive/2024/02/chatbots-marketing-plan-your-next-trip/677481/).
+
+---
+
+Chomsky is uniquely qualified to comment on LLMs, as he was the
+creator of formal language theory, worked at MIT, aware of
+computational issues, approaches in the field.
+
+---
+
+Paper: "How should the advancement of large language models affect the
+practice of science?.. Downstream, LLMs threaten the notion of
+scientific expertise, shift incentive structures, and undermine trust
+in the literature. Notions of systematic review are undercut by the
+randomness inherent in LLM output. And most importantly, when someone
+uses an LLM to generate a literature review, the claims generated are
+not directly derived from the manuscripts cited. Rather, the machine
+creates textual claims, and then predicts the citations that might be
+associated with similar text. Obviously, this practice violates all
+norms of scholarly citation. At best, LLMs gesticulate toward the
+shoulders of giants"
+
+[[-]](https://www.pnas.org/doi/10.1073/pnas.2401227121)
+
+---
+
+Status Coup: "Liza Star, a pregnant fisherwoman.. lives with her
+family about 1,000 feet away from the Moss Landing lithium plant fire
+that has sickened residents near and far. Black particles--that seem
+to be ash—have blanketed the boat that she and her family live in and
+she and her daughters have been suffering with various health symptoms
+since the fire nearly two weeks ago"
+
+---
+
+"@mosseri@threads.net
+
+Threads has reached 320M monthly actives and is going strong with more
+than 100M daily actives. There’s still so much more to do, but we’re
+excited about the progress"
+
+---
+
+People who are paying mortgages (mortgagors?) should not be counted as
+"home owners". If you paid 1 year of a 10 year mortgage you still
+don't *own* a home, you own 10% of a home. 90% of that house is owned
+by someone else, the bank or someone wealthy who can hold that debt
+and collects interest on it. The statistics should capture this, eg 10
+people owning 10% of a house adding up to home ownership of 1.
+
+---
+
+```python
+u.rottentomatoes("Star Trek Section 31")
+```
+
+```text
+Out[1]: {'critics': '20', 'audience': '17'}
+```
+
+---
+
+\#Frontline \#UA \#RU - 01/26 - 01/31
+
+[[-]](mbl/2025/ukrdata/map05.html)
+
+---
+
 Marche, *The Next Civil War*: "You know the problem of inequality is
 serious when rich people have started to worry that they’re too
 rich. In the United States, the wealthiest of the ultrawealthy, the

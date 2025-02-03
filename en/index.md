@@ -32,99 +32,148 @@ and sustainability of lithium-powered EVs"
 
 ---
 
+Halton Arp: "[One galaxy I cataloged] has a large companion on the end
+of a luminous arm. In 1971 a spectrum revealed that this companion was
+8,000 km/sec higher redshift than the central, active Seyfert
+galaxy. This amount of excess redshift cannot be accomodated in the
+conventional picture where redshifts mean velocities in an expanding
+universe. They could not be at such different distances and be
+physically interacting. When Fred Hoyle heard about this he came up
+from the Cal Tech campus to my Carnegie office and asked to see the
+original picture. In 1972 he gave the prestigious Russell Lecture at
+the Seattle meeting of the American Astronomical Society and outlined
+a theory whereby younger galaxies radiated intrinsically redshifted
+photons. His theory of growing particle masses was a more general
+solution to the conventional field equations but was physically a
+Machian (not Einsteinian theory). At the end of the lecture he said
+the NGC 7603 observation created a crisis in physics and we needed to
+cross over the bridge to a radically more general physics...
 
+Over the years the evidence for non-velocity redshifts has grown
+enormously, both for quasars and galaxies. A number of researchers
+have tried to make the establishment admit the consequences of this
+evidence. But it has been suppressed and ignored. However, In an event
+of great irony, 30 years after Hoyle's talk featuring NGC 7603, two
+young Spanish astronomers have announced the finding of two
+quasar-like, much higher redshift objects imbedded in the arm which
+connects the low redshift galaxy to the higher redshift companion of
+NGC 7603. As in many past cases, this result alone should have settled
+instantly and finally the existance of intrinsic redshifts. Instead
+the paper was turned down by 'Nature' Magazine, rejected by the
+'Astrophysical Journal' and only finally accepted by the European
+Journal 'Astronomy and Astrophysics'...
 
-HotCars: "AVL RACETECH, the motorsport arm of AVL, took a massive leap
-forward in 2022 by unveiling [a 2.0-liter hydrogen-powered internal
-combustion engine (H₂-ICE) prototype. With water injection technology
-and a turbocharged design, the engine delivers performance figures
-that rival modern gasoline racing engines while offering the promise
-of zero tailpipe..
-
-AVL RACETECH Hydrogen Engine Highlights
-
-- 150 kW per liter
-- Up to 369 lb-ft between 3,000 and 4,000 RPM
-- Up to 410 horsepower at 6,500 RPM
-
-Key to this achievement is AVL’s innovative water injection system. By
-injecting water into the intake air, the system increases boost
-pressure.. This allows the engine to generate up to 369 lb-ft between
-3,000 and 4,000 RPM. The design is backed by AVL’s expertise in
-advanced simulation modeling and 3D flow calculations, ensuring
-maximum efficiency without compromising safety or reliability"
-
----
-
-Just like you cannot formulate physics by running regression on
-physics datasets, language, human thought can not be formulated via
-language data alone. Larger scale produces interesting answers, but no
-real-world deployable solutions that include
-[planning](https://www.theatlantic.com/technology/archive/2024/02/chatbots-marketing-plan-your-next-trip/677481/).
-
----
-
-Chomsky is uniquely qualified to comment on LLMs, as he was the
-creator of formal language theory, worked at MIT, aware of
-computational issues, approaches in the field.
-
----
-
-Paper: "How should the advancement of large language models affect the
-practice of science?.. Downstream, LLMs threaten the notion of
-scientific expertise, shift incentive structures, and undermine trust
-in the literature. Notions of systematic review are undercut by the
-randomness inherent in LLM output. And most importantly, when someone
-uses an LLM to generate a literature review, the claims generated are
-not directly derived from the manuscripts cited. Rather, the machine
-creates textual claims, and then predicts the citations that might be
-associated with similar text. Obviously, this practice violates all
-norms of scholarly citation. At best, LLMs gesticulate toward the
-shoulders of giants"
-
-[[-]](https://www.pnas.org/doi/10.1073/pnas.2401227121)
+The ejection in opposite directions of material from active galaxies,
+including very high redshift material like quasars, has been building
+up now for over 37 years. Yet the radio map shown here and the
+notation that his object had 'two redshifts', one a 'background
+object', lay unoticed and unchallenged in the voluminous literature
+for 4 years! When it was finally submitted to the Astronomical Society
+of the Pacific it was rejected. In spite of my being a past President
+of this organization they refused other observational results and
+communications and I had to resign. It is particularly vexing that the
+A.S.P. has as a primary goal educating the public about astronomy. But
+since it was hijacked by fanatical Big Bang adherents, it has been
+exactly misinforming the public"
 
 ---
 
-Status Coup: "Liza Star, a pregnant fisherwoman.. lives with her
-family about 1,000 feet away from the Moss Landing lithium plant fire
-that has sickened residents near and far. Black particles--that seem
-to be ash—have blanketed the boat that she and her family live in and
-she and her daughters have been suffering with various health symptoms
-since the fire nearly two weeks ago"
+2022 trade data,
 
----
+```python
+u.baci_all_products("Mexico","USA")
+```
 
-"@mosseri@threads.net
-
-Threads has reached 320M monthly actives and is going strong with more
-than 100M daily actives. There’s still so much more to do, but we’re
-excited about the progress"
-
----
-
-People who are paying mortgages (mortgagors?) should not be counted as
-"home owners". If you paid 1 year of a 10 year mortgage you still
-don't *own* a home, you own 10% of a home. 90% of that house is owned
-by someone else, the bank or someone wealthy who can hold that debt
-and collects interest on it. The statistics should capture this, eg 10
-people owning 10% of a house adding up to home ownership of 1.
+```text
+$ 424,735,465,633.9993
+```
 
 ---
 
 ```python
-u.rottentomatoes("Star Trek Section 31")
+u.baci_all_products("USA","Mexico")
 ```
 
 ```text
-Out[1]: {'critics': '20', 'audience': '17'}
+$ 302,641,331,571.0001
 ```
 
 ---
 
-\#Frontline \#UA \#RU - 01/26 - 01/31
+```python
+u.baci_all_products("Canada","USA")
+```
 
-[[-]](mbl/2025/ukrdata/map05.html)
+```text
+$ 437,647,720,907.9995
+```
+
+---
+
+```python
+u.baci_all_products("USA","Canada")
+```
+
+```text
+$ 318,301,555,958.0007
+```
+
+---
+
+Fleming: "Einstein was stuck, in that by denying the existence of
+aether, or any other medium of transmission of light, he still wanted
+to explain clock rate slowing and hypothetical distance
+contraction. In order to do that, he imagined that space itself must
+change its spatial and time dimensions when that space is moving
+relative to other space. His space was not a wallless container but
+was physical. In order to do away with aether theory, he had to treat
+space like it had physical properties, including spatial and time
+dimensions that were variable. Therein lies Einstein’s fallacy. He
+claimed space is non-physical and physical at the same time...
+
+We now know experimentally that all space contains vacuum energy
+consistent with Max Planck’s theory of quantum oscillators. Per his
+theory it is impossible for space to be empty. Planck oscillators are
+something physical that we can use to explain all the known physical
+properties of space. Quantum vacuum energy has wavelengths and
+frequencies that give space its spatial and time dimensionality. The
+quantum vacuum also gives us a standard reference frame to use when
+making relativistic frame transformations, as well as giving us a
+physical medium for light and force transmission...
+
+Einstein had not actually solved the problem. He merely turned space
+into a new form of aether while still failing to provide a physical
+explanation for its physical properties"
+
+---
+
+Saudi Arabia UK Ambassador: "We won't accept Trump's Israel peace plan
+without a Palestinian state"
+
+---
+
+Cuck Schumer, Pelosi both supported the other guy. I guess we should
+be happy Martin got the job by that measure alone.
+
+---
+
+Politico: "[DNC] members delivered a clear message to their party’s
+power-brokers in picking Martin as chair: They largely think
+billionaire donors and big-name elected officials are out of touch
+with the core of the base... Suffering the biggest upset: Some
+Democratic billionaires who hoped to see Wikler take the top
+job. LinkedIn co-founder Reid Hoffman and George Soros’ Democracy PAC
+kicked in $250,000 each to the FORWARD PAC backing Wikler for chair"
+
+---
+
+NYT: "Ken Martin, the Minnesota Democratic chairman, was elevated on
+Saturday to lead the Democratic National Committee, taking the helm of
+a rudderless party staring down an uncertain future.Mr. Martin, a
+seasoned party operator who comes across as a low-key, mild-mannered
+Midwesterner, ran on pledges to broaden the party’s appeal —
+especially among working-class voters — and to ensure its ability to
+compete in races up and down the ballot, and across the country"
 
 ---
 
@@ -172,3 +221,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
