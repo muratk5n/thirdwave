@@ -198,7 +198,7 @@ Out[1]: {'critics': '20', 'audience': '17'}
 
 \#Frontline \#UA \#RU - 01/26 - 01/31
 
-[[-]](mbl/2025/ukrdata/map05.html)
+[[-]](ukrdata/map05.html)
 
 ---
 

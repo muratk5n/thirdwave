@@ -245,7 +245,7 @@ this... Being different, and overtly so because it helped them in the
 area where they came from. The shtick obviously did not help them as
 much in 30-40s Germany. 
 
-[[-]](2023/12/asimov-israel.html)
+[[-]](../../2023/12/asimov-israel.html)
 
 ---
 
@@ -288,11 +288,11 @@ missing a large part of what's going on.
 
 ---
 
-[Clintoncare = Obamacare](2023/06/evil-geniuses.html#clintoncare)
+[Clintoncare = Obamacare](../../2023/06/evil-geniuses.html#clintoncare)
 
 ---
 
-[BHO = Black Bill Clinton](mbl/2025/clinton_blackface.jpg)
+[BHO = Black Bill Clinton](clinton_blackface.jpg)
 
 ---
 

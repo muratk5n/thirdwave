@@ -100,7 +100,7 @@ crisis, political instability in terms of inequality, and a few other
 parameters. According to him, yes, US is in crisis mode right now, it
 has been for a while.
 
-[[-]](./2024/05/age-of-discord-math.html)
+[[-]](../../2024/05/age-of-discord-math.html)
 
 ---
 
@@ -108,7 +108,7 @@ If inequality is added to a grand model of economics, it could be as
 an extension of the model below, using macro variables, analyzing
 top-down.
 
-[[-]](./0119/2018/02/keen_math.html)
+[[-]](../../0119/2018/02/keen_math.html)
 
 ---
 
