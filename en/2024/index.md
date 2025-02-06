@@ -20,17 +20,7 @@
 
 [Age of Discord Math](05/age-of-discord-math.html)
 
-[Solitaire](05/solitaire-ext.html)
-
 [Conflict Map](06/conflict-ext.html)
-
-[Doom](06/doom-ext.html)
-
-[Games](06/games.html)
-
-[Racer](06/racer-ext.html)
-
-[Tetris](06/tetris-ext.html)
 
 [Blink](10/blink_gladwell.html)
 

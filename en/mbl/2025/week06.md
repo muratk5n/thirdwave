@@ -1,5 +1,341 @@
 # Week 6
 
+This is your cue to start working for the people, congressmen
+
+TDB: "Lawmakers Face Record ‘Wide Range’ of Violent Threats.. Threats
+against lawmakers, their families and staff skyrocketed last year,
+with the numbers more than doubling since 2017, the United States
+Capitol Police reported Monday"
+
+---
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/113/946/532/953/402/879/original/e637d585a83cd84d.jpg'/>
+
+---
+
+When user views the frontline maps for Ukraine on this blog, they are
+running Javascript code locally, on their machine... I send Javascript
+code to your browser to run, that code in turn fetches two more data
+files from my blog (before/after coordinates for the frontline, two
+simple text files), and displays them. Another piece of code, Leaflet,
+also runs on browser allows the underlying mapping to be displayed w/
+dynamic zooming. It all takes place locally to the user, their CPU
+does the work, almost nothing happens on the server.
+
+---
+
+Javascript (code that can run in the browser) is the universal GUI
+now. If I was starting any UI-heavy project I would not bother with
+anything else. JS is deployable anywhere (bcz browsers run all
+platforms), and now with the addition of WebAssembly it can
+incorporate code from multiple languages.
+
+---
+
+\#Stevenson 
+
+"I went to school with a lot of.. middle class kids who got good
+degrees and a lot of them went into medicine and dentistry. They
+became doctors and dentists. And now the doctors and dentists who make
+the most money, what they do is cosmetic surgery for rich people,
+things like Botox or like teeth whitening, teeth straightening,
+cosmetic stuff that is obviously not like medically essential. Or they
+work for private healthcare, healthcare for rich people... [Some say]
+"That's politics of envy".  Well, what happens when you need a
+dentist?  What happens when your kids need a dentist?  And we're in a
+situation now in this country where it's becoming increasingly
+impossible to get a NHS dentists to get cheaper, affordable dental
+care.  And as a result, people are just not going to the dentist. And
+it's not that the dentists are not there... just like your kids are in
+competition with the kids of the rich for elite university places, you
+and your kids are in competition with the rich for access to the
+dentists and access to the doctors.. "
+
+---
+
+Woke has to be corporate psyop, manufactured to force the left to
+spend less time talking about material issues
+
+---
+
+I see, a non-LGBTICUP person but is supportive of LGBTICUP issues, so
+an "ally" of the cause.
+
+---
+
+WTF is an Ally? 
+
+---
+
+I hadn't realized the letter soup grew even larger.. 
+
+"LGBTTTQQIAA for Lesbian, Gay, Bisexual, Transgender, Transsexual,
+Two-spirited, Queer, Questioning, Intersex, Asexual, Ally. Since the
+number of letters could be endless on a sexual and gender continuum
+and so as not to exclude anyone, it is also possible to opt for
+LGBTQ+"
+
+---
+
+Byline Times: "Keir Starmer’s Government Votes to Block UN Plan to
+Tackle Global Tax Avoidance.. The UK has joined with the United States
+and a handful of other rich nations in rejecting the UN push"
+
+---
+
+Netanyahoo has been around for a long time.. the reason is he is the
+linchpin of the complex. He creates the much needed "demand" for the
+complex in the Middle East.
+
+---
+
+[Link](https://youtu.be/174SurFsMDw)
+
+---
+
+Hossein-Zadeh, *The Political Economy of US Militarism*: "[2006]
+Official explanations such as weapons of mass destruction, Saddam’s
+threat to the United States, or his connection to Al-Qaida, can now
+easily be dispensed with as flimsy, harebrained pretexts for the
+invasion of Iraq. Critics have, instead, pointed to a number of other
+factors behind the drive to war. Those factors are divided into two
+categories in this chapter: secondary or minor factors and primary or
+major ones. Included among secondary reasons for the war are the role
+of domestic politics, the influence of the so-called neoconservative
+ideologues, and the role of oil. Primary or major factors include the
+military-industrial complex and the militant Zionist proponents of
+“greater Israel.” I will call the unofficial, unspoken, de facto
+alliance between these two major forces, precipitated by a convergence
+of their respective interests on war and political convulsion in the
+Middle East, the military-industrial-Likud alliance.
+
+---
+
+Capitalism has many blind spots. Private capital turns everyone into a
+wage slave, but it needs major government help to do it.  If education
+(basically daycare) isn't public, then there is no place where kids
+can be dropped off while parents are at work. That means an unhappy
+wage slave. They could revolt!
+
+If research is not subsidized all these high flying "tech companies"
+would not be able to "innovate". So on..
+
+---
+
+90% of high schools in US are public schools. That is not an easy
+thing to privatize.
+
+---
+
+Of course all WebAssembly tools are free and open source. In my crowd,
+line of work (which is where all the action is -not to boast-) it is
+mostly FOSS. We don't even think about it, so I sometimes forget to
+comment on these things, but outside observers need to know, see the
+power dynamic here. It's all about open source. We are the shit, the
+rest are losers. I haven't bought a commercial software for decades
+now. I use FOSS, I contribute to FOSS.. A client, company I work for
+can utilize software "on the cloud" serving software for money but the
+underlying software better f-ing be FOSS, otherwise I won't touch it.
+
+---
+
+WebAssembly tech looks promising. Compile any language into wasm and
+the code can be executed in the browser, as well as other wasm-able
+platforms.
+
+I have some "legacy" Java code lying around maybe I will wasm enable
+it one day.
+
+---
+
+During debt crises era 2010s there were a lot of government-spending-of-any-kind-fixes-all
+economists running around in the media. "If there is no spending,
+someone has to, government has to step up and spend, create aggregate
+demand". Well government did spend during covid, gave people bunch of
+money, inequality still increased. Where is aggregate demand?  If the
+flow of money is one-directional, and it all ends up in assets not
+owned by the middle class, you are still screwed. Gov spends, will
+fall further in debt, the rich will buy that debt along w/ other
+assets, collect interest and become richer. The cycle will continue..
+
+---
+
+```python
+u.baci_all_products("USA","China")
+```
+
+```text
+$ 149,199,118,616.9998
+```
+
+---
+
+```python
+u.baci_all_products("China","USA")
+```
+
+```text
+$ 554,416,674,694.9995
+```
+
+---
+
+Hardball.. it worked. Rubio executed on DJT's behalf well
+
+"@unusualwhales@threads.net
+
+BREAKING: Panama agrees to facilitate & offer free-passage to US Navy
+ships through Panama Canal following visit from Secretary of State
+Marco Rubio, and agrees to end China's Panama Canal deal and to leave
+from China's 2017 'Belt and Road initiative'"
+
+---
+
+Halton Arp: "[One galaxy I cataloged] has a large companion on the end
+of a luminous arm. In 1971 a spectrum revealed that this companion was
+8,000 km/sec higher redshift than the central, active Seyfert
+galaxy. This amount of excess redshift cannot be accomodated in the
+conventional picture where redshifts mean velocities in an expanding
+universe. They could not be at such different distances and be
+physically interacting. When Fred Hoyle heard about this he came up
+from the Cal Tech campus to my Carnegie office and asked to see the
+original picture. In 1972 he gave the prestigious Russell Lecture at
+the Seattle meeting of the American Astronomical Society and outlined
+a theory whereby younger galaxies radiated intrinsically redshifted
+photons. His theory of growing particle masses was a more general
+solution to the conventional field equations but was physically a
+Machian (not Einsteinian theory). At the end of the lecture he said
+the NGC 7603 observation created a crisis in physics and we needed to
+cross over the bridge to a radically more general physics...
+
+Over the years the evidence for non-velocity redshifts has grown
+enormously, both for quasars and galaxies. A number of researchers
+have tried to make the establishment admit the consequences of this
+evidence. But it has been suppressed and ignored. However, In an event
+of great irony, 30 years after Hoyle's talk featuring NGC 7603, two
+young Spanish astronomers have announced the finding of two
+quasar-like, much higher redshift objects imbedded in the arm which
+connects the low redshift galaxy to the higher redshift companion of
+NGC 7603. As in many past cases, this result alone should have settled
+instantly and finally the existance of intrinsic redshifts. Instead
+the paper was turned down by 'Nature' Magazine, rejected by the
+'Astrophysical Journal' and only finally accepted by the European
+Journal 'Astronomy and Astrophysics'...
+
+The ejection in opposite directions of material from active galaxies,
+including very high redshift material like quasars, has been building
+up now for over 37 years. Yet the radio map shown here and the
+notation that his object had 'two redshifts', one a 'background
+object', lay unoticed and unchallenged in the voluminous literature
+for 4 years! When it was finally submitted to the Astronomical Society
+of the Pacific it was rejected. In spite of my being a past President
+of this organization they refused other observational results and
+communications and I had to resign. It is particularly vexing that the
+A.S.P. has as a primary goal educating the public about astronomy. But
+since it was hijacked by fanatical Big Bang adherents, it has been
+exactly misinforming the public"
+
+---
+
+2022 trade data,
+
+```python
+u.baci_all_products("Mexico","USA")
+```
+
+```text
+$ 424,735,465,633.9993
+```
+
+---
+
+```python
+u.baci_all_products("USA","Mexico")
+```
+
+```text
+$ 302,641,331,571.0001
+```
+
+---
+
+```python
+u.baci_all_products("Canada","USA")
+```
+
+```text
+$ 437,647,720,907.9995
+```
+
+---
+
+```python
+u.baci_all_products("USA","Canada")
+```
+
+```text
+$ 318,301,555,958.0007
+```
+
+---
+
+Fleming: "Einstein was stuck, in that by denying the existence of
+aether, or any other medium of transmission of light, he still wanted
+to explain clock rate slowing and hypothetical distance
+contraction. In order to do that, he imagined that space itself must
+change its spatial and time dimensions when that space is moving
+relative to other space. His space was not a wallless container but
+was physical. In order to do away with aether theory, he had to treat
+space like it had physical properties, including spatial and time
+dimensions that were variable. Therein lies Einstein’s fallacy. He
+claimed space is non-physical and physical at the same time...
+
+We now know experimentally that all space contains vacuum energy
+consistent with Max Planck’s theory of quantum oscillators. Per his
+theory it is impossible for space to be empty. Planck oscillators are
+something physical that we can use to explain all the known physical
+properties of space. Quantum vacuum energy has wavelengths and
+frequencies that give space its spatial and time dimensionality. The
+quantum vacuum also gives us a standard reference frame to use when
+making relativistic frame transformations, as well as giving us a
+physical medium for light and force transmission...
+
+Einstein had not actually solved the problem. He merely turned space
+into a new form of aether while still failing to provide a physical
+explanation for its physical properties"
+
+---
+
+Saudi Arabia UK Ambassador: "We won't accept Trump's Israel peace plan
+without a Palestinian state"
+
+---
+
+Cuck Schumer, Pelosi both supported the other guy. I guess we should
+be happy Martin got the job by that measure alone.
+
+---
+
+Politico: "[DNC] members delivered a clear message to their party’s
+power-brokers in picking Martin as chair: They largely think
+billionaire donors and big-name elected officials are out of touch
+with the core of the base... Suffering the biggest upset: Some
+Democratic billionaires who hoped to see Wikler take the top
+job. LinkedIn co-founder Reid Hoffman and George Soros’ Democracy PAC
+kicked in $250,000 each to the FORWARD PAC backing Wikler for chair"
+
+---
+
+NYT: "Ken Martin, the Minnesota Democratic chairman, was elevated on
+Saturday to lead the Democratic National Committee, taking the helm of
+a rudderless party staring down an uncertain future.Mr. Martin, a
+seasoned party operator who comes across as a low-key, mild-mannered
+Midwesterner, ran on pledges to broaden the party’s appeal —
+especially among working-class voters — and to ensure its ability to
+compete in races up and down the ballot, and across the country"
+
+---
+
 ```python
 u.baci_top_product("USA","Mexico")
 ```

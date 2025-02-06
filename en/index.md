@@ -32,148 +32,66 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-Halton Arp: "[One galaxy I cataloged] has a large companion on the end
-of a luminous arm. In 1971 a spectrum revealed that this companion was
-8,000 km/sec higher redshift than the central, active Seyfert
-galaxy. This amount of excess redshift cannot be accomodated in the
-conventional picture where redshifts mean velocities in an expanding
-universe. They could not be at such different distances and be
-physically interacting. When Fred Hoyle heard about this he came up
-from the Cal Tech campus to my Carnegie office and asked to see the
-original picture. In 1972 he gave the prestigious Russell Lecture at
-the Seattle meeting of the American Astronomical Society and outlined
-a theory whereby younger galaxies radiated intrinsically redshifted
-photons. His theory of growing particle masses was a more general
-solution to the conventional field equations but was physically a
-Machian (not Einsteinian theory). At the end of the lecture he said
-the NGC 7603 observation created a crisis in physics and we needed to
-cross over the bridge to a radically more general physics...
+"@signalstation@raggedfeathers.com
 
-Over the years the evidence for non-velocity redshifts has grown
-enormously, both for quasars and galaxies. A number of researchers
-have tried to make the establishment admit the consequences of this
-evidence. But it has been suppressed and ignored. However, In an event
-of great irony, 30 years after Hoyle's talk featuring NGC 7603, two
-young Spanish astronomers have announced the finding of two
-quasar-like, much higher redshift objects imbedded in the arm which
-connects the low redshift galaxy to the higher redshift companion of
-NGC 7603. As in many past cases, this result alone should have settled
-instantly and finally the existance of intrinsic redshifts. Instead
-the paper was turned down by 'Nature' Magazine, rejected by the
-'Astrophysical Journal' and only finally accepted by the European
-Journal 'Astronomy and Astrophysics'...
+Spotted a new sticker in the neighborhood, of St. Luigi."
 
-The ejection in opposite directions of material from active galaxies,
-including very high redshift material like quasars, has been building
-up now for over 37 years. Yet the radio map shown here and the
-notation that his object had 'two redshifts', one a 'background
-object', lay unoticed and unchallenged in the voluminous literature
-for 4 years! When it was finally submitted to the Astronomical Society
-of the Pacific it was rejected. In spite of my being a past President
-of this organization they refused other observational results and
-communications and I had to resign. It is particularly vexing that the
-A.S.P. has as a primary goal educating the public about astronomy. But
-since it was hijacked by fanatical Big Bang adherents, it has been
-exactly misinforming the public"
+<img width='200' src='https://cdn.masto.host/raggedfeathers/media_attachments/files/113/953/654/969/504/833/original/01ad4899348bf071.png'/>
 
 ---
 
-2022 trade data,
-
-```python
-u.baci_all_products("Mexico","USA")
-```
-
-```text
-$ 424,735,465,633.9993
-```
+Where are the shit commercial codes, like Windows based ones?
+Micro$haft tried to compete in this space but it had its ass handed to
+it. FOSS coding is simply better. The code is free and open, more eyes
+look at it, anyone can contribute an improvement, or test.
 
 ---
 
-```python
-u.baci_all_products("USA","Mexico")
-```
-
-```text
-$ 302,641,331,571.0001
-```
+"96.3% of the top one million web servers are running [FOSS]
+Linux. Among the websites that run on Linux, remarkable ones include
+Twitter, Yahoo, and eBay, speaking volumes about Linux popularity. The
+internet is increasingly dependent on Linux"
 
 ---
 
-```python
-u.baci_all_products("Canada","USA")
-```
+"@Grafa@mastodon.social
 
-```text
-$ 437,647,720,907.9995
-```
+Pure Hydrogen delivers Australia's first hydrogen-powered garbage
+truck"
 
 ---
 
-```python
-u.baci_all_products("USA","Canada")
-```
-
-```text
-$ 318,301,555,958.0007
-```
+F24: "'Majority' of Ukrainians want ceasefire with Russia, Zelensky's
+ex-spokesperson [Mendel] says"
 
 ---
 
-Fleming: "Einstein was stuck, in that by denying the existence of
-aether, or any other medium of transmission of light, he still wanted
-to explain clock rate slowing and hypothetical distance
-contraction. In order to do that, he imagined that space itself must
-change its spatial and time dimensions when that space is moving
-relative to other space. His space was not a wallless container but
-was physical. In order to do away with aether theory, he had to treat
-space like it had physical properties, including spatial and time
-dimensions that were variable. Therein lies Einstein’s fallacy. He
-claimed space is non-physical and physical at the same time...
-
-We now know experimentally that all space contains vacuum energy
-consistent with Max Planck’s theory of quantum oscillators. Per his
-theory it is impossible for space to be empty. Planck oscillators are
-something physical that we can use to explain all the known physical
-properties of space. Quantum vacuum energy has wavelengths and
-frequencies that give space its spatial and time dimensionality. The
-quantum vacuum also gives us a standard reference frame to use when
-making relativistic frame transformations, as well as giving us a
-physical medium for light and force transmission...
-
-Einstein had not actually solved the problem. He merely turned space
-into a new form of aether while still failing to provide a physical
-explanation for its physical properties"
+CNBC: "Apple shares slide after China reportedly considers probe into
+App Store practices"
 
 ---
 
-Saudi Arabia UK Ambassador: "We won't accept Trump's Israel peace plan
-without a Palestinian state"
+SA is likely serious on their position, bcz Palestinians were ignored
+in the first raproachement deal of the first Trump term, and that
+partially contributed to October 7.
+
+Sky News: "Riyadh has swiftly responded to Trump's comments, hardening
+its position and insisting on Palestinian statehood in exchange for a
+deal. That's not going to happen either... And so, are these faux
+lines of negotiation being drawn? Artificial problems being created to
+give the sides the spectre of something to climb down from?"
 
 ---
 
-Cuck Schumer, Pelosi both supported the other guy. I guess we should
-be happy Martin got the job by that measure alone.
+Politico: "European countries joined Arab nations Wednesday in
+rebuking a shock announcement by United States President Donald Trump
+that he wants to take control over Gaza and forcibly displace its
+inhabitants to neighboring countries including Jordan and Egypt"
 
 ---
 
-Politico: "[DNC] members delivered a clear message to their party’s
-power-brokers in picking Martin as chair: They largely think
-billionaire donors and big-name elected officials are out of touch
-with the core of the base... Suffering the biggest upset: Some
-Democratic billionaires who hoped to see Wikler take the top
-job. LinkedIn co-founder Reid Hoffman and George Soros’ Democracy PAC
-kicked in $250,000 each to the FORWARD PAC backing Wikler for chair"
-
----
-
-NYT: "Ken Martin, the Minnesota Democratic chairman, was elevated on
-Saturday to lead the Democratic National Committee, taking the helm of
-a rudderless party staring down an uncertain future.Mr. Martin, a
-seasoned party operator who comes across as a low-key, mild-mannered
-Midwesterner, ran on pledges to broaden the party’s appeal —
-especially among working-class voters — and to ensure its ability to
-compete in races up and down the ballot, and across the country"
+E. M. Pugh: "If the human brain were so simple that we could
+understand it, we would be so simple that we couldn’t"
 
 ---
 
@@ -221,6 +139,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-

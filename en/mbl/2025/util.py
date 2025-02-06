@@ -16,16 +16,13 @@ baci_dir = "/opt/Downloads/baci"
 def get_pd(): return pd
 
 def trump_approval():
-    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/president_approval_polls.csv')
-    #df = pd.read_csv('/home/burak/Downloads/president_approval_polls.csv')
-    cols = ['poll_id','sample_size','yes','np','end_date']
-    df['approve'] = df.sample_size * (df.yes / 100)
-    df['disprove'] = df.sample_size * (df.no / 100)
-    df['Date'] = pd.to_datetime(df.end_date)
-    g1 = df.groupby('Date').sum(['approve','disprove'])
-    g1['net'] = (g1.approve-g1.disprove) / g1.sample_size    
-    g1['net'].plot(title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
-    print (g1['net'])
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/approval_averages.csv')
+    df2 = df[['pct_estimate','answer','date']]
+    df2 = df2[df['politician/institution'] == 'Donald Trump']
+    df2 = df2.pivot_table(columns='answer',index='date')
+    df2['net'] = df2['pct_estimate']['Approve'] - df2['pct_estimate']['Disapprove']
+    print (df2['net'])
+    df2['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
     
