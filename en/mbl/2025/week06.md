@@ -1,5 +1,68 @@
 # Week 6
 
+"@signalstation@raggedfeathers.com
+
+Spotted a new sticker in the neighborhood, of St. Luigi."
+
+<img width='200' src='https://cdn.masto.host/raggedfeathers/media_attachments/files/113/953/654/969/504/833/original/01ad4899348bf071.png'/>
+
+---
+
+Where are the shit commercial codes, like Windows based ones?
+Micro$haft tried to compete in this space but it had its ass handed to
+it. FOSS coding is simply better. The code is free and open, more eyes
+look at it, anyone can contribute an improvement, or test.
+
+---
+
+"96.3% of the top one million web servers are running [FOSS]
+Linux. Among the websites that run on Linux, remarkable ones include
+Twitter, Yahoo, and eBay, speaking volumes about Linux popularity. The
+internet is increasingly dependent on Linux"
+
+---
+
+"@Grafa@mastodon.social
+
+Pure Hydrogen delivers Australia's first hydrogen-powered garbage
+truck"
+
+---
+
+F24: "'Majority' of Ukrainians want ceasefire with Russia, Zelensky's
+ex-spokesperson [Mendel] says"
+
+---
+
+CNBC: "Apple shares slide after China reportedly considers probe into
+App Store practices"
+
+---
+
+SA is likely serious on their position, bcz Palestinians were ignored
+in the first raproachement deal of the first Trump term, and that
+partially contributed to October 7.
+
+Sky News: "Riyadh has swiftly responded to Trump's comments, hardening
+its position and insisting on Palestinian statehood in exchange for a
+deal. That's not going to happen either... And so, are these faux
+lines of negotiation being drawn? Artificial problems being created to
+give the sides the spectre of something to climb down from?"
+
+---
+
+Politico: "European countries joined Arab nations Wednesday in
+rebuking a shock announcement by United States President Donald Trump
+that he wants to take control over Gaza and forcibly displace its
+inhabitants to neighboring countries including Jordan and Egypt"
+
+---
+
+E. M. Pugh: "If the human brain were so simple that we could
+understand it, we would be so simple that we couldn’t"
+
+---
+
 This is your cue to start working for the people, congressmen
 
 TDB: "Lawmakers Face Record ‘Wide Range’ of Violent Threats.. Threats

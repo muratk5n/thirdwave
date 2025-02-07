@@ -20,7 +20,5 @@
 
 [Age of Discord Math](05/age-of-discord-math.html)
 
-[Conflict Map](06/conflict-ext.html)
-
 [Blink](10/blink_gladwell.html)
 

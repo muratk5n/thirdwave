@@ -32,66 +32,92 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-"@signalstation@raggedfeathers.com
+Werdmuller: "For the last few years, AI vendors have had an
+interesting marketing playbook: they’ve described the potential power
+of the technologies as being so great that it could lead to an
+artificial general intelligence that could either kill humanity or
+leave us behind and head for the stars. We ignore its power at our
+peril.
 
-Spotted a new sticker in the neighborhood, of St. Luigi."
-
-<img width='200' src='https://cdn.masto.host/raggedfeathers/media_attachments/files/113/953/654/969/504/833/original/01ad4899348bf071.png'/>
-
----
-
-Where are the shit commercial codes, like Windows based ones?
-Micro$haft tried to compete in this space but it had its ass handed to
-it. FOSS coding is simply better. The code is free and open, more eyes
-look at it, anyone can contribute an improvement, or test.
-
----
-
-"96.3% of the top one million web servers are running [FOSS]
-Linux. Among the websites that run on Linux, remarkable ones include
-Twitter, Yahoo, and eBay, speaking volumes about Linux popularity. The
-internet is increasingly dependent on Linux"
+As it turned out, OpenAI and Microsoft’s definition of 'artificial
+general intelligence' was that the technologies would reach one
+hundred billion dollars in revenue. It wasn’t tied to capabilities
+around reasoning, and did not, in actuality, relate to a Terminator
+future. It just meant that they’d be making a lot of money from
+it. All the talk of humanity-destroying intelligence and the
+existential questions that derived from it just served to draw
+attention to their services"
 
 ---
 
-"@Grafa@mastodon.social
-
-Pure Hydrogen delivers Australia's first hydrogen-powered garbage
-truck"
-
----
-
-F24: "'Majority' of Ukrainians want ceasefire with Russia, Zelensky's
-ex-spokesperson [Mendel] says"
+The Verge: "'I have no idea what’s going on in this industry right
+now,' Ford CEO Jim Farley said during his company’s capital markets
+event Monday. He referenced electric vehicles .. 'Higher ranges will
+necessitate bigger batteries', he noted, adding, 'These batteries are
+huge'"
 
 ---
 
-CNBC: "Apple shares slide after China reportedly considers probe into
-App Store practices"
+The rot starts at the top - e-jagoff is a moron.
+
+DOUCHE is in trouble.
 
 ---
 
-SA is likely serious on their position, bcz Palestinians were ignored
-in the first raproachement deal of the first Trump term, and that
-partially contributed to October 7.
-
-Sky News: "Riyadh has swiftly responded to Trump's comments, hardening
-its position and insisting on Palestinian statehood in exchange for a
-deal. That's not going to happen either... And so, are these faux
-lines of negotiation being drawn? Artificial problems being created to
-give the sides the spectre of something to climb down from?"
+Department Of Unnecessary Cuts Harming Efficiency = DOUCHE
 
 ---
 
-Politico: "European countries joined Arab nations Wednesday in
-rebuking a shock announcement by United States President Donald Trump
-that he wants to take control over Gaza and forcibly displace its
-inhabitants to neighboring countries including Jordan and Egypt"
+"Department of Government Efficiency [staffer] resigned on Thursday
+after now-deleted racist social media posts were resurfaced... Marko
+Elez, a 25-year-old software engineer, was working inside the Treasury
+Department.. 'Normalize Indian hate,' [he posted].. In July of last
+year, the account posted: 'Just for the record, I was racist before it
+was cool'"
 
 ---
 
-E. M. Pugh: "If the human brain were so simple that we could
-understand it, we would be so simple that we couldn’t"
+RSF vs SAF in Sudan - which is preferable? Neither is democratic, but
+one is at least the official military, so given all else equal SAF
+is. Egypt is behind them, so that's a plus (Egypt's stability is
+crucial for ME).
+
+---
+
+👏 👏 👏 
+
+F24: "Donald Trump bans transgender athletes from participating in
+women's sports.. US President Donald Trump signed an executive order
+banning transgender athletes from women's sports, citing the need to
+protect female athletes. The order, which could strip schools of
+federal funding for non-compliance, was signed at the White House amid
+applause from supporters, including key Republicans. Trump declared
+the move a defense of women's sports traditions"
+
+---
+
+TASS: "Ukrainian settlement is Trump’s top priority, US diplomat
+says.. Russian President Vladimir Putin has previously listed the
+conditions for resolving the conflict, including the withdrawal of
+Ukrainian forces from Donbass and Novorossiya, Kiev's refusal to join
+NATO, the lifting of all Western sanctions against Moscow, and the
+establishment of Ukraine's non-aligned and nuclear-free status"
+
+---
+
+It's a long shot. Nice try, but unlikely to work.
+
+NYT: "To Keep Aid Coming, Ukraine Appeals to Trump Allies:
+Conservative Christians.. A Ukrainian delegation to the National
+Prayer Breakfast in Washington will make the case that Russia
+threatens the religious freedom of Christians who don’t follow the
+Russian Orthodox Church"
+
+---
+
+\#Frontline #RU #UA 01/31 - 02/07
+
+[[-]](mbl/2025/ukrdata/map06.html)
 
 ---
 

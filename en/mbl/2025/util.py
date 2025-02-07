@@ -1,12 +1,12 @@
 import sys, os, matplotlib.pyplot as plt, pandas as pd
 import re, zipfile, json, numpy as np, datetime, folium
+import urllib.request, textwrap, math, requests
 from timeit import default_timer as timer
 from multiprocessing import Process
 from shapely.geometry import Polygon
 from shapely.ops import unary_union
 from pandas_datareader import data
 from functools import lru_cache
-import urllib.request, textwrap
 from datetime import timedelta
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
@@ -14,6 +14,75 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
+
+def map_eq_at(lat, lon, radius, ago, outfile="/tmp/out.html", today=datetime.datetime.now()):
+
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    today = datetime.datetime.now()
+    start = today - datetime.timedelta(days=ago)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=1.0&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        sd = d.strftime("%Y-%m-%d %H:%M:%S")
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        diff = (today-d).days+1
+        res.append([sd,s,lat,lon,diff])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon','ago']
+    df = df.set_index('date')    
+
+    m = folium.Map(location=[lat,lon], zoom_start=6) 
+    folium.TileLayer(tiles=TILE,
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for i, row in df.iterrows():
+        folium.CircleMarker([row['lat'],row['lon']],
+                            color='red',
+                            tooltip=row['mag'],
+                            radius=2.0).add_to(m)        
+    m.save(outfile)    
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
+
+def map_coords(coords, zoom, outfile):
+    m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
+    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for key,val in coords.items():
+        folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
+    m.save(outfile)
+
 
 def trump_approval():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/approval_averages.csv')
@@ -181,29 +250,7 @@ def map_sahel_suriyak():
 
 def prep_ukraine():
     ###########################################################################33333333
-    regs = [
-        "S..Zaporizhia-Russian Armed Forces",
-        "E..Zaporizhia-Russian Armed Forces",
-        "Luhansk People's Republic \(North Luhansk\)",
-        "Luhansk People's Republic \(East Luhansk 1\)",
-        "Luhansk People's Republic \(East Luhansk 2\)",
-        "Luhansk People's Republic \(West Luhansk\)",
-        "Luhansk People's Republic \(South Luhansk\)",
-        "Donetsk People's Republic \(Central Donetsk 1\)",
-        "Donetsk People's Republic \(Central Donetsk 2\)",
-        "Donetsk People's Republic \(East Donetsk\)",
-        "Donetsk People's Republic \(West Donetsk\)",
-        "Donetsk People's Republic \(South Donetsk\)",
-        "E.Kharkov-Russian Armed Forces",
-        "Kherson-Russian Armed Forces",
-        "Nykolaiv-Russian Forces"]
-
-    reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
-    reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
-    reg_ext3 = "Kursk-Russian Armed Forces 1"
-    reg_ext4 = "Kursk-Russian Armed Forces 2"
     
-
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
             content = myfile.read().decode('utf-8')
@@ -250,6 +297,28 @@ def map_ukraine_suriyak():
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
     """
     prep_ukraine()
+    
+    regs = [
+        "S..Zaporizhia-Russian Armed Forces",
+        "E..Zaporizhia-Russian Armed Forces",
+        "Luhansk People's Republic \(North Luhansk\)",
+        "Luhansk People's Republic \(East Luhansk 1\)",
+        "Luhansk People's Republic \(East Luhansk 2\)",
+        "Luhansk People's Republic \(West Luhansk\)",
+        "Luhansk People's Republic \(South Luhansk\)",
+        "Donetsk People's Republic \(Central Donetsk 1\)",
+        "Donetsk People's Republic \(Central Donetsk 2\)",
+        "Donetsk People's Republic \(East Donetsk\)",
+        "Donetsk People's Republic \(West Donetsk\)",
+        "Donetsk People's Republic \(South Donetsk\)",
+        "E.Kharkov-Russian Armed Forces",
+        "Kherson-Russian Armed Forces",
+        "Nykolaiv-Russian Forces"]
+    
+    reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
+    reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
+    reg_ext3 = "Kursk-Russian Armed Forces 1"
+    reg_ext4 = "Kursk-Russian Armed Forces 2"    
     
     content = open("/tmp/ukraine.kml").read()
 

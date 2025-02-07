@@ -1,13 +1,5 @@
 # Conflict Statistics
 
-### GDELT Mapper
-
-Retrieves daily GDELT conflict data and maps news item URLs of all
-military, police related attacks, mobilizations around the world on a
-map.
-
-[[-]](../../2024/06/conflict-ext.html)
-
 ### UCDP/PRIO Armed Conflict Dataset
 
 [Data](https://ucdp.uu.se/downloads/)
