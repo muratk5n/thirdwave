@@ -15,7 +15,7 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
-def map_eq_at(lat, lon, radius, ago, outfile="/tmp/out.html", today=datetime.datetime.now()):
+def map_eq(lat, lon, radius, ago, outfile="/tmp/out.html", today=datetime.datetime.now()):
 
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
     lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
@@ -56,7 +56,7 @@ def map_eq_at(lat, lon, radius, ago, outfile="/tmp/out.html", today=datetime.dat
     for i, row in df.iterrows():
         folium.CircleMarker([row['lat'],row['lon']],
                             color='red',
-                            tooltip=row['mag'],
+                            tooltip=str(row['mag']) + " (" + str(row['ago']) + " days ago)",
                             radius=2.0).add_to(m)        
     m.save(outfile)    
 

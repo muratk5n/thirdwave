@@ -32,92 +32,100 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-Werdmuller: "For the last few years, AI vendors have had an
-interesting marketing playbook: they’ve described the potential power
-of the technologies as being so great that it could lead to an
-artificial general intelligence that could either kill humanity or
-leave us behind and head for the stars. We ignore its power at our
-peril.
+\#JacobBarandes \#QM
 
-As it turned out, OpenAI and Microsoft’s definition of 'artificial
-general intelligence' was that the technologies would reach one
-hundred billion dollars in revenue. It wasn’t tied to capabilities
-around reasoning, and did not, in actuality, relate to a Terminator
-future. It just meant that they’d be making a lot of money from
-it. All the talk of humanity-destroying intelligence and the
-existential questions that derived from it just served to draw
-attention to their services"
+The comments below are an outgrowth of JB's research who was able to
+show QM is merely a reflection, a projection of physical models based
+on "configuration spaces combined with stochastic dynamics". The
+system evolves based on non-Markovian stochastic process, during
+measurement the experimenter loses something during the transition
+which results in the funky results, that are attributed to the
+"unexplainable weirdness" of quantum mechanics.
 
----
+Other gems in the video, wave functions (of QM) are not real. They
+have no physical existence in reality. Ergo I conclude any talk about
+their "collapse" and follow up thought experiments therein would not
+be scientific.
 
-The Verge: "'I have no idea what’s going on in this industry right
-now,' Ford CEO Jim Farley said during his company’s capital markets
-event Monday. He referenced electric vehicles .. 'Higher ranges will
-necessitate bigger batteries', he noted, adding, 'These batteries are
-huge'"
+[[-]](https://www.youtube.com/embed/MTD8xkbiGis?start=3376&end=3411)
 
 ---
 
-The rot starts at the top - e-jagoff is a moron.
+Hossein-Zadeh: "Frightened by the specter of peace and/or peace
+dividends [after the fall of the Berlin Wall], beneficiaries of
+military spending frantically sought to invent and substitute 'new
+threats' for the 'communist threat' of the Cold War era, thereby
+preempting the realization of peace dividends.
 
-DOUCHE is in trouble.
-
----
-
-Department Of Unnecessary Cuts Harming Efficiency = DOUCHE
-
----
-
-"Department of Government Efficiency [staffer] resigned on Thursday
-after now-deleted racist social media posts were resurfaced... Marko
-Elez, a 25-year-old software engineer, was working inside the Treasury
-Department.. 'Normalize Indian hate,' [he posted].. In July of last
-year, the account posted: 'Just for the record, I was racist before it
-was cool'"
-
----
-
-RSF vs SAF in Sudan - which is preferable? Neither is democratic, but
-one is at least the official military, so given all else equal SAF
-is. Egypt is behind them, so that's a plus (Egypt's stability is
-crucial for ME).
+In pursuit of this goal, beneficiaries of war and militarism found a
+strong, well-established network of politically savvy allies: radical
+Zionist proponents of 'greater Israel.' Because the interests of these
+two powerful groups converged over fomenting war and political
+convulsion in the Middle East, an ominously potent alliance was forged
+between them— ominous, because the mighty U.S. war machine was now
+supplemented by the almost unrivaled public relations capabilities of
+the hard-line pro-Israel lobby in the United States. The alliance is
+unofficial and de facto; it is subtly forged through an elaborate
+network of powerful militaristic think tanks"
 
 ---
 
-👏 👏 👏 
-
-F24: "Donald Trump bans transgender athletes from participating in
-women's sports.. US President Donald Trump signed an executive order
-banning transgender athletes from women's sports, citing the need to
-protect female athletes. The order, which could strip schools of
-federal funding for non-compliance, was signed at the White House amid
-applause from supporters, including key Republicans. Trump declared
-the move a defense of women's sports traditions"
-
----
-
-TASS: "Ukrainian settlement is Trump’s top priority, US diplomat
-says.. Russian President Vladimir Putin has previously listed the
-conditions for resolving the conflict, including the withdrawal of
-Ukrainian forces from Donbass and Novorossiya, Kiev's refusal to join
-NATO, the lifting of all Western sanctions against Moscow, and the
-establishment of Ukraine's non-aligned and nuclear-free status"
+Hossein-Zadeh: "[2006] U.S. policy makers in the Middle East would go
+along with the demands of the radical Zionist lobby only if such
+demands also tend to serve the special interests that those policy
+makers represent or serve — not necessarily the interests of the
+American people, or collective U.S. 'national interests' in
+general. The fact that, as pointed out earlier, U.S. foreign policy
+during the Cold War era was less accommodating to the territorial
+desires of militant Zionism than in the post–Cold War period is an
+indication of this point. Another corroborating indication of the
+point is that as the military-industrial complex has been gaining more
+and more influence over U.S. foreign policy, that policy has,
+accordingly, been more and more geared to the wishes of hard-line
+Zionism because, as has been frequently pointed out in this chapter,
+the interests of the U.S.  military establishment converge with those
+of militant Zionism over war and political convulsion in the Middle
+East"
 
 ---
 
-It's a long shot. Nice try, but unlikely to work.
-
-NYT: "To Keep Aid Coming, Ukraine Appeals to Trump Allies:
-Conservative Christians.. A Ukrainian delegation to the National
-Prayer Breakfast in Washington will make the case that Russia
-threatens the religious freedom of Christians who don’t follow the
-Russian Orthodox Church"
+Syria is another case in point. They had tussles w Israel, bcz they
+are near (Israel causes problems to all who is near), and for the same
+reason Syria along the way became mostly pacified and it acted the
+least on Palestine issues, would jump, even until recently, at any
+chance to be on good terms with Israel.
 
 ---
 
-\#Frontline #RU #UA 01/31 - 02/07
+The guys near Palestine, Jordan, Egypt also happen to have,
+historically, more conflicts w/ Israel, bcz of that very reason, they
+were near Israel. The private military-industrial-Likud complex used
+more arm twisting on them compared to the rest, bcz they had more of a
+potential to fight Israel.
 
-[[-]](mbl/2025/ukrdata/map06.html)
+Iran came into the picture later, after the near "threat" subsided,
+but the complex needed military spending, that's when Iran became
+"more evil".
+
+---
+
+Thats true but half the story (also a bit unfair).
+
+"The further you are from Palestine, the more you cheer for the
+Palestinian cause"
+
+---
+
+If US support for Israel was "strategic" then why were two famous
+presidents before Truman were against it? Eisenhower and FDR.
+
+---
+
+Truman is skooling the viewer on how it's done. Take it from the pro,
+the first leader to genocide others via nuclear bomb. Ethnic Cleansing
+101. Watch and learn.
+
+[[-]](https://www.youtube.com/embed/iSePSn2ievg?start=1390&end=1507)
 
 ---
 

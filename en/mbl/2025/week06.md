@@ -1,5 +1,250 @@
 # Week 6
 
+Lee Fang, Unherd: "[2024/11] The battlelines on immigration have
+hardened predictably. Left-leaning voters proudly display 'refugees
+welcome' yard signs, while Donald Trump supporters cheer his pledge to
+implement 'largest deportation operation in the history of our
+country'. Amid such partisan attitudes, it has become heretical to
+suggest that the Democrats need to be tougher on immigration.
+
+But they must. In the long run, progressives have no choice but to
+acknowledge that huge infusions of migrants stress welfare systems and
+depress wages for low-skill workers, while damaging social
+cohesion. Only by accepting this, and making the case for border
+security and less tolerance for migrant rule-breaking, can the Left
+reconnect with its blue-collar roots"
+
+---
+
+That's good - no need to antagonize Russia at this point.
+
+Newsweek: "The U.S. attorney general has disbanded an anti-Russian
+oligarch sanctions task force to shift resources to anti-cartel
+activities."
+
+---
+
+H2 Central: "Avalon Renovables plans an investment of 8 billion euros
+in green hydrogen and derivative projects and the creation of 10,000
+jobs in Andalusia Madrid"
+
+---
+
+Informed Comment: "Eva Lavesque at Arabian Gulf Business Insight
+reports that Chinese solar firms are eyeing the Middle East market to
+offset declining US margins. The solar giant Trinasolar shipped 240
+gigawatts of solar modules worldwide in the first three quarters of
+2024... The US only produced 4 gigawatts of solar panel PV modules in
+the first two quarters of 2024. That is, we are not even in the same
+league as China. We’re a podunk farm team for solar panel
+manufacturing and China is the winner of the world series"
+
+---
+
+<img width='340' src='https://pbs.twimg.com/media/Gi5DzKiWAAA2UgH?format=jpg&name=small'/>
+
+---
+
+Work for the goverment. Why not? Be a public servant.
+
+---
+
+What to recommend to high school students? Don't quit high
+school. Finish high school. Go to college. Don't be an enterpreneur,
+develop a skill. If there is skill, there is always some jackass who
+will want to start a bihness around that.. 1 in 10 in US, 1 in 100 in
+Europe. Most of these people have mental issues, suffer from serious
+control problems, that's why they are in bihness, they become
+bihnessman. You don't have to be one of those.
+
+---
+
+Annie Lennox - Take Me To The River
+
+[[-]](https://youtu.be/uUt23gnC4mk)
+
+---
+
+A likely astroid hit in near future (1/80 but still). Is this the
+start of a disaster movie?
+
+---
+
+What is *up* with that earthquake cloud around the island of Santorini?
+
+```python
+u.map_eq(36.408567828, 25.43368438, radius=800, ago=8, outfile="map01.html")
+```
+
+[[-]](mbl/2025/map01.html)
+
+---
+
+Statement like that will get you shot. Oh wait, it did.
+
+---
+
+It's like he is talking to a multiracial working class coalition.
+
+<img width='340' src='https://climatejustice.social/system/media_attachments/files/113/962/802/879/050/104/small/5706eae945a7d603.jpg'/>
+
+---
+
+This tech needs to die. Great..
+
+WaPo: "States trying to build a network of EV chargers are reeling
+after the Trump administration abruptly ordered a halt to a $5 billion
+program"
+
+---
+
+The Guardian: "How the roots of the ‘PayPal mafia’ extend to apartheid
+South Africa..  [A]s the world’s richest man insisted he wasn’t trying
+to be a Nazi, speculation inevitably focused on whether his roots in
+apartheid-era South Africa offered an insight...
+
+[T]he 'PayPal mafia' of libertarian billionaires with roots in South
+Africa under white rule [are] now hugely influential in the US tech
+industry and politics... They include Peter Thiel, the German-born
+billionaire venture capitalist and PayPal cofounder, who was educated
+in a southern African city in the 1970s where Hitler was still openly
+venerated. Thiel, a major donor to Trump’s campaign, has been critical
+of welfare programs and women being permitted to vote as undermining
+capitalism. A 2021 biography of Thiel, called The Contrarian, alleged
+that as a student at Stanford he defended apartheid as 'economically
+sound'"
+
+---
+
+Elez was from DOUCHE, the racist guy
+
+WIRED: "Elez was granted privileges including the ability to not just
+read but write code on two of the most sensitive systems in the US
+government: the Payment Automation Manager (PAM) and Secure Payment
+System (SPS) at the Bureau of the Fiscal Service (BFS), an agency that
+according to Treasury records paid out $5.45 trillion in fiscal year
+2024. Reporting from Talking Points Memo confirmed that Treasury
+employees were concerned that Elez had already made “extensive
+changes” to code within the Treasury system. The payments processed by
+BFS include federal tax returns, Social Security benefits,
+Supplemental Security Income benefits, and veteran’s pay"
+
+---
+
+The man said famously "I dont know karate, but I know ka-razy".  Some
+recommend "going karazy" on Russia to force them to give more
+concessions. They forget Russia showed real karazy when it invaded
+Ukraine. They threw down the gauntlet, risked it all for this
+offensive. No amount of karazy will out-karazy that one.
+
+---
+
+There is no major schism against the RU Orthodox Church among
+Christians. They are considered Christians, so Zelensk banning Russian
+OCC will raise more eyebrows in US than any other angle. Tucker
+Carlson has been hammering Ukraine on that one, and he is getting more
+traction than Ukranians are. Little tricks won't work for you at this
+stage, Ukraine, you should've thought about that before you became
+Viktoria Nuland's bitch.
+
+---
+
+IMEMC: "Israeli Army Continues its Incursions in Jenin and Tubas.. On
+Wednesday, Israeli forces continued their aggression against the
+northern West Bank city of Jenin and the Jenin refugee camp for the
+16th consecutive day"
+
+---
+
+Werdmuller: "For the last few years, AI vendors have had an
+interesting marketing playbook: they’ve described the potential power
+of the technologies as being so great that it could lead to an
+artificial general intelligence that could either kill humanity or
+leave us behind and head for the stars. We ignore its power at our
+peril.
+
+As it turned out, OpenAI and Microsoft’s definition of 'artificial
+general intelligence' was that the technologies would reach one
+hundred billion dollars in revenue. It wasn’t tied to capabilities
+around reasoning, and did not, in actuality, relate to a Terminator
+future. It just meant that they’d be making a lot of money from
+it. All the talk of humanity-destroying intelligence and the
+existential questions that derived from it just served to draw
+attention to their services"
+
+---
+
+The Verge: "'I have no idea what’s going on in this industry right
+now,' Ford CEO Jim Farley said during his company’s capital markets
+event Monday. He referenced electric vehicles .. 'Higher ranges will
+necessitate bigger batteries', he noted, adding, 'These batteries are
+huge'"
+
+---
+
+The rot starts at the top - e-jagoff is a moron.
+
+DOUCHE is in trouble.
+
+---
+
+Department Of Unnecessary Cuts Harming Efficiency = DOUCHE
+
+---
+
+"Department of Government Efficiency [staffer] resigned on Thursday
+after now-deleted racist social media posts were resurfaced... Marko
+Elez, a 25-year-old software engineer, was working inside the Treasury
+Department.. 'Normalize Indian hate,' [he posted].. In July of last
+year, the account posted: 'Just for the record, I was racist before it
+was cool'"
+
+---
+
+RSF vs SAF in Sudan - which is preferable? Neither is democratic, but
+one is at least the official military, so given all else equal SAF
+is. Egypt is behind them, so that's a plus (Egypt's stability is
+crucial for ME).
+
+---
+
+👏 👏 👏 
+
+F24: "Donald Trump bans transgender athletes from participating in
+women's sports.. US President Donald Trump signed an executive order
+banning transgender athletes from women's sports, citing the need to
+protect female athletes. The order, which could strip schools of
+federal funding for non-compliance, was signed at the White House amid
+applause from supporters, including key Republicans. Trump declared
+the move a defense of women's sports traditions"
+
+---
+
+TASS: "Ukrainian settlement is Trump’s top priority, US diplomat
+says.. Russian President Vladimir Putin has previously listed the
+conditions for resolving the conflict, including the withdrawal of
+Ukrainian forces from Donbass and Novorossiya, Kiev's refusal to join
+NATO, the lifting of all Western sanctions against Moscow, and the
+establishment of Ukraine's non-aligned and nuclear-free status"
+
+---
+
+It's a long shot. Nice try, but unlikely to work.
+
+NYT: "To Keep Aid Coming, Ukraine Appeals to Trump Allies:
+Conservative Christians.. A Ukrainian delegation to the National
+Prayer Breakfast in Washington will make the case that Russia
+threatens the religious freedom of Christians who don’t follow the
+Russian Orthodox Church"
+
+---
+
+\#Frontline #RU #UA 01/31 - 02/07
+
+[[-]](mbl/2025/ukrdata/map06.html)
+
+---
+
 "@signalstation@raggedfeathers.com
 
 Spotted a new sticker in the neighborhood, of St. Luigi."
