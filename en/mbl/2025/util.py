@@ -15,6 +15,21 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def download_dataframe(url, outdir):
+    fname = os.path.basename(url)
+    baseurl = os.path.dirname(url)
+    target_file = outdir + "/" + fname
+    url = baseurl + "/" + fname
+    if not os.path.isfile(target_file):
+        r = requests.get(url, allow_redirects=True)
+        fout = open(target_file, 'wb')
+        fout.write(r.content)
+        fout.close()
+    df = pd.read_csv(target_file)
+    print (len(df), 'rows downloaded')
+    return df
+        
+
 def map_eq(lat, lon, radius, ago, outfile="/tmp/out.html", today=datetime.datetime.now()):
 
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
@@ -165,6 +180,48 @@ def get_coords_for_label(content, reg):
     coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
     coords = [[float(x),float(y)] for x,y in coords]
     return coords
+
+
+def prep_isr_suriyak():
+    # =======================================================================
+    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Palestine-Lebanon Map.kmz') as myzip:
+        with myzip.open('doc.kml') as myfile:
+            content = myfile.read().decode('utf-8')                
+    fout = open("/tmp/isr.kml","w")
+    fout.write(content)
+    fout.close()
+    
+def map_isr_suriyak():
+    prep_isr_suriyak()
+    isr_regs = ["Polígono 17"]
+    
+    content = open("/tmp/isr.kml").read()
+
+    rrrs = []
+    for i,reg in enumerate(isr_regs):
+        coords = get_coords_for_label(content, reg)
+        rrrs.append(coords)
+    print (len(rrrs[0]))
+    total = []
+    #total += rrrs[0][0:200]
+    #total += rrrs[0][400:600]
+    total += rrrs[0][700:910]
+    total += rrrs[0][0:535]
+    rrrs[0] = total
+        
+    for x in rrrs:
+        xx = np.array(x)
+        plt.plot(xx[:,0].T,xx[:,1].T,'r')
+    plt.savefig('/tmp/out.jpg')
+        
+    fout = open("/tmp/out.json","w")
+    fout.write('[\n')
+    for i,rrr in enumerate(rrrs):
+        fout.write(json.dumps(rrr))
+        if i < len(rrrs)-1: fout.write(',')
+        fout.write('\n')
+    fout.write(']\n')
+    fout.close()
 
 
 def prep_sahel():
@@ -451,7 +508,9 @@ def baci_top_product(frc, toc):
 def baci_all_products(frc, toc):
     baci_cc, baci_pc, baci_p, baci_v, baci_totals = init_baci()
     key = "%d-%d" % (baci_cc.loc[frc].country_code, baci_cc.loc[toc].country_code)
-    print('$', f"{baci_totals[key]*1000:,}")
+    amt = baci_totals[key]*1000
+    #print('$', f"{amt:,}")
+    return amt
     
 if __name__ == "__main__": 
 

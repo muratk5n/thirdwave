@@ -32,100 +32,55 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-\#JacobBarandes \#QM
+"@eb@social.coop
 
-The comments below are an outgrowth of JB's research who was able to
-show QM is merely a reflection, a projection of physical models based
-on "configuration spaces combined with stochastic dynamics". The
-system evolves based on non-Markovian stochastic process, during
-measurement the experimenter loses something during the transition
-which results in the funky results, that are attributed to the
-"unexplainable weirdness" of quantum mechanics.
-
-Other gems in the video, wave functions (of QM) are not real. They
-have no physical existence in reality. Ergo I conclude any talk about
-their "collapse" and follow up thought experiments therein would not
-be scientific.
-
-[[-]](https://www.youtube.com/embed/MTD8xkbiGis?start=3376&end=3411)
+if anybody wants a fun project, compile chrome to WASM so you can run
+chrome in chrome"
 
 ---
 
-Hossein-Zadeh: "Frightened by the specter of peace and/or peace
-dividends [after the fall of the Berlin Wall], beneficiaries of
-military spending frantically sought to invent and substitute 'new
-threats' for the 'communist threat' of the Cold War era, thereby
-preempting the realization of peace dividends.
+He is in treasuries obviously, not cash cash. The amount is staggering
+isn't it, this is all government debt. There is money, accumulated
+somewhere, and it can easily buy that government debt. Gov spends
+spends, rich buys buys. Governments gradually lose assets, lose income
+bcz they don't tax, and they will fall furter in debt eventually they
+will cut services.
 
-In pursuit of this goal, beneficiaries of war and militarism found a
-strong, well-established network of politically savvy allies: radical
-Zionist proponents of 'greater Israel.' Because the interests of these
-two powerful groups converged over fomenting war and political
-convulsion in the Middle East, an ominously potent alliance was forged
-between them— ominous, because the mighty U.S. war machine was now
-supplemented by the almost unrivaled public relations capabilities of
-the hard-line pro-Israel lobby in the United States. The alliance is
-unofficial and de facto; it is subtly forged through an elaborate
-network of powerful militaristic think tanks"
+"Buffett is in cash, $325 billion"
 
 ---
 
-Hossein-Zadeh: "[2006] U.S. policy makers in the Middle East would go
-along with the demands of the radical Zionist lobby only if such
-demands also tend to serve the special interests that those policy
-makers represent or serve — not necessarily the interests of the
-American people, or collective U.S. 'national interests' in
-general. The fact that, as pointed out earlier, U.S. foreign policy
-during the Cold War era was less accommodating to the territorial
-desires of militant Zionism than in the post–Cold War period is an
-indication of this point. Another corroborating indication of the
-point is that as the military-industrial complex has been gaining more
-and more influence over U.S. foreign policy, that policy has,
-accordingly, been more and more geared to the wishes of hard-line
-Zionism because, as has been frequently pointed out in this chapter,
-the interests of the U.S.  military establishment converge with those
-of militant Zionism over war and political convulsion in the Middle
-East"
+Wealth won't trickle down, it will just sit there accruing interest,
+that's why it has to be taxed.
+
+Ludwig, *The Vanishing American Dream*: [I]n 2018.. [a]mid a raft of
+seemingly very positive economic indicators — a low unemployment rate,
+strong GDP growth, buoyant market benchmarks — I had concluded that
+too few policymakers were taking heed of the fact that many
+communities were being left behind. Too frequently, Washington
+insiders seemed sanguine that wealth accruing at the top of the income
+scale would eventually 'trickle down' to the rest of the country. A
+closer look at localities like the place where I grew up—York,
+Pennsylvania—revealed that thinking to be entirely off base"
 
 ---
 
-Syria is another case in point. They had tussles w Israel, bcz they
-are near (Israel causes problems to all who is near), and for the same
-reason Syria along the way became mostly pacified and it acted the
-least on Palestine issues, would jump, even until recently, at any
-chance to be on good terms with Israel.
+TASS: "Ukraine unlikely to get back its territories, says US President
+Trump.. The US president pointed out that Ukraine's membership in NATO
+was not appropriate adding that the Kiev authorities must seek peace"
 
 ---
 
-The guys near Palestine, Jordan, Egypt also happen to have,
-historically, more conflicts w/ Israel, bcz of that very reason, they
-were near Israel. The private military-industrial-Likud complex used
-more arm twisting on them compared to the rest, bcz they had more of a
-potential to fight Israel.
-
-Iran came into the picture later, after the near "threat" subsided,
-but the complex needed military spending, that's when Iran became
-"more evil".
+Euronews: "Defense Secretary Pete Hegseth said a return to Ukraine's
+pre-2014 borders was unrealistic and the Trump administration does not
+see NATO membership for Kyiv as part of a solution to the war
+triggered by Russia's invasion"
 
 ---
 
-Thats true but half the story (also a bit unfair).
+\#Frontline \#UA \#RU 02/07 - 02/13
 
-"The further you are from Palestine, the more you cheer for the
-Palestinian cause"
-
----
-
-If US support for Israel was "strategic" then why were two famous
-presidents before Truman were against it? Eisenhower and FDR.
-
----
-
-Truman is skooling the viewer on how it's done. Take it from the pro,
-the first leader to genocide others via nuclear bomb. Ethnic Cleansing
-101. Watch and learn.
-
-[[-]](https://www.youtube.com/embed/iSePSn2ievg?start=1390&end=1507)
+[[-]](mbl/2025/ukrdata/map07.html)
 
 ---
 
@@ -173,3 +128,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+

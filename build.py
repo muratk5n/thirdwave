@@ -216,6 +216,10 @@ if __name__ == "__main__":
         to = os.environ['HOME'] + "/Documents/thirdwave"
         clean_html(to)
 
+    if sys.argv[1] == 'zip':
+        os.system("zip /opt/Downloads/dotbkps/tw.zip -r /home/burak/Documents/tw/.git/")
+    
+        
     if sys.argv[1] == 'github':
         fr = os.environ['HOME'] + "/Documents/tw"
         to = os.environ['HOME'] + "/Documents/thirdwave"

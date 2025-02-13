@@ -1,2 +1,358 @@
 # Week 7
 
+Standing, *The Precariat*: "As globalisation proceeded, and as
+governments and corporations chased each other in making their labour
+relations more flexible, the number of people in insecure forms of
+labour multiplied. This was not technologically determined. As
+flexible labour spread, inequalities grew, and the class structure
+that underpinned industrial society gave way to something more complex
+but certainly not less class based... But the policy changes and the
+responses of corporations to the dictates of the globalising market
+economy generated a trend around the world that was never predicted by
+the neo-liberals or the political leaders who were putting their
+policies into effect.
+
+Millions of people, in affluent and emerging market economies, entered
+the precariat, a new phenomenon even if it had shades of the past. The
+precariat was not part of the ‘working class’ or the
+‘proletariat’. The latter terms suggest a society consisting mostly of
+workers in long-term, stable, fixed-hour jobs with established routes
+of advancement, subject to unionisation and collective agreements,
+with job titles their fathers and mothers would have understood,
+facing local employers whose names and features they were familiar
+with...
+
+On top of the longer term changes towards the unemployed, the
+financial meltdown of 2008–9 accelerated the growth of the global
+precariat by putting more pressure on firms to cut labour costs
+through flexibility measures and prompting government policies that
+encouraged them.
+
+Predictably, the precariat initially bore the brunt of the
+shock. Temporary employees were the easiest to make redundant, simply
+by not renewing contracts. Randstad, the world’s second largest
+staffing company, reported sharp declines across Europe in 2008,
+observing that firms were more inclined to cut jobs than in previous
+recessions. But as the recession proceeded, it became clear it was a
+lever for expanding the precariat. Adecco, the world’s biggest
+temporary employment agency, reported that the regrowth of employment
+was concentrated on temporary labour"
+
+---
+
+Interesting.. they pose WASM as a competitor to Docker. The two techs
+do not appear comparable at first, Docker is installation management
+-can take a barebones machine (real or virtual) from nothing to fully
+installed w/ packages A,B,C on it- WASM is similar Java VM but more
+flexible.. but they are similar in that they offer code portability,
+universal execution anywhere. In that sense WASM has an advantage.
+
+"The appeal of WASM lies in its write-once-run-anywhere capability,
+which allows developers to compile code from various languages into a
+binary format that can be executed in any environment that supports a
+WASM runtime, such as the popular V8 engine. This capability stands in
+stark contrast to the limitations of Docker and other container
+technologies, which can be cumbersome and require extensive
+configuration"
+
+---
+
+Politico: "Europe shifts Ukraine strategy as Trump pushes to end war"
+
+---
+
+There are problems w/ the CPI, median wage measures too says the
+article.. Link below.
+
+Politico: "Voters Were Right About the Economy. The Data Was
+Wrong. Here’s why unemployment is higher, wages are lower and growth
+less robust than government statistics suggest... I don’t believe
+those who went into this past election taking pride in the
+unemployment numbers understood that the near-record low unemployment
+figures — the figure was a mere 4.2 percent in November — counted
+homeless people doing occasional work as “employed.” But the
+implications are powerful. If you filter the statistic to include as
+unemployed people who can’t find anything but part-time work or who
+make a poverty wage (roughly $25,000), the percentage is actually 23.7
+percent. In other words, nearly one of every four workers is
+functionally unemployed in America today — hardly something to
+celebrate"
+
+[[-]](https://www.politico.com/news/magazine/2025/02/11/democrats-tricked-strong-economy-00203464)
+
+---
+
+Anderson, *Private Government*: "Most believe.. that their boss cannot
+fire them for their off-hours Facebook postings, or for supporting a
+political candidate their boss opposes. Yet only about half of
+U.S. workers enjoy even partial protection of their off-duty speech
+from employer meddling. Far fewer enjoy legal protection of their
+speech on the job, except in narrowly defined circumstances. Even
+where they are entitled to legal protection, as in speech promoting
+union activity, their legal rights are often a virtual dead letter due
+to lax enforcement: employers determined to keep out unions
+immediately fire any workers who dare mention them, and the costs of
+litigation make it impossible for workers to hold them accountable for
+this...
+
+Certainly many U.S. CEOs, who think of themselves as libertarian
+individualists, would be surprised to see themselves depicted as
+dictators of little.. governments. Why do we not recognize such a
+pervasive part of our social landscape for what it is? Should we not
+subject these forms of government to at least as much critical
+scrutiny as we pay to the democratic state? My [aim] is to explain why
+public discourse and political philosophy largely neglect the
+pervasiveness of authoritarian governance in our work and off-hours
+lives and why we should return our attention to it, and to sketch some
+thoughts as to what we should do about it — for neglect of these
+issues is relatively recent. They were hot topics of public discourse,
+academic and legal theorizing, and political agitation from the
+Industrial Revolution through the New Deal. Now they are the province
+of members of marginalized academic subfields — labor historians,
+labor law"
+
+---
+
+```python
+# The EU - US, 2022
+eu = ["Austria","Belgium","Bulgaria","Croatia","Cyprus","Czechia",\
+      "Denmark","Estonia","Finland","France","Germany","Greece","Hungary",\
+      "Ireland","Italy","Latvia","Lithuania","Luxembourg","Malta",\
+      "Netherlands","Poland","Portugal","Romania","Slovakia","Slovenia",\
+      "Spain","Sweden"]
+
+print('$', f"{np.sum([u.baci_all_products(x,'USA') for x in eu]):,}")
+print('$', f"{np.sum([u.baci_all_products('USA',x) for x in eu]):,}")
+```
+
+```text
+$ 522,475,955,116.00024
+$ 352,066,108,325.0002
+```
+
+---
+
+Modern cosmology doesn't have a freaking leg to stand on. It's not
+just this or that part being crooked, the whole thing is a house of
+cards.  There is no fixing it by mere fiddling on the edges. Need a
+major rethink.
+
+---
+
+\#UsefulIdiots
+
+[[-]](https://www.youtube.com/embed/7OD-HNLaNtg?start=1148&end=1338)
+
+---
+
+TASS: "Russia-Mexico Business Forum to be held in Mexico City for first time"
+
+---
+
+They process DAGs, directed acyclic graphs, they named the app
+Dagger.. Slick.
+
+---
+
+We'll see this approach more and more, write once in any language,
+deploy on any browser via WASM.
+
+Dagger: "We Replaced Our React Frontend with Go and WebAssembly.. A
+few weeks ago, we launched Dagger Cloud v3, a completely new user
+interface for Dagger Cloud. One of the main differences between v3 and
+its v2 predecessor is that the new UI is written in WebAssembly (WASM)
+using Go. At first glance, this might seem an odd choice - Go
+typically isn't the first language you think of when deciding to
+program a Web UI"
+
+---
+
+Politico: "Johnson quietly shops new budget blueprint.. The rough plan
+would cut less spending than hard-liners want while also scaling back
+potential tax cuts"
+
+---
+
+"@simon@simonwillison.net
+
+Lots of people are absolutely convinced they ChatGPT can access the
+internet, because often if you give it a realistic looking URL it will
+hallucinate the contents - but it refuses to do so if it thinks that
+the URL you gave it is unlikely to exist!
+
+Here's an experiment that shows this in action - ALL of the URLs I
+gave it are equally fake"
+
+[[-]](https://fosstodon.org/@simon@simonwillison.net/109998915683149284)
+
+---
+
+Hawking was against the Big Bang Theory. There is also the issue of
+missing lithium, theory says certain amount of lithium should have
+been created, yet it is not there. Either our measurements are wrong,
+or the theory is. My bet is on the latter.
+
+---
+
+Hawking, *A Brief History of Time*: "[Roger Penrose and my work]
+became generally accepted and nowadays nearly everyone assumes that
+the universe started with a big bang singularity. It is perhaps ironic
+that, having changed my mind, I am now trying to convince other
+physicists that there was in fact no singularity at the beginning of
+the universe – as we shall see later, it can disappear once quantum
+effects are taken into account"
+
+---
+
+Futurism: "In the aftermath of its CEO's stunning assassination,
+UnitedHealthcare is now threatening legal retaliation against those
+who criticize the insurance giant online. Last month, [a surgeon]
+Potter posted on TikTok and Instagram that she had just been
+interrupted in the middle of a procedure for a breast cancer patient
+with a supposedly 'urgent' call.
+
+On the other line was a UHC representative, who asked her if it was
+absolutely necessary that her patient stay overnight post-surgery — a
+question that appalled the doctor and most everyone who saw the
+video... A month after going viral [in a different post Doctor said]
+she had been contacted by UHC, accused of libel, and subjected to
+thinly veiled threats of legal retaliation if she didn't comply with
+the company's demands"
+
+---
+
+"Lithium Battery Fire Sickens Residents, Sparks Worry of ANOTHER
+Sacrifice Zone" \#StatusCoup
+
+[[-]](https://youtu.be/DkUvd1FOyRQ?t=202)
+
+---
+
+Blue is previous state of ISR incursion, red the latest.
+
+\#Frontline \#Israel \#Lebanon 2024/11/18 - 02/09
+
+[[-]](lebdata/map01.html)
+
+---
+
+Surely Jordan is not happy with these turn of events..
+
+MEM: "[2024/12] Al-Mayadeen channel reported that occupation forces
+had taken control of the Yarmouk riverbed and the Al-Wahda Dam, which
+supplies water to Jordan for drinking and agriculture, and
+hydroelectric electricity to Syria. Taking control of the dam gives
+Israel control over one of the main water sources in Syria"
+
+---
+
+\#JacobBarandes \#QM
+
+The comments below are an outgrowth of JB's research who was able to
+show QM is merely a reflection, a projection of physical models based
+on "configuration spaces combined with stochastic dynamics". The
+system evolves based on non-Markovian stochastic process, while
+measurement the experimenter loses something during that transition
+which results in the funky results, that are attributed to the
+"unexplainable weirdness" of quantum mechanics.
+
+Other gems in the video, wave functions (of QM) are not real. They
+have no physical existence in reality. Ergo any talk about their
+"collapse" would be unscientific.
+
+[[-]](https://www.youtube.com/embed/MTD8xkbiGis?start=3376&end=3411)
+
+---
+
+There is a Socialist Rifle Association?
+
+"@starwall@wizzzard.online
+
+leftists need to recognize that we are at war.. get organized and
+absolutely get armed. we most learn the mistakes of the Indonesian
+Communist Party... This is not a matter of revolution vs reform, it's
+a matter of collective and self defense.
+
+Please find and get in touch with your nearest Socialist Rifle
+Association branch"
+
+---
+
+Hossein-Zadeh: "Frightened by the specter of peace and/or peace
+dividends [after the fall of the Berlin Wall], beneficiaries of
+military spending frantically sought to invent and substitute 'new
+threats' for the 'communist threat' of the Cold War era, thereby
+preempting the realization of peace dividends.
+
+In pursuit of this goal, beneficiaries of war and militarism found a
+strong, well-established network of politically savvy allies: radical
+Zionist proponents of 'greater Israel.' Because the interests of these
+two powerful groups converged over fomenting war and political
+convulsion in the Middle East, an ominously potent alliance was forged
+between them— ominous, because the mighty U.S. war machine was now
+supplemented by the almost unrivaled public relations capabilities of
+the hard-line pro-Israel lobby in the United States. The alliance is
+unofficial and de facto; it is subtly forged through an elaborate
+network of powerful militaristic think tanks"
+
+---
+
+Hossein-Zadeh: "[2006] U.S. policy makers in the Middle East would go
+along with the demands of the radical Zionist lobby only if such
+demands also tend to serve the special interests that those policy
+makers represent or serve — not necessarily the interests of the
+American people, or collective U.S. 'national interests' in
+general. The fact that, as pointed out earlier, U.S. foreign policy
+during the Cold War era was less accommodating to the territorial
+desires of militant Zionism than in the post–Cold War period is an
+indication of this point. Another corroborating indication of the
+point is that as the military-industrial complex has been gaining more
+and more influence over U.S. foreign policy, that policy has,
+accordingly, been more and more geared to the wishes of hard-line
+Zionism because, as has been frequently pointed out in this chapter,
+the interests of the U.S.  military establishment converge with those
+of militant Zionism over war and political convulsion in the Middle
+East"
+
+---
+
+Syria is another case in point. They had tussles w Israel bcz they are
+near (Israel causes problems to all who is near), hence Syria along
+the way became mostly pacified and it acted less on Palestine issues,
+would jump, even until recently, at any chance to be on good terms
+with Israel.
+
+---
+
+The guys near Palestine, Jordan, Egypt also happen to have,
+historically, more conflicts w/ Israel, bcz of that very reason - they
+were near Israel. The private military-industrial-Likud complex used
+more arm twisting on them compared to the rest, bcz they had more of a
+potential to fight Israel.
+
+Iran came into the picture later, after the near "threat" subsided,
+but the complex needed military spending, that's when Iran became
+"more evil" leading them to be more vocal on the Pal issue. 
+
+---
+
+Thats true but half the story (also a bit unfair).
+
+"The further you are from Palestine, the more you cheer for the
+Palestinian cause"
+
+---
+
+If US support for Israel was "strategic" then why were two influential
+presidents before Truman against it? Eisenhower and FDR.
+
+---
+
+Truman is skooling the viewer on how it's done. Take it from the pro,
+the first leader to genocide others via nuclear bomb. Ethnic Cleansing
+101. Watch and learn.
+
+[[-]](https://www.youtube.com/embed/iSePSn2ievg?start=1390&end=1507)
+
+---
+

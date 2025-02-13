@@ -76,7 +76,7 @@ What is *up* with that earthquake cloud around the island of Santorini?
 u.map_eq(36.408567828, 25.43368438, radius=800, ago=8, outfile="map01.html")
 ```
 
-[[-]](mbl/2025/map01.html)
+[[-]](map01.html)
 
 ---
 
@@ -241,7 +241,7 @@ Russian Orthodox Church"
 
 \#Frontline #RU #UA 01/31 - 02/07
 
-[[-]](mbl/2025/ukrdata/map06.html)
+[[-]](ukrdata/map06.html)
 
 ---
 
