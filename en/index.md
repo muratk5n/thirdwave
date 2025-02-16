@@ -32,55 +32,129 @@ and sustainability of lithium-powered EVs"
 
 ---
 
-"@eb@social.coop
-
-if anybody wants a fun project, compile chrome to WASM so you can run
-chrome in chrome"
-
----
-
-He is in treasuries obviously, not cash cash. The amount is staggering
-isn't it, this is all government debt. There is money, accumulated
-somewhere, and it can easily buy that government debt. Gov spends
-spends, rich buys buys. Governments gradually lose assets, lose income
-bcz they don't tax, and they will fall furter in debt eventually they
-will cut services.
-
-"Buffett is in cash, $325 billion"
+You obtain the college degree, and it is yours. It is non-perishable.
+It looks like an asset. We notice another similarity to real estate,
+tuition prices keeps increasing and the middle class increasingly has
+to rely on loans to even "stay in the market". In that sense the
+student loan concept mirrors a mortgage loan concept.
 
 ---
 
-Wealth won't trickle down, it will just sit there accruing interest,
-that's why it has to be taxed.
-
-Ludwig, *The Vanishing American Dream*: [I]n 2018.. [a]mid a raft of
-seemingly very positive economic indicators — a low unemployment rate,
-strong GDP growth, buoyant market benchmarks — I had concluded that
-too few policymakers were taking heed of the fact that many
-communities were being left behind. Too frequently, Washington
-insiders seemed sanguine that wealth accruing at the top of the income
-scale would eventually 'trickle down' to the rest of the country. A
-closer look at localities like the place where I grew up—York,
-Pennsylvania—revealed that thinking to be entirely off base"
+Should a college degree be seen as an asset? It is offered in limited
+amounts to a few each year so maybe yes. Then this explains why
+college tuition skyrocketed, just like real estate, degree-as-asset is
+becoming more expensive bcz the rich gets richer pouring more money
+into this asset class.
 
 ---
 
-TASS: "Ukraine unlikely to get back its territories, says US President
-Trump.. The US president pointed out that Ukraine's membership in NATO
-was not appropriate adding that the Kiev authorities must seek peace"
+USAID could be doing other "good stuff". But why can't it all be good?
 
 ---
 
-Euronews: "Defense Secretary Pete Hegseth said a return to Ukraine's
-pre-2014 borders was unrealistic and the Trump administration does not
-see NATO membership for Kyiv as part of a solution to the war
-triggered by Russia's invasion"
+Well I dont know abt this man's other "disgressions", but USAID is a
+somewhat shady org... The one share I made in them was [not good](2023/01/little-america-chandrasekaran.html).
+They obstructed efforts for Afgans to switch to cotton from poppy.
+
+"@ProPublica@newsie.social
+
+Trump Official Destroying USAID Secretly Met With Christian
+Nationalists Abroad in Defiance of U.S. Policy"
 
 ---
 
-\#Frontline \#UA \#RU 02/07 - 02/13
+No plans to save bihnesman and the wealthy? Catastrophe will likely happen
+due to them, so fuck'em.
 
-[[-]](mbl/2025/ukrdata/map07.html)
+---
+
+Gov is key to all. 
+
+---
+
+This government thing must be important if they have plans to continue
+it in a catastrophic situation.
+
+---
+
+This is the government continuity operation mentioned by DoD. So they
+had to use that route. .. And the crew was experienced...
+
+Report suggests altitude reading was wrong due to faulty device.
+
+One essential traffic controller warning was missed (aviation uses old
+tech for backwards compatibility which can lose data?). WTF? US infra
+is decaying.
+
+---
+
+Reuters: "The three soldiers killed in the [black hawk] collision were
+part of the 12th Aviation Battalion at Fort Belvoir in Virginia, whose
+responsibilities in a national crisis include evacuating Pentagon
+officials. Another 64 people were killed in the passenger plane...
+
+[During 911 an official describes] going to a 'bizarre location that
+was prepared to survive nuclear war'.. The book’s author, Garrett
+Graff, said the site was called Raven Rock Mountain Complex, or 'Site
+R', located just miles from Camp David. It remains one of three main
+backup facilities for the US government, and the main one for the
+Pentagon leadership. 'It’s 100 percent operational today. There’s a
+team of maybe 100 personnel inside Raven Rock right now, ready to pick
+up the pieces of the US government,' Graff said"
+
+---
+
+Latest Potus Approval
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/114/003/617/174/943/487/original/a582c673bf3d6543.jpg)
+
+---
+
+There are volunteer data contributors who walk around, mark stuff, OSM
+collects such data, but that is mostly for big cities. And why do this
+extra work..? Local municipalities already have that information. Just
+put the file on a stupid static site, anyone can get them, done.  All
+you need is a file server, not an app server.
+
+---
+
+The files would be small. Yet almost no city does this. 
+
+---
+
+Local govs (and federal ones) need to share public data, raw, easily
+parsable formats. The simpler the better. For bus/train routes, all
+you need to share is two files `stops.csv`, `routes.csv`. External
+programs can download that, parse it, provide services on top. It is
+simple coding to connect the route IDs that reference stops, listing
+them as needed. Use case: stops data has geo coords, a DIY external
+service gets data from muni, could find the closest stop to current
+location, and calculates all routes going through that stop, displays
+them.
+
+---
+
+Someone hacked DOUCHE 
+
+[[-]](https://cyberplace.social/system/media_attachments/files/114/001/479/115/844/254/original/9029201903c1bae3.png)
+
+---
+
+Coinbase: "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders'
+Pocket 87M.. Milei deleted his original promotional tweet and revealed
+that he wasn't aware of its details"
+
+---
+
+NY Post: "JD Vance says biggest danger in Europe is censorship during
+Munich address — not Russia or China: ‘Threat from within’"
+
+---
+
+F24: US Defense Secretary Pete Hegseth on Friday warned NATO allies in
+Europe against assuming that the American troop presence on the
+continent would 'last forever', as he urged them to spend more on
+defence"
 
 ---
 
@@ -128,6 +202,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
