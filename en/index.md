@@ -1,160 +1,143 @@
 
-Pinned Post
+PJ Onori: "It’s 2025. Read.cv is shutting down. WordPress is on
+fire. Twitter has completely melted down. Companies are changing their
+content policies en masse. Social networks are becoming increasingly
+icy towards anything outside of their walled garden. Services are
+using the content you post to feed proprietary LLMs. Government
+websites appear to be purging data. It’s a wild time.
 
-"Lithium, a key component of EV batteries, is extracted using heavy
-diesel-powered machinery that emits substantial amounts of CO2. This
-process undermines the environmental benefits promised by EVs. Studies
-have shown that the CO2 emissions associated with lithium mining and
-battery production often exceed the emissions saved by operating EVs,
-especially in regions reliant on fossil-fuel-based electricity grids.
+It’s hard to know where this bottoms out. And those who rely on these
+services are just along for the ride. Web 2.0 seemed like such a great
+idea in a more innocent time. We’re at a point where it’s only prudent
+to view third-parties as guilty until proven innocent. Not as some
+abstract, principled stance, but for our own direct benefit.
 
-Furthermore, Earth’s lithium reserves are insufficient to supply a
-global population of 8 billion people. As demand surges, mining
-operations will expand into ecologically sensitive areas, exacerbating
-environmental degradation and threatening biodiversity... EVs are
-notably heavier than traditional internal combustion engine (ICE)
-vehicles, primarily due to their large batteries. This additional
-weight increases road friction, leading to accelerated wear and tear
-on infrastructure. Local communities bear the brunt of these costs,
-with road maintenance expenses tripling in areas with high EV
-adoption.
-
-Moreover, the increased road friction necessitates specialized tires
-for EVs. These tires are approximately three times more expensive than
-those used for traditional vehicles, adding another layer of cost for
-consumers... The lifespan of a lithium-ion battery in an EV typically
-ranges from 8 to 10 years. Replacing a battery can cost between 7,000
-and 15,000 dollars, a significant financial burden for many vehicle
-owners. This issue raises questions about the long-term affordability
-and sustainability of lithium-powered EVs"
-
-[[-]](https://www.linkedin.com/pulse/case-hydrogen-over-lithium-powered-evs-j-dean-uwkcc/)
+Now, more than ever, it’s critical to own your data. Really own
+it. Like, on your hard drive and hosted on your website. Ideally on
+your own server, but one step at a time"
 
 ---
 
-You obtain the college degree, and it is yours. It is non-perishable.
-It looks like an asset. We notice another similarity to real estate,
-tuition prices keeps increasing and the middle class increasingly has
-to rely on loans to even "stay in the market". In that sense the
-student loan concept mirrors a mortgage loan concept.
+[Link](https://www.dropbox.com/scl/fi/6y7k9xfb9rx9tdunrknka/devil_ricky.gif?rlkey=a551rb0fjk4or0n6db1rl6o3v&st=y219w70m&raw=1)
 
 ---
 
-Should a college degree be seen as an asset? It is offered in limited
-amounts to a few each year so maybe yes. Then this explains why
-college tuition skyrocketed, just like real estate, degree-as-asset is
-becoming more expensive bcz the rich gets richer pouring more money
-into this asset class.
+Change of guard
 
 ---
 
-USAID could be doing other "good stuff". But why can't it all be good?
+If it is Boeing, down it is going 😂 
 
 ---
 
-Well I dont know abt this man's other "disgressions", but USAID is a
-somewhat shady org... The one share I made in them was [not good](2023/01/little-america-chandrasekaran.html).
-They obstructed efforts for Afgans to switch to cotton from poppy.
-
-"@ProPublica@newsie.social
-
-Trump Official Destroying USAID Secretly Met With Christian
-Nationalists Abroad in Defiance of U.S. Policy"
+@$$ h4x0r
 
 ---
 
-No plans to save bihnesman and the wealthy? Catastrophe will likely happen
-due to them, so fuck'em.
+You have to know regex my friend. Hard core scraping requries regex.
+Otherwise you'll never be 1337. 
 
 ---
 
-Gov is key to all. 
+"Scraping" is the term used for the kind of code that fetches a Web
+page, removes all the visual elements and retains only the raw data
+part of it, like scraping the outer paint off a wall, you see?
 
 ---
 
-This government thing must be important if they have plans to continue
-it in a catastrophic situation.
+```python
+df.loc['Greece',navy]
+```
+
+```text
+Out[1]: 
+Aircraft Carriers       0
+Helicopter Carriers     0
+Destroyers              0
+Frigates               13
+Corvettes               0
+Submarines             10
+Patrol Vessels         39
+Mine Warfare            7
+Name: Greece, dtype: object
+```
 
 ---
 
-This is the government continuity operation mentioned by DoD. So they
-had to use that route. .. And the crew was experienced...
-
-Report suggests altitude reading was wrong due to faulty device.
-
-One essential traffic controller warning was missed (aviation uses old
-tech for backwards compatibility which can lose data?). WTF? US infra
-is decaying.
+I guess the build up is ongoing.. Massive numbers are not visible yet.
 
 ---
 
-Reuters: "The three soldiers killed in the [black hawk] collision were
-part of the 12th Aviation Battalion at Fort Belvoir in Virginia, whose
-responsibilities in a national crisis include evacuating Pentagon
-officials. Another 64 people were killed in the passenger plane...
+```python
+df = u.get_pd().read_csv("gfp-2025.csv",index_col='country')
+navy = ['Aircraft Carriers','Helicopter Carriers','Destroyers',\
+        'Frigates','Corvettes','Submarines','Patrol Vessels','Mine Warfare']
+df.loc['Turkey',navy]
+```
 
-[During 911 an official describes] going to a 'bizarre location that
-was prepared to survive nuclear war'.. The book’s author, Garrett
-Graff, said the site was called Raven Rock Mountain Complex, or 'Site
-R', located just miles from Camp David. It remains one of three main
-backup facilities for the US government, and the main one for the
-Pentagon leadership. 'It’s 100 percent operational today. There’s a
-team of maybe 100 personnel inside Raven Rock right now, ready to pick
-up the pieces of the US government,' Graff said"
-
----
-
-Latest Potus Approval
-
-[[-]](https://cdn.fosstodon.org/media_attachments/files/114/003/617/174/943/487/original/a582c673bf3d6543.jpg)
-
----
-
-There are volunteer data contributors who walk around, mark stuff, OSM
-collects such data, but that is mostly for big cities. And why do this
-extra work..? Local municipalities already have that information. Just
-put the file on a stupid static site, anyone can get them, done.  All
-you need is a file server, not an app server.
+```text
+Out[1]: 
+Aircraft Carriers       0
+Helicopter Carriers     1
+Destroyers              0
+Frigates               17
+Corvettes               9
+Submarines             13
+Patrol Vessels         41
+Mine Warfare           11
+Name: Turkey, dtype: object
+```
 
 ---
 
-The files would be small. Yet almost no city does this. 
+They claim TR is building up a massive navy, is it true? We check,
 
 ---
 
-Local govs (and federal ones) need to share public data, raw, easily
-parsable formats. The simpler the better. For bus/train routes, all
-you need to share is two files `stops.csv`, `routes.csv`. External
-programs can download that, parse it, provide services on top. It is
-simple coding to connect the route IDs that reference stops, listing
-them as needed. Use case: stops data has geo coords, a DIY external
-service gets data from muni, could find the closest stop to current
-location, and calculates all routes going through that stop, displays
-them.
+Scraped the latest Global Firepower publication, shows military
+equipment of countries.
+
+[[-]](https://www.globalfirepower.com/)
 
 ---
 
-Someone hacked DOUCHE 
+I haven't double checked this, it is interesting OSI chimed in
 
-[[-]](https://cyberplace.social/system/media_attachments/files/114/001/479/115/844/254/original/9029201903c1bae3.png)
-
----
-
-Coinbase: "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders'
-Pocket 87M.. Milei deleted his original promotional tweet and revealed
-that he wasn't aware of its details"
+OSI: "A year ago we called on Meta to stop calling Llama 2 'Open
+Source.'  Since then, Meta has released new versions of Llama with new
+licensing terms that continue to fail the Open Source
+Definition. Llama 3.x is still not Open Source by any stretch of the
+imagination"
 
 ---
 
-NY Post: "JD Vance says biggest danger in Europe is censorship during
-Munich address — not Russia or China: ‘Threat from within’"
+Times Union: "Delta jet flips upside down on a snowy Toronto runway
+and all 80 aboard survive"
 
 ---
 
-F24: US Defense Secretary Pete Hegseth on Friday warned NATO allies in
-Europe against assuming that the American troop presence on the
-continent would 'last forever', as he urged them to spend more on
-defence"
+SP 500 recovered from the dip already and broke another record. Rich
+people create bubbles. That immense amount of money has nowhere else
+to go. Every dip is an opportunity to buy.
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/023/862/044/815/343/original/f3d0b4727f10d536.png'/>
+
+---
+
+F--kers are so full of bile and their cause is so f-ing dumb (creating
+artificial demand for US private weapon complex in ME in the guise of
+returning to a land they [didn't even leave](2020/06/10-myths-israel.html#samejew)
+in the first place), they have to eventually turn inward and eat themselves,
+their own kind.
+
+---
+
+Zioinst man is the new Florida man
+
+TDB: "Jewish Man Charged With Shooting Israeli Tourists He Thought
+Were Palestinian.. A Florida man has been charged with attempted
+murder after allegedly shooting at a father and son he thought were
+Palestinian"
 
 ---
 

@@ -15,6 +15,39 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def scrape_gfp():
+    reg = '<span class="textLarge textYellow textBold textShadow">(.*?)</span>.*?<span class="textWhite textShadow">(.*?)\t*?</span>'
+    countries = ['United States of America','Switzerland','Norway','Ireland','Qatar','Singapore','Denmark','Australia','Sweden','Netherlands','Austria','Finland','Germany','Belgium','Canada','United Arab Emirates','United Kingdom','New Zealand','Israel','France','Japan','Italy','Kuwait','Spain','Slovenia','Bahrain','Portugal','Saudi Arabia','Estonia','Czech Republic','Greece','Slovakia','Lithuania','Latvia','Uruguay','Oman','Hungary','Venezuela','Chile','Panama','Poland','Croatia','Romania','Argentina','Malaysia','Russia','Grenada','Kazakhstan','China','Mexico','Turkey','Bulgaria','Brazil','Montenegro','Cuba','Lebanon','Botswana','Dominican Republic','Gabon','Thailand','Serbia','Libya','Turkmenistan','Peru','Colombia','South Africa','Ecuador','Belarus','Suriname','Bosnia and Herzegovina','Namibia','Iraq','Paraguay','Iran','Albania','Azerbaijan','Georgia','Guatemala','Jordan','Armenia','Mongolia','Algeria','Sri Lanka','El Salvador','Indonesia','Bolivia','Tunisia','Angola','Bhutan','Moldova','Morocco','Philippines','Ukraine','Vietnam','Egypt','Laos','Honduras','Ghana','Zimbabwe','Nicaragua','Nigeria','India','Kenya','Bangladesh','Zambia','Cameroon','Uzbekistan','Cambodia','Pakistan','Myanmar','Kyrgyzstan','Mauritania','Tanzania','Nepal','Sudan','Yemen','Mali','Tajikistan','Ethiopia','Chad','Burkina Faso','Liberia','Uganda','Sierra Leone','Madagascar','Afghanistan','Mozambique','Central African Republic','Niger','Somalia']
+    sl = []
+    for c in countries:
+        ck = c.replace(" ","-").lower()
+        url = "https://www.globalfirepower.com/country-military-strength-detail.php?country_id=%s" % ck        
+        print (url)
+        resp = requests.get(url)
+        fout = open("/tmp/gfp.html","w")
+        fout.write(resp.text)
+        fout.close()
+        content = open("/tmp/gfp.html").read()        
+        res = re.findall(reg, content, re.DOTALL)
+        d = {}
+        d['country'] = c
+        for x in res:
+            a,b = x[0],x[1]
+            b = re.sub('\s\t.*?','',b)
+            b = re.sub('<span class.*?$','',b)
+            b = re.sub('\s*<br />.*?','',b)
+            a = a.replace("*","")
+            a = a.replace(":","")
+            b = b.replace("Stock:","")
+            d[a] = b
+
+        row = pd.Series(d)
+        sl.append(row)
+        
+    df = pd.concat(sl,axis=1)
+    df = df.T
+    df.to_csv('gfp-2025.csv')
+      
 def download_dataframe(url, outdir):
     fname = os.path.basename(url)
     baseurl = os.path.dirname(url)
@@ -515,4 +548,5 @@ def baci_all_products(frc, toc):
 if __name__ == "__main__": 
 
    #baci_process_total_exports()
+   scrape_gfp()
    pass
