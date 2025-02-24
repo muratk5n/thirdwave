@@ -1,143 +1,141 @@
 
-PJ Onori: "It’s 2025. Read.cv is shutting down. WordPress is on
-fire. Twitter has completely melted down. Companies are changing their
-content policies en masse. Social networks are becoming increasingly
-icy towards anything outside of their walled garden. Services are
-using the content you post to feed proprietary LLMs. Government
-websites appear to be purging data. It’s a wild time.
+Rail Journal: "Italy's first hydrogen train on test.. The Alstom
+Coradia Steam H train is undergoing refuelling trials at Rovato"
 
-It’s hard to know where this bottoms out. And those who rely on these
-services are just along for the ride. Web 2.0 seemed like such a great
-idea in a more innocent time. We’re at a point where it’s only prudent
-to view third-parties as guilty until proven innocent. Not as some
-abstract, principled stance, but for our own direct benefit.
-
-Now, more than ever, it’s critical to own your data. Really own
-it. Like, on your hard drive and hosted on your website. Ideally on
-your own server, but one step at a time"
+<img width='200' src='https://cdn.railvis.com/hub/news/IMF1RK0ZLKQHHAPF.jpg'/>
 
 ---
 
-[Link](https://www.dropbox.com/scl/fi/6y7k9xfb9rx9tdunrknka/devil_ricky.gif?rlkey=a551rb0fjk4or0n6db1rl6o3v&st=y219w70m&raw=1)
+"@cnbusinessforum@mstdn.business
+
+[\#TRADESHOW] The 3rd #World #Hydrogen #Energy #Industry #Expo (#WHE
+2025) will take place from August 8–10, 2025, at the #China #Import
+and #Export #Fair Complex (Area A) in #Guangzhou"
 
 ---
 
-Change of guard
+"Ohio transit agency to switch to green hydrogen for fuel cell buses"
 
 ---
 
-If it is Boeing, down it is going 😂 
+The Korea Herald: "Seoul to offer increased subsidy for
+hydrogen-powered buses from March"
 
 ---
 
-@$$ h4x0r
+Interesting Engineering: "Honda hydrogen fuel cell with 3x power
+density to boost car performance"
 
 ---
 
-You have to know regex my friend. Hard core scraping requries regex.
-Otherwise you'll never be 1337. 
+The New Stack: "According to the federal government, WebAssembly could
+and should be integrated across the cloud native service mesh sphere
+to enhance security... The use of WebAssembly could become mandatory
+to meet security-compliance requirements while solving other ongoing
+security conundrums as Wasm becomes more widely adopted"
 
 ---
 
-"Scraping" is the term used for the kind of code that fetches a Web
-page, removes all the visual elements and retains only the raw data
-part of it, like scraping the outer paint off a wall, you see?
+I was joking abt the Justin Baldoni thing earlier. He was most likely
+unjustly blamed, is real the victim, the target of a Me Too type of
+smear campaign. 
 
 ---
+
+Carrier Strike Group near Greece?
+
 
 ```python
-df.loc['Greece',navy]
+u.map_usnavy(outfile="map03.html")
 ```
 
-```text
-Out[1]: 
-Aircraft Carriers       0
-Helicopter Carriers     0
-Destroyers              0
-Frigates               13
-Corvettes               0
-Submarines             10
-Patrol Vessels         39
-Mine Warfare            7
-Name: Greece, dtype: object
-```
+[[-]](mbl/2025/map03.html)
 
 ---
 
-I guess the build up is ongoing.. Massive numbers are not visible yet.
+Market Screener: "[US] administration is piling pressure on Iraq to
+allow Kurdish oil exports to restart or face sanctions alongside Iran,
+eight sources with direct knowledge of the matter told Reuters. A
+speedy resumption of exports from Iraq's semi-autonomous Kurdistan
+region would help to offset a potential fall in Iranian oil exports,
+which Washington has pledged to cut to zero as part of Trump's
+'maximum pressure' campaign against Tehran."
 
 ---
 
-```python
-df = u.get_pd().read_csv("gfp-2025.csv",index_col='country')
-navy = ['Aircraft Carriers','Helicopter Carriers','Destroyers',\
-        'Frigates','Corvettes','Submarines','Patrol Vessels','Mine Warfare']
-df.loc['Turkey',navy]
-```
-
-```text
-Out[1]: 
-Aircraft Carriers       0
-Helicopter Carriers     1
-Destroyers              0
-Frigates               17
-Corvettes               9
-Submarines             13
-Patrol Vessels         41
-Mine Warfare           11
-Name: Turkey, dtype: object
-```
+D'Alembert's Principle? Also a restatement of the second law.
 
 ---
 
-They claim TR is building up a massive navy, is it true? We check,
+How did I find about Richard Masse's work? I was looking for a way to
+explain how to derive the Lagrangian form of least action, the famous
+$T - V$ formula from basic principles. I saw a derivation starting
+from $\int mvds$, Euler's method, they call mass times velocity times
+distance as "action", based on Maupertuis. But neither method sound
+fundamental.  Feynman does a great job motivating $T - V$ in his
+lectures (Vol II), he articulates extremely well why he thinks the
+method works, but he is essentially putting lipstick on a pig. He is
+rationalizing, the choice of this particular formula is arbitrary. It
+is pulled out of the air, in a "let's see if this works" kind of
+experiementation (obviously it did), explained later.
+
+Then I searched for books on the subject, Masse's came up.  His
+approach was Newton's second law is more fundamental, derive
+Lagrangian from there, but still, not fundamental enough. This is
+where his eather formulation comes in, he can derive second law from
+it.
 
 ---
 
-Scraped the latest Global Firepower publication, shows military
-equipment of countries.
+BMW Blog: "Toyota’s 3rd-Gen Fuel Cell: The Tech That Could Power BMW’s iX5 Hydrogen"
 
-[[-]](https://www.globalfirepower.com/)
-
----
-
-I haven't double checked this, it is interesting OSI chimed in
-
-OSI: "A year ago we called on Meta to stop calling Llama 2 'Open
-Source.'  Since then, Meta has released new versions of Llama with new
-licensing terms that continue to fail the Open Source
-Definition. Llama 3.x is still not Open Source by any stretch of the
-imagination"
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/133/960/870/original/db77bba79ffde612.jpg'/>
 
 ---
 
-Times Union: "Delta jet flips upside down on a snowy Toronto runway
-and all 80 aboard survive"
+"@cdarwin@c.im
+
+German newsmagazine Der Spiegel reported that the Max Planck Society
+one of the world’s top scientific research institutions is
+experiencing an uptick in applications from American scientists. [Its
+president said the society regards the U.S. as 'a new talent pool' at
+a time when the Trump administration seeks to cut billions in funding
+to the National Institutes of Health.
+
+There’s a deep historical irony in these recent developments: During
+the Third Reich, it was the Max Planck Society then known as the
+Kaiser Wilhelm Society that lost its best and brightest to the
+U.S. and other countries"
 
 ---
 
-SP 500 recovered from the dip already and broke another record. Rich
-people create bubbles. That immense amount of money has nowhere else
-to go. Every dip is an opportunity to buy.
-
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/023/862/044/815/343/original/f3d0b4727f10d536.png'/>
+Politico: "As Eric Adams melts down, Andrew Cuomo forges ahead.. The
+former governor has put together the structure of a campaign and is
+courting New York power players"
 
 ---
 
-F--kers are so full of bile and their cause is so f-ing dumb (creating
-artificial demand for US private weapon complex in ME in the guise of
-returning to a land they [didn't even leave](2020/06/10-myths-israel.html#samejew)
-in the first place), they have to eventually turn inward and eat themselves,
-their own kind.
+"@EndIsraeliApartheid@mastodon.social
+
+The BBC has faced significant backlash following its removal of the
+documentary 'Gaza: How To Survive A Warzone,' which focused on the
+experiences of Palestinian children in the Gaza Strip"
 
 ---
 
-Zioinst man is the new Florida man
+The Guardian: "[2021] Literally meaning 'alternative-less',
+*alternativlos* was Angela Merkel’s own version of a line usually
+associated with Margaret Thatcher: 'There is no alternative.' But if
+'TINA' was specifically used to close down debates over alternatives
+to the market economy, Merkel’s government declared all type of policy
+decisions alternativlos.. [eg open border immig policy]. Her use of
+the phrase also inspired the naming of the first party to the right of
+her CDU to make it into the Bundestag: Alternative für Deutschland"
 
-TDB: "Jewish Man Charged With Shooting Israeli Tourists He Thought
-Were Palestinian.. A Florida man has been charged with attempted
-murder after allegedly shooting at a father and son he thought were
-Palestinian"
+---
+
+F24: "Germany's snap elections: CDU leads, far-right AfD set for
+record gains"
 
 ---
 

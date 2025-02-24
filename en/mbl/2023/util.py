@@ -1012,4 +1012,6 @@ if __name__ == "__main__":
 
     #ukr_data_json()
 
-    ike_ncei(lat=30.302,lon=30,day=4,month=7,year=2024,hour=10)
+    #ike_ncei(lat=30.302,lon=30,day=4,month=7,year=2024,hour=10)
+    df = usnavy()
+    print (df)

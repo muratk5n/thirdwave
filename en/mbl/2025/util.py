@@ -15,6 +15,29 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def map_usnavy(outfile):
+    df = usnavy()
+    outfile = "/tmp/out2.html"
+    m = folium.Map(location=[0,0], zoom_start=3) 
+    for i,row in df.iterrows():
+        folium.Marker([row['lat'],row['lon']], popup=folium.Popup(row['name'])).add_to(m)
+    m.save(outfile)    
+
+def usnavy():
+    ships = json.loads(open("usnavy.json").read())
+    headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
+    base = 'https://www.vesselfinder.com/vessels/'
+    data = []
+    for s in ships['data']:
+        resp = requests.get(base + s[2], headers=headers)  
+        res = re.findall(r'"ship_lat":(.*?),"ship_lon":(.*?),"ship_cog":(.*?),"ship_sog":(.*?),',resp.text)
+        if len(res)>0:
+           row = list(s) + list(res[0])
+           data.append(row)
+    df = pd.DataFrame(data)
+    df.columns = ['code','name','code2','lat','lon','bearing','speed']
+    return df
+
 def scrape_gfp():
     reg = '<span class="textLarge textYellow textBold textShadow">(.*?)</span>.*?<span class="textWhite textShadow">(.*?)\t*?</span>'
     countries = ['United States of America','Switzerland','Norway','Ireland','Qatar','Singapore','Denmark','Australia','Sweden','Netherlands','Austria','Finland','Germany','Belgium','Canada','United Arab Emirates','United Kingdom','New Zealand','Israel','France','Japan','Italy','Kuwait','Spain','Slovenia','Bahrain','Portugal','Saudi Arabia','Estonia','Czech Republic','Greece','Slovakia','Lithuania','Latvia','Uruguay','Oman','Hungary','Venezuela','Chile','Panama','Poland','Croatia','Romania','Argentina','Malaysia','Russia','Grenada','Kazakhstan','China','Mexico','Turkey','Bulgaria','Brazil','Montenegro','Cuba','Lebanon','Botswana','Dominican Republic','Gabon','Thailand','Serbia','Libya','Turkmenistan','Peru','Colombia','South Africa','Ecuador','Belarus','Suriname','Bosnia and Herzegovina','Namibia','Iraq','Paraguay','Iran','Albania','Azerbaijan','Georgia','Guatemala','Jordan','Armenia','Mongolia','Algeria','Sri Lanka','El Salvador','Indonesia','Bolivia','Tunisia','Angola','Bhutan','Moldova','Morocco','Philippines','Ukraine','Vietnam','Egypt','Laos','Honduras','Ghana','Zimbabwe','Nicaragua','Nigeria','India','Kenya','Bangladesh','Zambia','Cameroon','Uzbekistan','Cambodia','Pakistan','Myanmar','Kyrgyzstan','Mauritania','Tanzania','Nepal','Sudan','Yemen','Mali','Tajikistan','Ethiopia','Chad','Burkina Faso','Liberia','Uganda','Sierra Leone','Madagascar','Afghanistan','Mozambique','Central African Republic','Niger','Somalia']

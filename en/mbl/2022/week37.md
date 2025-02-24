@@ -772,7 +772,7 @@ why are you holding the camera?". Boom. Thug life.
 
 That's it, that's the one. 
 
-[[-]](https://drive.google.com/uc?export=view&id=1tA9M3ebmIRn4PTnTc5nJvS77t_Jom6KT)
+[[-]](https://www.dropbox.com/scl/fi/hzv0f60vgrcg33kpfvq14/thug-life-abramovich-1.gif?rlkey=itf2czy0luf8sntzuv745e3o1&st=e143iq96&raw=1)
 
 ---
 

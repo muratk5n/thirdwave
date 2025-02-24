@@ -1,5 +1,385 @@
 # Week 8
 
+"Under the French anti-waste law for a circular economy (AGEC), which
+came into force in 2020 after years of development, some 70 percent of
+most non-hazardous building waste had to be collected for processing
+in France. The objective is gradually rising, too: In 2024, the target
+was 82 percent, and it will increase to 93 percent by 2027."
+
+---
+
+Masse, *Nature of Physical Fields and Forces*: "A Higgs particle can
+never be directly detected. It is thought to exist for only about 10 −
+22 seconds. The existence of Higgs particles can only be inferred from
+indirect evidence. This inferential process involves examining the
+decay products of high energy particle collisions that occur within a
+particle accelerator in a search for a certain decay pattern that has
+been predicted for Higgs particles. Because of the massive amount of
+data produced in these high energy collisions, extensive data
+filtering is performed before any search for decay patterns even
+begins. Statistical methods are then used to detect Higgs particles
+based on a theoretical model known as the Standard Model of particle
+physics. If more decay patterns are found having the expected Higgs
+decay pattern than predicted by the Standard Model assuming Higgs
+particles do not exist, then the existence of Higgs particles is
+inferred.
+
+In 2013 the existence of Higgs particles was inferred based upon such
+indirect evidence. Clearly the validity of this inference depends not
+only on the functioning of the extreme amount of computer filtering
+necessary to obtain a meaningful signal from the immense
+collision-created noise background, but also on the validity of the
+Standard Model.. The Standard Model has many problems, however, and is
+almost certainly wrong.. Ironically, the inferred existence of the
+Higgs particle is now being used to argue for the validity of the
+Standard Model"
+
+---
+
+Masse's publishing indicates he researched, worked on geophysics,
+earthquakes. The type of new physics he discusses requires hands-on,
+solid knowledge of continuum mechanics, elasticity, wave progagation
+which his branch would require to know from day one. I'd pay attention
+to this guy.
+
+---
+
+Masse, *Physics: Where It Went Wrong*: Why does gravity exist? What
+are light waves?.. Physics has provided no answers to these and many
+other basic questions concerning our Universe.  You might even say
+that physics has failed to discover the very nature of our
+Universe. While the fundamental forces existing in our Universe have
+indeed been detected, and the laws describing these forces have
+generally been documented, the nature of these forces remains a total
+mystery. Why has the science of physics not made more progress in
+unveiling the workings of our Universe?
+
+To find the answer to this question we must look back in time to the
+early 1890s. It was then that a couple of perplexing problems first
+arose in physics. The British physicist Lord Kelvin referred to these
+problems as two 'nineteenth century clouds' over physics. When
+physicists grappled with these problems, the conclusions they arrived
+at set physics on a path that quickly descended into a labyrinth from
+which physics has still not escaped.
+
+Although physics can be employed successfully today on a practical
+level, the foundations of physics now rest on quicksand. As the Nobel
+prize winning physicist Richard Feynman observed, 'It’s a terrible
+mix-up, and you might say it’s a hopeless mess physics has got itself
+worked into.'
+
+The picture of reality that physics currently paints is so bizarre
+and, frankly, so unbelievable, that beginning students in physics when
+confronted with this picture can be excused from exclaiming 'You can’t
+be serious!' Unfortunately, the Alice-in-Wonderland worldview created
+by modern physics has done little to achieve a better understanding of
+the real Universe.  And, yes, there is a real Universe.
+
+Deciphering secrets of the real Universe requires taking a new look at
+some of the problems that plagued physicists over 100 years ago. As we
+revisit these problems, we will find that it is possible to arrive at
+conclusions quite different from those obtained many years
+ago. Moreover, with our new insight into these problems, we can begin
+to unravel some of the mysteries of our Universe that have puzzled
+mankind for centuries"
+
+---
+
+The Michaelson experiment did not disprove aether, their assumptions
+were wrong apparently
+
+---
+
+Masse did a lot of work defining this aether field in mathematical
+terms (pages 55-67). Good ideas keep coming back!
+
+---
+
+🤔 🤔 🤔 
+
+---
+
+🤨 🤨 🤨 
+
+Masse, *Principle of Least Action*: "We have seen that the
+Euler-Lagrange equations can be obtained from Newton’s laws of motion
+for a conservative force field. Newton’s laws, in turn, are based upon
+aether field theory"
+
+---
+
+There is a surface state, the effect goes top-down, starts from
+moneyed interests, down to politicians, and lower from there. The
+depths of US state is actually pretty good, it's the top that is
+rotten. Those scummy bought out mucks know nothing except money.
+
+---
+
+SecDef Mattis was vehemently against that pullout, but he was
+appointed by DJT.  Remember Mattis, he was confirmed 98-1 in the
+Senate (compared to recent chief who nearly lost his
+confirmation). And Mattis was nominated because Trump did not want to
+ruffle feathers in his first term, he chose a guy within certain
+parameters, then that guy responded in ways that were
+predictable. There is no deep state. Trump got the outcome he prepared
+the conditions for.
+
+"The deep state stopped Trump from leaving Syria in his first term"
+
+---
+
+\#Frontline \#UA \#RU 02/13 - 02/21
+
+[[-]](ukrdata/map08.html)
+
+---
+
+Existential Comics: "Imagine thinking food isn't a human right. Like,
+what the heck did we build civilization for then? Why did we bother
+industrializing agriculture? So we could make enough food for everyone
+only to let people starve anyway?"
+
+---
+
+Beware of the Clown - The Damned \#music
+
+[[-]](https://youtu.be/By7WAu9kXFI)
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Humane AI pins (remember them?), which launched just over a year ago,
+will stop working in 10 days and become landfill... The largest
+investor was OpenAI’s Sam Altman"
+
+---
+
+<img width='340' src='https://media.witter.cz/media_attachments/files/114/025/690/704/808/631/original/1fc417c2c5239094.png'/>
+
+---
+
+There is a physics engine (as in code that can compute real-world
+simulation) written in the Rust language compiled into WASM via
+WebAssembly. Now Javascript can use it in the browser. 
+
+---
+
+Seeking Alpha: "Tesla: Celebrating 40 Months Of Nothing.. Tesla,
+Inc. stock has gone nowhere… make that, worse than nowhere, since late
+2021, despite tons of volatility. I recently polled an audience I was
+speaking to.. and the answer didn't shock me. Because I'm no spring
+chicken. The question was this:
+
+Rank these in order of total return since November 1, 2021 (now nearly
+40 months ago, more than 3 years ago.
+
+- Dow Jones Industrial Average (DIA)
+- S&P 500 Equal Weight (i.e., the average stock) (RSP)
+- 1-3 month US T-bills (BIL)
+- Tesla stock.
+
+Every single respondent had TSLA as the best performer since the start
+of November 2021. Here are the facts. TSLA has earned less than
+nothing in nearly 40 months. It was recently down 10% over that
+time. The Dow has not exactly been the S&P 500 (SP500) or Nasdaq 100
+(NDX), but it has certainly done what investors hope a stock portfolio
+would do over that time. The average stock gained 20%, or about 1/2%
+per month on average. And the T-bill ETF outperformed TSLA by more
+than 22% during those 40 months"
+
+---
+
+I dont think in the money
+
+---
+
+In the money, or out of the money? 😂
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Good news everybody, in 2023 90% of C-suite executives believed the
+Metaverse will have an important role in their organisations future
+growth, and by the end of 2025 4.2% of their orgs revenue will be in
+the metaverse, so over $1 trillion!
+
+If these numbers seem similar to AI and NFTs, it's because the same
+thing was said.
+
+Over and over and over and over again C-suites fall for whatever
+they're told, like Lemmings forced off a cliff by companies that
+directly profit from shit consultancy"
+
+[[-]](https://cyberplace.social/system/media_attachments/files/114/030/555/666/570/750/original/fdc8b5bc029f52a5.png)
+
+---
+
+DW: "A war of words has broken out between Egypt and Israel. Israel
+accuses Egypt of threatening it by increasing troops near its border,
+Egypt says its soldiers are there to fight extremists"
+
+---
+
+Hey Ukraine got into this shit because of US, it is only fair they are
+pulled out of it by US. Other parties either went along or actively
+benefited but did not play a major role.
+
+---
+
+PJ Onori: "It’s 2025. Read.cv is shutting down. WordPress is on
+fire. Twitter has completely melted down. Companies are changing their
+content policies en masse. Social networks are becoming increasingly
+icy towards anything outside of their walled garden. Services are
+using the content you post to feed proprietary LLMs. Government
+websites appear to be purging data. It’s a wild time.
+
+It’s hard to know where this bottoms out. And those who rely on these
+services are just along for the ride. Web 2.0 seemed like such a great
+idea in a more innocent time. We’re at a point where it’s only prudent
+to view third-parties as guilty until proven innocent. Not as some
+abstract, principled stance, but for our own direct benefit.
+
+Now, more than ever, it’s critical to own your data. Really own
+it. Like, on your hard drive and hosted on your website. Ideally on
+your own server, but one step at a time"
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/6y7k9xfb9rx9tdunrknka/devil_ricky.gif?rlkey=a551rb0fjk4or0n6db1rl6o3v&st=y219w70m&raw=1)
+
+---
+
+Change of guard
+
+---
+
+If it is Boeing, down it is going 😂 
+
+---
+
+@$$ h4x0r
+
+---
+
+You have to know regex my friend. Hard core scraping requries regex.
+Otherwise you'll never be 1337. 
+
+---
+
+"Scraping" is the term used for the kind of code that fetches a Web
+page, removes all the visual elements and retains only the raw data
+part of it, like scraping the outer paint off a wall, you see?
+
+---
+
+```python
+df.loc['Greece',navy]
+```
+
+```text
+Out[1]: 
+Aircraft Carriers       0
+Helicopter Carriers     0
+Destroyers              0
+Frigates               13
+Corvettes               0
+Submarines             10
+Patrol Vessels         39
+Mine Warfare            7
+Name: Greece, dtype: object
+```
+
+---
+
+I guess the build up is ongoing.. Massive numbers are not visible yet.
+
+---
+
+```python
+df = u.get_pd().read_csv("gfp-2025.csv",index_col='country')
+navy = ['Aircraft Carriers','Helicopter Carriers','Destroyers',\
+        'Frigates','Corvettes','Submarines','Patrol Vessels','Mine Warfare']
+df.loc['Turkey',navy]
+```
+
+```text
+Out[1]: 
+Aircraft Carriers       0
+Helicopter Carriers     1
+Destroyers              0
+Frigates               17
+Corvettes               9
+Submarines             13
+Patrol Vessels         41
+Mine Warfare           11
+Name: Turkey, dtype: object
+```
+
+---
+
+They claim TR is building up a massive navy, is it true? We check,
+
+---
+
+Scraped the latest Global Firepower publication, shows military
+equipment of countries.
+
+[[-]](https://www.globalfirepower.com/)
+
+---
+
+I haven't double checked this, it is interesting OSI chimed in
+
+OSI: "A year ago we called on Meta to stop calling Llama 2 'Open
+Source.'  Since then, Meta has released new versions of Llama with new
+licensing terms that continue to fail the Open Source
+Definition. Llama 3.x is still not Open Source by any stretch of the
+imagination"
+
+---
+
+Times Union: "Delta jet flips upside down on a snowy Toronto runway
+and all 80 aboard survive"
+
+---
+
+SP 500 recovered from the dip already and broke another record. Rich
+people create bubbles. That immense amount of money has nowhere else
+to go. Every dip is an opportunity to buy.
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/023/862/044/815/343/original/f3d0b4727f10d536.png'/>
+
+---
+
+F--kers are so full of bile and their cause is so f-ing dumb (creating
+artificial demand for US private weapon complex in ME in the guise of
+returning to a land they [didn't even leave](../../2020/06/10-myths-israel.html#samejew)
+in the first place), they have to eventually turn inward and eat themselves,
+their own kind.
+
+---
+
+Zioinst man is the new Florida man
+
+TDB: "Jewish Man Charged With Shooting Israeli Tourists He Thought
+Were Palestinian.. A Florida man has been charged with attempted
+murder after allegedly shooting at a father and son he thought were
+Palestinian"
+
+---
+
+BBC: "'You could have made a deal': Trump blames Ukraine after
+US-Russia talks"
+
+---
+
+Euronews: "US and Russia to 'normalise' relationship and start Ukraine
+talks, officials say"
+
+---
+
 Firstpost: "‘Gulf of America’ row escalates as Mexico vows to take
 Google to court.. Sheinbaum had announced on Friday that her
 government was considering legal action against Google, saying: 'If
@@ -162,7 +542,7 @@ USAID could be doing other "good stuff". But why can't it all be good?
 
 Well I dont know abt this man's other "bad deeds", but USAID is a
 somewhat shady org... The one share I made on them was [not
-good](2023/01/little-america-chandrasekaran.html).  They obstructed
+good](../../2023/01/little-america-chandrasekaran.html).  They obstructed
 efforts for Afgans to switch to cotton from poppy.
 
 "@ProPublica@newsie.social
