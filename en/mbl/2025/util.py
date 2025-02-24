@@ -17,7 +17,6 @@ def get_pd(): return pd
 
 def map_usnavy(outfile):
     df = usnavy()
-    outfile = "/tmp/out2.html"
     m = folium.Map(location=[0,0], zoom_start=3) 
     for i,row in df.iterrows():
         folium.Marker([row['lat'],row['lon']], popup=folium.Popup(row['name'])).add_to(m)

@@ -37,8 +37,8 @@ security conundrums as Wasm becomes more widely adopted"
 ---
 
 I was joking abt the Justin Baldoni thing earlier. He was most likely
-unjustly blamed, is real the victim, the target of a Me Too type of
-smear campaign. 
+unjustly blamed, is the real victim, the target of a Me Too type of
+smear campaign.
 
 ---
 
@@ -82,14 +82,20 @@ experiementation (obviously it did), explained later.
 Then I searched for books on the subject, Masse's came up.  His
 approach was Newton's second law is more fundamental, derive
 Lagrangian from there, but still, not fundamental enough. This is
-where his eather formulation comes in, he can derive second law from
-it.
+where his eather formulation comes in, he can derive the second law
+from it.
 
 ---
 
 BMW Blog: "Toyota’s 3rd-Gen Fuel Cell: The Tech That Could Power BMW’s iX5 Hydrogen"
 
 <img width='340' src='https://files.mastodon.social/cache/preview_cards/images/133/960/870/original/db77bba79ffde612.jpg'/>
+
+---
+
+Ash Sarkar: How WOKE Politics is DESTROYING the Left!
+
+[[-]](https://www.youtube.com/embed/zo3URITmjsQ?start=609&end=861)
 
 ---
 
@@ -128,9 +134,10 @@ The Guardian: "[2021] Literally meaning 'alternative-less',
 associated with Margaret Thatcher: 'There is no alternative.' But if
 'TINA' was specifically used to close down debates over alternatives
 to the market economy, Merkel’s government declared all type of policy
-decisions alternativlos.. [eg open border immig policy]. Her use of
-the phrase also inspired the naming of the first party to the right of
-her CDU to make it into the Bundestag: Alternative für Deutschland"
+decisions *alternativlos*.. [eg open border immigration policy]. Her
+use of the phrase also inspired the naming of the first party to the
+right of her CDU to make it into the Bundestag: Alternative für
+Deutschland [AfD]"
 
 ---
 
@@ -183,3 +190,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
