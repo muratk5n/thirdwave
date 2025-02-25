@@ -24,12 +24,12 @@ Lookie. Orban misses Merkel.
 ---
 
 There was an internal power struggle in the CDU years ago, and today's
-chancellor to-be chancellor Merz was ousted by Merkel. The wording at
-the time was he was "cut down at a young age", "executed". Now he is
-back bcz Merkel is out, you see? Dude might have nursed some anger
-since; if he tries to be the un-Merkel bcz of it, that's would be
-dumb. The immigration issue aside, AM had the right approach towards
-the East. She was an "Ossie" herself.
+chancellor-to-be Merz was ousted by Merkel. The wording at the time
+was he was "cut down at a young age", "executed". Now he is back bcz
+Merkel is out, you see? Dude might have nursed some anger since; if he
+tries to be the un-Merkel bcz of it, that's would be dumb. The
+immigration issue aside, AM had the right approach towards the
+East. She was an "Ossie" herself.
 
 ---
 
