@@ -23,12 +23,12 @@ Lookie. Orban misses Merkel.
 
 ---
 
-There was an internal power struggle in the CDU and today's chancellor
-to-be chancellor Merz was ousted by Merkel. The wording at the time
-was he was "cut down at a young age", "kneecapped". Now he is back bcz
-Merkel is out, you see? Dude might have nursed some anger since; if he
-tries to be the un-Merkel bcz of it, that's would be dumb. The
-immigration issue is one thing, but AM had the right approach towards
+There was an internal power struggle in the CDU years ago, and today's
+chancellor to-be chancellor Merz was ousted by Merkel. The wording at
+the time was he was "cut down at a young age", "executed". Now he is
+back bcz Merkel is out, you see? Dude might have nursed some anger
+since; if he tries to be the un-Merkel bcz of it, that's would be
+dumb. The immigration issue aside, AM had the right approach towards
 the East. She was an "Ossie" herself.
 
 ---
@@ -57,8 +57,8 @@ millions reliant on it"
 
 I remember the Oval Office press briefing for the announcement, guess
 who was there to shower BHO with praise and receive his munee - the
-same melon headed punk we like to dislike - Netanyahoo.  The linchpin
-of MILC, military-industrial-Likud-complex.
+same melon headed son of a bitch we like to dislike - Netanyahoo.  The
+linchpin of MILC, military-industrial-Likud-complex.
 
 ---
 
@@ -70,23 +70,23 @@ package"
 ---
 
 They must have scared Bama so badly he kowtowed to MIC until the last
-second of his admin
+second of his admin.
 
 ---
 
-Per specific admins BHO admin started fine but capitulated midway,
-they got scared, and gave in. Trump era shows a tug-of-war between MIC
-and WH, we'll see how things work out this time around.
+BHO admin started fine but capitulated midway, they got scared, gave
+in. Trump era shows a tug-of-war between MIC and WH, we'll see how
+things work out this time around.
 
 ---
 
 Looking at the graph it is clear after 2012 MIC had a bonanza (Syria,
-Libya, overall unrest in ME). Higher upward trend right beginning 2017
+Libya, overall unrest in ME). Higher upward trend seen beginning 2017
 but meager growth between 2018-2020, steep fall at 2020 is
 understandable, but steady upward trend continued thanks to bought out
-officials doing MIC's bidding on Ukraine and other places, I'm talking
-ppl like Tony Blink Blink 737, and Raytheon Lord Austin. Biden
-obviously had his own "entanglements" in Ukraine.
+officials doing MIC's bidding on Ukraine and other places, like Tony
+Blink Blink 737, and "Raytheon Lord" Austin. Biden obviously had his
+own "entanglements" in Ukraine.
 
 ---
 
@@ -103,7 +103,8 @@ df_cap.sum(axis=1).plot(title='MIC Combined Market Cap')
 
 ---
 
-Macron - Trump, no one got handcucked? Very strange.
+Macron - Trump meeting, and no one got handcucked this time? Very
+strange.
 
 ---
 
