@@ -15,6 +15,36 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def get_yahoo_ticker2(year, ticker):
+    d1 = datetime.datetime.strptime(str(year) + "-09-01", "%Y-%m-%d").timestamp()
+    d2 = datetime.datetime.now().timestamp()    
+    url = "https://query2.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=history&includeAdjustedClose=true" 
+    url = url % (ticker,int(d1),int(d2))
+    req = urllib.request.Request(
+        url, 
+        data=None, 
+        headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+        }
+    )    
+    r = urllib.request.urlopen(req).read()
+    res = json.loads(r)
+    ts = res['chart']['result'][0]['timestamp']
+    adjclose = res['chart']['result'][0]['indicators']['adjclose'][0]['adjclose']
+    ts = [datetime.datetime.fromtimestamp(x).strftime("%Y-%m-%d") for x in ts]
+    df = pd.DataFrame(adjclose,index=pd.to_datetime(ts),columns=[ticker])
+    return df
+
+def get_yahoo_tickers(year,tickers):
+    res = []; cols = []
+    for ticker in tickers:
+        p = get_yahoo_ticker2(year,ticker)
+        res.append(p)
+    
+    dfall = pd.concat(res,axis=1)
+    dfall.columns = tickers
+    return dfall
+
 def map_usnavy(outfile):
     df = usnavy()
     m = folium.Map(location=[0,0], zoom_start=3) 
@@ -155,6 +185,7 @@ def map_coords(coords, zoom, outfile):
 
 
 def trump_approval():
+    import matplotlib.dates as mdates
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/approval_averages.csv')
     df2 = df[['pct_estimate','answer','date']]
     df2 = df2[df['politician/institution'] == 'Donald Trump']
@@ -162,6 +193,7 @@ def trump_approval():
     df2['net'] = df2['pct_estimate']['Approve'] - df2['pct_estimate']['Disapprove']
     print (df2['net'])
     df2['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=10))
     plt.savefig('/tmp/approval.jpg')
 
     

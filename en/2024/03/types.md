@@ -50,3 +50,13 @@ them: W, Gore, Clinton, Trump are all IaC. I am not saying all of
 these ppl were examplary at their jobs, but they managed to climb to
 the top, perhaps helped by their type.
 
+<a name='a_lonesome'></a>
+
+Lonesome Cowboy
+
+Imagine a Western shoot-out scene, one man standing shooting up the
+place with two guns, all by himself with no one at his side. This is
+Lonesome Cowboy. They tend to be self-reliant and be the lonesome
+warrior. Their character development lies on the other direction,
+creating win-win situations, preferring diplomacy over conflict.
+

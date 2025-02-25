@@ -1,5 +1,152 @@
 # Week 9
 
+Rail Journal: "Italy's first hydrogen train on test.. The Alstom
+Coradia Steam H train is undergoing refuelling trials at Rovato"
+
+<img width='200' src='https://cdn.railvis.com/hub/news/IMF1RK0ZLKQHHAPF.jpg'/>
+
+---
+
+"@cnbusinessforum@mstdn.business
+
+[\#TRADESHOW] The 3rd #World #Hydrogen #Energy #Industry #Expo (#WHE
+2025) will take place from August 8–10, 2025, at the #China #Import
+and #Export #Fair Complex (Area A) in #Guangzhou"
+
+---
+
+"Ohio transit agency to switch to green hydrogen for fuel cell buses"
+
+---
+
+The Korea Herald: "Seoul to offer increased subsidy for
+hydrogen-powered buses from March"
+
+---
+
+Interesting Engineering: "Honda hydrogen fuel cell with 3x power
+density to boost car performance"
+
+---
+
+The New Stack: "According to the federal government, WebAssembly could
+and should be integrated across the cloud native service mesh sphere
+to enhance security... The use of WebAssembly could become mandatory
+to meet security-compliance requirements while solving other ongoing
+security conundrums as Wasm becomes more widely adopted"
+
+---
+
+I was joking abt the Justin Baldoni thing earlier. He was most likely
+unjustly blamed, is the real victim, the target of a Me Too type of
+smear campaign.
+
+---
+
+Carrier Strike Group near Greece?
+
+
+```python
+u.map_usnavy(outfile="map03.html")
+```
+
+[[-]](mbl/2025/map03.html)
+
+---
+
+Market Screener: "[US] administration is piling pressure on Iraq to
+allow Kurdish oil exports to restart or face sanctions alongside Iran,
+eight sources with direct knowledge of the matter told Reuters. A
+speedy resumption of exports from Iraq's semi-autonomous Kurdistan
+region would help to offset a potential fall in Iranian oil exports,
+which Washington has pledged to cut to zero as part of Trump's
+'maximum pressure' campaign against Tehran."
+
+---
+
+D'Alembert's Principle? Also a restatement of the second law.
+
+---
+
+How did I find about Richard Masse's work? I was looking for a way to
+explain how to derive the Lagrangian form of least action, the famous
+$T - V$ formula from basic principles. I saw a derivation starting
+from $\int mvds$, Euler's method, they call mass times velocity times
+distance as "action", based on Maupertuis. But neither method sound
+fundamental.  Feynman does a great job motivating $T - V$ in his
+lectures (Vol II), he articulates extremely well why he thinks the
+method works, but he is essentially putting lipstick on a pig. He is
+rationalizing, the choice of this particular formula is arbitrary. It
+is pulled out of the air, in a "let's see if this works" kind of
+experiementation (obviously it did), explained later.
+
+Then I searched for books on the subject, Masse's came up.  His
+approach was Newton's second law is more fundamental, derive
+Lagrangian from there, but still, not fundamental enough. This is
+where his eather formulation comes in, he can derive the second law
+from it.
+
+---
+
+BMW Blog: "Toyota’s 3rd-Gen Fuel Cell: The Tech That Could Power BMW’s iX5 Hydrogen"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/133/960/870/original/db77bba79ffde612.jpg'/>
+
+---
+
+Ash Sarkar: How WOKE Politics is DESTROYING the Left!
+
+[[-]](https://www.youtube.com/embed/zo3URITmjsQ?start=609&end=861)
+
+---
+
+"@cdarwin@c.im
+
+German newsmagazine Der Spiegel reported that the Max Planck Society
+one of the world’s top scientific research institutions is
+experiencing an uptick in applications from American scientists. [Its
+president said the society regards the U.S. as 'a new talent pool' at
+a time when the Trump administration seeks to cut billions in funding
+to the National Institutes of Health.
+
+There’s a deep historical irony in these recent developments: During
+the Third Reich, it was the Max Planck Society then known as the
+Kaiser Wilhelm Society that lost its best and brightest to the
+U.S. and other countries"
+
+---
+
+Politico: "As Eric Adams melts down, Andrew Cuomo forges ahead.. The
+former governor has put together the structure of a campaign and is
+courting New York power players"
+
+---
+
+"@EndIsraeliApartheid@mastodon.social
+
+The BBC has faced significant backlash following its removal of the
+documentary 'Gaza: How To Survive A Warzone,' which focused on the
+experiences of Palestinian children in the Gaza Strip"
+
+---
+
+The Guardian: "[2021] Literally meaning 'alternative-less',
+*alternativlos* was Angela Merkel’s own version of a line usually
+associated with Margaret Thatcher: 'There is no alternative.' But if
+'TINA' was specifically used to close down debates over alternatives
+to the market economy, Merkel’s government declared all type of policy
+decisions *alternativlos*.. [eg open border immigration policy]. Her
+use of the phrase also inspired the naming of the first party to the
+right of her CDU to make it into the Bundestag: Alternative für
+Deutschland [AfD]"
+
+---
+
+F24: "Germany's snap elections: CDU leads, far-right AfD set for
+record gains"
+
+---
+
 Ash Sarkar: How WOKE Politics is DESTROYING the Left!
 
 [[-]](https://www.youtube.com/embed/zo3URITmjsQ?start=609&end=861)
