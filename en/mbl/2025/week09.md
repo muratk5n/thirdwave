@@ -50,7 +50,7 @@ Carrier Strike Group near Greece?
 u.map_usnavy(outfile="map03.html")
 ```
 
-[[-]](mbl/2025/map03.html)
+[[-]](map03.html)
 
 ---
 

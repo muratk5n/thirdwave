@@ -108,6 +108,12 @@ strange.
 
 ---
 
+😂 Let's not go there
+
+"Is there anything more German than our old pure Austrianness?"
+
+---
+
 Hear it from the Austrian military, Markus Schwarzenegger explains it
 all \#AustrainMil \#Ukraine
 
@@ -115,10 +121,10 @@ all \#AustrainMil \#Ukraine
 
 ---
 
-Eventually they will take it all back. But it doesn't matter when
-actually, RU kills Ukrainian soldiers over there, or kills them over
-somewhere else... their strategy is the same, is one of
-de-militarization, removing UA as a threat.
+Eventually they will take it all back. But it doesn't matter when imo,
+RU kills Ukrainian soldiers over there, or kills them over somewhere
+else... their strategy is the same, is one of de-militarization,
+removing UA as a threat.
 
 Reuters: "Russia says it has taken back major chunk of Kursk region"
 
