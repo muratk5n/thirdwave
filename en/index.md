@@ -1,132 +1,182 @@
 
-"@evanchaney@mastodon.social
+Automotive Logistics: "BMW pioneers hydrogen-powered trucks to
+transform European freight"
 
-Apple’s #privacy policy for #Siri now says Apple can retain
-transcripts of and related inputs to your interactions with Siri for 2
-years or more. The “Delete Siri & Dictation History” button only
-deletes _local_ copies of your transcripts. The only way to opt out is
-to turn off both Siri and dictation"
+<img width='340' src='https://d3n5uof8vony13.cloudfront.net/Pictures/380x253/5/8/8/329588_p90588152_highres_bmwgrouplogistigs_389550.jpg'/>
 
 ---
 
-UAS Weekly: "Heven Drones introduces its latest hydrogen-powered UAV,
-the Raider, at IDEX 2025, featuring a 1,000 km range and 10-hour
-endurance"
-
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/134/204/087/original/63d6bd16cf373118.jpg'/>
+Hydrogen Insight: "Plug Power poised to bring Louisiana liquid
+hydrogen plant into operation in coming weeks"
 
 ---
 
-Lookie. Orban misses Merkel.
+Gary Stevenson: "When you live in a very wealth, unequal
+society.. that means is a small group of people own all of the
+companies, they own all of the commercial property, they own most of
+the properties. And ordinary people are continually having to pay them
+rents, profits and interest. If inequality gets very large, these
+flows of cash from ordinary families to the rich become very large.
+[Then three things happen] One is ordinary people work much more for
+the rich, although in reality, if you try and do that, it tends to
+just push wages down.  Two is ordinary families sell their assets to
+the rich, and that is why we are seeing reduced homeownership rates
+and reduced ability to save in pensions.  But the third one is the
+rich can lend that money back to the poor. And that is what we're
+seeing when we see mortgage sizes increase.  What you are seeing there
+is the rich taking enormous amounts of money from working families and
+then lending it back...
 
-[[-]](https://www.youtube.com/embed/7DaVBp3IUO0?start=1998&end=2089)
+During Covid, governments gave out an enormous amount of money. And
+that money was largely, in the end, accumulated by richer people...
+When these rich people started to accumulate cash, what do they do?..
+They tend to want to own a balanced portfolio..  They want to own
+things like stocks and shares..  They want to own property as well..
+But the problem with property is it's very difficult for super rich
+people to buy enormous amounts of property...  So what do rich people
+do?..  If I had £500,000 cash and I wanted to buy a property, I could
+go out and spend £500,000, buy a flat in London.  £500,000 is kind of
+roughly what a flat in London costs nowadays.  I could rent it to my
+sister and she could pay me rent every month.  Alternatively, I could
+lend that money to my sister.  She could go out and buy the house
+herself, and then she could pay me interest every month.  How are
+these two things different to me?
 
----
+Well, the first thing I want to point out is, what is the difference
+between those two examples on the housing market and on house prices?
+The answer is that is exactly no difference.  You know the housing
+market doesn't see whether it's me or whether it's my sister, whether
+I'm buying directly or whether I'm lending to my sister.  All the
+housing market sees is somebody’s coming in with £500,000 and buying a
+house.
 
-There was an internal power struggle in the CDU years ago, and today's
-chancellor-to-be Merz was ousted by Merkel. The wording at the time
-was he was "cut down at a young age", "executed". Now he is back bcz
-Merkel is out, you see? Dude might have nursed some anger since; if he
-tries to be the un-Merkel bcz of it, that's would be dumb. The
-immigration issue aside, AM had the right approach towards the
-East. She was an "Ossie" herself.
+So what that shows you is whether I buy the house directly or whether
+I lend the money out to buy the house.  In both cases, I drive the
+house price up.  The second thing is this question of who actually
+owns the house.  So legally, technically, if I lent the money to my
+sister, my sister owns the house.  But what is her net worth after she
+buys it?  Well, she buys a flat that's worth £500,000.  She has debt
+of £500,000.  She's worth nothing.  So, essentially, I own the equity
+in the house..
 
----
-
-Merz wants to "lead Europe" for a massive UA aid package so they can
-continue fighting?
-
----
-
-"Steve Bannon warned Republicans that cutting Medicaid would hurt
-Trump's base, as many MAGA supporters rely on the program"
-
----
-
-Politico: "Republicans [David Valadao, Ken Calvert, Mike Lawler,
-Pennsylvania’s Robert Bresnahan, Dan Newhouse] have a lot to lose if
-Congress cuts Medicaid.. GOP lawmakers expected to vote soon on
-slashing the insurance program for low-income people represent tens of
-millions reliant on it"
-
----
-
-[Link](https://www.youtube.com/embed/1b9EZBYqibs?start=81&end=116)
-
----
-
-I remember the Oval Office press briefing for the announcement, guess
-who was there to shower BHO with praise and receive his munee - the
-same melon headed son of a bitch we like to dislike - Netanyahoo.  The
-linchpin of MILC, military-industrial-Likud-complex.
-
----
-
-👇 👇 👇 
-
-Reuters: "[2016/09] U.S., Israel sign $38 billion military aid
-package"
-
----
-
-They must have scared Bama so badly he kowtowed to MIC until the last
-second of his admin.
-
----
-
-BHO admin started fine but capitulated midway, they got scared, gave
-in. Trump era shows a tug-of-war between MIC and WH, we'll see how
-things work out this time around.
+Mortgage lending and the accumulation of credit by the rich is the way
+in which rich people buy houses.  And if you are sitting on a house
+with an enormous mortgage, realistically you don't own that house.
+The person who lent you the money owns that house.  And it's important
+to understand this because as we go forward, this increased size of
+mortgage is going to be the primary way in which we see the wealth of
+the middle class decline"
 
 ---
 
-Looking at the graph it is clear after 2012 MIC had a bonanza (Syria,
-Libya, overall unrest in ME). Higher upward trend seen beginning 2017
-but meager growth between 2018-2020, steep fall at 2020 is
-understandable, but steady upward trend continued thanks to bought out
-officials doing MIC's bidding on Ukraine and other places, like Tony
-Blink Blink 737, and "Raytheon Lord" Austin. Biden obviously had his
-own "entanglements" in Ukraine.
+Mass resignations from douche. Staffers apparetly did not agree with
+‘dismantling of public services’ pursued by the org.
 
 ---
+
+Politico: "The first comprehensive public listing of the billions of
+dollars in purported savings [DOUCHE] is making across federal
+contracts is filled with errors, according to a Politico review of the
+published data"
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+I don’t think Four Eyes will work as a brand name."
+
+---
+
+FT: "White House official pushes to axe Canada from Five Eyes
+intelligence group"
+
+---
+
+Will check it out, audience score is not bad.
 
 ```python
-tickers = ['RTX','LMT','BA','GD','NOC']
-df = u.get_yahoo_tickers(2000,tickers)
-cap = {'RTX':157.5,'LMT':122.4,'BA':115.7,'GD':76.3,'NOC':70.6}
-recent = df.tail(1).to_dict("records")[0]
-df_cap = df * dict((x,cap[x]/recent[x]*1e9) for x in tickers)
-df_cap.sum(axis=1).plot(title='MIC Combined Market Cap')
+u.rottentomatoes("The Gorge")
 ```
 
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/057/775/435/730/965/original/f30428ed5f338f9f.jpg'/>
+```text
+Out[1]: {'critics': '65', 'audience': '77'}
+```
 
 ---
 
-Macron - Trump meeting, and no one got handcucked this time? Very
-strange.
+Russian oligarchs can qualify for the $5 million residency gold cards..
+
+If I were them I would not apply, there is no telling what can happen
+when shitlib Dems are in power, they might go after those same Russian
+oligarchs with even bigger zeal just bcz Trump let them in. They are
+still hung up on that Russian angle, starting with Russiagate so
+forth, now if Trump is again not antagonistic towards Russia, they
+will have to be.
 
 ---
 
-😂 Let's not go there
-
-"Is there anything more German than our old pure Austrianness?"
-
----
-
-Hear it from the Austrian military, Markus Schwarzenegger explains it
-all \#AustrainMil \#Ukraine
-
-[[-]](https://www.youtube.com/embed/IDRjughhXMg?start=1019&end=1069)
+I propose a new hero - Nativeman. He is born smack in the middle of US
+(Kansas?). Nativeman will be super powerful at that location, as he
+moves away from there, he starts losing his power. Like, when he
+reaches either shore he can't even pass gas. In Kansas he can lift a
+truck. And he wants big government, because he is local.
 
 ---
 
-Eventually they will take it all back. But it doesn't matter when imo,
-RU kills Ukrainian soldiers over there, or kills them over somewhere
-else... their strategy is the same, is one of de-militarization,
-removing UA as a threat.
+I hope Superman cannon w/ the upcoming movie does not stress his
+"foreignness". We have to realize a part of SM is immigrant
+propaganda.. The alien arrives from *another* planet to America, he
+has super powers *on his new home*, on Earth (wink wink, we know where
+they really mean, US), right? The whole shabang with the yellow Sun vs
+the red Sun? The immigrant is powerful in US, not back home, he is
+normal there. The message corporate America wants to send is we *want*
+foreigners, please arrive on our shores *where you will be special*,
+leave home where you are nothing. And well since you are special, you
+won't need social services, social help and infrastructure - hell, you
+can fly over buildings boy! You don't need government! You can *be*
+government with those super duper powers!
 
-Reuters: "Russia says it has taken back major chunk of Kursk region"
+---
+
+TDB: "Rep. Dan Crenshaw’s apparent threat to Tucker Carlson drew
+backlash from the right on Monday.. Carlson once called the lawmaker
+one of 'the dumbest' Republicans and 'eyepatch McCain'"
+
+---
+
+Great, the free elevation service I used is back
+
+```python
+u.elev_at(28.5983, 83.9310)
+```
+
+```text
+Out[1]: 6453
+```
+
+---
+
+😂 😂 😂 
+
+The nine most terrifying words in the English language are "I am a
+businessman and I'm here to help".
+
+---
+
+"@waeiski@vis.social
+
+It is now illegal to transmit personal information of EU citizens to
+cloud infrastructure in the #US as they won't be protected by the
+\#GDPR. Many European service providers will have to move quickly to
+avoid fines, but eventually #EU data will be held in the EU.. That
+means AWS, Azure, Google and iCloud can lose a sizeable chunk of their
+customer base if no moves are made. I am all for it"
+
+---
+
+\#Burr \#Billionaires
+
+[[-]](https://www.youtube.com/embed/B9yinviRFDM?start=2589&end=2654)
 
 ---
 

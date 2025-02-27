@@ -15,6 +15,14 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def elev_at(lat,lon):
+    data = '[[%f,%f]]' % (lat,lon)
+    response = requests.post('https://elevation.racemap.com/api',
+                             headers={'Content-Type': 'application/json',},
+                             data=data)
+    res = response.text
+    return int(json.loads(res)[0])
+
 def get_yahoo_ticker2(year, ticker):
     d1 = datetime.datetime.strptime(str(year) + "-09-01", "%Y-%m-%d").timestamp()
     d2 = datetime.datetime.now().timestamp()    

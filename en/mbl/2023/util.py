@@ -153,7 +153,7 @@ def sm_plot_ukr5():
     return d
 
 def elev_at(coords):
-    #data = '[[%f,%f]]' % (lat,lon)
+    data = '[[%f,%f]]' % (lat,lon)
     data = str(coords)
     print (data)
     response = requests.post('https://elevation.racemap.com/api',
