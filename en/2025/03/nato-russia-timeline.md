@@ -15,22 +15,35 @@
 
 * 1996:
 
-    * 02/15: Russian popular discontent became so intense that it was
+    * 02/15: Russian popular discontent became so intense that it is
       clear the incumbent president, Boris Yeltsin, had no chance of
-      winning reelection. The Russian oligarchate became concerned
+      winning reelection. The Russian oligarchate become concerned
       that victory by the communists might create difficulties for
       their continued looting of the country. A group of the most
-      powerful oligarchs, led by Berezovsky and Gusinsky, made a deal
+      powerful oligarchs, led by Berezovsky and Gusinsky, make a deal
       with Yeltsin: in return for his guaranteeing the privatization
-      of state enterprises, they financed his campaign and threw their
+      of state enterprises, they finance his campaign and throw their
       media resources behind him—by that point, they controlled all
-      mass media. They also hired a team of American political
-      campaign consultants (including the infamous Dick Morris) to
-      manage Yeltsin’s reelection. Even that was not enough, and in
-      the end they had to resort to massive electoral fraud to reelect
-      Yeltsin. This is how Russia became an extreme plutocracy in 1996.
-      This is likely the lowest point in recent Russian
+      mass media. They also hire a team of American political campaign
+      consultants (including the infamous Dick Morris) to manage
+      Yeltsin’s reelection. Even that would not be enough, and in the
+      end they resort to massive electoral fraud to reelect
+      Yeltsin. This is how Russia becomes an extreme plutocracy in
+      1996. The year is likely the lowest point in recent Russian
       history, people are dying in droves from deaths of despair.
+
+* 1997
+
+    * 02/05: Famous strategist George F. Kennan writes “[B]luntly
+      stated…expanding NATO would be the most fateful error of
+      American policy in the entire post-Cold War era. Such a decision
+      may be expected to inflame the nationalistic, anti-Western and
+      militaristic tendencies in Russian opinion; to have an adverse
+      effect on the development of Russian democracy; to restore the
+      atmosphere of the cold war to East-West relations, and to impel
+      Russian foreign policy in directions decidedly not to our
+      liking”. Kennan is the architect of America’s post-World War II
+      strategy of containment of the Soviet Union.
 
 * 1999
 
@@ -102,8 +115,7 @@
       the ongoing Libyan Civil War. NATO would flow 26,500 sorties
       over eight months.
 
-    * 04/18: NATO enforces a no-fly zone over Libya. Sweden takes part
-      with fighter jets on reconnaissance missions.
+    * 04/18: NATO enforces a no-fly zone over Libya. 
 
     * 10/20: The deposed leader of Libya Muammar Gaddafi is killed
       after the Battle of Sirte.
@@ -165,4 +177,7 @@
       of countries. Boris Johnson torpedoed the deal, reportedly
       urging Ukrainian President Volodymyr Zelensky to break off talks
       with Russia, saying "the West isn’t ready for the war to end".
+
+
+
 
