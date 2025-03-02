@@ -15,9 +15,9 @@
 
 * 1996:
 
-    * 02/15: Russian popular discontent became so intense that it is
+    * 02/15: Russian popular discontent becomes so intense that it is
       clear the incumbent president, Boris Yeltsin, had no chance of
-      winning reelection. The Russian oligarchate become concerned
+      winning reelection. The Russian oligarchate are now concerned
       that victory by the communists might create difficulties for
       their continued looting of the country. A group of the most
       powerful oligarchs, led by Berezovsky and Gusinsky, make a deal
@@ -28,8 +28,8 @@
       consultants (including the infamous Dick Morris) to manage
       Yeltsin’s reelection. Even that would not be enough, and in the
       end they resort to massive electoral fraud to reelect
-      Yeltsin. This is how Russia becomes an extreme plutocracy in
-      1996. The year is likely the lowest point in recent Russian
+      Yeltsin. This is how Russia becomes an extreme plutocracy in 1996.
+      The year is likely the lowest point in recent Russian
       history, people are dying in droves from deaths of despair.
 
 * 1997
