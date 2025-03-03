@@ -623,8 +623,6 @@ for these muppets.
 
 ---
 
-
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Laser paint and rust removal tool!<br>Watch the full video here <a href="https://t.co/br9uuC2beo">https://t.co/br9uuC2beo</a> <a href="https://t.co/AzgPtJeq7R">pic.twitter.com/AzgPtJeq7R</a></p>&mdash; World of Engineering (@engineers_feed) <a href="https://twitter.com/engineers_feed/status/1155506283711270912?ref_src=twsrc%5Etfw">July 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

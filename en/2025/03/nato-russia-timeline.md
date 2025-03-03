@@ -139,6 +139,19 @@
       People's Republic (DPR) and the Luhansk People's Republic (LPR)
       as independent states.
 
+* 2015
+
+    * 02/12: Russia attacked Ukrainian forces at Debaltseve, where
+      Ukraine suffered a major defeat, and was forced to sign a
+      Package of Measures for the Implementation of the Minsk
+      Agreements, or Minsk II. Ukraine did not implement the measures
+      which contributed to further escalation. Boris Johnson would
+      later admit that the measures were nothing more than a
+      ‘diplomatic charade’. German ex-Chancellor Angela Merkel
+      admitted to similar, she revealed the Minsk agreements were
+      actually aimed to give Ukraine time to get stronger and for NATO
+      to increase its support to the country.
+      
 * 2017
 
     * Montenegro joins NATO.
