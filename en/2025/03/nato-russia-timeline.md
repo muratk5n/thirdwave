@@ -7,7 +7,7 @@
 
 * 1994
 
-    * Finland and Sweden join NATO’s Partnership for Peace program.
+    * 12/01: Finland and Sweden join NATO’s Partnership for Peace program.
 
 * 1995
 
@@ -80,8 +80,9 @@
 
 * 2004
 
-    * The biggest NATO expansion to date as seven countries become members:
-      Bulgaria, Romania, Slovakia, Slovenia, Estonia, Latvia and Lithuania.
+    * 03/29: The biggest NATO expansion to date as seven countries
+      become members: Bulgaria, Romania, Slovakia, Slovenia, Estonia,
+      Latvia and Lithuania.
 
 * 2006
 
@@ -99,7 +100,7 @@
 
 * 2009
 
-    * Croatia and Albania become NATO members.
+    * 04/01: Croatia and Albania become NATO members.
 
 * 2011
 
@@ -126,8 +127,8 @@
       State for European and Eurasian Affairs Viktoria Nuland while
       talking to Geoffrey R. Pyatt, the US ambassador in Kyiv about
       possible nominations of opposition leaders to form a new
-      government Nuland is heard saying 'F**k the EU'. The US
-      ambassador answers 'exactly'.
+      government is heard saying 'F**k the EU'. The US ambassador
+      answers 'exactly'.
 
     * 02/23: Ukranian president Yanukovych is removed from the office
       following days of Maidan protests.
@@ -154,7 +155,7 @@
       
 * 2017
 
-    * Montenegro joins NATO.
+    * 06/05: Montenegro joins NATO.
 
 * 2019:
 
@@ -165,7 +166,7 @@
       
 * 2020
 
-    * North Macedonia becomes NATO’s 30th member.
+    * 03/27: North Macedonia becomes NATO’s 30th member.
 
 * 2021
 

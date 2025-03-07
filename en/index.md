@@ -1,145 +1,83 @@
 
-Masse: "Two Slits Open for a Single Photon.. In such an experiment, a
-single photon from the light source will still be incident on both
-slits in the aperture screen at the same time, and will produce two
-coherent sinusoidal wavelets that interfere constructively and
-destructively.  Each of these sinusoidal wavelets will have less
-energy than a photon of the same frequency, and so the wavelets will
-not be photons. Moreover, the energy of the two sinusoidal wavelets
-will generally not be equal.
-
-When the sinusoidal wavelets reach the image screen, the destructively
-interfering parts of the sinusoidal wavelets will have significantly
-less energy than a photon of the same frequency, and so will be unable
-to produce an observable photographic or photoelectric effect. Dark
-fringes will result.  Only the constructively interfering parts of the
-sinusoidal wavelets will have sufficient energy (approximately the
-energy of a photon of the same frequency) to produce an observable
-photographic or photoelectric effect that will contribute to forming
-bright fringes on the image screen. Moreover, a constructively
-interfering part of the sinusoidal wavelet must strike an atom on the
-image screen just right to provide sufficient energy for the atom to
-change state and eject a single electron.
-
-Out of hundreds of interfering parts of the two wavelets, only one
-pair will generally produce any observable effect. This effect will
-usually be isolated to a single atom on the image screen. Therefore,
-the constructively interfering wavelets will appear to be very
-localized (at a point) similar to a single particle striking the image
-screen. Nevertheless, the change occurring in an atom of the image
-screen in a low-intensity experiment is due to constructively
-interfering sinusoidal wavelets; not to a particle"
+WaPo: "Trump slammed Ukrainian President Volodymyr Zelensky on Monday
+for suggesting that the end of Russia’s war against Ukraine likely “is
+still very, very far away.” The comments come as prominent Trump
+allies escalate pressure on Zelensky to dramatically change his
+approach to the US president, who has made quickly ending the war a
+top priority, or step aside"
 
 ---
 
-Masse says light is a wave, not wave and particle at the same time.
-People who keep looking for magical funkiness in QM forget basic facts
-about waves, they have to lose energy when they pass through the slits
-and split, the two new waves are syncronized but have different travel
-times towards the screen, therefore they can interfere with each other
-constructively or destructively. And since the two waves have less
-energy only perfect contructive interference will result in a bright
-image on the screen. In a single photon two-slit experiment that can
-give the impression of a "particle" traveling both slits. The
-explanation can really be that simple. You have to be dumber to look
-for something more complex and "magical".
+Great.. I hope he picks fights with the Woke group inside the
+Democratic party on the issue. F-ing retards.
+
+Politico: "Newsom, a pioneer for LGBTQ+ rights...suggested Democrats
+were in the wrong in allowing transgender athletes to participate in
+female college and youth sports"
 
 ---
 
-RU's supposed involvement in that case is wholly debunked. But I bet
-some fools still believe it. You know the type, blue-no-matter-who
-shitlib economic-right-social-left dumb Clintonites.
+*Paradise*, another post-apocalypse underground living show. How many
+are there so far? *Silo*, *Fallout*... They are multiplying. US
+imagination, artistic works is preparing itself for apocalypse?
 
 ---
 
-We see another case of Russia Russia Russia, see the Hunter Biden
-laptop reference below.
+I use a DIY recommender. Music streaming is through simple PLS urls,
+either via `mpv` on the command line or couple lines of DIY
+Javascript. My blog posts are markdown text files that are local,
+edited, version controlled locally only uploaded as simple files for
+publishing.
 
 ---
 
-BL and VW must be feeling the heat.
+Westenberg: "My current project: I've been dusting off the old hard
+drives with my ripped CD collection and loading them into an iPod. A
+20-year-old piece of tech with its click wheel intact, no WiFi, and no
+algorithm feeding me recommendations I didn't ask for. The result:
+I've started listening to music - actually listening to it - in a way
+I haven't in years. Giving it my attention. Not taking it for granted,
+not treating it like day old shrimp at a discount buffet...
 
-Variety: "Blake Lively has hired a PR crisis manager with deep
-government ties.. Nick Shapiro [was] the CIA’s former deputy chief of
-staff and senior advisor to former director John Brennan... Shapiro is
-not without controversy. He was one of a group of 51 former senior
-intelligence officials who signed the widely cited and subsequently
-criticized 2020 open letter stating that the Hunter Biden laptop 'has
-all the classic earmarks of a Russian information operation'"
-
----
-
-News 12: "Hoboken passes new ordinance concerning lithium-ion battery
-storage..  These new rules directly target owners of e-bikes and
-scooters... but the batteries can also be a major fire
-hazard...[Official] explained this new ordinance pertains to the
-storage of batteries within a property housing three or more
-units. Starting March 11, it will be illegal to charge a lithium-ion
-battery in a common area. This includes no basements, lobbies or
-hallways... In New York City, the FDNY says lithium-ion batteries
-caused 277 fires in 2024"
+You hit a certain point, and you stop playing along. You start to see
+through the 'creator economy' that turns creative people into gig
+workers, underpaid and overexposed. You see through the 'community'
+pitches that are just data-harvesting schemes. You see through the
+hype cycles of unbundling and rebundling, decentralizing and
+centralizing that - somehow - always end with a handful of dudes in
+Silicon Valley holding all the keys."
 
 ---
 
-Politico: "Andrew Cuomo launches comeback bid for New York City mayor"
+Firstpost: "SpaceX's Starship blows up in space near Bahamas, debris
+disrupts Florida airport"
 
 ---
 
-"Hybrit’s pilot project for hydrogen gas storage has now been
-completed and reported to the Swedish Energy Agency. The results show
-that it is technically possible to store fossil-free hydrogen gas for
-producing fossil-free iron and steel on an industrial scale. This can
-also reduce the variable operating costs of hydrogen production by up
-to 40 per cent"
+"SpaceX Starship explodes mid-air again"
 
 ---
 
-Kick Buttowski. An actual cartoon character.
+Yahoo News: "A new $175,000 caravan has been completely destroyed in a
+devastating blaze in the country's south after lithium-ion batteries
+inside caught fire, rapidly engulfing the motorhome in
+flames... Lithium-ion batteries have been linked to over 10,000 fires
+per year across Australia"
 
 ---
 
-The Hill: "71 percent of Trump voters oppose Medicaid cuts: Poll"
+Electrive: "Ballard announces major fuel cell module order from Egypt"
 
 ---
 
-I never said there are no deep state structures in other countries. I
-said *US* doesn't have one.
+Firstpost: "US proposes 60-day ceasefire in Gaza, Israel PM Netanyahu
+not happy with Washington-Hamas talks"
 
 ---
 
-I feel sorry for people whose homeworks were truly eaten by a dog.
-You can tell what happened but now noone would believe you.
-
----
-
-😂 This deep state business is the new "the dog ate my homework".
-
-The Independent: "[T]he [Epstein] files failed to yield major new
-findings and featured some information that was already public.
-[Loomer] wrote '1 week ago, @PamBondi said “the Epstein files are on
-my desk'. Now she’s claiming the 'deep state' set her up.
-
----
-
-I do not have knee-jerk reaction to all coins. I heard good things
-about Cardano.
-
-A fast, minimal energy crypto with redistribution features built-in
-can be a useful future currency.
-
----
-
-If US backs these coins, their liquidity will increase, helping them
-become international currencies on par with USD. The difference is
-said coins are not strictly controlled by US, so their promotion will
-help foreign countries to transact, bypassing US. Russia will benefit.
-The announcement is made after a public spat involving
-Russia. Coincidence?
-
----
-
-Crypto News: "XRP, ADA Skyrocket as Trump Says Strategic Reserve to
-Include Bitcoin, Ether, Solana, XRP and Cardano"
+Firstpost: "After pausing aid and intel, Trump plans to revoke legal
+status of 240,000 Ukrainians who fled Russian war.. The unprecedented
+move will put Ukrainians at risk of fast-track deportation
 
 ---
 
@@ -187,6 +125,7 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
 
 
 
