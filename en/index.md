@@ -1,83 +1,74 @@
 
-WaPo: "Trump slammed Ukrainian President Volodymyr Zelensky on Monday
-for suggesting that the end of Russia’s war against Ukraine likely “is
-still very, very far away.” The comments come as prominent Trump
-allies escalate pressure on Zelensky to dramatically change his
-approach to the US president, who has made quickly ending the war a
-top priority, or step aside"
+Another downside is these "AI" tools require online connection to a
+service, which may not always be available. Reduce unnecessary
+connections, interactions. Be ready, code for intermittent
+connectivity. This is how you survive.
 
 ---
 
-Great.. I hope he picks fights with the Woke group inside the
-Democratic party on the issue. F-ing retards.
+\#CoPilot
 
-Politico: "Newsom, a pioneer for LGBTQ+ rights...suggested Democrats
-were in the wrong in allowing transgender athletes to participate in
-female college and youth sports"
+[[-]](https://www.youtube.com/embed/1Se2zTlXDwY?start=0&end=120)
 
 ---
 
-*Paradise*, another post-apocalypse underground living show. How many
-are there so far? *Silo*, *Fallout*... They are multiplying. US
-imagination, artistic works is preparing itself for apocalypse?
+Turchin is the creator of [this formulation](./2024/05/age-of-discord-math.html)
+on political unrest.
+
+Unchecked oligarchy causes inequlity, immiseration. But the errant
+process contains seed of its own destruction. Elite overproduction
+will cause internal conflicts within the elite.  At some point a good
+number of elites eliminate themselves, and the cycle goes to a more
+manageable state.
 
 ---
 
-I use a DIY recommender. Music streaming is through simple PLS urls,
-either via `mpv` on the command line or couple lines of DIY
-Javascript. My blog posts are markdown text files that are local,
-edited, version controlled locally only uploaded as simple files for
-publishing.
+\#Turchin
+
+[[-]](https://www.youtube.com/embed/eYxPXDPnyYg?start=118&end=418)
 
 ---
 
-Westenberg: "My current project: I've been dusting off the old hard
-drives with my ripped CD collection and loading them into an iPod. A
-20-year-old piece of tech with its click wheel intact, no WiFi, and no
-algorithm feeding me recommendations I didn't ask for. The result:
-I've started listening to music - actually listening to it - in a way
-I haven't in years. Giving it my attention. Not taking it for granted,
-not treating it like day old shrimp at a discount buffet...
+```python
+u.get_yahoo_tickers(2025,['TSLA']).plot()
+```
 
-You hit a certain point, and you stop playing along. You start to see
-through the 'creator economy' that turns creative people into gig
-workers, underpaid and overexposed. You see through the 'community'
-pitches that are just data-harvesting schemes. You see through the
-hype cycles of unbundling and rebundling, decentralizing and
-centralizing that - somehow - always end with a handful of dudes in
-Silicon Valley holding all the keys."
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/126/889/407/079/883/original/e4f227c6e799c121.jpg'/>
 
 ---
 
-Firstpost: "SpaceX's Starship blows up in space near Bahamas, debris
-disrupts Florida airport"
+Middle East Eye: "Armed Israeli settlers attacked Palestinians in the
+Masafer Yatta area, south of Hebron in the occupied West Bank,
+injuring several people, Wafa news agency is reporting"
 
 ---
 
-"SpaceX Starship explodes mid-air again"
+LA Times: "Syrians recount terror as renewed sectarian violence leaves
+hundreds dead..The battles represent the deadliest attack on the new
+government’s forces since Assad’s ouster in December, and a
+blood-soaked reminder of the sectarian tensions that are the legacy of
+the country’s 14-year civil war"
 
 ---
 
-Yahoo News: "A new $175,000 caravan has been completely destroyed in a
-devastating blaze in the country's south after lithium-ion batteries
-inside caught fire, rapidly engulfing the motorhome in
-flames... Lithium-ion batteries have been linked to over 10,000 fires
-per year across Australia"
+See there are "overlaps" between HTS front and Israel. That is because
+Israel is encroaching on HTS, despite mini-pogroms done Alewites and
+tough talk on the Kurds so far no action towards the southwestern
+neighbor.
 
 ---
 
-Electrive: "Ballard announces major fuel cell module order from Egypt"
+Color coded frontlines in \#Syria belonging to various groups. If
+there are changes in the future, old front will be dashed, new ones
+will be solid lines. 
+
+[[-]](mbl/2025/syrdata/map01.html)
 
 ---
 
-Firstpost: "US proposes 60-day ceasefire in Gaza, Israel PM Netanyahu
-not happy with Washington-Hamas talks"
+\#Frontline \#UA \#RU 03/04 - 03/10
 
----
-
-Firstpost: "After pausing aid and intel, Trump plans to revoke legal
-status of 240,000 Ukrainians who fled Russian war.. The unprecedented
-move will put Ukrainians at risk of fast-track deportation
+[[-]](mbl/2025/ukrdata/map11.html)
 
 ---
 
@@ -125,8 +116,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
-
-

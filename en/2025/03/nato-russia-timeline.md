@@ -178,7 +178,7 @@
     * 11/23: For the second time this year, Russia amasses an
       estimated 100,000 troops around Ukraine.
 
-* 2022
+ * 2022
 
     * 02/24: Russia invades Ukraine in a major escalation of the
       Russo-Ukrainian War.
@@ -192,6 +192,7 @@
       urging Ukrainian President Volodymyr Zelensky to break off talks
       with Russia, saying "the West isn’t ready for the war to end".
 
-
-
+    * 09/26: A series of underwater explosions and consequent gas
+      leaks occurred on 3 of 4 Nord Stream pipes, rendering them
+      inoperable.
 
