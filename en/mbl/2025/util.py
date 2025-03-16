@@ -15,6 +15,14 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def trump_approval():
+    # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
+    # LV = Likely Voters, RV = Registered Voters
+    df = pd.read_csv('djt_approval.csv',index_col='Date')
+    df['net'] = df.Approve - df.Disprove
+    df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    plt.savefig('/tmp/approval.jpg')
+
 def elev_at(lat,lon):
     data = '[[%f,%f]]' % (lat,lon)
     response = requests.post('https://elevation.racemap.com/api',
@@ -190,20 +198,6 @@ def map_coords(coords, zoom, outfile):
     for key,val in coords.items():
         folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
-
-
-def trump_approval():
-    import matplotlib.dates as mdates
-    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/approval_averages.csv')
-    df2 = df[['pct_estimate','answer','date']]
-    df2 = df2[df['politician/institution'] == 'Donald Trump']
-    df2 = df2.pivot_table(columns='answer',index='date')
-    df2['net'] = df2['pct_estimate']['Approve'] - df2['pct_estimate']['Disapprove']
-    print (df2['net'])
-    df2['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
-    plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=10))
-    plt.savefig('/tmp/approval.jpg')
-
     
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()
@@ -356,7 +350,6 @@ def baci_all_products(frc, toc):
     #return amt
     
 if __name__ == "__main__": 
-
-   #baci_process_total_exports()
-   prep_syria()
-   pass
+    
+    if sys.argv[1] == "approv":
+        trump_approval()

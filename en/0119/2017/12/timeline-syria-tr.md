@@ -1,5 +1,22 @@
 # Timeline of Syria, TR Events
 
+* 1974
+    * 09/09: Turkey put the first of [large scale project GAP] dams on
+      the Euphrates into use, gaining new control over the water
+      supply to Kurdish, Syrian, and Iraqi neighbors downriver.
+* 1978
+    * 27/11: The Kurdistan Workers Party (PKK) is established during a
+      foundation congress in the rural village of Fîs, Lice,
+      Diyarbakır, with Abdullah Öcalan as its head.
+* 1998
+    * 20/10: Agreement signed between Syria and Turkey where Syrian
+      government agrees cease all support for PKK an org they supported
+      since 1980s, ending the crisis whereby TR threatened to invade
+      Syria over the issue.
+* 1999
+    * 10/02: PKK leader Öcalan is forced to leave Syria, and is abducted
+      by the TR in Nairobi, Kenya. It is widely known US CIA gave his
+      location to its NATO partner.
 * 2008
     * 14/03: A court case to close the governing party AK starts, the
       Constitutional Court is one vote short to ban the party. It is
@@ -10,7 +27,7 @@
      * 16/09: The Syrian President Bashar al-Assad visited Turkey as
        the special guest of PM, during which the two countries signed
        landmark agreements     
-     * 17/12: Obama announces troop surge in Afghanistan
+     * 17/12: Obama announces troop surge in Afghanistan     
 * 2010
      * 05/08: Once in a century draught in Russia devastated wheat
        crops forcing Russia announce a ban on wheat export. 80% of
@@ -161,5 +178,8 @@
 * 2020
     * 27/02: Russia kills 33 TR soldiers by air strikes in Idlib
 
+* 2025
 
+    * 03/01: The Kurdistan Workers' Party (PKK) declared a unilateral
+      ceasefire in its forty-year insurgency against Anatolia.
 

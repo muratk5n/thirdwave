@@ -30,7 +30,7 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
 
-<pre><code class="python">u.get_yahoo_tickers(2020, [&quot;DX-Y.NYB&quot;]).plot(title='Dollar')
+<pre><code class="python">u.get_fred(2007,[&quot;M2V&quot;]).plot(title=&quot;US Money Velocity&quot;)
 plt.savefig('/tmp/out.jpg')
 </code></pre>
         </section>          

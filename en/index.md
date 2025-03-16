@@ -1,74 +1,67 @@
 
-Another downside is these "AI" tools require online connection to a
-service, which may not always be available. Reduce unnecessary
-connections, interactions. Be ready, code for intermittent
-connectivity. This is how you survive.
+CNBC: "Chinese battery giant CATL posts annual revenue drop ahead of
+Hong Kong listing"
 
 ---
 
-\#CoPilot
+JCB: "Leading contractor BAM Construction.. has been trialling the
+first JCB 540-180H Loadall on the Tea Factory regeneration project in
+Digbeth, Birmingham. Powered by a hydrogen combustion engine developed
+by JCB at its plant in Derbyshire, the machine offers a zero-carbon
+emission driveline, that offers the same power and torque
+characteristics as the conventional diesel-powered model.
 
-[[-]](https://www.youtube.com/embed/1Se2zTlXDwY?start=0&end=120)
+'We’ve noticed no difference in the way the machine operates. We have
+to refuel the machine in a different way, but it’s a simple and
+straightforward process.'
 
----
-
-Turchin is the creator of [this formulation](./2024/05/age-of-discord-math.html)
-on political unrest.
-
-Unchecked oligarchy causes inequlity, immiseration. But the errant
-process contains seed of its own destruction. Elite overproduction
-will cause internal conflicts within the elite.  At some point a good
-number of elites eliminate themselves, and the cycle goes to a more
-manageable state.
-
----
-
-\#Turchin
-
-[[-]](https://www.youtube.com/embed/eYxPXDPnyYg?start=118&end=418)
+JCB has been delivering hydrogen to the site in a refuelling trailer,
+that simply connects to the Loadall and refuels at the touch of a
+button"
 
 ---
 
-```python
-u.get_yahoo_tickers(2025,['TSLA']).plot()
-```
-
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/126/889/407/079/883/original/e4f227c6e799c121.jpg'/>
-
----
-
-Middle East Eye: "Armed Israeli settlers attacked Palestinians in the
-Masafer Yatta area, south of Hebron in the occupied West Bank,
-injuring several people, Wafa news agency is reporting"
+Letting stray dogs roam about likely was a toxic mix of pre-modern
+feudal customs seeping into modern daily life. Dogs were first
+attracted into agrarian human habitats (the oldest ones being in and
+around Anatolia) bcz of its trash, some stayed around and made
+themselves useful, became domesticated. They were useful to have
+around the farm. But out on the street, amidst the hubbub of modern
+life they are out of place. Almost all modern cities ban stray dogs,
+"Turkey" was the rare holdout.
 
 ---
 
-LA Times: "Syrians recount terror as renewed sectarian violence leaves
-hundreds dead..The battles represent the deadliest attack on the new
-government’s forces since Assad’s ouster in December, and a
-blood-soaked reminder of the sectarian tensions that are the legacy of
-the country’s 14-year civil war"
+TR culls stray dogs after toddler dies in attack? There was a major
+stray animal problem, for sure. TR libs were extremely protective of
+"stray dogs rights", but you can't argue w/ the mother of a dead
+child.
 
 ---
 
-See there are "overlaps" between HTS front and Israel. That is because
-Israel is encroaching on HTS, despite mini-pogroms done Alewites and
-tough talk on the Kurds so far no action towards the southwestern
-neighbor.
+Politico: "Senate passes spending bill to avoid a government
+shutdown..While Republicans control the Senate, they do not hold the
+60 seats necessary to break a filibuster. Ultimately, 10 Democrats
+voted with Republicans to advance the bill to avoid a shutdown...
+
+The vote highlights deep divisions within the Democratic party over
+how to respond to President Trump in his second term. The decision by
+Senate Minority Leader Chuck Schumer, D-N.Y., to support the funding
+bill sparked an intense backlash from House Democrats, who almost
+unanimously opposed it"
 
 ---
 
-Color coded frontlines in \#Syria belonging to various groups. If
-there are changes in the future, old front will be dashed, new ones
-will be solid lines. 
+BB formulation says one thing, reality is another. *Is there something
+wrong with the formulation*?
 
-[[-]](mbl/2025/syrdata/map01.html)
+Paper: "We report a new study of this line of sight [into the Small
+Magellanic Cloud] by means of high-resolution spectra obtained with
+the ESPRESSO spectrograph..  the low metallicity of the cloud leads to
+an absolute Li abundance of A(7Li) ≈ 2.2, which differs from the
+expectation from big bang nucleosynthesis"
 
----
-
-\#Frontline \#UA \#RU 03/04 - 03/10
-
-[[-]](mbl/2025/ukrdata/map11.html)
+[[-]](https://www.aanda.org/articles/aa/full_html/2024/10/aa49529-24/aa49529-24.html)
 
 ---
 
@@ -116,3 +109,8 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
+
+
