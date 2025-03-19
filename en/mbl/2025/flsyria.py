@@ -92,6 +92,7 @@ def do_syria():
           get_coords_for_regex2("Armed Groups-Homs") + \
           get_coords_for_regex2("Armed Groups-E.Homs") + \
           get_coords_for_regex2("Armed Groups-E Homs") + \
+          get_coords_for_regex2("Armed Groups-W. Homs") + \
           get_coords_for_regex2("Armed Groups-S.Rif Damascus") + \
           get_coords_for_regex2("Armed Groups-W Rif Damascus") + \
           get_coords_for_regex2("Armed Groups-S. Rif Damascus") + \
@@ -137,6 +138,7 @@ def do_syria():
 
     sdf = get_coords_for_regex2("SDF-Aleppo") + \
           get_coords_for_regex2("SDF-Raqqa") + \
+          get_coords_for_regex2("SDF-Ain Issa") + \
           get_coords_for_regex2("E. Aleppo-SDF") + \
           get_coords_for_regex2("SDF-E. Hasakah") + \
           get_coords_for_regex2("SDF-Qamishli") + \

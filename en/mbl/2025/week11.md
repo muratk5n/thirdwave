@@ -1,5 +1,70 @@
 # Week 11
 
+CNBC: "Chinese battery giant CATL posts annual revenue drop ahead of
+Hong Kong listing"
+
+---
+
+JCB: "Leading contractor BAM Construction.. has been trialling the
+first JCB 540-180H Loadall on the Tea Factory regeneration project in
+Digbeth, Birmingham. Powered by a hydrogen combustion engine developed
+by JCB at its plant in Derbyshire, the machine offers a zero-carbon
+emission driveline, that offers the same power and torque
+characteristics as the conventional diesel-powered model.
+
+'We’ve noticed no difference in the way the machine operates. We have
+to refuel the machine in a different way, but it’s a simple and
+straightforward process.'
+
+JCB has been delivering hydrogen to the site in a refuelling trailer,
+that simply connects to the Loadall and refuels at the touch of a
+button"
+
+---
+
+Letting stray dogs roam about likely was a toxic mix of pre-modern
+feudal customs seeping into modern daily life. Dogs were first
+attracted into agrarian human habitats (the oldest ones being in and
+around Anatolia) bcz of its trash, some stayed around and made
+themselves useful, became domesticated. They were useful to have
+around the farm. But out on the street, amidst the hubbub of modern
+life they are out of place. Almost all modern cities ban stray dogs,
+"Turkey" was the rare holdout.
+
+---
+
+TR culls stray dogs after toddler dies in attack? There was a major
+stray animal problem, for sure. TR libs were extremely protective of
+"stray dogs rights", but you can't argue w/ the mother of a dead
+child.
+
+---
+
+Politico: "Senate passes spending bill to avoid a government
+shutdown..While Republicans control the Senate, they do not hold the
+60 seats necessary to break a filibuster. Ultimately, 10 Democrats
+voted with Republicans to advance the bill to avoid a shutdown...
+
+The vote highlights deep divisions within the Democratic party over
+how to respond to President Trump in his second term. The decision by
+Senate Minority Leader Chuck Schumer, D-N.Y., to support the funding
+bill sparked an intense backlash from House Democrats, who almost
+unanimously opposed it"
+
+---
+
+BB formulation says one thing, reality is another. *Is there something
+wrong with the formulation*?
+
+Paper: "We report a new study of this line of sight [into the Small
+Magellanic Cloud] by means of high-resolution spectra obtained with
+the ESPRESSO spectrograph..  the low metallicity of the cloud leads to
+an absolute Li abundance of A(7Li) ≈ 2.2, which differs from the
+expectation from big bang nucleosynthesis"
+
+[[-]](https://www.aanda.org/articles/aa/full_html/2024/10/aa49529-24/aa49529-24.html)
+
+---
 
 Brooke Harrington: "Somebody very aptly described these libertarians
 as like indoor cats who don't understand what outdoors is, they think
