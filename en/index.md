@@ -1,7 +1,7 @@
 
 Zee Ping Ping could not have been fine with any of that.. Li Ka-shing
-is from Hong Kong, clearly CH could not cajole him. US must have had
-too much leverage.
+is from Hong Kong, but clearly CH could not cajole him. US must have
+had too much leverage.
 
 ---
 
