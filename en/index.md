@@ -1,11 +1,28 @@
 
-\#Frontline \#Ukraine 03/16 - 03/24
-
-[[-]](mbl/2025/ukrdata/map13.html)
+Zee Ping Ping could not have been fine with any of that.. Li Ka-shing
+is from Hong Kong, clearly CH could not cajole him. US must have had
+too much leverage.
 
 ---
 
-To gauge the significance of the changes, can refer to Suriyak Maps
+There was surely lots of US arm twisting for that sale.
+
+---
+
+Think China: "Li Ka-shing, Hong Kong's wealthiest man, has again found
+himself embroiled in a political maelstrom after announcing that his
+company, CK Hutchison, will sell 43 ports - including two along the
+Panama Canal - to US investment company BlackRock. Chinese public
+opinion thinks that Li's decision to sell sensitive port assets to a
+US firm is not a simple business transaction, and is concerned that
+BlackRock could potentially use this deal to support US government
+efforts to suppress China's trade"
+
+---
+
+\#Frontline \#Ukraine 03/16 - 03/24
+
+[[-]](mbl/2025/ukrdata/map13.html)
 
 ---
 
