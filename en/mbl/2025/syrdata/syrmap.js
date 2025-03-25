@@ -3,7 +3,8 @@ function init() {
     map = L.map('map').setView([35,38], 6);
     
     L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png', {
-	maxZoom: 19, attribution: 'OSM'
+	maxZoom: 19,
+	attribution: '<a href="https://www.google.com/maps/d/u/0/viewer?mid=1liqnO9iSvshTLwgPB3q9sJTgfUI">Suriyak Maps</a>'
     }).addTo(map);
 
 }    

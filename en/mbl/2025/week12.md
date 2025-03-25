@@ -1,5 +1,265 @@
 # Week 12
 
+"Cutting-edge hydrogen-diesel engine retrofits could deliver 20% fuel
+reduction in shipping.. Lomar Shipping.. is set to begin real-world
+testing of a promising new hydrogen-diesel engine retrofit technology
+in summer 2025"
+
+---
+
+Renew Economy: "Plans to install up to 6 gigawatts of onshore wind and
+solar and produce 2 million tonnes of green ammonia a year near
+Kalbarri in Western Australia has been named as a winner of the
+federal government’s hydrogen head start program"
+
+---
+
+*Careless People*: "The Italian prime minister tells us that he and
+his counterparts in Europe are struggling with unemployment and
+slowing economic growth, and the tech companies are seen as leeches,
+sucking money out of their countries and not creating jobs, making
+investments, or paying tax...
+
+Facebook deploy[ed] something called a 'double Irish' to avoid paying
+taxes. It’s something Google and Apple do as well. The way the double
+Irish works is that when one of these companies makes a dollar selling
+ads (or iPhones in Apple’s case) in Italy or Germany or elsewhere in
+the European Union, that revenue can be shifted to Ireland for tax
+purposes, and then on to a tax-haven country like Bermuda that charges
+no taxes at all. To do this, the companies have to set up subsidiaries
+in Ireland and transfer their foreign IP rights to those
+subsidiaries. What Ireland gets out of the deal is big Google and
+Apple and Facebook operations located on their soil, with thousands of
+local employees earning good wages. Those employees pay taxes to
+Ireland, even if the tech companies don’t. After years of controversy
+and opposition, the EU had just forced Ireland to shut down the
+boondoggle"
+
+---
+
+*Nobody Wants This* w/ Adam Brody was not bad.. It's not the Zio
+propaganda it might appear it was. It takes some hard look into the
+the shut-in minority lifestyle, showing IMO why assimilation is
+inevitable, which already naturally happens, and minorities, even the
+most "ancient" ones should not fight it / come to terms with it.
+
+---
+
+That joke absolutely killed... I've heard Puerto Rico jokes lamer than
+that one.
+
+---
+
+Han Solo could have called him "Jewy".
+
+---
+
+Harrison Ford is Jewish? Maybe Chewbaca was Jewish too
+
+---
+
+None of the below
+
+"@stfn@fosstodon.org
+
+What is your favourite type of pole?
+
+- Pole (North)
+- Pole (Fishing)
+- Pole (Polish)
+- Pole (Dancing)"
+
+---
+
+Autoevolution: "American military started testing something unheard of
+in military operations: extracting hydrogen from water in austere and
+isolated environments, and using the stuff as fuel to power drones,
+tactical vehicles, electrical generators, and balloons that can be
+used to track weather changes and ensure communications"
+
+---
+
+"[A] study unveils a pioneering approach to harnessing sunlight for
+efficient and stable hydrogen production using cost-effective organic
+materials.. the team introduced a multi-layer device architecture that
+integrates an organic photoactive layer with a protective graphite
+sheet functionalised with a nickel-iron catalyst. This innovative
+design achieved an unprecedented combination of high efficiency and
+durability, setting a new benchmark for the field"
+
+---
+
+Yes for real change thought leaders need to change consensus.
+
+---
+
+Not a big deal the next admin can bring it all back. That is the price
+you pay for being "contrarian" on things that are outside of
+consensus.
+
+---
+
+Lower and lower..
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/192/688/101/114/358/original/6b6256a1d0838479.jpg'/>
+
+---
+
+Bad move... Will the states pick up the slack?
+
+Reuters: "Trump to sign order to shut down Department of Education"
+
+---
+
+Why aren't they making it easier to start businesses, so there are
+more businesses, they get richer and richer, eventually it trickles
+down to regular people?
+
+Because that shit doesn't work.
+
+---
+
+CNBC: "China is tackling weak consumption with child care subsidies"
+
+---
+
+Watched *CA Brave New World*. There was a good movie somewhere in
+there struggling to get out.. The action was above average, the script
+could definitely be better. Some stuff did not jel internally, or the
+stakes failed short. CA-Falcon rel was fine, same for potus character,
+but why tie the story so closely to the failed 2008 Hulk movie? The
+problem was likely working backward from the "Red" Hulk, he had to be
+a president, had to be Hulk, they lost flexibility and depth there,
+tried to recover by canonizing an earlier movie hoping to get some
+mojo but things went sideways from there. Sterns was a bad choice as
+the level boss.
+
+---
+
+It was critical that the MIC, or the MILC to use Israel as its window
+dressing / moneymaker... ISR is in a region awash with oil money,
+chaos can be generated through/for it, which mean increased sales. By
+hiding behind Israel the MIC can justify almost any spending, both to
+them and to other countries around them.
+
+If ISR gets any pushback the comeback is easy, reference the ultimate
+victimhood, past experience of Jewry with genocide. This is where the
+"right to defend itself" mantra comes from, it is supposed to evoke
+images of Jews in gas chambers, remind us the ultimate wronged people,
+so we need to make sure it does not happen again, we sell them
+arms. Then the region goes to shit, sell neighbors around them
+arms. Rinse, repeat.
+
+---
+
+NYT: "In Call With Trump, Putin Concedes Little on Ukraine"
+
+---
+
+*Careless People*: "Just a few weeks after [Joel Kaplan] takes over
+[the Facebook global public policy, 2011] job, Joel starts hiring a
+political sales team to push politicians—here and abroad—into becoming
+advertisers. The idea is, if politicians depend on Facebook to win
+elections, they’ll be less likely to do anything that’ll harm
+Facebook. If Facebook is the goose that lays the golden egg, no one
+wants to kill the goose. Get them hooked on those golden eggs.
+
+Political advertising is a way to change that. And elections are the
+biggest opportunity. Fresh-faced Harvard grads start moving into the
+Washington, DC, office to sell ads to politicians and political
+campaigns.
+
+I find this all repugnant. I feel alienated from this new regime from
+the outset. As a foreigner, I have a very different perspective on
+money in elections. New Zealand, like so many other countries, has
+strict limits on electoral spending: under 27,500 New Zealand dollars
+per candidate. I’m astounded at the role money plays in elections in
+the US. It determines so much about whose voice gets heard on every
+issue... I’m also against exporting this value system. But Facebook is
+effectively bringing this in globally by stealth"
+
+---
+
+"@juanan@infosec.exchange
+
+Researchers at Harvard Business School and University of Toronto
+[conducted research] to quantify the value of open source.
+
+Takeways:
+
+* [Cost to recreate] is ~$4.15B, but demand-side (value to firms) is
+  8.8T dollars [yes that's a *trillion*]. Shows massive cost savings &
+  productivity boost from OSS.
+
+* If OSS didn't exist, firms would need to spend an estimated 3.5
+  times more on software than they currently do. OSS provides a
+  massive, often invisible, productivity boost...
+
+* Firms should not just "free ride" on OSS but actively contribute to
+  the ecosystem, as this is far cheaper than recreating the software
+  themselves"
+
+[[-]](https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf)
+
+---
+
+I'd love to see US excommunicated from everything, coupled with a
+reverse brain drain and total ban against their products,
+esp. military. They are supporting terrorism (Zionist expansionism)
+and their support for free speech is in duldrums, see the Mahmoud
+Khalil case.
+
+---
+
+"@bert_hubert@fosstodon.org
+
+Massive result in Dutch parliament just now. They passed 10 separate
+motions to enhance digital resilience, run more of our own servers &
+reduce dependency on US cloud technology"
+
+[[-]](https://www.reuters.com/world/europe/dutch-parliament-calls-end-reliance-us-software-2025-03-18/)
+
+---
+
+Nature: "Microsoft quantum computing claim still lacks evidence:
+physicists are dubious"
+
+---
+
+Reddit:  "It costs around $10m to electrify a mile of railroad track,
+and that's why the diesel rules the (mostly private) railroads in the
+US."
+
+---
+
+"@keithdpatch@mastodon.mit.edu
+
+CPKC hydrogen fuel cell locomotive & gaseous hydrogen #GH2 tender
+enter mainline service, carrying Glencore Elk Valley metallurgical
+coal. N America needs hydrogen fuelcell trains, as only 1% of track is
+electrified. Electrification costs USD$1-8MM/mi"
+
+---
+
+F24: "Germany set for massive rearmament"
+
+---
+
+Wynn-Williams, *Careless People*: "Facebook had planned to launch a
+Facebook for children codenamed 'Project Family,' and Sheryl
+[Sandberg] would occasionally remind the policy team of their 'failure
+to do this while we had the opportunity,' blaming the policy team for
+missing the chance to get kids on Facebook but she, like most of the
+leaders at Facebook with younger children, severely limits her kids’
+access to screens, let alone social media accounts. And she never
+shares images of her children on social media. Silicon Valley is awash
+in wooden Montessori toys and shrouded in total screen bans. Parents
+at work talk about how they don’t allow their teens to have mobile
+phones, which only underscores how well these executives understand
+the real damage their product inflicts on young minds.
+
+---
+
 SCMP: "French deputy to US: ‘give us back the Statue of
 Liberty’.. France should take back the Statue of Liberty because the
 US no longer represents the values that led France to offer the

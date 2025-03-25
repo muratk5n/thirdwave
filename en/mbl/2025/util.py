@@ -8,6 +8,7 @@ from shapely.ops import unary_union
 from pandas_datareader import data
 from functools import lru_cache
 from datetime import timedelta
+import matplotlib.dates as mdates
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
@@ -19,6 +20,7 @@ def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
     # LV = Likely Voters, RV = Registered Voters
     df = pd.read_csv('djt_approval.csv',index_col='Date')
+    df.index = pd.to_datetime(df.index,format='%d-%m-%Y')
     df['net'] = df.Approve - df.Disprove
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')

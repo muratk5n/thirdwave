@@ -1,4 +1,11 @@
 Poll,Start,End,Sample,Type;Approve,Disprove
+Rasmussen Reports;3/17 - 3/23	1500 LV	52	46	
+Economist/YouGov;3/16 - 3/18	1458 RV	47	50	
+FOX News;3/14 - 3/17	994 RV	49	51	
+RMG Research*;3/12 - 3/19	3000 RV	53	45	
+Reuters/Ipsos;3/11 - 3/12	1422 A	44	52	
+Economist/YouGov;3/9 - 3/11	1532 RV	48	49	
+Atlas Intel;3/7 - 3/12	2550 A	47	52
 NBC News;3/7;3/11;1000;RV;47;51	
 Reuters/Ipsos;3/11;3/12;1422;A;44;52	
 Rasmussen Reports;3/9;3/13;1500;LV;52;47	
