@@ -9,12 +9,56 @@ from pandas_datareader import data
 from functools import lru_cache
 from datetime import timedelta
 import matplotlib.dates as mdates
+from pygeodesy.sphericalNvector import LatLon
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
+
+def plot_mh370(bearings_list,outfile="/tmp/out4.html"):
+
+    df = pd.read_csv('mh370b.csv')
+    R = 6378
+    vavg = 881.552
+    d1 = (pd.to_datetime("2014-03-07 18:25:27.421") - \
+          pd.to_datetime("2014-03-07 18:22:12.000")).total_seconds()/3600    
+    b1,bearings = bearings_list[0],bearings_list[1:]
+    m = folium.Map(location=[-25, 96], zoom_start=3) 
+    lat,lon = 6.65,96.34
+    folium.CircleMarker([lat,lon],
+                        color='red',
+                        fill=True,fillColor='red',
+                        popup=folium.Popup("Last Military Radar Contact 18:22:12 ", show=True),
+                        radius=4.0).add_to(m)                    
+    p1 = LatLon(lat,lon)
+    curr = p1.destination (d1 * vavg, bearing=b1, radius=R)    
+    for i,row in df.iterrows():
+        folium.Circle(
+            location=[row['Lat'],row['Lon']],
+            radius=row['BTOr']*1000,
+            color="red",
+            weight=1,
+            fill_opacity=0.6,
+            opacity=1,
+            popup="Arc {}".format(i+1)
+        ).add_to(m)
+        ds = pd.to_datetime(row['Date'])
+        ds = ds.strftime('%m/%d %H:%M')
+        folium.CircleMarker([curr.lat,curr.lon],
+                            color='red',
+                            fill=True,fillColor='red',
+                            popup=folium.Popup("Arc" + str(i+1) + " " + ds, show=False),
+                            radius=4.0).add_to(m)                
+        if i==len(df)-1: break
+        p1 = LatLon(row['Lat'],row['Lon'])
+        deltacurr = p1.distanceTo(curr) / 1000
+        travel = row['Duration']*vavg
+        curr = curr.destination (travel, bearing=bearings[i], radius=R)
+
+    m.save(outfile)
+    print (curr.lat,curr.lon)
 
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
