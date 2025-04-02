@@ -17,7 +17,45 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
-def plot_mh370(bearings_list,outfile="/tmp/out4.html"):
+def flip_c(arg):
+    return [[x[1],x[0]] for x in arg]
+
+def eq_at(lat,lon,radius,ago,today=datetime.datetime.now()):
+
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    today = datetime.datetime.now()
+    start = today - datetime.timedelta(days=ago)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=5.0&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        sd = d.strftime("%Y-%m-%d %H:%M:%S")
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        diff = (today-d).days+1
+        res.append([sd,s,lat,lon,diff])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon','ago']
+    df = df.set_index('date')
+    res = dict((k + " magnitude:" + str(v['mag']),
+                [v['lat'],v['lon']]) for k,v in df.iterrows())    
+    return res
+
+def plot_mh370(bearings_list,outfile):
 
     df = pd.read_csv('mh370b.csv')
     R = 6378
@@ -54,7 +92,7 @@ def plot_mh370(bearings_list,outfile="/tmp/out4.html"):
         if i==len(df)-1: break
         p1 = LatLon(row['Lat'],row['Lon'])
         deltacurr = p1.distanceTo(curr) / 1000
-        travel = row['Duration']*vavg
+        travel = row['Elapsed']*vavg
         curr = curr.destination (travel, bearing=bearings[i], radius=R)
 
     m.save(outfile)
@@ -234,15 +272,17 @@ def to_bearing(lat,lon,brng,d):
     lon2 = math.degrees(lon2)
     return lat2,lon2
 
-def map_coords(coords, zoom, outfile):
+def map_coords(coords, polygons={}, zoom=5, outfile="/tmp/out.html"):
     m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
             name='subdomains2',
             attr='attribution',
             subdomains='mytilesubdomain'
-    ).add_to(m)
+    ).add_to(m)    
     for key,val in coords.items():
         folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
+    for key,val in polygons.items():
+        folium.PolyLine(val, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
     
 def boxofficemojo(q):
@@ -399,3 +439,5 @@ if __name__ == "__main__":
     
     if sys.argv[1] == "approv":
         trump_approval()
+    if sys.argv[1] == "usnavy":
+        map_usnavy("/tmp/navy.html")

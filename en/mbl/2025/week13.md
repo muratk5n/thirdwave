@@ -1,5 +1,28 @@
 # Week 13
 
+Wiki: "The Guatemalan Revolution began in 1944, after a popular
+uprising toppled the military dictatorship of Jorge Ubico. Juan José
+Arévalo was elected president in Guatemala's first democratic
+election. He introduced a minimum wage and near-universal
+suffrage. Arévalo was succeeded in 1951 by Árbenz, who instituted land
+reforms which granted property to landless peasants...
+
+The U.S. government feared that Guatemala's example could inspire
+nationalists wanting social reform throughout Latin America. The
+United Fruit Company (UFC), whose highly profitable business had been
+affected by the softening of exploitative labor practices in
+Guatemala, engaged in an influential lobbying campaign to persuade the
+U.S. to overthrow the Guatemalan government. U.S. President Harry
+Truman authorized Operation PBFortune to topple Árbenz in 1952"
+
+----
+
+Great.
+
+NPR: "Malaysia approves a new search for MH370 wreckage in the Indian Ocean"
+
+---
+
 "@signalapp@mastodon.world
 
 Signal is an end-to-end encrypted messaging app. Privacy isn’t an
