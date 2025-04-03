@@ -55,49 +55,6 @@ def eq_at(lat,lon,radius,ago,today=datetime.datetime.now()):
                 [v['lat'],v['lon']]) for k,v in df.iterrows())    
     return res
 
-def plot_mh370(bearings_list,outfile):
-
-    df = pd.read_csv('mh370b.csv')
-    R = 6378
-    vavg = 881.552
-    d1 = (pd.to_datetime("2014-03-07 18:25:27.421") - \
-          pd.to_datetime("2014-03-07 18:22:12.000")).total_seconds()/3600    
-    b1,bearings = bearings_list[0],bearings_list[1:]
-    m = folium.Map(location=[-25, 96], zoom_start=3) 
-    lat,lon = 6.65,96.34
-    folium.CircleMarker([lat,lon],
-                        color='red',
-                        fill=True,fillColor='red',
-                        popup=folium.Popup("Last Military Radar Contact 18:22:12 ", show=True),
-                        radius=4.0).add_to(m)                    
-    p1 = LatLon(lat,lon)
-    curr = p1.destination (d1 * vavg, bearing=b1, radius=R)    
-    for i,row in df.iterrows():
-        folium.Circle(
-            location=[row['Lat'],row['Lon']],
-            radius=row['BTOr']*1000,
-            color="red",
-            weight=1,
-            fill_opacity=0.6,
-            opacity=1,
-            popup="Arc {}".format(i+1)
-        ).add_to(m)
-        ds = pd.to_datetime(row['Date'])
-        ds = ds.strftime('%m/%d %H:%M')
-        folium.CircleMarker([curr.lat,curr.lon],
-                            color='red',
-                            fill=True,fillColor='red',
-                            popup=folium.Popup("Arc" + str(i+1) + " " + ds, show=False),
-                            radius=4.0).add_to(m)                
-        if i==len(df)-1: break
-        p1 = LatLon(row['Lat'],row['Lon'])
-        deltacurr = p1.distanceTo(curr) / 1000
-        travel = row['Elapsed']*vavg
-        curr = curr.destination (travel, bearing=bearings[i], radius=R)
-
-    m.save(outfile)
-    print (curr.lat,curr.lon)
-
 def trump_approval():
     # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
     # LV = Likely Voters, RV = Registered Voters
@@ -272,17 +229,18 @@ def to_bearing(lat,lon,brng,d):
     lon2 = math.degrees(lon2)
     return lat2,lon2
 
-def map_coords(coords, polygons={}, zoom=5, outfile="/tmp/out.html"):
+def map_coords(coords, polygons={}, zoom=5, colors={}, outfile="/tmp/out.html"):
     m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
             name='subdomains2',
             attr='attribution',
             subdomains='mytilesubdomain'
-    ).add_to(m)    
+    ).add_to(m)
     for key,val in coords.items():
         folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
     for key,val in polygons.items():
-        folium.PolyLine(val, popup=folium.Popup(key, show=True)).add_to(m)
+        c = colors[key] if key in colors else "blue"
+        folium.PolyLine(val, color=c, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
     
 def boxofficemojo(q):
