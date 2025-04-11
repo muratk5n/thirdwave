@@ -10,7 +10,7 @@ carries `GDP`, `CINC`, total population `tpop` and MB's measure
 (double-checked, it works, same as `y`). Code was based on Stata `wars
 do.do` code in the same repo.
 
-My zipped version of the data is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
+My zipped version of the data is [here](https://www.dropbox.com/scl/fi/4tfkizpdvfiqyu15j5xl1/beckley-data.zip?rlkey=ow2ukvjzcsc44do9islrqolul&st=p5pd55un&raw=1)
 
 In order to run the regression, MB creates fractions of each measure,
 to compare two sides of the measure, through a value between 0 and 1.

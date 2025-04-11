@@ -17,6 +17,20 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def beckley(country1, country2):   
+   df1 = pd.read_csv('imf1.csv',sep='|',index_col="Country")
+   df2 = pd.read_csv('pop1.csv',index_col="country")
+   
+   gdp1 = df1.loc[country1,"2024"]
+   pop1 = df2.loc[country1,"pop2023"]
+
+   gdp2 = df1.loc[country2,"2024"]
+   pop2 = df2.loc[country2,"pop2023"]
+
+   m1 = (float(gdp1)/float(pop1))*float(gdp1)*1e6
+   m2 = (float(gdp2)/float(pop2))*float(gdp2)*1e6
+   print (np.round(m1 / m2,2))
+   
 def flip_c(arg):
     return [[x[1],x[0]] for x in arg]
 

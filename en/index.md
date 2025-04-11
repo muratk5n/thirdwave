@@ -1,142 +1,56 @@
 
-"A rising tide that lifts all the yachts"
+Cornell Chronicle: "Sunlight and seawater lead to low-cost green
+hydrogen, clean water.. A Cornell-led collaboration has hit the
+trifecta of sustainability technology: The group developed a low-cost
+method to produce carbon-free 'green' hydrogen via solar-powered
+electrolysis of seawater. A happy byproduct of the process? Potable
+water"
 
 ---
 
-See how the wealth of the top %10 jumped in that time period. This is
-massive amounts of munee looking for a place to invest in. A lot of
-cash went to mortgage lending.
+"Geologic hydrogen offers twice as much energy as natural gas"
 
-```python
-df = u.get_fred(2001,['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107'])
-df['Top 10%'] = (df['WFRBLT01026'] + df['WFRBLN09053']) * 100 / df.sum(axis=1)
-df = df[df.index < "2008-01-01"]
-df[['Top 10%']].plot(title="Top 10% Wealth")
-```
-
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/114/267/473/692/032/867/original/282200baf1efadc1.jpg'/>
+<img width='340' src='https://img.ogj.com/files/base/ebm/ogj/image/2025/04/67f6b59f00649d40e2198760-250304ogjtetz01.png?auto=format,compress&fit=max&q=45&w=950&width=950'/>
 
 ---
 
-Richard Vague, *A Brief History of Doom*: "The 2008 economic crisis in
-the United States was the direct result of the runaway growth in
-private debt from 2001 to 2007, especially growth in
-mortgages. Mortgages doubled from $5.3 trillion to an astonishing 10.6
-trillion in a mere six years"
+Wired: "In.. Tariff Era, the Right to Repair Will Be More Important
+Than Ever.. It’s time to keep the stuff you already have running
+longer"
 
 ---
 
-Railway Age: "Stadler Rail has entered into a multi-year agreement
-with Hexagon Purus, a manufacturer of zero-emission mobility and
-infrastructure systems, for Type 4 hydrogen fuel storage systems in
-California. The systems will be produced in Hexagon Purus’ facility in
-Kassel, Germany"
+FCW: "Energiequelle Plans a Green Hydrogen Park in Oulu, Finland.. The
+European renewable energy group Energiequelle is reserving a site for
+a new hydrogen project to produce hydrogen in Oulu, northern
+Finland. When all three stages of the project are fully completed, the
+plant could produce hydrogen by electrolysis with a capacity of over
+500 megawatt (MW)"
 
 ---
 
-OSI: "The United Nations Open Source United community and the Open
-Source Initiative (OSI) today announced that the OSI has become the
-first organization to officially endorse the UN Open Source
-Principles. The UN Open Source Principles, recently adopted by the UN
-Chief Executive Board’s Digital Technology Network (DTN), provide
-guidelines to drive collaboration and Open Source adoption within the
-UN and globally"
+FCW: "New 3.5-Mile Pipeline Approved as Scottish Green Hydrogen
+Progresses"
 
 ---
 
-BBC: "Nearly 70% of Gaza war dead women and children - UN"
+Meron Rapoport: "Israel’s latest vision for Gaza has a name:
+Concentration camp"
 
 ---
 
-Hey if you are a real-life sniper taking out women and children for
-the Zionist cause they'll give you a star before you are 40. Hell they
-should give Netanyahoo a star for that accomplishment. He's been at it
-for decades now.
+Meron Rapoport: "Unable to immediately expel Gazans en masse, Israel
+seems intent on forcing them into a confined zone — and letting
+starvation and desperation do the rest."
 
 ---
 
-Hindustan Times: "TikToker Kevin Smith called it 'one of the funniest
-things' in his video about the same. It has got more than 500
-comments... [he commented on Gadot's star] 'May I ask the age old
-question, "for what"?  What did she do to earn this? Was it her
-scintillating role in Red Notice? Or performance of a lifetime in
-Netflix's Heart of Stone?'"
-
----
-
-GG got a star on the Holywood Walk of Fame? Really?
-
----
-
-\#GalGadot
-
-[[-]](https://youtu.be/lCyFy_8ors4?t=103)
-
----
-
-Stew first dry later, could be a better method even on modern
-equipment.
-
----
-
-Sun drying works very well.. In fact it was recently [discovered](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
-it is not about the heat but the light rays' direct effect that causes
-much of the evaporation / drying.
-
----
-
-Watching a docu about Hungarian goulash. They would stew the meat down
-in a large kettle until there was no liquid left, eat some, dry the
-rest in the sun, like native Americans did with pemmican from bison
-meat, then if you need meal add dry meat some water and vegs in a
-cauldron cook, and have a brand new soup. The claim is this is why
-goulash spread first in Hungary and later in Europe.
-
----
-
-"Privatisation of water isn’t failing - it is the failure. The
-Government is mid-way through a major review of the water
-sector.. Instead of protecting private profits, we should prioritise
-clean, affordable, and democratically-controlled water for all. That's
-why Clive Lewis MP and Compass are calling on the Government to put
-public ownership back on the table"
-
-[[-]](https://you.38degrees.org.uk/petitions/put-public-ownership-of-water-back-on-the-table)
-
----
-
-"@Rojertb@mastodon.scot
-
-Private companies are polluting our rivers, hiking up bills, and
-failing to deliver.. Sign the open letter now & demand action"
-
----
-
-Rabbi Schnozzy's schnozz is in everything... He might be getting oppo
-intel from Israel to use domestically within the United States. A
-shady character for sure. 
-
----
-
-Cory Booker had relations with that f-ing guy too, Rabbi Schnozzy, but
-they had a falling out. CB happily voted for more bombs for Israel
-later though, so he is still serving the corporate complex in many
-ways. A mixed bag.
-
----
-
-"@newsramp@mastodon.social
-
-HNO International partners with Zhuhai Topower for $5M hydrogen energy
-platform pilot, expanding green technology solutions in China's
-renewable energy market"
-
----
-
-"@tiffanycli@mastodon.social
-
-No one ever warned me how much of adult life is just being on hold
-with customer service"
+Haaretz: "Report: Israel is annexing Rafah, a fifth of Gaza, into its
+buffer zone. 'The area includes the city of Rafah & its surrounding
+neighborhoods.' Residents will not be allowed to return, & Israel is
+considering demolishing buildings. 'Soldiers who served in other
+sections of the buffer zone are raising concerns about the dangers
+posed to troops, Palestinian civilians & the hostages'"
 
 ---
 
