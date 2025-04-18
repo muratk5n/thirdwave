@@ -1,56 +1,76 @@
 
-Cornell Chronicle: "Sunlight and seawater lead to low-cost green
-hydrogen, clean water.. A Cornell-led collaboration has hit the
-trifecta of sustainability technology: The group developed a low-cost
-method to produce carbon-free 'green' hydrogen via solar-powered
-electrolysis of seawater. A happy byproduct of the process? Potable
-water"
+NPR: "[2013] There's a saying in Mexico: *Sin maiz, no hay pais*: no
+corn, no country. Mexico is where corn originated, and it's the food
+staple most people depend on. It's what Antonio Pena grew on his
+family farm in Guanajuato in Central Mexico...
+
+The Mexican government used to subsidize corn. It kept the crop price
+high so small farmers could stay in business. And it kept tortilla
+prices low so poor people could eat. When NAFTA took effect two
+decades ago, the trade agreement phased out tariffs in order to lower
+costs and encourage investment between the U.S., Canada and
+Mexico. The Mexican government ended its corn subsidy..
+
+Seventy-five thousand Iowa farmers grew twice as much corn as three
+million Mexican farmers at half the cost. U.S. corn flooded Mexico. An
+estimated two million Mexican farm workers in general left the
+countryside for big cities. Antonio Pena was one of them... Then, like
+millions more Mexicans, he crossed illegally into the U.S."
 
 ---
 
-"Geologic hydrogen offers twice as much energy as natural gas"
-
-<img width='340' src='https://img.ogj.com/files/base/ebm/ogj/image/2025/04/67f6b59f00649d40e2198760-250304ogjtetz01.png?auto=format,compress&fit=max&q=45&w=950&width=950'/>
-
----
-
-Wired: "In.. Tariff Era, the Right to Repair Will Be More Important
-Than Ever.. It’s time to keep the stuff you already have running
-longer"
+Caldwell maybe had motivation to leak, but more likely war hawks used
+the opportunity to get the scalp of a war skeptic.
 
 ---
 
-FCW: "Energiequelle Plans a Green Hydrogen Park in Oulu, Finland.. The
-European renewable energy group Energiequelle is reserving a site for
-a new hydrogen project to produce hydrogen in Oulu, northern
-Finland. When all three stages of the project are fully completed, the
-plant could produce hydrogen by electrolysis with a capacity of over
-500 megawatt (MW)"
+Reuters: "One of U.S. Defense Secretary Pete Hegseth's leading
+advisers, Dan Caldwell, was escorted from the Pentagon on Tuesday
+after being identified during an investigation into leaks at the
+Department of Defense, a U.S. official told Reuters.
+
+Caldwell had drawn attention in Washington for past views that critics
+have called isolationist, but which advocates said sought to
+right-size America's defense priorities.
+
+A Marine Corps veteran who deployed to Iraq, Caldwell was quoted
+saying before going to the Pentagon that America would have been
+better off if U.S. troops had just stayed home... 'I think the Iraq
+war was a monstrous crime,' Caldwell told the Financial Times in
+December 2024."
 
 ---
 
-FCW: "New 3.5-Mile Pipeline Approved as Scottish Green Hydrogen
-Progresses"
+"@jon@vivaldi.net
+
+.. [Y]ears ago Norwegians started to get pre-filled tax returns in the
+mail. Later they stopped getting them, but instead had to do [it]
+online. Now even that is not needed... The reality is that the
+government already had most of the data needed for most
+individuals. Your salary is reported by the company you work for. Your
+bank details, including anything you have in your accounts, any loans,
+stocks, bonds, etc., is reported as well. Your kids are known.. There
+might be details to add, but most is known. Why waste people´s time
+filling out details that are already known and risk people making
+mistakes?"
 
 ---
 
-Meron Rapoport: "Israel’s latest vision for Gaza has a name:
-Concentration camp"
+"Simplifying the tax code"... Another mantra that never seems to
+materialize... I bet bihness interests *want* the tax code Byzantine,
+the law is full of loopholes, kickbacks, indirect handouts that
+way.. And at the end you can claim "government inefficiency" and
+create a cottage industry around it... Bihness wins twice.
 
 ---
 
-Meron Rapoport: "Unable to immediately expel Gazans en masse, Israel
-seems intent on forcing them into a confined zone — and letting
-starvation and desperation do the rest."
+ProPublica: "Inside TurboTax’s 20-Year Fight to Stop Americans From
+Filing Their Taxes for Free.. Using lobbying, the revolving door and
+“dark pattern” customer tricks, Intuit fended off the government’s
+attempts to make tax filing free and easy, and created its
+multi-billion-dollar franchise"
 
----
-
-Haaretz: "Report: Israel is annexing Rafah, a fifth of Gaza, into its
-buffer zone. 'The area includes the city of Rafah & its surrounding
-neighborhoods.' Residents will not be allowed to return, & Israel is
-considering demolishing buildings. 'Soldiers who served in other
-sections of the buffer zone are raising concerns about the dangers
-posed to troops, Palestinian civilians & the hostages'"
+[[-]](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 
 ---
 
@@ -98,8 +118,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
-
-

@@ -508,9 +508,6 @@ attackers in a context of self-defense.
 Philly Shell defense is useful, but I dont think it would work well on
 the street. The gloves are a big part of why it works.
 
-High Guard ok, but better, just lift up your arms, create a an
-obstacle area in front (while also moving out of the way).
-
 ---
 
 "The US green hydrogen firm Plug Power has just nailed a $1.66 federal

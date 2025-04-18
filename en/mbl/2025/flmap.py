@@ -252,7 +252,6 @@ def map_sahel_suriyak():
         "RSF-N.Kordofan",
         "RSF- White Nile",
         "RSF-Khartoum",
-        "RSF-Gezira",
         "RSF-W.Kordofan",
         "RSF-S.Darfur",
         "RSF-N.Darfur",

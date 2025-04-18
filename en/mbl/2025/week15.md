@@ -1,5 +1,164 @@
 # Week 15
 
+TNR: "The editor in chief of Christianity Today is warning that
+evangelical Christianity is moving too far to the right.. Russell
+Moore resigned from the Southern Baptist Convention in 2021, after
+years of being at odds with other evangelical leaders. Now he thinks
+his religion is in crisis.
+
+Moore told NPR in an interview released Tuesday that multiple pastors
+had told him they would quote the Sermon on the Mount, specifically
+the part that says to 'turn the other cheek,' when preaching. Someone
+would come up after the service and ask, 'Where did you get those
+liberal talking points?'..
+
+'What was alarming to me is that in most of these scenarios, when the
+pastor would say, "I’m literally quoting Jesus Christ," the response
+would not be, "I apologize." The response would be, "Yes, but that
+doesn’t work anymore. That’s weak,"' Moore said. 'When we get to the
+point where the teachings of Jesus himself are seen as subversive to
+us, then we’re in a crisis'"
+
+---
+
+"@ProPublica@newsie.social
+
+NOAA Scientists Are Cleaning Bathrooms and Reconsidering Lab
+Experiments After Contracts for Basic Services Expire.. A Seattle lab
+has lost janitorial services, hazardous waste support, IT and building
+maintenance as it waits for the Commerce Department secretary to
+personally approve all contracts over $100,000"
+
+---
+
+"Airline Demand Between Canada & United States Collapses, Down 70%+"
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+I’ve just been looking at Copilot+ laptops to get prepped for wider
+degree of Recall testing, and one thing I’ve noticed is they’re
+heavily discounted on Amazon, and many of them are flagged by Amazon
+as a high number of customers return them"
+
+---
+
+Recall is a major security vulnerability esp. for Winblows machines
+running on government computers. USG needs to switch to FOSS.
+
+---
+
+Ars Technica: "That groan you hear is users' reaction to Recall going
+back into Windows.. Snapshotting and AI processing a screen every 3
+seconds. What could possibly go wrong?"
+
+---
+
+BNN: Alberta Bill Enables Hydrogen Home Heating, Electricity Market
+Remodelling.. Alberta's government is looking to give the green light
+to hydrogen as a home and commercial heating fuel in a move it says
+will boost demand and reduce emissions.
+
+---
+
+.. the former being closer to a parrot, the latter to an actual human.
+
+Chollet: "Generating *code* using a statistical prior about which
+token sequences are more likely is a fundamentally different task than
+generating *programs* by searching directly in the space of program
+dynamics"
+
+---
+
+Mining.com: A new ironmaking process with a projected capacity of
+three tons of hot metal per hour based on the Hydrogen-based Fine-Ore
+Reduction (HYFOR) and Smelter technology is being progressed by a
+consortium of companies.
+
+---
+
+China Daily: Wang Zihao has been very busy receiving foreign clients
+recently. His employer, Hygreen Energy, a Beijing-based company
+engaged in electrolysis and hydrogen production, has seen its alkaline
+electrolyzer products exported to nearly 30 countries, including the
+United States, Germany and Spain, and the export volume has continued
+to grow. "I just received customers from Portugal and Belgium a few
+days ago, and Spanish clients are set to come soon," said Wang,
+assistant general manager of the company.
+
+More than 200 hydrogen energy enterprises have set up shop in
+Beijing's Daxing district, and the industrial cluster effect has begun
+to emerge. The application scenarios of hydrogen energy have covered
+transportation applications, such as cold chain logistics and
+passenger transport.
+
+---
+
+Increased wealth inequality caused mortgages to double from $5.3
+trillion to 10.6 trillion btw 2001-2007, causing the GFC. Mortgage
+based securities held by foreigners reached abt 700 billion at that
+time, so most of that debt was held by US rich and corps. Skewed
+distribution is causing price instability, asset hoarding creates a
+loss of living standards for the middle class.
+
+---
+
+Cornell Chronicle: "Sunlight and seawater lead to low-cost green
+hydrogen, clean water.. A Cornell-led collaboration has hit the
+trifecta of sustainability technology: The group developed a low-cost
+method to produce carbon-free 'green' hydrogen via solar-powered
+electrolysis of seawater. A happy byproduct of the process? Potable
+water"
+
+---
+
+"Geologic hydrogen offers twice as much energy as natural gas"
+
+<img width='340' src='https://img.ogj.com/files/base/ebm/ogj/image/2025/04/67f6b59f00649d40e2198760-250304ogjtetz01.png?auto=format,compress&fit=max&q=45&w=950&width=950'/>
+
+---
+
+Wired: "In.. Tariff Era, the Right to Repair Will Be More Important
+Than Ever.. It’s time to keep the stuff you already have running
+longer"
+
+---
+
+FCW: "Energiequelle Plans a Green Hydrogen Park in Oulu, Finland.. The
+European renewable energy group Energiequelle is reserving a site for
+a new hydrogen project to produce hydrogen in Oulu, northern
+Finland. When all three stages of the project are fully completed, the
+plant could produce hydrogen by electrolysis with a capacity of over
+500 megawatt (MW)"
+
+---
+
+FCW: "New 3.5-Mile Pipeline Approved as Scottish Green Hydrogen
+Progresses"
+
+---
+
+Meron Rapoport: "Israel’s latest vision for Gaza has a name:
+Concentration camp"
+
+---
+
+Meron Rapoport: "Unable to immediately expel Gazans en masse, Israel
+seems intent on forcing them into a confined zone — and letting
+starvation and desperation do the rest."
+
+---
+
+Haaretz: "Report: Israel is annexing Rafah, a fifth of Gaza, into its
+buffer zone. 'The area includes the city of Rafah & its surrounding
+neighborhoods.' Residents will not be allowed to return, & Israel is
+considering demolishing buildings. 'Soldiers who served in other
+sections of the buffer zone are raising concerns about the dangers
+posed to troops, Palestinian civilians & the hostages'"
+
+---
+
 Bus-News: "In France, the Urban Community of Dunkirk and the Grand
 Annecy Agglomeration have ordered hydrogen-powered H2 city buses from
 IVECO BUS"
@@ -128,7 +287,7 @@ than God."
 
 Why MMT Is a Ruse
 
-[[-]](2025/04/mmt-ruse.html)
+[[-]](../../2025/04/mmt-ruse.html)
 
 ---
 
@@ -192,7 +351,7 @@ Politico: "Canada says its friendship with the US is ‘over.’"
 
 \#Frontline \#Ukraine 03/31 - 04/07
 
-[[-]](mbl/2025/ukrdata/map15.html)
+[[-]](ukrdata/map15.html)
 
 ---
 
@@ -409,7 +568,7 @@ variable for innovation. His combined measure for war fighting
 effectiveness is GDP per capita x GDP. Backtest on history shows the
 measure works well.
 
-[[-]](2021/03/power-of-nations-beckley-code.html)
+[[-]](../../2021/03/power-of-nations-beckley-code.html)
 
 ---
 
