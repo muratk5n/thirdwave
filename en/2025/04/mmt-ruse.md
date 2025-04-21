@@ -32,7 +32,7 @@ flow upwards, and if not taken back via tax *immediately* it will
 cause a zombie economy where one quarter of population is effectively
 unemployed, working shit jobs just to pay the rent and buy eggs.
 
-That brings us why MMT is a ruse. Surely its inception is not, some
+That brings us to why MMT is a ruse. Surely its inception is not, some
 people, including its originators, genuinely (and foolishly) believe
 in the idea. But look at how much media exposure they got with such a
 foolish idea. Corporate media loves them, and there is a reason for
