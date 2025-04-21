@@ -189,9 +189,8 @@ df[['Top 10%']].plot(title="Top 10% Wealth")
 
 Richard Vague, *A Brief History of Doom*: "The 2008 economic crisis in
 the United States was the direct result of the runaway growth in
-private debt from 2001 to 2007, especially growth in
-mortgages. Mortgages doubled from $5.3 trillion to an astonishing 10.6
-trillion in a mere six years"
+private debt from 2001 to 2007, especially growth in mortgages. Mortgages
+doubled from $5.3 trillion to an astonishing 10.6 trillion in a mere six years"
 
 ---
 
@@ -506,7 +505,7 @@ the government in Canada, and Halderman heads that branch"
 
 Keep Calm, Have a Russki Brewski.
 
-<img width='80' src='mbl/2025/ruskibrewski-putin.jpg'/>
+<img width='80' src='ruskibrewski-putin.jpg'/>
 
 ---
 

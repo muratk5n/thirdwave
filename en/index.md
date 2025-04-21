@@ -1,4 +1,6 @@
 
+Pinned Post
+
 NPR: "[2013] There's a saying in Mexico: *Sin maiz, no hay pais*: no
 corn, no country. Mexico is where corn originated, and it's the food
 staple most people depend on. It's what Antonio Pena grew on his
@@ -19,58 +21,54 @@ millions more Mexicans, he crossed illegally into the U.S."
 
 ---
 
-Caldwell maybe had motivation to leak, but more likely war hawks used
-the opportunity to get the scalp of a war skeptic.
+Ledbetter, *Unwarranted Influence*: "The last years of [Ike's]
+presidency were marked by deep, often bitter conflicts with Congress
+over the military and national security... These conflicts came to a
+head in the fall of 1957, with the one-two punch of the Soviet Sputnik
+launch and the near-simultaneous release of a report arguing that the
+United States would soon fall behind the Soviets in the production of
+atomic weapons...
+
+The launch of the Sputnik satellite on October 4, 1957, hit the
+Eisenhower White House like a targeted missile. Whether it represented
+a scientific breakthrough for the Soviet Union is a matter that can
+still be debated. But as a public relations coup, it unsettled the
+administration more than any other event... 
+
+While the public was focused on the two Sputnik launches, Washington’s
+elite was arguably more devastated by the release of an exceptionally
+well-timed panel study — delivered four days after the second Sputnik
+orbit — that appeared to show the Soviet military threat was even
+greater than the administration thought. Entitled 'Deterrence &
+Survival in the Nuclear Age,' it was known informally as the Gaither
+Report, after its panel chairman, H. Rowan Gaither of the RAND
+Corporation. The report —classified top secret— cited 'spectacular
+progress' in Soviet military development after World War II.  The
+Soviets, the authors claimed, had enough fissionable material for
+fifteen hundred atomic weapons and had 'probably surpassed' the United
+States in the production of nuclear-tipped intercontinental
+missiles. They proposed a massive military spending program that
+would...  match the alleged Soviet offensive capabilities..
+
+The period following the Sputnik-Gaither crisis demonstrates
+Eisenhower’s military-industrial-complex critique in its early
+stages. [W]ho was behind the faulty intelligence and calls for
+military buildup in the Gaither Report? The leadership consisted of
+known and trusted Eisenhower advisors, but there could be no hiding
+the fact that the billions in increased military spending called for
+by the panel would benefit many of the very people making the
+recommendations. Two of the report’s principal directors were Robert
+C. Sprague, who headed his own business of military electronics, and
+William C. Foster of the Olin-Mathiesen Chemical Company, a producer
+of gunpowder and ammunition"
 
 ---
 
-Reuters: "One of U.S. Defense Secretary Pete Hegseth's leading
-advisers, Dan Caldwell, was escorted from the Pentagon on Tuesday
-after being identified during an investigation into leaks at the
-Department of Defense, a U.S. official told Reuters.
+The supposed Tishrin Dam handoff (from SDF to HTS) is not yet visible.
 
-Caldwell had drawn attention in Washington for past views that critics
-have called isolationist, but which advocates said sought to
-right-size America's defense priorities.
+\#Frontlines \#Syria - 03/24 - 04/19
 
-A Marine Corps veteran who deployed to Iraq, Caldwell was quoted
-saying before going to the Pentagon that America would have been
-better off if U.S. troops had just stayed home... 'I think the Iraq
-war was a monstrous crime,' Caldwell told the Financial Times in
-December 2024."
-
----
-
-"@jon@vivaldi.net
-
-.. [Y]ears ago Norwegians started to get pre-filled tax returns in the
-mail. Later they stopped getting them, but instead had to do [it]
-online. Now even that is not needed... The reality is that the
-government already had most of the data needed for most
-individuals. Your salary is reported by the company you work for. Your
-bank details, including anything you have in your accounts, any loans,
-stocks, bonds, etc., is reported as well. Your kids are known.. There
-might be details to add, but most is known. Why waste people´s time
-filling out details that are already known and risk people making
-mistakes?"
-
----
-
-"Simplifying the tax code"... Another mantra that never seems to
-materialize... I bet bihness interests *want* the tax code Byzantine,
-the law is full of loopholes, kickbacks, indirect handouts that
-way.. And at the end you can claim "government inefficiency" and
-create a cottage industry around it... Bihness wins twice.
-
----
-
-ProPublica: "Inside TurboTax’s 20-Year Fight to Stop Americans From
-Filing Their Taxes for Free.. Using lobbying, the revolving door and
-“dark pattern” customer tricks, Intuit fended off the government’s
-attempts to make tax filing free and easy, and created its
-multi-billion-dollar franchise"
-
-[[-]](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
+[[-]](mbl/2025/syrdata/map03.html)
 
 ---
 
@@ -118,3 +116,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
