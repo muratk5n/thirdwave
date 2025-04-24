@@ -21,54 +21,109 @@ millions more Mexicans, he crossed illegally into the U.S."
 
 ---
 
-Ledbetter, *Unwarranted Influence*: "The last years of [Ike's]
-presidency were marked by deep, often bitter conflicts with Congress
-over the military and national security... These conflicts came to a
-head in the fall of 1957, with the one-two punch of the Soviet Sputnik
-launch and the near-simultaneous release of a report arguing that the
-United States would soon fall behind the Soviets in the production of
-atomic weapons...
+The Asashi Shukimbun: "The Japan Atomic Energy Agency said it plans to
+start producing clean hydrogen using heat from its High Temperature
+Engineering Test Reactor (HTTR) in Ibaraki Prefecture close to Tokyo
+by 2028..
 
-The launch of the Sputnik satellite on October 4, 1957, hit the
-Eisenhower White House like a targeted missile. Whether it represented
-a scientific breakthrough for the Soviet Union is a matter that can
-still be debated. But as a public relations coup, it unsettled the
-administration more than any other event... 
+The national nuclear research and development agency is hoping to
+start producing hydrogen at the HTTR, an experimental high-temperature
+gas-cooled reactor (HTGR), in the second half of fiscal 2028. There
+are hopes that HTGRs can produce hydrogen in voluminous amounts on a
+stable basis because heat at higher temperatures can be extracted from
+an HTGR compared with a light-water reactor, which is the mainstream
+nuclear reactor"
 
-While the public was focused on the two Sputnik launches, Washington’s
-elite was arguably more devastated by the release of an exceptionally
-well-timed panel study — delivered four days after the second Sputnik
-orbit — that appeared to show the Soviet military threat was even
-greater than the administration thought. Entitled 'Deterrence &
-Survival in the Nuclear Age,' it was known informally as the Gaither
-Report, after its panel chairman, H. Rowan Gaither of the RAND
-Corporation. The report —classified top secret— cited 'spectacular
-progress' in Soviet military development after World War II.  The
-Soviets, the authors claimed, had enough fissionable material for
-fifteen hundred atomic weapons and had 'probably surpassed' the United
-States in the production of nuclear-tipped intercontinental
-missiles. They proposed a massive military spending program that
-would...  match the alleged Soviet offensive capabilities..
-
-The period following the Sputnik-Gaither crisis demonstrates
-Eisenhower’s military-industrial-complex critique in its early
-stages. [W]ho was behind the faulty intelligence and calls for
-military buildup in the Gaither Report? The leadership consisted of
-known and trusted Eisenhower advisors, but there could be no hiding
-the fact that the billions in increased military spending called for
-by the panel would benefit many of the very people making the
-recommendations. Two of the report’s principal directors were Robert
-C. Sprague, who headed his own business of military electronics, and
-William C. Foster of the Olin-Mathiesen Chemical Company, a producer
-of gunpowder and ammunition"
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/143/641/491/original/24181029b743d850.jpg'/>
 
 ---
 
-The supposed Tishrin Dam handoff (from SDF to HTS) is not yet visible.
+"@stroughtonsmith@mastodon.social
 
-\#Frontlines \#Syria - 03/24 - 04/19
+The European Commission finds Apple’s Core Technology Fee is against
+the law. It's also too onerous on developers, and too complicated for
+users, and Apple has not proved these measures are just and
+valid. Apple now has a chance to defend its reasoning before a final
+ruling on fines & consequences"
 
-[[-]](mbl/2025/syrdata/map03.html)
+---
+
+AAah now we find out why they included the scene. It's anti-deportation,
+pro-open-border propaganda. No wonder the show sucks.
+
+The Holywood Reporter: "Andor dared to go to the darkest places Star
+Wars could offer. An Imperial Officer abusing his untouchable status
+to [abuse] an undocumented migrant, while his troops are rounding up
+other undocumented citizens. This is the real world seeping into Star
+Wars storytelling; this is the world WE live in, reflected in the
+galaxy far, far away, this is Star Wars at its most political, its
+most potent"
+
+---
+
+There was a scene in ep 3 where an imperial officer abused a woman?
+
+---
+
+Watched one ep, it still sucks
+
+---
+
+New *Andor* season..?
+
+---
+
+The Guardian: "The world’s coral reefs have been pushed into
+“uncharted territory” by the worst global bleaching event on record
+that has now hit more than 80% of the planet’s reefs, scientists have
+warned.
+
+Reefs in at least 82 countries and territories have been exposed to
+enough heat to turn corals white since the global event started in
+January 2023, the latest data from the US government’s Coral Reef
+Watch shows"
+
+---
+
+Pope RIP
+
+---
+
+Fault line from paper
+
+[[-]](https://www.nature.com/articles/ncomms2999)
+
+---
+
+[Link](mbl/2025/this_is_fine_eq.jpg)
+
+---
+
+All near the fault line.. Nothing to worry about. All dandy.
+
+```python
+fl = u.get_json().loads(open("tr_faultline1.json").read())
+u.map_coords(dfq, lines=fl, zoom=9, outfile="map07.html")
+```
+
+[[-]](mbl/2025/map07.html)
+
+---
+
+There's been much talk about "the big one" that is predicted to hit
+Stanpoli at some point. Are these the signs of the big one?
+
+---
+
+Homie got shook? 
+
+\#Earthquake
+
+```python
+dfq = u.eq_at(41, 29, 500, 3); u.map_coords(dfq, zoom=9, outfile="map06.html")
+```
+
+[[-]](mbl/2025/map06.html)
 
 ---
 
@@ -116,6 +171,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-

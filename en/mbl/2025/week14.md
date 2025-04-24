@@ -551,7 +551,7 @@ The Afghan Whigs - Arabian Heights \#music
 \#Earthquake \#Myanmar
 
 ```python
-u.map_coords(u.eq_at(20, 96, 1000, 8), polygons=[], zoom=6, outfile="map05.html")
+u.map_coords(u.eq_at(20, 96, 1000, 8), zoom=6, outfile="map05.html")
 ```
 
 [[-]](map06.html)

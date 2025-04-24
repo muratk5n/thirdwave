@@ -17,6 +17,17 @@ baci_dir = "/opt/Downloads/baci"
 
 def get_pd(): return pd
 
+def get_json(): return json
+
+def trump_approval():
+    # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
+    # LV = Likely Voters, RV = Registered Voters
+    df = pd.read_csv('djt_approval.csv',index_col='Date')
+    df.index = pd.to_datetime(df.index,format='%d-%m-%Y')
+    df['net'] = df.Approve - df.Disprove
+    df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    plt.savefig('/tmp/approval.jpg')
+
 def beckley(country1, country2):   
    df1 = pd.read_csv('imf1.csv',sep='|',index_col="Country")
    df2 = pd.read_csv('pop1.csv',index_col="country")
@@ -68,15 +79,6 @@ def eq_at(lat,lon,radius,ago,today=datetime.datetime.now()):
     res = dict((k + " magnitude:" + str(v['mag']),
                 [v['lat'],v['lon']]) for k,v in df.iterrows())    
     return res
-
-def trump_approval():
-    # https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
-    # LV = Likely Voters, RV = Registered Voters
-    df = pd.read_csv('djt_approval.csv',index_col='Date')
-    df.index = pd.to_datetime(df.index,format='%d-%m-%Y')
-    df['net'] = df.Approve - df.Disprove
-    df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
-    plt.savefig('/tmp/approval.jpg')
 
 def elev_at(lat,lon):
     data = '[[%f,%f]]' % (lat,lon)
@@ -243,7 +245,7 @@ def to_bearing(lat,lon,brng,d):
     lon2 = math.degrees(lon2)
     return lat2,lon2
 
-def map_coords(coords, polygons={}, zoom=5, colors={}, outfile="/tmp/out.html"):
+def map_coords(coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.html"):
     m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
             name='subdomains2',
@@ -252,7 +254,7 @@ def map_coords(coords, polygons={}, zoom=5, colors={}, outfile="/tmp/out.html"):
     ).add_to(m)
     for key,val in coords.items():
         folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
-    for key,val in polygons.items():
+    for key,val in lines.items():
         c = colors[key] if key in colors else "blue"
         folium.PolyLine(val, color=c, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
