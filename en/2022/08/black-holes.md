@@ -1,6 +1,8 @@
-# Black Holes or Burning Disks
+# Black Holes
 
-[Wolfgang Kundt](https://arxiv.org/abs/0902.3151)
+Wolfgang Kunt
+
+[Link](https://arxiv.org/abs/0902.3151)
 
 And how did those black holes form in the first place? Have not
 centrifugal and pressure forces always exceeded the self attraction of
@@ -50,17 +52,16 @@ sacrificed.
 [Link](https://www.researchgate.net/publication/272370922_A_Brief_Observational_History_of_the_Black-Hole_Spacetimes)
 
 Already Victor Ambartsumian noted.. that galactic centers are observed
-to eject, rather than to swallow... 
-
-[M]idi BHs have only been considered seriously once in 1974, as a
-possible explanation for the 1908 Tunguska catastrophe, even though no
-mechanism for their formation had ever been proposed. They were
-refuted by Beasley and Tinsley [26], based on an absence of tsunamis
-in the Pacific during the days of that event (which would have been
-raised by the midi BH during its exit from the ocean, after having
-crossed the Earth). Note that in my understanding, the Tunguska event
-has not been an infall event from outside, rather an ejection event
-from inside, a kimberlite.
+to eject, rather than to swallow...  [M]idi BHs have only been
+considered seriously once in 1974, as a possible explanation for the
+1908 Tunguska catastrophe, even though no mechanism for their
+formation had ever been proposed. They were refuted by Beasley and
+Tinsley [26], based on an absence of tsunamis in the Pacific during
+the days of that event (which would have been raised by the midi BH
+during its exit from the ocean, after having crossed the Earth). Note
+that in my understanding, the Tunguska event has not been an infall
+event from outside, rather an ejection event from inside, a
+kimberlite.
 
 Next, explosions of mini BHs have been ruled out by Joe Taylor by a
 large margin, via an absence of detected radio bursts of the implied
@@ -122,4 +123,16 @@ refuelled, and evolves (radially inward) through main-sequence
 hydrogen burning towards explosive He and ‘metal’ detonating all the
 way to iron, thereby ejecting the ashes of nuclear burning.
 
+[Video](https://www.youtube.com/embed/BhDpApRa6BI)
+
+There is now a group of young theorists in the world who think that
+the ultimate field equations should not allow for singularities,
+because they describe measurements, and our measurements never get
+something singular. Our measurements get something finite, otherwise
+it's not a physical. So good theories are free of singularities, [the
+ones with singularities] must not be admitted. And we notice now we
+don't need them, we don't need them because our neutron stars stay
+regular. Our measurements.. will stay regular, and finite.
+
 [[Up](../../2018/09/junk-science.html)]
+

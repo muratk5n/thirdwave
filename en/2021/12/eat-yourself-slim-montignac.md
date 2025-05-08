@@ -3,24 +3,26 @@
 Montignac
 
 The theory of slimming based on the low-calorie approach is without
-doubt the greatest scientific “fudge”of the twentieth century...
+doubt the greatest scientific "fudge" of the twentieth century...
 
-Up to then I had led a fairly conventional social and professional
-lifestyle and my tendency to put on weight had seemed to level off. My
-”overeating”, if indeed I overate at all, was only very occasional and
-tended to occur in a family context. When you come, as I do, from
-South West France, you have been brought up to value gastronomic
-cuisine as part of your cultural heritage. I had long since given up
-sugar, or at least, sugar in coffee. I never ate potatoes, claiming to
-be allergic to them, and, apart from wine, very rarely touched
-alcohol... When I looked around me I felt no more overweight than the
-average..
+In the early 80s, when I was in my late thirties, my scales read 12st
+12lb - almost a stone more than my ideal weight. But then again, all
+things considered, that did not seem too bad for a man over six feet
+tall and approaching forty.. Up to then I had led a fairly
+conventional social and professional lifestyle and my tendency to put
+on weight had seemed to level off. My ”overeating”, if indeed I
+overate at all, was only very occasional and tended to occur in a
+family context. When you come, as I do, from South West France, you
+have been brought up to value gastronomic cuisine as part of your
+cultural heritage. I had long since given up sugar, or at least, sugar
+in coffee. I never ate potatoes, claiming to be allergic to them, and,
+apart from wine, very rarely touched alcohol... When I looked around
+me I felt no more overweight than the average..
 
 Then, overnight, my professional circumstances changed. I was
 appointed to a new post with an international dimension at the
 European headquarters of the American multinational company I worked
-for... But three months after taking up my new post I had put on
-[weight]..
+for... three months after taking up my new post I had put on [weight]..
 
 Like everyone else, I started off by trying to apply the usual
 weight-loss rules and, like everyone else, I became thoroughly
@@ -50,9 +52,13 @@ of time...
 
 Insulin
 
+[A]n excess of ”Calories taken in” over ”calories burned up” does not
+in itself explain why we put on weight. In other words, it does not
+account for how the body comes to store fat.
+
 Whether or not we accumulate body fat is directly linked to the
 secretion of insulin, so we will first take a brief look at
-this. Insulin is a hormone secreted by the pancreas 6 and it plays a
+this. Insulin is a hormone secreted by the pancreas and it plays a
 vital role in human metabolism...
 
 When, for example, you eat a piece of bread with butter, [.. the]
@@ -90,16 +96,20 @@ completely excluded from your diet. The number one starchy food is the
 potato. You may be interested to know that when the potato was brought
 back from the New World by explorers in 540, the French firmly
 rejected it, considering this root vegetable fit only for pigs. They
-thought it so unpleasant they refused to eat it, unlike some
-“northern” European peoples, such as the Germans, the Scandinavians
-and the Irish, who took to it readily. It has to be said that some of
-these people had relatively little choice, often having not much else
-to eat.  For two centuries the French continued to pour corn on the
-”pig root". It was not until 1789, when Larmentier published his
-Treatise on the cultivation and uses of the potato, that people in
-France finally came round to eating it.  The famine that was raging at
-the time was an additional incentive. It was later discovered that the
-potato is rich in vitamins and minerals, though it loses most of these
-when it is cooked and, especially, when it is peeled. Recent tests
-have shown that the potato releases a very large quantity of glucose
-into the system.
+thought it so unpleasant they refused to eat it.. For two centuries
+the French continued to pour corn on the "pig root". It was not until
+1789, when Larmentier published his Treatise on the cultivation and
+uses of the potato, that people in France finally came round to eating
+it. The famine that was raging at the time was an additional
+incentive. It was later discovered that the potato is rich in vitamins
+and minerals, though it loses most of these when it is cooked and,
+especially, when it is peeled. Recent tests have shown that the potato
+releases a very large quantity of glucose into the system.
+
+Bad Carbohydrates: These are all the carbohydrates whose absorption
+leads to a large rise in blood glucose. This applies to table sugar in
+whatever form (on its own or combined with other food stuffs, as in
+cakes). The classification also covers all processed carbohydrates,
+such as white flour and white rice, and also alcohol (particularly
+spirits), as well as potatoes and corn (maize).
+

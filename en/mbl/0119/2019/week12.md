@@ -326,11 +326,6 @@ Interpreting physics news: if something sounds too scifi to be true, it probably
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Once again: Scientists did not &quot;reverse time&quot; and did not &quot;break a law of physics&quot;. <br><br>Correct story: Some processes are reversible. Entropy can decrease locally. We have known this for a long time. Great experiment - yes - but no time reversal. <a href="https://twitter.com/hashtag/StopHype?src=hash&amp;ref_src=twsrc%5Etfw">#StopHype</a><a href="https://t.co/fmztAvBLHS">https://t.co/fmztAvBLHS</a></p>&mdash; Sabine Hossenfelder (@skdh) <a href="https://twitter.com/skdh/status/1107906567033245696?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 [Link](https://fuelcellsworks.com/news/stanford-researchers-create-hydrogen-fuel-from-seawater/)
 
 Stanford Researchers Create Hydrogen Fuel from Seawater

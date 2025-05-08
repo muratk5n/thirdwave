@@ -1,6 +1,276 @@
 # Week 17
 
-[Perovskites](2022/06/the-h2-revolution-alvera.html#peros)
+"All credit is printed money". Guy thinks he discovered the 8th wonder
+of the world w/ that observation. That doesn't solve the
+problem. Money, printed or not, can pile up on someone's account, now
+the wealthy, causing massive inequality reducing everyone's living
+standards. Excess wealth will chase assets, if it buys mortgage debt
+it will increase the price of the underlying asset which is precisely
+what happened before the GFC. Now the median house nearly costs half a
+million *freaking* dollars.
+
+Governments must tax for rebalancing. Useless observations like one
+above are so inane they create opportunities for ideological arbitrage
+which the wealthy will happily exploit. They will push faux leftist
+spending wout taxation - all printed money flows to them anyway, and
+they remain wealthy.
+
+---
+
+\#Ukraine 04/15 - 04/25
+
+[[-]](mbl/2025/ukrdata/map17.html)
+
+---
+
+Economic Times: "Vincent Lyne, a researcher from the University of
+Tasmania's Institute for Marine and Antarctic Studies, claims to have
+located the missing Malaysian Airlines flight MH370. The plane, which
+disappeared in 2014 with 239 people on board, was allegedly flown
+intentionally into a 20,000-foot-deep chasm in the Indian Ocean known
+as the Broken Ridge. Lyne's research..  suggests that the
+disappearance was a result of meticulous planning and not an
+accident... [Lyne] believes the plane was intentionally flown into a
+deep chasm in the Indian Ocean. [He] suggests that previous searches
+missed the mark due to incorrect assumptions about the aircraft's
+final moments... Lyne identified a 6000-meter hole at the eastern end
+of the Broken Ridge as the likely resting place of MH370. He described
+the area as a hazardous ocean habitat filled with deep pits of fine
+sediments and narrow, steep sides surrounded by enormous hills.
+
+Lyne's theory contradicts the earlier notion of a rapid plunge due to
+lack of fuel. Instead, he proposed a 'controlled ditching' akin to
+Captain Chesley 'Sully' Sullenberger's 2009 landing on the Hudson
+River, with the plane's wings, flaps, and flaperon damages supporting
+this scenario"
+
+---
+
+Researcher Lyne disputes the last moments of the plane, the data on
+the "7th arc" (which most pre-2018-data analysis used), says that last
+ping should not be trusted.
+
+---
+
+They were going to search the Godfrey and Lyne points, plus that white
+region in the map.
+
+---
+
+```python
+import json, requests
+qr = requests.get("https://trise5631.github.io/areas2.js").text
+jres = json.loads(qr.replace("parseAreas(","").replace("})","}"))
+
+cs = {"Lyne": list(reversed(jres["areas"]["LYNE"][0]))}
+atsb = u.flip_c(jres["areas"]["ATSB"])
+OI2018 = u.flip_c(jres["areas"]["OI2018"])
+GCM = u.flip_c(jres["areas"]["GCM"])
+a =  u.flip_c(jres["areas"]["OI2025A"])
+b =  u.flip_c(jres["areas"]["OI2025B"])
+polys = {"atsb": atsb, "OI2018": OI2018, "OI2025A": a, "OI2025B": b, "Godfrey": GCM}
+u.map_coords(cs, polys, zoom=4, colors={"Godfrey": "#FFFFFF", "OI2025A": "#FFFFFF", "OI2025B": "#FFFFFF"}, outfile="map07.html")
+```
+
+[[-]](mbl/2025/map04.html)
+
+---
+
+Found its raw data, almost in json
+
+[[-]](https://trise5631.github.io/areas2.js)
+
+---
+
+This was the tracking page for the MH 370 search
+
+[[-]](https://www.mh370-caption.net/index.php/armada-tracking/)
+
+---
+
+Oh well.. 
+
+Arab News: "Search for long-missing flight MH370 suspended.. 'They
+have stopped the operation for the time being, they will resume the
+search at the end of this year' Transport Minister Anthony Loke said"
+
+---
+
+Mining Weekly: "Hydrogen combustion truck undergoes proof-of-concept
+trials.. equipment manufacturer Komatsu has partnered with German
+hydrogen engine startup KEYOU to develop a conceptual 'world’s first'
+12-cylinder, hydrogen-powered rigid-frame mining haul truck"
+
+---
+
+"The pope would often end his speeches calling people to pray for him,
+a sinner, he would say, like anyone else"
+
+---
+
+The Telegraph: "Trump to let Putin keep land seized from Ukraine.. The
+condition is part of a seven-point plan to end the war.. Point three
+requires Ukraine to refrain from seeking membership of Nato, though
+the country would still be free to join the EU. Point four covers
+territory, with America offering de jure recognition of Russian
+sovereignty over Crimea.. [T]he nuclear power station at Zaporizhzhia,
+the largest in Ukraine and currently held by Russian forces, would be
+transferred to American control. Under point six, Ukraine would sign
+the minerals deal allowing US companies access to the country’s
+natural resources. Point seven raises the possibility of a new
+relationship between America and Russia, saying that all US sanctions
+would be lifted and the two countries could begin to co-operate on
+energy"
+
+---
+
+Semafor: "Bannon warned the alternative was someone like Luigi
+Mangione, the man charged with killing United Healthcare CEO Brian
+Thompson last year. 'He’s treated like Robin Hood,' Bannon said. 'That
+should scare you to the marrow of your bones, because that’s the
+alternative if the system keeps going like it is'"
+
+---
+
+H2 View: "Doosan Fuel Cell and KOSPO Team Up to Deliver Dynamic Grid
+Solutions with Hydrogen Fuel Cells"
+
+---
+
+H2 View: "Haffner promises sub-€3/kg hydrogen from new biomass reforming unit"
+
+---
+
+H2 Fuel News: "BYD Enters Hydrogen Fuel Cell Market with Launch of
+Hydrogen-Powered Bus.. BYD is making waves again—this time by rolling
+out its very first hydrogen-powered bus. Known around the world for
+leading the charge in electric vehicles, BYD’s foray into hydrogen
+fuel cells shows it’s not just sticking to batteries. Instead, the
+company’s broadening its game plan with a bigger focus on
+zero-emission technology"
+
+---
+
+Business Insider: "A new class action lawsuit accuses Tesla of
+intentionally manipulating the mileage shown on its electric vehicles'
+odometers to more quickly void its warranties. Other Tesla drivers not
+involved in the litigation have told Business Insider they believe
+they've experienced the same phenomenon..
+
+California driver Nyree Hinton filed the class action lawsuit against
+the company on April 2, accusing Tesla of using algorithms and energy
+consumption metrics to manipulate and misrepresent the actual mileage
+traveled by Tesla vehicles"
+
+---
+
+The Asashi Shukimbun: "The Japan Atomic Energy Agency said it plans to
+start producing clean hydrogen using heat from its High Temperature
+Engineering Test Reactor (HTTR) in Ibaraki Prefecture close to Tokyo
+by 2028..
+
+The national nuclear research and development agency is hoping to
+start producing hydrogen at the HTTR, an experimental high-temperature
+gas-cooled reactor (HTGR), in the second half of fiscal 2028. There
+are hopes that HTGRs can produce hydrogen in voluminous amounts on a
+stable basis because heat at higher temperatures can be extracted from
+an HTGR compared with a light-water reactor, which is the mainstream
+nuclear reactor"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/143/641/491/original/24181029b743d850.jpg'/>
+
+---
+
+"@stroughtonsmith@mastodon.social
+
+The European Commission finds Apple’s Core Technology Fee is against
+the law. It's also too onerous on developers, and too complicated for
+users, and Apple has not proved these measures are just and
+valid. Apple now has a chance to defend its reasoning before a final
+ruling on fines & consequences"
+
+---
+
+AAah now we find out why they included the scene. It's anti-deportation,
+pro-open-border propaganda. No wonder the show sucks.
+
+The Holywood Reporter: "Andor dared to go to the darkest places Star
+Wars could offer. An Imperial Officer abusing his untouchable status
+to [assault] an undocumented migrant, while his troops are rounding up
+other undocumented citizens. This is the real world seeping into Star
+Wars storytelling; this is the world WE live in, reflected in the
+galaxy far, far away, this is Star Wars at its most political, its
+most potent"
+
+---
+
+There was a scene in ep 3 where an imperial officer abused a woman?
+
+---
+
+Watched one ep, it still sucks
+
+---
+
+New *Andor* season..?
+
+---
+
+The Guardian: "The world’s coral reefs have been pushed into
+'uncharted territory' by the worst global bleaching event on record
+that has now hit more than 80% of the planet’s reefs, scientists have
+warned.
+
+Reefs in at least 82 countries and territories have been exposed to
+enough heat to turn corals white since the global event started in
+January 2023, the latest data from the US government’s Coral Reef
+Watch shows"
+
+---
+
+Pope RIP
+
+---
+
+Fault line from paper
+
+[[-]](https://www.nature.com/articles/ncomms2999)
+
+---
+
+[Link](this_is_fine_eq.jpg)
+
+---
+
+All near the fault line.. Nothing to worry about. All dandy.
+
+```python
+fl = u.get_json().loads(open("tr_faultline1.json").read())
+u.map_coords(dfq, lines=fl, zoom=9, outfile="map07.html")
+```
+
+[[-]](map07.html)
+
+---
+
+There's been much talk about "the big one" that is predicted to hit
+Stanpoli at some point. Are these the signs of the big one?
+
+---
+
+Homie got shook? 
+
+\#Earthquake
+
+```python
+dfq = u.eq_at(41, 29, 500, 3); u.map_coords(dfq, zoom=9, outfile="map06.html")
+```
+
+[[-]](map06.html)
+
+---
+
+[Perovskites](../../2022/06/the-h2-revolution-alvera.html#peros)
 
 ---
 
@@ -190,7 +460,7 @@ The supposed Tishrin Dam handoff (from SDF to HTS) is not yet visible.
 
 \#Frontlines \#Syria - 03/24 - 04/19
 
-[[-]](mbl/2025/syrdata/map03.html)
+[[-]](syrdata/map03.html)
 
 ---
 

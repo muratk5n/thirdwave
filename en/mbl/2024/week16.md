@@ -284,7 +284,7 @@ did not confirm it. A big oops for the "leading theories".
 
 ---
 
-[Bankrupting Physics](../../2024/04/bakrupting-physics-unzicker.html), Unzicker.
+[Bankrupting Physics](../../2021/02/unzicker.html), Unzicker.
 
 ---
 

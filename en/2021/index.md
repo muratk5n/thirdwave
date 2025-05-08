@@ -18,7 +18,7 @@
 
 [University, An Owner's Manual](02/university-rosovksy.html)
 
-[Alex Unzicker](02/unzicker.html)
+[Unzicker](02/unzicker.html)
 
 [On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.html)
 

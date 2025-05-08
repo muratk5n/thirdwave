@@ -25,7 +25,198 @@
       <div id="main_content_wrap" class="outer">        
         <section id="main_content" class="inner">
 <h1>Week 17</h1>
-<p><a href="2022/06/the-h2-revolution-alvera.html#peros">Perovskites</a></p>
+<p>"All credit is printed money". Guy thinks he discovered the 8th wonder
+of the world w/ that observation. That doesn't solve the
+problem. Money, printed or not, can pile up on someone's account, now
+the wealthy, causing massive inequality reducing everyone's living
+standards. Excess wealth will chase assets, if it buys mortgage debt
+it will increase the price of the underlying asset which is precisely
+what happened before the GFC. Now the median house nearly costs half a
+million <em>freaking</em> dollars.</p>
+<p>Governments must tax for rebalancing. Useless observations like one
+above are so inane they create opportunities for ideological arbitrage
+which the wealthy will happily exploit. They will push faux leftist
+spending wout taxation - all printed money flows to them anyway, and
+they remain wealthy.</p>
+<hr />
+<p>#Ukraine 04/15 - 04/25</p>
+<p><a href="mbl/2025/ukrdata/map17.html">[-]</a></p>
+<hr />
+<p>Economic Times: "Vincent Lyne, a researcher from the University of
+Tasmania's Institute for Marine and Antarctic Studies, claims to have
+located the missing Malaysian Airlines flight MH370. The plane, which
+disappeared in 2014 with 239 people on board, was allegedly flown
+intentionally into a 20,000-foot-deep chasm in the Indian Ocean known
+as the Broken Ridge. Lyne's research..  suggests that the
+disappearance was a result of meticulous planning and not an
+accident... [Lyne] believes the plane was intentionally flown into a
+deep chasm in the Indian Ocean. [He] suggests that previous searches
+missed the mark due to incorrect assumptions about the aircraft's
+final moments... Lyne identified a 6000-meter hole at the eastern end
+of the Broken Ridge as the likely resting place of MH370. He described
+the area as a hazardous ocean habitat filled with deep pits of fine
+sediments and narrow, steep sides surrounded by enormous hills.</p>
+<p>Lyne's theory contradicts the earlier notion of a rapid plunge due to
+lack of fuel. Instead, he proposed a 'controlled ditching' akin to
+Captain Chesley 'Sully' Sullenberger's 2009 landing on the Hudson
+River, with the plane's wings, flaps, and flaperon damages supporting
+this scenario"</p>
+<hr />
+<p>Researcher Lyne disputes the last moments of the plane, the data on
+the "7th arc" (which most pre-2018-data analysis used), says that last
+ping should not be trusted.</p>
+<hr />
+<p>They were going to search the Godfrey and Lyne points, plus that white
+region in the map.</p>
+<hr />
+<pre><code class="python">import json, requests
+qr = requests.get(&quot;https://trise5631.github.io/areas2.js&quot;).text
+jres = json.loads(qr.replace(&quot;parseAreas(&quot;,&quot;&quot;).replace(&quot;})&quot;,&quot;}&quot;))
+
+cs = {&quot;Lyne&quot;: list(reversed(jres[&quot;areas&quot;][&quot;LYNE&quot;][0]))}
+atsb = u.flip_c(jres[&quot;areas&quot;][&quot;ATSB&quot;])
+OI2018 = u.flip_c(jres[&quot;areas&quot;][&quot;OI2018&quot;])
+GCM = u.flip_c(jres[&quot;areas&quot;][&quot;GCM&quot;])
+a =  u.flip_c(jres[&quot;areas&quot;][&quot;OI2025A&quot;])
+b =  u.flip_c(jres[&quot;areas&quot;][&quot;OI2025B&quot;])
+polys = {&quot;atsb&quot;: atsb, &quot;OI2018&quot;: OI2018, &quot;OI2025A&quot;: a, &quot;OI2025B&quot;: b, &quot;Godfrey&quot;: GCM}
+u.map_coords(cs, polys, zoom=4, colors={&quot;Godfrey&quot;: &quot;#FFFFFF&quot;, &quot;OI2025A&quot;: &quot;#FFFFFF&quot;, &quot;OI2025B&quot;: &quot;#FFFFFF&quot;}, outfile=&quot;map07.html&quot;)
+</code></pre>
+
+<p><a href="mbl/2025/map04.html">[-]</a></p>
+<hr />
+<p>Found its raw data, almost in json</p>
+<p><a href="https://trise5631.github.io/areas2.js">[-]</a></p>
+<hr />
+<p>This was the tracking page for the MH 370 search</p>
+<p><a href="https://www.mh370-caption.net/index.php/armada-tracking/">[-]</a></p>
+<hr />
+<p>Oh well.. </p>
+<p>Arab News: "Search for long-missing flight MH370 suspended.. 'They
+have stopped the operation for the time being, they will resume the
+search at the end of this year' Transport Minister Anthony Loke said"</p>
+<hr />
+<p>Mining Weekly: "Hydrogen combustion truck undergoes proof-of-concept
+trials.. equipment manufacturer Komatsu has partnered with German
+hydrogen engine startup KEYOU to develop a conceptual 'world’s first'
+12-cylinder, hydrogen-powered rigid-frame mining haul truck"</p>
+<hr />
+<p>"The pope would often end his speeches calling people to pray for him,
+a sinner, he would say, like anyone else"</p>
+<hr />
+<p>The Telegraph: "Trump to let Putin keep land seized from Ukraine.. The
+condition is part of a seven-point plan to end the war.. Point three
+requires Ukraine to refrain from seeking membership of Nato, though
+the country would still be free to join the EU. Point four covers
+territory, with America offering de jure recognition of Russian
+sovereignty over Crimea.. [T]he nuclear power station at Zaporizhzhia,
+the largest in Ukraine and currently held by Russian forces, would be
+transferred to American control. Under point six, Ukraine would sign
+the minerals deal allowing US companies access to the country’s
+natural resources. Point seven raises the possibility of a new
+relationship between America and Russia, saying that all US sanctions
+would be lifted and the two countries could begin to co-operate on
+energy"</p>
+<hr />
+<p>Semafor: "Bannon warned the alternative was someone like Luigi
+Mangione, the man charged with killing United Healthcare CEO Brian
+Thompson last year. 'He’s treated like Robin Hood,' Bannon said. 'That
+should scare you to the marrow of your bones, because that’s the
+alternative if the system keeps going like it is'"</p>
+<hr />
+<p>H2 View: "Doosan Fuel Cell and KOSPO Team Up to Deliver Dynamic Grid
+Solutions with Hydrogen Fuel Cells"</p>
+<hr />
+<p>H2 View: "Haffner promises sub-€3/kg hydrogen from new biomass reforming unit"</p>
+<hr />
+<p>H2 Fuel News: "BYD Enters Hydrogen Fuel Cell Market with Launch of
+Hydrogen-Powered Bus.. BYD is making waves again—this time by rolling
+out its very first hydrogen-powered bus. Known around the world for
+leading the charge in electric vehicles, BYD’s foray into hydrogen
+fuel cells shows it’s not just sticking to batteries. Instead, the
+company’s broadening its game plan with a bigger focus on
+zero-emission technology"</p>
+<hr />
+<p>Business Insider: "A new class action lawsuit accuses Tesla of
+intentionally manipulating the mileage shown on its electric vehicles'
+odometers to more quickly void its warranties. Other Tesla drivers not
+involved in the litigation have told Business Insider they believe
+they've experienced the same phenomenon..</p>
+<p>California driver Nyree Hinton filed the class action lawsuit against
+the company on April 2, accusing Tesla of using algorithms and energy
+consumption metrics to manipulate and misrepresent the actual mileage
+traveled by Tesla vehicles"</p>
+<hr />
+<p>The Asashi Shukimbun: "The Japan Atomic Energy Agency said it plans to
+start producing clean hydrogen using heat from its High Temperature
+Engineering Test Reactor (HTTR) in Ibaraki Prefecture close to Tokyo
+by 2028..</p>
+<p>The national nuclear research and development agency is hoping to
+start producing hydrogen at the HTTR, an experimental high-temperature
+gas-cooled reactor (HTGR), in the second half of fiscal 2028. There
+are hopes that HTGRs can produce hydrogen in voluminous amounts on a
+stable basis because heat at higher temperatures can be extracted from
+an HTGR compared with a light-water reactor, which is the mainstream
+nuclear reactor"</p>
+<p><img width='340' src='https://files.mastodon.social/cache/preview_cards/images/143/641/491/original/24181029b743d850.jpg'/></p>
+<hr />
+<p>"@stroughtonsmith@mastodon.social</p>
+<p>The European Commission finds Apple’s Core Technology Fee is against
+the law. It's also too onerous on developers, and too complicated for
+users, and Apple has not proved these measures are just and
+valid. Apple now has a chance to defend its reasoning before a final
+ruling on fines &amp; consequences"</p>
+<hr />
+<p>AAah now we find out why they included the scene. It's anti-deportation,
+pro-open-border propaganda. No wonder the show sucks.</p>
+<p>The Holywood Reporter: "Andor dared to go to the darkest places Star
+Wars could offer. An Imperial Officer abusing his untouchable status
+to [assault] an undocumented migrant, while his troops are rounding up
+other undocumented citizens. This is the real world seeping into Star
+Wars storytelling; this is the world WE live in, reflected in the
+galaxy far, far away, this is Star Wars at its most political, its
+most potent"</p>
+<hr />
+<p>There was a scene in ep 3 where an imperial officer abused a woman?</p>
+<hr />
+<p>Watched one ep, it still sucks</p>
+<hr />
+<p>New <em>Andor</em> season..?</p>
+<hr />
+<p>The Guardian: "The world’s coral reefs have been pushed into
+'uncharted territory' by the worst global bleaching event on record
+that has now hit more than 80% of the planet’s reefs, scientists have
+warned.</p>
+<p>Reefs in at least 82 countries and territories have been exposed to
+enough heat to turn corals white since the global event started in
+January 2023, the latest data from the US government’s Coral Reef
+Watch shows"</p>
+<hr />
+<p>Pope RIP</p>
+<hr />
+<p>Fault line from paper</p>
+<p><a href="https://www.nature.com/articles/ncomms2999">[-]</a></p>
+<hr />
+<p><a href="this_is_fine_eq.jpg">Link</a></p>
+<hr />
+<p>All near the fault line.. Nothing to worry about. All dandy.</p>
+<pre><code class="python">fl = u.get_json().loads(open(&quot;tr_faultline1.json&quot;).read())
+u.map_coords(dfq, lines=fl, zoom=9, outfile=&quot;map07.html&quot;)
+</code></pre>
+
+<p><a href="map07.html">[-]</a></p>
+<hr />
+<p>There's been much talk about "the big one" that is predicted to hit
+Stanpoli at some point. Are these the signs of the big one?</p>
+<hr />
+<p>Homie got shook? </p>
+<p>#Earthquake</p>
+<pre><code class="python">dfq = u.eq_at(41, 29, 500, 3); u.map_coords(dfq, zoom=9, outfile=&quot;map06.html&quot;)
+</code></pre>
+
+<p><a href="map06.html">[-]</a></p>
+<hr />
+<p><a href="../../2022/06/the-h2-revolution-alvera.html#peros">Perovskites</a></p>
 <hr />
 <p>Zeihan: "[T]he absolute lowest grade for silicon as an actual
 industrial input is 99.95 percent pure.  Getting there requires a
@@ -172,7 +363,7 @@ of gunpowder and ammunition"</p>
 <hr />
 <p>The supposed Tishrin Dam handoff (from SDF to HTS) is not yet visible.</p>
 <p>#Frontlines #Syria - 03/24 - 04/19</p>
-<p><a href="mbl/2025/syrdata/map03.html">[-]</a></p>
+<p><a href="syrdata/map03.html">[-]</a></p>
 <hr />
         </section>          
       </div>

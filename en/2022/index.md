@@ -98,7 +98,7 @@
 
 [33 Strategies of War](08/33-strategies.html)
 
-[Black Holes or Burning Disks](08/black-holes.html)
+[Black Holes](08/black-holes.html)
 
 [Dark Energy](08/dark-energy.html)
 

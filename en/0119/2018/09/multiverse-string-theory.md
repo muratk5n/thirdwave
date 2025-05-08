@@ -14,7 +14,7 @@ multiverse from him, and his vision of the future has string theory
 solving QCD 80 years from now, nothing about it ever telling us
 anything about where the Standard Model comes from
 
-[Unzicker, *Bankrupting Physics](../../../2024/04/bakrupting-physics-unzicker.html)
+[Unzicker](../../../2021/02/unzicker.html)
 
 Smolin, *Einstein's Unfinished Revolution*
 
