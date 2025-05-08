@@ -1,0 +1,166 @@
+# Cetta, de la Pena
+
+[Link](https://arxiv.org/pdf/2210.16388)
+
+This paper provides elements in support of the random zero-point
+radiation field (ZPF) as an essential ontological ingredient needed to
+explain distinctive properties of quantum-mechanical systems. We show
+that when an otherwise classical particle is connected to the ZPF, a
+drastic, qualitative change in the dynamics takes place, leading
+eventually to the quantum dynamics...
+
+[An] inspection of the current literature readily reveals the
+existence of about two dozen different interpretations of QM, some
+more popular than others, and none of them experimentally
+verified. How can it be that a fundamental theory that provides the
+basis for a most significant part of contemporary physics, admits such
+a variety of alternative, even contradictory interpretations? No
+serious physicist or philosopher of science in his five senses would
+claim to come up with a better interpretation of Newtonian mechanics
+or Maxwellian electrodynamics. Reformulations of a known accepted
+theory may appear, of course, but fundamental theories do not accept
+reinterpretations. Special relativity did not reinterpret classical
+mechanics, it extended mechanics to wider domains, and together with
+quantum theory helped to specify its range of applicability. We should
+conclude that in the case of quantum mechanics, such variety of
+interpretations is indicative of a crucial underdetermination of the
+theory...
+
+[To] understand the origin of so many different visions about the same
+fundamental theory, it is convenient to place ourselves in the context
+in which QM was born. We recall that the quantum formalism—its
+excellent mathematical apparatus that we still use today with
+success—was born in the absence of a deep understanding of the quantum
+phenomenology...
+
+It is against this background that Heisenberg worked on his version of
+the theory, the matrix mechanics. Heisenberg discovered that the
+quantum particles have an unavoidable random behavior. Being persuaded
+of the completeness of his theory, he took this randomness for an
+essential, irreducible trait that neither needs nor admits a deeper
+explanation...
+
+Unknowingly, Schrödinger’s wave theory implied the introduction of a
+new element into the quantum description. The point is that electron
+interference patterns are produced by the accumulation of a high
+number of point-like events, each one created by a single electron. A
+single particle produces an isolated, randomly located bright point on
+the detecting screen, the interference—the wave manifestation—becoming
+evident only after very many hits. The conclusion—normally one that
+goes unnoticed—is that Schrödinger’s wave function refers not to a
+single particle, but to an ensemble of them. Well interpreted,
+Schrödinger theory is intrinsically statistical in nature, and deals
+with ensembles rather than individual particles.  Nevertheless, the
+statistical perspective of the quantum phenomenon was dismissed in
+general—and adamantly opposed by the Copenhagen school in particular,
+which prevails to date under different guises.. This opened the door
+to another infelicitous ingredient, the observer. The introduction of
+an active character in order to ’explain’ the reduction of the
+distinctive quantum mixtures to the pure states observed, added a
+subjective ingredient to the already odd quantum scheme.  All in all,
+such variety of interpretations and re-interpretations indicates that
+something of importance is missing in the theory. Having so many
+variations indicates that the issue is actually not one of
+interpretation, but of an essential incompleteness. The absence of an
+appropriate guiding ontological element has turned the physical
+situation into a mystery...
+
+However, rather than [an] incompletenesses.. we are referring to an
+essential ingredient that is missing. The point is that whatever is to
+be added to the incomplete theoretical framework should be able to
+address simultaneously some of its main puzzles, including not just
+the nature of quantum fluctuations; atomic stability, quantum
+transitions, discrete atomic spectra, wavelike phenomena and the like
+should find their natural explanation in a coherent scheme.
+
+The present paper is one of a series that deals with the development
+of stochastic electrodynamics (SED) as a physical foundation for
+quantum mechanics. In previous work we have shown that, by including
+the zero-point radiation field (ZPF), SED allows us to arrive at a
+consistent description of the stationary states and to derive the
+(nonrelativistic) radiative corrections proper for QED.
+
+The Quantum Dice
+
+Let us consider a box that is divided into two smaller equal boxes L
+and R by means of a movable wall. Assume that inside the big box there
+is a (single) particle... We ask a simple question: Where is the
+particle? Even though it would be difficult to pose a simpler
+question, physicists are imaginative enough as to have begotten a full
+range of answers to it; however, since our interest lies in the
+fundamental content of those answers, we may abstract the details and
+reduce them to just the two that catch the main tendencies. So, where
+is the particle?..
+
+The conventional description [is this] basic tenet of the conventional
+interpretation of quantum mechanics is that the wave function affords
+a complete description of each individual system... this means that
+the wave function refers to the one particle inside the big box and
+the answer to the above question depends on whether we have observed
+the interior or not. Previous to any observation the state is
+*completely* described by stating that the probability of the particle
+being in any of the two boxes L or R is $\frac{1}{2}$; there is no
+more to that. Thus, the particle is in a state of indeterminate
+localization (delocalized) in the big box. By looking inside (making a
+measurement to know its whereabouts) we perturb the system and bring
+it into a new state, (objectively) localized either in box L or in box
+R. The transformation of the wave function from the (pre-observation)
+indeterminate localization state to the (post-observation) determinate
+state constitutes the reduction or collapse of the wave function,
+brought about by the observation. Whether the particle ends up in box
+L or in box R after the measurement, is a matter of chance.
+
+The assumption that the wave function refers to a single system thus
+has enormous consequences. Quantities such as $\Delta x$
+(uncertainties in the conventional language) become objective
+restrictions on the localization of the particle, meaning that there
+exist intrinsic limitations on the corresponding measurements. So,
+quantum mechanics goes as far as is possible and physicists must
+renounce once and for all the hope for a detailed description of the
+individual. Further, since the concept of probability is being applied
+to a single event and no sample space can be constructed, there is no
+consistent way of viewing the result as a property of the system, and
+it must be interpreted as an uncertainty of our knowledge. The
+observer slips thus into the description, and the fundamental
+principle that physics refers to the world rather than to our
+knowledge of it, is eroded"
+
+The Emerging Quantum
+
+[In] 1963..  physicist Trevor Marshall published a paper in the
+Proceedings of the Royal Society under the short title *Random
+Electrodynamics*—an intriguing title, at that time. To date this paper
+has received just over four citations per year, which means it is
+alive, but not as present as it could be, considering the perspectives
+it opened for theoretical physics.  Shortly thereafter a related paper
+was published by..Timothy Boyer, under the longer title *Quantum
+Electromagnetic Zero-Point Energy and Retarded Dispersion
+Forces*. Boyer does not cite Marshall’s paper (although he does so in
+his third paper, which is followed by a productive 50-year long work
+in solitary), but instead he refers to the work of David Kershaw and
+Edward Nelson on stochastic quantum mechanics. All these papers share
+a central feature: they are based on conceiving quantum mechanics as a
+stochastic process. Marshall mentions explicitly the existence of a
+real, space-filling radiation zero-point field as the source of
+stochasticity. Boyer sees a deep truth in this, and in a note added to
+his manuscript he comments that '...in this sense, quantum motions are
+experimental evidence for zero-point radiation.'
+
+From a historical perspective, we recall.. in 1916.. Nernst had
+proposed to consider atomic stability as experimental evidence for
+Planck’s recently discovered zero-point radiation. This visionary idea
+was largely ignored by the founders of quantum mechanics.. such is
+history. Both Marshall and Boyer succeed in demonstrating that some
+quantum phenomena can indeed be understood by the simple expedient of
+adding this random zero-point field to the corresponding classical
+description. Their pioneering work was soon followed by that of other
+colleagues, moved by the conviction that the random zero-point field
+has something important to tell us about quantum mechanics. Many other
+results have been obtained during this period, which constitute the
+essence of the theory largely known under the name of stochastic
+electrodynamics.  At the same time, other researchers, notably Nelson,
+dedicated their efforts to develop the phenomenological stochastic
+theory of quantum mechanics.  The perception that quantumness and
+stochasticity are but two different aspects of a reality, started to
+gain support from several sides"
+
