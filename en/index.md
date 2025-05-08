@@ -3,8 +3,7 @@ The irresistable appeal of the *wunderwaffe*.. there is a certain
 culture around this stuff in US, elevated by corporate media, and
 neocon think-tank sponsored "fluffers". Guess who benefits from it? Of
 course the military-industrial complex. They make money, at the same
-time bottom 50% of Americans hold just 2.4% of U.S. wealth. Who wins,
-who loses? Is the enemy abroad or within US borders?
+time bottom 50% of Americans hold just 2.4% of total wealth.
 
 ---
 
