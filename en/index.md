@@ -1,159 +1,71 @@
 
-The irresistable appeal of the *wunderwaffe*.. there is a certain
-culture around this stuff in US, elevated by corporate media, and
-neocon think-tank sponsored "fluffers". Guess who benefits from it? Of
-course the military-industrial complex. They make money, at the same
-time bottom 50% of Americans hold just 2.4% of total wealth.
+H2 Central: "No batteries, no gasoline – BYD new hydrogen-powered bus
+is revolutionizing transportation in the US"
 
 ---
 
-Jake Sullivan: "Regardless, despite Ukrainian tactical successes of
-using these [advanced] weapons beginning in October 2023, Sullivan
-said they were not game-changers... 'We ended up providing Ukraine
-with a very significant number of these systems down to the level
-where, again, we basically have no more to give,' Sullivan
-surmised. 'And the idea that they made a major difference
-operationally in the war has not been borne out by the evidence. So I
-think a lot has been put on this ATACMS decision to suggest, "Oh, if
-only you’d given ATACMS, the war would have turned out totally
-differently." And yet, the experience of the use of ATACMS by Ukraine
-on the battlefield, I think, suggests that that is not, in fact, the
-case'"
+Iselin: "If you think Tesla’s Q1 earnings were bad, and its deliveries
+awful, wait until you hear about the odometer scandal. What could end
+up as Tesla’s Dieselgate (the VW emissions scandal) is a direct
+assault on the one thing Tesla can’t afford to lose: trust. The
+numbers are grim, the leadership is distracted, and now the company
+stands accused of manipulating odometers (by up to 117%!) to dodge
+warranty repairs"
 
 ---
 
-Ledbetter, *Unwarrented Influence*: "One reason the [MIC] debate has
-moved so little in the past twenty-five years is the lack of a clear
-alternative to the MIC. The problem isn’t theory—there’s plenty of
-theory. But the most visionary work on converting to a civilian
-economy has usually come from expectations—always dashed—that changing
-geopolitics would bring about large cuts in military spending. It may
-be time for critics of the MIC to abandon that fantasy.  Barring some
-extremely unlikely events—a dramatic reduction in perceived threats to
-the United States, a wholesale rejection of the role of global
-superpower, or a protracted economic crisis that makes military
-spending impossible—it is difficult to see how the United States would
-be sufficiently motivated to eliminate its MIC, let alone replace it
-with something superior. The United States for the foreseeable future
-will continue to spend hundreds of billions of dollars every year for
-military purposes.
+Prime Mover: "Three of the world’s leading automotive brands – BMW,
+Hyundai, and Toyota – have joined forces to establish the Hydrogen
+Transport Forum (HTF), a new industry coalition dedicated to
+accelerating the deployment of hydrogen mobility solutions in
+Australia"
 
-Scandals that spotlight ugly issues of military procurement—such as
-the $1,868 toilet seat and similar outlandish spending that surfaced
-during the 1980s—often create temporary impetus for limited
-reform. Such scandals tend to flare up either when the country is
-relatively at peace or after a military engagement becomes
-protracted. Many legislative remedies have been passed in the wake of
-scandals, such as increased requirements for competitive bidding and
-limits on the revolving door between departing Defense Department
-personnel and contractors. But scandals have been a recurring feature
-of the political and military landscape at least since the 1930s, and
-their reform power recedes as soon as another large conflict looms.
-
-Hence, in the view of many critics, the size and sins of the MIC have
-grown, not shrunk. As has been shown repeatedly in recent decades, it
-is exceedingly difficult for the government to take even such
-seemingly simple actions as closing a few military bases. It is one of
-the pernicious features of a military-industrial complex that it is
-nearly impervious to democratic reform"
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/147/156/609/original/3e8105539d2e9bb7.jpeg'/>
 
 ---
 
-Anglo-friend Israel threw in their support immediately.
-
-India always had a balanced approach but it is a right rope to walk
-on at the moment.
-
----
-
-Was India was perceived as too buddy-buddy w/ the Anglo and somebody
-wanted to give a message..? There were attempts on upgrading rels with
-US recently, and right after the India response to Kashmiri attack, IN
-signed a massive trade deal w UK. Major powers of Brics all have
-issues with US at the moment.. The attack is obscene in its daring
-that it has to be some kind of message.
+LiveScience: "Scientists think a hidden source of clean energy could
+power Earth for 170,000 years — and they've figured out the 'recipe'
+to find it.. Researchers have compiled a list of 'ingredients' that
+could help resource exploration companies locate huge reservoirs of
+clean hydrogen, a critical element in the transition away from fossil
+fuels.. Recent breakthroughs suggest that hydrogen reservoirs are
+buried in countless regions of the world, including at least 30
+U.S. states"
 
 ---
 
-BBC: "UK and India agree trade deal after three years of talks"
+CNBC: "While the elevated tariffs [w/ China] didn’t last long, the
+trauma is real. Businesses now know they need to mitigate tariff
+uncertainty. 'The post-WWII trade framework that once underpinned
+stable expectations is gone; even further tariff rollbacks won’t
+restore it,' Jianwei Xu, senior economist at Natixis"
 
 ---
 
-"The 2025 Pahalgam attack was.. in the Indian-administered Jammu and
-Kashmir.. This incident is considered the deadliest attack on
-civilians in India since the 2008 Mumbai attacks"
+Firstpost: "Trump tells Apple to not build manufacturing plants in
+India"
 
 ---
 
-Let's see how ticket sales turn out..  Heard TB is not too Woke, I
-might go see this one
+Good news overall.. 
 
 ---
 
-Is MCU back from the dead?
-
-```python
-u.rottentomatoes("Thunderbolts")
-```
-
-```text
-Out[1]: {'critics': '88', 'audience': '94'}
-```
+NYT: "Trump Meets Syria’s President a Day After Promise to Lift
+U.S. Sanctions"
 
 ---
 
-Hughes: "Instead of wallowing in chaos, as if our job is to give the
-market what 'it' demands, we can harness markets to work for our
-needs. 'Capitalism needs to be cared for by policymakers,' Secretary
-of State Marco Rubio recently wrote. 'Our economy is supposed to work
-for our nation; our nation does not work for our economy'"
-
----
-
-Hughes, *Marketcrafters*: "The stubborn persistence of the language of
-'market failure' and 'government intervention' reinforces a faulty
-vision of how the economy works. There is no sequence where markets
-exist first, before a governance structure. Just as there was no state
-of nature where humans existed without a social order, there was never
-a time when markets flourished without a political order. The core
-flaw of the 'market failure' paradigm is that it casts the government
-as a reactive parental figure—one who merely corrects missteps or
-offers aid after harm has occurred. In this view, the government’s
-role is limited to 'intervening' in markets only after problems arise,
-much like a parent scolding a child for misbehaving on the
-playground. This notion of state interference with natural market
-forces reinforces a false market-government dichotomy, sets up the
-state in the role of nefarious nanny, and constrains its capacity to
-foster widespread prosperity"
-
----
-
-The impression I get is US agreed not to attack Houthis in return US
-Navy not being a target. But ISR shipping continues to be a target.
-
----
-
-Reuters: "US-Houthi ceasefire deal does not include Israel, says
-Houthi spokesperson"
-
----
-
-NBC News: "Second fighter jet crashes into the sea after landing
-failure on USS Harry S. Truman"
-
----
-
-Bessent: "[W]e’re reading every day what’s happening with factories in
-China. And from an academic point of view, I can tell you that the
-history of trade battles, we are the deficit country. The surplus
-country always has the most to lose"
-
----
-
-CNBC: "China announces sweeping measures to ease policy in bid to
-boost trade-war hit economy.. China will cut its key policy rate by 10
-basis points and lower the reserve requirement ratio by 50 basis
-points"
+The Times of Israel: "Trump slams ‘neocons’ and ‘interventionists’
+during Riyadh speech.. 'It’s crucial for the wider world to know this
+great transformation [in the Middle East] has not come from Western
+interventionists, or flying people in beautiful planes giving you
+lectures on how to live and how to govern your own affairs,' Trump
+says. 'In the end, the so-called nation builders wrecked far more
+nations than they built and the interventionalists were intervening in
+complex societies that they did not even understand themselves,' he
+continues"
 
 ---
 
@@ -201,3 +113,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
