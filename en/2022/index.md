@@ -126,5 +126,5 @@
 
 [LPG](12/lpg.html)
 
-[African Support for Russia](12/ru-africa.html)
+[African Support for Russia and China](12/ru-ch-africa.html)
 

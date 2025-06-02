@@ -158,25 +158,37 @@ however, and not particles. Since the waves are split by the
 polarizer, the emerging waves are generally not photons. Their energy
 is no longer defined by their frequency. It is not clear that all
 factors influencing the results of Bell’s test have been fully
-understood as yet
+understood as yet...
+
+[T]he quantum exists because aether cannot support nonlinear
+elasticity. Since the maximum amplitude of a wave propagating in
+aether is fixed, the frequency of the wave must correspond to (be
+proportional to) the energy $\mathcal{E}$... Physical properties of
+aether then explain why higher energy light waves take the form of
+quanta and always have the same distinct sinusoidal amplitude for a
+given frequency.  A photon is therefore a monochromatic,
+finite-length, constant-amplitude, transverse sinusoidal wave train in
+aether having a single frequency v and quantized energy $\mathcal{E}$
+given by $\mathcal{E} = hv$. All photons have the same distinct
+constant amplitude. Each photon is characterized, therefore, not by
+its amplitude, but by its frequency
 
 Higgs
 
-A Higgs particle can
-never be directly detected. It is thought to exist for only about 10 −
-22 seconds. The existence of Higgs particles can only be inferred from
-indirect evidence. This inferential process involves examining the
-decay products of high energy particle collisions that occur within a
-particle accelerator in a search for a certain decay pattern that has
-been predicted for Higgs particles. Because of the massive amount of
-data produced in these high energy collisions, extensive data
-filtering is performed before any search for decay patterns even
-begins. Statistical methods are then used to detect Higgs particles
-based on a theoretical model known as the Standard Model of particle
-physics. If more decay patterns are found having the expected Higgs
-decay pattern than predicted by the Standard Model assuming Higgs
-particles do not exist, then the existence of Higgs particles is
-inferred.
+A Higgs particle can never be directly detected. It is thought to
+exist for only about 10 − 22 seconds. The existence of Higgs particles
+can only be inferred from indirect evidence. This inferential process
+involves examining the decay products of high energy particle
+collisions that occur within a particle accelerator in a search for a
+certain decay pattern that has been predicted for Higgs
+particles. Because of the massive amount of data produced in these
+high energy collisions, extensive data filtering is performed before
+any search for decay patterns even begins. Statistical methods are
+then used to detect Higgs particles based on a theoretical model known
+as the Standard Model of particle physics. If more decay patterns are
+found having the expected Higgs decay pattern than predicted by the
+Standard Model assuming Higgs particles do not exist, then the
+existence of Higgs particles is inferred.
 
 In 2013 the existence of Higgs particles was inferred based upon such
 indirect evidence. Clearly the validity of this inference depends not

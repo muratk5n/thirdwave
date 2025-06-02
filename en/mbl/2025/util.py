@@ -8,6 +8,7 @@ from shapely.ops import unary_union
 from pandas_datareader import data
 from functools import lru_cache
 from datetime import timedelta
+from itertools import islice
 import matplotlib.dates as mdates
 from pygeodesy.sphericalNvector import LatLon
 
@@ -28,6 +29,26 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
+def downsample_to_proportion(rows, proportion=1):
+    return list(islice(rows, 0, len(rows), int(1/proportion)))
+    
+def ru_ch_africa(rcc_list, outfile="/tmp/out.html"):
+    m = folium.Map(location=[18,13], zoom_start=3) 
+    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    f = '/opt/Downloads/geo/country-borders.json'
+    borders = json.loads(open(f).read())
+    for c in rcc_list:
+        for border in borders[c]:
+            tmp = [[y,x] for [x,y] in border]
+            tmp = downsample_to_proportion(tmp, 0.1)
+            folium.PolyLine(tmp, color='red').add_to(m)
+    m.save(outfile)
+
+    
 def beckley(country1, country2):   
    df1 = pd.read_csv('imf1.csv',sep='|',index_col="Country")
    df2 = pd.read_csv('pop1.csv',index_col="country")
@@ -274,11 +295,8 @@ def boxofficemojo(q):
     worldwide = re.findall(regex2,res2,re.DOTALL)[0]
     regex2 = 'Domestic Opening.*?money">(.*?)<'
     domopen = re.findall(regex2,res2,re.DOTALL)[0]
-    regex2 = '<span>Earliest Release Date</span><span>(.*?)\n.*?</span>'
-    reldate = re.findall(regex2,res2,re.DOTALL)[0]
     return {"Domestic Opening": domopen, "Domestic": domestic,
-            "International": intl, "Worldwide Total": worldwide,
-            "Release Date": reldate}
+            "International": intl, "Worldwide Total": worldwide}
 
 def rottentomatoes(movie):
    rel = movie.replace(" ","_").lower()

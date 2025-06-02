@@ -237,7 +237,32 @@ def prep_sahel():
             content = re.sub("RSF-W. Darfur<",
                              "RSF-W. Darfur 2<",
                              content,count=1)
-        
+
+            content = re.sub("RSF-N.Kordofan<",
+                             "RSF-N.Kordofan 1<",
+                             content,count=1)            
+
+            content = re.sub("RSF-N.Kordofan<",
+                             "RSF-N.Kordofan 2<",
+                             content,count=1)
+
+            content = re.sub("RSF-N.Kordofan<",
+                             "RSF-N.Kordofan 3<",
+                             content,count=1)
+
+            content = re.sub("RSF-S.Darfur<",
+                             "RSF-S.Darfur 1<",
+                             content,count=1)
+
+            content = re.sub("RSF-S.Darfur<",
+                             "RSF-S.Darfur 2<",
+                             content,count=1)
+
+            content = re.sub("RSF-S.Darfur<",
+                             "RSF-S.Darfur 3<",
+                             content,count=1)
+            
+            
     fout = open("/tmp/sahel.kml","w")
     fout.write(content)
     fout.close()
@@ -249,26 +274,31 @@ def map_sahel_suriyak():
     prep_sahel()
 
     sudan_regs1 = [
-        "RSF-N.Kordofan",
-        "RSF- White Nile",
-        "RSF-Khartoum",
+        "RSF-N.Kordofan 1",
+        "RSF-N.Kordofan 2",
+        "RSF-N.Kordofan 3",
+        "RSF-S.Kordofan",
         "RSF-W.Kordofan",
-        "RSF-S.Darfur",
+        "RSF-S.Darfur 1",
+        "RSF-S.Darfur 2",
+        "RSF-S.Darfur 3",
         "RSF-N.Darfur",
         "RSF-C.Darfur",
         "RSF-W. Darfur 1",
         "RSF-W. Darfur 2",
-        "RSF-E.Darfur",
-        "RSF-W.Kordofan"]
+        "RSF-E.Darfur"]
     
     content = open("/tmp/sahel.kml").read()
 
     rrrs = []              
-    polys = []              
+    polys = []
+    scale = 1e-14
     for i,reg in enumerate(sudan_regs1):
         coords = get_coords_for_label(content, reg)
         polys.append(Polygon(coords))
-    res = unary_union(polys)    
+    polys = [affinity.scale(p, xfact=1+scale, yfact=1+scale) for p in polys]
+    res = unary_union(polys)
+    res = affinity.scale(res, xfact=1-scale, yfact=1-scale)
     rrr = list(res.exterior.coords)
     c = np.array(rrr)
     rrrs.append(c)

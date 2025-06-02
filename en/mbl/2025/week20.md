@@ -1,5 +1,243 @@
 # Week 20
 
+"@DarthAstrius@mastodon.social
+
+@Robo105 We should do what the Black Panther Party was trying to do."
+
+---
+
+"@Robo105@mastodon.social
+
+@breadandcircuses Let get rid of exploitive political and exploitive
+economic systems. I vote for Nordic socialism which is not perfect but
+a hell of a lot better"
+
+---
+
+"@DavidM_yeg@mstdn.ca
+
+@dusk @breadandcircuses
+
+They’ve done the same thing they did with Jesus… make a ‘safe’
+official version co-opted so they can hold him up a vague aspirational
+figurehead, while the double down on the very things he preached
+against… knowing that safe white folk will never dig deep enough to
+see the contradiction"
+
+---
+
+"@dusk@todon.eu
+
+They don't teach that facet of MLK in US schools 🤔"
+
+---
+
+via @breadandcircuses@climatejustice.social
+
+<img width='300' src='https://climatejustice.social/system/media_attachments/files/114/517/754/411/113/300/small/34b5c2653f8fef91.jpeg'/>
+
+---
+
+*Murderbot*, good show
+
+---
+
+See they are so good at that connection they could offer *its service*
+to others... Mom and pop is still screwed but some others may get
+these crumbs
+
+Supply Chain Dive: "2024 Walmart opens ocean shipping network to marketplace sellers"
+
+---
+
+American consumers have way too many choices.
+
+---
+
+Walmart could offer ultra cheap prices bcz of its China connection,
+and they could do that bcz they had the proper size to manage and
+benefit from that relationship... This is how they kill mom and pop
+shops. Then if Walmart loses its China advantage their power wld
+subside, providing opportunities for other vendors.
+
+"Walmart will raise prices if China tariffs were raised"
+
+---
+
+CNN: "[05/10] Zero ships from China are bound for California's top
+ports. Officials haven't seen that since the pandemic"
+
+---
+
+Voyager 1 is using this approach to generate electricity, it's still going
+
+Wiki: "A thermocouple is a thermoelectric device that can convert
+thermal energy directly into electrical energy using the Seebeck
+effect. It is made of two kinds of metal or semiconductor material. If
+they are connected to each other in a closed loop and the two
+junctions are at different temperatures, an electric current will flow
+in the loop"
+
+---
+
+Neocon "ideology", a half-baked concoction that it is, was a cover for
+more military business. So was "Israel's right to defend itself",
+namely the unconditional support for a tiny country over 6K miles
+away. Israel's history proved most useful, full of pain of a wronged
+people, the remains of Jewry who escaped the Holocaust, so this new
+country automatically garnered symphaty and moral protection, during
+which the complex could rake it in (not after the end of the Cold War
+though, before the Soviet threat was enough for generating
+profits). Think about it, there is massive pain on one side, massive
+guilt on the other; haves and have nots... This was a golden
+opportunity for arbitrage. Who is great at arbitrage?  American
+businessmen. They made **bank** on the back of that pain, suffered by
+the European Jews. They still are.
+
+---
+
+The Ukranian conflict, which was provoked by US, was entirely about
+weapon sales. Ukraine is not strategically important for US (strategy
+as in George Kennan would have defined), Ukraine was and is only
+important to trigger another wave of demand for MIC's products,
+services. Just look at what happened thanks to Ukraine, and not just
+in Ukraine. Two new countries, Finland and Sweden joined NATO, meaning
+manufacturers who sell weapons according NATO specs have an advantage
+in those markets. Do you hear the sound? It goes Ka-Ching!
+
+---
+
+The surface state has complex ways of managing the upper echelons of
+politics, esp. at congressional level. I am not talking about knocking
+people out when they step out of line... It is actually much
+worse. They only further the career of people they can control from
+day one. So it's not a matter of being oppo-attacked if you against
+the grain, it is more like you will not gain office *unless MIC has
+something on you first*. That means almost everyone we see in office
+now are captured, held hostage by definition. They would not be there
+if they could not be eliminated within moments of notice.
+
+---
+
+Interventionism was highly profitable for the military-industrial
+complex. It was never meant to work from their POV, in almost all
+cases when it didn't, the repercussions were fine for them too as they
+still made money from the chaos. Officials at the top of the political
+hierarchy might think they were helping these countries, and formulate
+speeches that way thinking they "acted strategically", or even
+benevolently, but they were maneuvered into those positions in the
+first place because of those stupid thoughts, someone knowing that
+their unworkable ideas would inescapable feed a subsequent chaos that
+would create more profits.
+
+---
+
+The American Conservative: "Trump sounded ready to make a clean break
+with his party’s most reflexive hawks in the first big speech he has
+delivered overseas during his second term. 'The so-called nation
+builders wrecked far more nations than they built, and the
+interventionists were intervening in complex societies that they did
+not even understand themselves,' he said in Riyadh on Tuesday.
+
+Trump’s actions may be lining up with his words. He has recently
+announced a halt to the bombing of the Houthis in Yemen, the end of
+sanctions on Syria, the removal of a national security advisor seen as
+less than fully on board with his talks with Iran, and is otherwise
+trying to prevent another regional war in the Middle East"
+
+---
+
+"Trump Issues Executive Order Aimed at Lowering Drug Prices"
+
+---
+
+Hughes, *Marketcrafters*: "[T]echnically speaking, markets allocate
+scarce resources dependent on consumer preferences, investor
+decisions, and social policy, but that doesn’t capture what can feel
+like their ineffable magic... Yet.. [a]bundant prosperity—the kind
+that provides the basic needs of food, shelter, and sanitation—has
+only occurred in the past century, and only then for certain people in
+developed economies. It was only when we figured out how to think
+about our economic activity like gardeners that we began to build real
+collective prosperity that could extend human life-spans and provide
+enough food and even some leisure time to the working class. A
+gardener does not 'intervene' in a garden; she cultivates it. Without
+her ongoing attention, it would turn fallow and quickly be
+overrun. Without qualified people in government managing our markets,
+we have no assurance their growth will satisfy our social priorities"
+
+---
+
+H2 Central: "No batteries, no gasoline – BYD new hydrogen-powered bus
+is revolutionizing transportation in the US"
+
+---
+
+Iselin: "If you think Tesla’s Q1 earnings were bad, and its deliveries
+awful, wait until you hear about the odometer scandal. What could end
+up as Tesla’s Dieselgate (the VW emissions scandal) is a direct
+assault on the one thing Tesla can’t afford to lose: trust. The
+numbers are grim, the leadership is distracted, and now the company
+stands accused of manipulating odometers (by up to 117%!) to dodge
+warranty repairs"
+
+---
+
+Prime Mover: "Three of the world’s leading automotive brands – BMW,
+Hyundai, and Toyota – have joined forces to establish the Hydrogen
+Transport Forum (HTF), a new industry coalition dedicated to
+accelerating the deployment of hydrogen mobility solutions in
+Australia"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/147/156/609/original/3e8105539d2e9bb7.jpeg'/>
+
+---
+
+LiveScience: "Scientists think a hidden source of clean energy could
+power Earth for 170,000 years — and they've figured out the 'recipe'
+to find it.. Researchers have compiled a list of 'ingredients' that
+could help resource exploration companies locate huge reservoirs of
+clean hydrogen, a critical element in the transition away from fossil
+fuels.. Recent breakthroughs suggest that hydrogen reservoirs are
+buried in countless regions of the world, including at least 30
+U.S. states"
+
+---
+
+CNBC: "While the elevated tariffs [w/ China] didn’t last long, the
+trauma is real. Businesses now know they need to mitigate tariff
+uncertainty. 'The post-WWII trade framework that once underpinned
+stable expectations is gone; even further tariff rollbacks won’t
+restore it,' Jianwei Xu, senior economist at Natixis"
+
+---
+
+Firstpost: "Trump tells Apple to not build manufacturing plants in
+India"
+
+---
+
+Good news overall.. 
+
+---
+
+NYT: "Trump Meets Syria’s President a Day After Promise to Lift
+U.S. Sanctions"
+
+---
+
+The Times of Israel: "Trump slams ‘neocons’ and ‘interventionists’
+during Riyadh speech.. 'It’s crucial for the wider world to know this
+great transformation [in the Middle East] has not come from Western
+interventionists, or flying people in beautiful planes giving you
+lectures on how to live and how to govern your own affairs,' Trump
+says. 'In the end, the so-called nation builders wrecked far more
+nations than they built and the interventionalists were intervening in
+complex societies that they did not even understand themselves,' he
+continues"
+
+---
+
 NYT: "In Private, Some Israeli Officers Admit That Gaza Is on the
 Brink of Starvation"
 
