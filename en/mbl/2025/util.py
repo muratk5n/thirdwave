@@ -29,6 +29,10 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
+def mov_profit(budget, gross):
+  marketing = budget / 2
+  return np.round(gross - (budget + marketing + gross*0.4),2)
+    
 def downsample_to_proportion(rows, proportion=1):
     return list(islice(rows, 0, len(rows), int(1/proportion)))
     

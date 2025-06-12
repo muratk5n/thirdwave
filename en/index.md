@@ -1,36 +1,56 @@
 
-Fortune: "Chinese EV stocks tumble after BYD slashes prices as much as
-34%"
+Miran is describing today's situation exactly. When US was supplying
+the reserve currency when the world econ was small, there was no
+problem. But today, where US represents only a quarter of global GDP,
+problems started to arise.
 
 ---
 
-MIC influence and its control on USG is not a conspiracy theory. When
-HP (a company in the lower rungs of the hierarchy btw) has two people
-killed that were a nuisance to it in the same day, they are *letting
-you know* they are the ones who did it. They are sticking it in your
-eye. Yelling it in your ear with a megaphone. They want it to be
-known, bcz they want to be seen and feared. They have the power.
+Miran, *Maga Lago Accords*: "[Today's trade situation] reflect what
+can be described as a 'Triffin world,' after Belgian economist Robert
+Triffin. In Triffin world, reserve assets are a form of global money
+supply, and demand for them is a function of global trade and savings,
+not the domestic trade balance or return characteristics of the
+reserve nation.  When the reserve country is large relative to the
+rest of the world, there are no significant externalities imposed on
+the reserve country from its reserve status. The distance from the
+Triffin equilibrium to the trade equilibrium is small. However, when
+the reserve country is smaller relative to the rest of the world—say,
+because global growth exceeds the reserve country’s growth for a long
+period of time—tensions build and the distance between the Triffin
+equilibrium and the trade equilibrium can be quite large. Demand for
+reserve assets leads to significant currency overvaluation with real
+economic consequences"
 
 ---
 
-Ledbetter, *Unwarrented Influence*: "The Iraq war has highlighted
-issues of military accountability, and, as in previous wars, the
-perception that the military acts with impunity has fed a sense of an
-MIC exercising unwarranted influence. The conduct of U.S. troops and
-contractors in Iraq— from administration-approved torture to instances
-of rape and murder of civilians—are deeply disturbing, and while in
-many cases individuals have been convicted, the frequency of abuse
-suggests systemic flaws in the conduct of the war and in the military
-culture. Such abuses are common during wartime.. but the concerns have
-been heightened by the unprecedented number of private contractors,
-whose growing influence in military and foreign policy circles has
-caused some to label them “the fourth branch of government"
+The timeline, events leading up to Watergate makes it clear, the leaks
+started once Nixon made overtures to China, and things got worse after
+the withdrawal from Vietnam.
+
+[[-]](2024/03/watergate-timeline.html)
 
 ---
 
-\#Sudan 04/15 - 06/01
+He is right.. Nixon was likely framed. US has its private-corporate
+military-industrial complex, the surface state to thank for that.
 
-[[-]](mbl/2025/sdndata/map04.html)
+---
+
+Entertainment Weekly: "[Bill Murray said] When I read.. the book
+written by what's-his-name, Bob Woodward, about Belushi, I read like
+five pages and I went, 'Oh my God, they framed Nixon,'" referencing
+Woodward's role in breaking the Watergate scandal that led to the
+resignation of President Richard Nixon.. 'if he writes about my friend
+that I've known for half of my adult life — talking to the people of
+the outer, outer circle — what the hell could they have done to
+Nixon?'"
+
+---
+
+\#Frontline \#Ukraine 06/02 - 06/12
+
+[[-]](mbl/2025/ukrdata/map23.html)
 
 ---
 

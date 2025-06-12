@@ -10,6 +10,8 @@
 
 [Economy, Calculations, Data](01/stats.html)
 
+[Bankrupting Physics](02/bankrupting-physics-unzicker.html)
+
 [Into the Quagmire](02/into-the-quagmire.html)
 
 [Nutritional Values, Requirements](02/nutritional-values.html)
@@ -17,8 +19,6 @@
 [Unity](02/unity.html)
 
 [University, An Owner's Manual](02/university-rosovksy.html)
-
-[Unzicker](02/unzicker.html)
 
 [On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.html)
 

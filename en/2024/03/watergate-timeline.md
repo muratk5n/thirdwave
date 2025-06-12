@@ -37,6 +37,7 @@
     * 08/08: Nixon resigns from presidency. His VP Ford is sworn in.
     * 20/08: Ford announced his nomination of former New York Governor
       Nelson Rockefeller to fill the vacancy.
+    * 01/10: Ford continues Nixon's détente policy with both the Soviet Union and China.
 * 1975
     * 05/09: Assasination attempt was made on President Ford, in Sacramento.
     * 22/09: A second assasination attempt, in San Fransisco.

@@ -305,7 +305,7 @@ is below.
 E-douche is an overrated diva.. Let's also not forget who created this
 cunt; Obama..  which proves he was an average president, meaning
 anything he's done, any tech his admin pushed should be viewed with
-suspicion, e.g.  battery electric cars.
+suspicion, e.g. battery electric cars.
 
 ---
 

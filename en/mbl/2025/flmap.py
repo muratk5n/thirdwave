@@ -343,14 +343,6 @@ def prep_ukraine():
                              "Luhansk People's Republic (East Luhansk 2)",
                              content,count=1)
 
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 1)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 2)",
-                             content,count=1)
-
             content = re.sub("N.Kharkov-Russian Armed Forces\<",
                              "N.Kharkov-Russian Armed Forces 1<",
                              content,count=1)
@@ -386,9 +378,9 @@ def map_ukraine_suriyak():
         "Luhansk People's Republic \(East Luhansk 2\)",
         "Luhansk People's Republic \(West Luhansk\)",
         "Luhansk People's Republic \(South Luhansk\)",
-        "Donetsk People's Republic \(Central Donetsk 1\)",
-        "Donetsk People's Republic \(Central Donetsk 2\)",
+        "Donetsk People's Republic \(Central Donetsk\)",
         "Donetsk People's Republic \(East Donetsk\)",
+        "Donetsk People's Republic \(North East Donetsk\)",
         "Donetsk People's Republic \(West Donetsk\)",
         "Donetsk People's Republic \(South Donetsk\)",
         "E.Kharkov-Russian Armed Forces",
