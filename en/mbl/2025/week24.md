@@ -1,5 +1,11 @@
 # Week 24
 
+<img width='340' src='mbl/2023/nixon-salute.jpg'/>
+
+Break time...
+
+---
+
 Miran is describing today's situation exactly. When US was supplying
 the reserve currency when the world econ was small, there was no
 problem. But today, where US represents only a quarter of global GDP,

@@ -1,8 +1,4 @@
 
-<img width='340' src='mbl/2023/nixon-salute.jpg'/>
-
-Break time...
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
