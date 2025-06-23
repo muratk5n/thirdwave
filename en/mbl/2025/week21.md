@@ -164,13 +164,7 @@ is a giveaway to the rich."
 
 ---
 
-Zuckerberg is Thy Me.. Mrs Ryan Reynolds, bitch is TM.
-
-See the Sarah Wynn-Williams book story has Zuck wanting to be "gently
-mobbed". That would be a form of getting affirming attention. But Zuck
-is doing ok overall. I've seen worse.
-
----
+Mrs Ryan Reynolds bitch is TM.
 
 TM is prone to tit-for-tat cycles. A constant seeking of "to be
 treated fairly" gnaws on them whatever that means in their

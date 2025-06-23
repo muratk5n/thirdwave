@@ -1,7 +1,5 @@
 # Week 24
 
-<img width='340' src='mbl/2023/nixon-salute.jpg'/>
-
 Break time...
 
 ---
@@ -291,8 +289,8 @@ NBC News: "Trump says he will travel to China to meet with Xi"
 ---
 
 The internal CCP power struggle is likely tied to party members loyal
-to former prez Jintao who died recently... Xi had Jin thrown out of a
-party conference some time ago.
+to former prez Jintao... Xi had Jin thrown out of a party conference
+some time ago.
 
 ---
 
