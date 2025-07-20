@@ -1,5 +1,13 @@
 # Week 29
 
+\#Ukraine
+
+07/07 - 07/18
+
+[[-]](mbl/2025/ukrdata/map27.html)
+
+---
+
 "How WW1 Created the Middle East Conflicts"
 
 [[-]](https://m.youtube.com/watch?v=tjnBmH8b0Ko)
