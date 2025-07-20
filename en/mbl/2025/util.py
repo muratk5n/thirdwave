@@ -183,9 +183,9 @@ def scrape_gfp():
         d['country'] = c
         for x in res:
             a,b = x[0],x[1]
-            b = re.sub('\s\t.*?','',b)
+            b = re.sub('\\s\\t.*?','',b)
             b = re.sub('<span class.*?$','',b)
-            b = re.sub('\s*<br />.*?','',b)
+            b = re.sub('\\s*<br />.*?','',b)
             a = a.replace("*","")
             a = a.replace(":","")
             b = b.replace("Stock:","")

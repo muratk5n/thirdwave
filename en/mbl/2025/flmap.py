@@ -303,12 +303,19 @@ def map_sahel_suriyak():
     c = np.array(rrr)
     rrrs.append(c)
 
-    sudan_regs2 = [
-        "RSF-Sennar",
-        "RSF-Blue Nile"]
-    
-    content = open("/tmp/sahel.kml").read()
-    
+    sudan_regs2 = ["RSF-Northern State"]
+    polys = []
+    scale = 1e-14
+    for i,reg in enumerate(sudan_regs2):
+        coords = get_coords_for_label(content, reg)
+        polys.append(Polygon(coords))
+    polys = [affinity.scale(p, xfact=1+scale, yfact=1+scale) for p in polys]
+    res = unary_union(polys)
+    res = affinity.scale(res, xfact=1-scale, yfact=1-scale)
+    rrr = list(res.exterior.coords)
+    c = np.array(rrr)
+    rrrs.append(c)    
+        
     for x in rrrs:
         plt.plot(x[:,0].T,x[:,1].T,'r')
     plt.savefig('/tmp/out.jpg')

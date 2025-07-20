@@ -1,4 +1,12 @@
 
+\#Ukraine
+
+07/07 - 07/18
+
+[[-]](mbl/2025/ukrdata/map27.html)
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -43,6 +51,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-

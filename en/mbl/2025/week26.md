@@ -1,6 +1,5 @@
 # Week 26
 
-
 Gary Marcus, The Guardian: "When billion-dollar AIs break down over
 puzzles a child can do, it’s time to rethink the hype.. A research
 paper by Apple has taken the tech world by storm, all but eviscerating
