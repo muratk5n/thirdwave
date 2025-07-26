@@ -29,6 +29,14 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
+def two_plot(df, col1, col2):
+    plt.figure(figsize=(12,5))
+    ax1 = df[col1].plot(color='blue', grid=True, label=col1)
+    ax2 = df[col2].plot(color='red', grid=True, label=col2,secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2)
+    
 def mov_profit(budget, gross):
   marketing = budget / 2
   return np.round(gross - (budget + marketing + gross*0.4),2)
@@ -70,7 +78,7 @@ def beckley(country1, country2):
 def flip_c(arg):
     return [[x[1],x[0]] for x in arg]
 
-def eq_at(lat,lon,radius,ago,today=datetime.datetime.now()):
+def eq_at(lat,lon,radius,ago,today=datetime.datetime.now(),minmag=5.0):
 
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
     lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
@@ -84,15 +92,15 @@ def eq_at(lat,lon,radius,ago,today=datetime.datetime.now()):
     req = 'https://earthquake.usgs.gov/fdsnws'
     req+='/event/1/query.geojson?starttime=%s&endtime=%s'
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
-    req+='&minmagnitude=5.0&orderby=time&limit=3000'
-    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    req+='&minmagnitude=%f&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx,minmag)
     qr = requests.get(req).json()
     res = []
     for i in range(len(qr['features'])):
         lat = qr['features'][i]['geometry']['coordinates'][1]
         lon = qr['features'][i]['geometry']['coordinates'][0]
         d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
-        s = np.float(qr['features'][i]['properties']['mag'])
+        s = float(qr['features'][i]['properties']['mag'])
         sd = d.strftime("%Y-%m-%d %H:%M:%S")
         d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
         diff = (today-d).days+1

@@ -122,51 +122,6 @@ etc. Todays politicians wouldn't know a terrorist organisation if it
 formed it's own state and commited acts of genocide, while bribing
 them to look the other way."</p>
 <hr />
-<p>No Page and Brin did not invent Markov Chains, nor the eigenvec
-calculation, that stuff was known since the 50s. They merely <em>applied</em>
-given math, did not invent new math. And even for that much
-"innovation" they were spoon fed by the government, their research was
-done at Stanford on public's dime. The first Google ran on
-<code>http://google.stanford.edu</code>. That's how it works, public funds your
-shit, you make billions, later pay little or not tax to help the
-public.</p>
-<hr />
-<p>I literally got the same numbers</p>
-<hr />
-<pre><code class="python">import numpy.linalg as lin
-P = np.array([[0, 4.0, 17.0, 29.0, 4.0],
-              [42.0, 0, 23.0, 34.0, 8.0],
-              [39.0, 27.0, 0, 23.0, 3.0],
-              [28.0, 14.0, 5.0, 0, 0],
-              [22.0, 18.0, 31.0, 44.0, 0]])
-
-P =  P / P.sum(axis=1).reshape(1,len(P)).T
-evals,evec = lin.eig(P.T)
-# Bulls, Cavaliers, Pistons, Pacers, Bucks
-evec[:,0]
-</code></pre>
-
-<pre><code class="text">Out[1]: array([0.64516903, 0.33846416, 0.36006211, 0.576504  , 0.08483719])
-</code></pre>
-
-<hr />
-<p>So much code.. Isn't PR a simple eigenvector calculation?</p>
-<hr />
-<p>This guy has sample data</p>
-<p><a href="https://github.com/bnak/SportsRank">[-]</a></p>
-<hr />
-<p>Page Rank is another application of the same base technique. Create a
-(sparse) "transition matrix" between pages, and imagined random user
-browsing infinitely.. how frequently would each page be visited? For
-sports an arrow (connection), its weight from A to B could be seen as
-"how many times did A lose to B" then MC can give you projected loss
-after infinite games.. Later you can deduce things like "A beats B, B
-beats C, then it is likely A will beat C". A's "ranking" would be
-higher than C.</p>
-<hr />
-<p>I knew it.. Sports Ranking calculation with little game play data can
-be done via Markov Chains... You could rank all teams.</p>
-<hr />
 <p>I took out all the neural net shit out of the sciency part of my
 tutorials into the "blog" part... Like they are part of the daily,
 monthly brain farts issued, have some engineering, some how-to

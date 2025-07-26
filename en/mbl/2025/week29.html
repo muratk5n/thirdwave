@@ -25,9 +25,236 @@
       <div id="main_content_wrap" class="outer">        
         <section id="main_content" class="inner">
 <h1>Week 29</h1>
+<p>"@ProPublica@newsie.social</p>
+<p>Over the years, Texas legislators have declined to pass at least three
+bills that would create siren or alert systems, a tool that Kerr
+County officials tried to secure for years before the July 4 flooding."</p>
+<hr />
+<p>15 News: "[2023] Ice Cube warns rap record labels encourage criminal
+behavior and help fuel private prisons.. 'if you follow the money, you
+go high enough, you start to see... Okay, let’s take Rap music. The
+same people who own the labels own the prisons.' Ice Cube said, adding
+later that there are a 'lot of dots to connect.. It's not about making
+somebody write the lyrics, it's about being there as guardrails to
+make sure certain songs make it through and certain songs
+don’t,'.. Ice Cube then later explains that sometimes record companies
+micromanage albums and that 'some records are made by committee' so
+that they can push 'a narrative.' This is, according to the rapper, an
+example of social engineering meant to ensure that American prisons
+stay full"</p>
+<hr />
+<p>In an ideal world the exchange rate would help fix imbalances (and a
+Bancor system would fix it decisively), but impurities in the system
+complicate matters... Many countries have dollar denominated debt,
+depreciation of their currency has adverse effect on that debt, even
+though depreciation would help exports. Non-diversified economies rely
+on imports and exports that are "price inelastic".. And overtly
+agressive financial markets can effect currencies beyond any economic
+fundamentals.</p>
+<p>Globalists likely prefer the existing system because imbalances are
+fixed by placing troubled countries in debt, which makes them a slave,
+fine. If a bailout is needed, they can always force politicians of the
+developed world which foot the bill, sometimes on public's dime,
+globalists don't care because it's not their money, they don't pay tax
+anyway. If bailout cannot be arranged, still fine, they can buy public
+property during an emergency fire sale. They always win.</p>
+<hr />
+<p>That makes sense, if you are buying more than you are selling, that
+reduces the demand for your currency, its price will fall which can be
+inflationary. Both variables influence the exchange rate and interest
+rates, with IR being the lowest in the chain, basically countries
+<em>must</em> set the rate to certain values which the rest of the economy
+demands. Especially for developing countries interest rates must be
+set to certain levels to stabilize their exchange rate.</p>
+<p>If a country is in a rut in terms of its exchange rates and high rates,
+it must fix its current account balance.</p>
+<hr />
+<p>CAB and pi have the highest influence, E and i have the lowest.</p>
+<pre><code class="python">pagerank_reversed = nx.pagerank(G.reverse())
+for node, pr in sorted(pagerank_reversed.items()):
+    print(f&quot;Node {node}: {pr:.4f}&quot;)
+</code></pre>
+
+<pre><code class="text">Node E: 0.2354
+Node cab: 0.2915
+Node i: 0.2116
+Node pi: 0.2614
+</code></pre>
+
+<hr />
+<p>It's a jumble of relations.. A lot of variables seem to effect many
+other variables. But there could be a way to solve the jumble, if we
+can detect a general "outflow" of this graph from which a certain
+node(s) point to other nodes more. We are looking for cascading
+effects too, if A effects B which effects C, A's influence is greater
+than B.</p>
+<p>Description above sounds like PageRank but we actually need its
+reverse, called CheiRank. PR is for incoming links to a node (page),
+we need outgoing links (influences) from a node. We can simply reverse
+graph and compute PR.</p>
+<hr />
+<p>I believe it will look like that below</p>
+<p><img width='200' src='mbl/2025/argfin1.jpg'/></p>
+<hr />
+<p>Focusing on highly significant ones, we could create a dependency graph </p>
+<pre><code class="python">import networkx as nx
+
+G = nx.DiGraph()
+G.add_edges_from([
+    ('i', 'E'),
+    ('i', 'pi'),
+    ('E', 'pi'),
+    ('E', 'cab'),
+    ('cab', 'pi'),
+    ('cab', 'i'),
+    ('pi', 'cab'),
+    ('pi', 'E')
+])
+
+nx.draw(G,with_labels=True,node_size=2500)
+plt.savefig('argfin1.jpg')
+</code></pre>
+
+<hr />
+<p>We could retrieve causal significance between all pairs of variables (lower is better)</p>
+<pre><code class="python">import statsmodels.tsa.stattools as t, itertools
+vars = ['E','i','cab','pi']
+gr = [(x,y,t.grangercausalitytests(df[[x,y]],maxlag=1,verbose=False)) for x,y in itertools.product(vars,vars) if x!=y]
+</code></pre>
+
+<pre><code class="python">[(x,y,list(tmp.values())[0][0]['ssr_ftest'][1]) for x,y,tmp in gr]
+</code></pre>
+
+<pre><code class="text">Out[1]: 
+[('E', 'i', np.float64(0.0002792139878687578)),
+ ('E', 'cab', np.float64(0.9979766387184925)),
+ ('E', 'pi', np.float64(2.215610311531833e-09)),
+ ('i', 'E', np.float64(0.28212834795173775)),
+ ('i', 'cab', np.float64(1.0739219996856827e-05)),
+ ('i', 'pi', np.float64(0.7974862665835333)),
+ ('cab', 'E', np.float64(9.775588747152808e-05)),
+ ('cab', 'i', np.float64(8.341879238550786e-37)),
+ ('cab', 'pi', np.float64(1.599736120930462e-09)),
+ ('pi', 'E', np.float64(2.9549773728066783e-47)),
+ ('pi', 'i', np.float64(6.99784340132411e-50)),
+ ('pi', 'cab', np.float64(2.7202463202869524e-07))]
+</code></pre>
+
+<hr />
+<p>The variables are</p>
+<ul>
+<li>Interest Rate (i)</li>
+<li>Inflation (pi)</li>
+<li>Current Account Balance (CAB)</li>
+<li>Exchange Rate (E)</li>
+</ul>
+<p>We could look at some data.. (below).. For Argentina,</p>
+<pre><code class="python">import pandas as pd
+df = pd.read_csv('arg-fin.csv',index_col='date')
+df[['cab','E','pi','i']].corr()
+</code></pre>
+
+<pre><code class="text">Out[1]: 
+          cab         E        pi         i
+cab  1.000000  0.202825  0.124310  0.085886
+E    0.202825  1.000000  0.957765  0.832089
+pi   0.124310  0.957765  1.000000  0.936008
+i    0.085886  0.832089  0.936008  1.000000
+</code></pre>
+
+<p>CAB and E are pretty highly correlated.. but how about causation?</p>
+<p><a href="https://www.dropbox.com/scl/fi/f7yr0c48zz3zgoqcutv8w/arg-fin.csv?rlkey=lju20eubk9lxzs1gdb21u8fu8&amp;st=a19ro1le&amp;raw=1">Data</a></p>
+<hr />
+<p>Which of the variables have a causal relationship? Interest Rate,
+Inflation, Current Account Balance, Exchange Rate. Good question</p>
+<hr />
+<p>Ethan Peck so wants to get out of that SNW shit show, he'll take any
+role in movie biz. He had a small supporting role in <em>The Unholy
+Trinity</em> (good work)... he'll quit the sad role they fashioned for him
+the moment he makes it in big at movies imo.</p>
+<hr />
+<p>I thought <em>Strange New Worlds</em> was getting little better, but I
+watched first ep of new season, it sucked.</p>
+<hr />
+<p>Neolib playbook says supply-sider actions "pay for themselves" by
+"spurring growth". That clearly did not work here. FR state lost
+revenue, and it is now in financial dire straits.</p>
+<hr />
+<p>"[T]he French corporate income tax (CIT) rate has gradually decreased
+from the original rate in 2017, a rate of 33.3%, to 2022, now a rate
+of 25% (a drop of 8.3% in five years)."</p>
+<hr />
+<p>The question is why is France in debt</p>
+<hr />
+<p>NYT: "France Proposes Cutting Two Public Holidays to Avert Budget
+Crisis.. Drastic measures are necessary “before we are crushed by the
+debt,” the country’s prime minister warned."</p>
+<hr />
+<p>BBC: "UK and 27 nations accuse Israel of 'drip feeding' aid to Gaza
+civilians as they condemn 'horrifying' killings"</p>
+<hr />
+<p>"Aaron Bastani Meets Jean-Luc Mélenchon"</p>
+<p><a href="https://youtu.be/6WFTiA_H67g?t=3294">[-]</a></p>
+<hr />
+<p>"How 5 Companies Are Keeping The World At War"</p>
+<p><a href="https://www.youtube.com/embed/lDB3L23UMCQ?start=242&amp;end=652">[-]</a></p>
+<hr />
+<p>Stephen Gruyère is being let go? I don't think Gruyère is fired for
+being not funny, he has been not funny for a while now and they still
+kept him. But he platformed Mamdani, that could've triggered his
+firing.. In corporate mindset he exercised the ultimate sin - gave the
+enemy a chance.</p>
+<hr />
+<p>The Lever: "So much for preventing government waste. After months of
+warnings from federal workers were ignored, 500 metric tons worth of
+emergency, high-nutrition biscuits intended for global disaster relief
+are instead marked for incineration, The Atlantic reports. Thanks to
+the Department of Government Efficiency, which all but eliminated the
+U.S. Agency for International Development, routine foreign aid
+expenses — including deliveries — now require approval from the very
+top. Yet employees’ requests to distribute the biscuits were ignored,
+and now they're nearing expiration, leading the Trump administration
+to order their incineration."</p>
+<hr />
+<p>Yandex Translate by Image works well.. It finds words in image
+translates them, even overlaying the translated text on top, in place
+of the foreign text.</p>
+<p><a href="https://translate.yandex.com/en/ocr">[-]</a></p>
+<hr />
+<p>Thoughts and prayers to you asshole</p>
+<p>HTW: "Israeli PM Netanyahu falls ill with food poisoning, to work from
+home for three days"</p>
+<hr />
+<p>"ZeroAvia scores 45 fresh patents for hydrogen aviation
+engines.. Aviation startup ZeroAvia says it’s been granted a “raft” of
+45 new patents key to the development of practical large hydrogen
+aviation engines – and the company says it has 200 more H-related
+patents in the pipeline!</p>
+<p>The news comes just weeks after ZeroAvia and Scottish regional airline
+Loganair announced a new, hydrogen-electric “turboprop” replacement
+motor capable of up to 5MW of shaft horsepower (~6,700 hp). United
+States Patent and Trademark Office (USPTO) no. 12,341,225 covers an
+integrated hydrogen-electric engine design land is key to the
+development of a modular multi-MW hydrogen-electric engine for the ATR
+42 and 72 model aircraft — which Loganair owns more than twenty of."</p>
+<hr />
+<p>The Lever: "Affordable Care Act (ACA) marketplaces across the country
+are projected to see the largest rate hikes in more than five years,
+driving up out-of-pocket premiums for individual plan policyholders by
+more than 75 percent on average, according to data compiled by the
+Kaiser Family Foundation. More than 21 million Americans who don’t
+have employer-sponsored health insurance rely on the ACA marketplace
+for coverage."</p>
+<hr />
+<p>DJT net approval reaching the previous record low. The Epstein saga is
+surely partly to blame. The subject was incredibly clumsily handled.</p>
+<p><a href="https://cdn.fosstodon.org/media_attachments/files/114/886/305/349/113/191/original/951aabf3c1917aa6.jpg">[-]</a></p>
+<hr />
+<p>IC: "Huckabee and MTG attack Israel over anti-Christian Pogroms"</p>
+<hr />
 <p>#Ukraine</p>
 <p>07/07 - 07/18</p>
-<p><a href="mbl/2025/ukrdata/map27.html">[-]</a></p>
+<p><a href="ukrdata/map27.html">[-]</a></p>
 <hr />
 <p>"How WW1 Created the Middle East Conflicts"</p>
 <p><a href="https://m.youtube.com/watch?v=tjnBmH8b0Ko">[-]</a></p>
