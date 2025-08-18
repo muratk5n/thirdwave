@@ -403,7 +403,7 @@ All Kurdish regions..
 ```python
 import json
 dk = json.loads(open("kurds.json").read())
-u.map_coords({"Raqqa": [35.9588353, 39.0070503]},lines=dk,zoom=6,outfile='map08.html')
+u.map_coords([35, 39], {"Raqqa": [35.9588353, 39.0070503]},lines=dk,zoom=6,outfile='map08.html')
 ```
 
 [[-]](mbl/2025/map08.html)

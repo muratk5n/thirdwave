@@ -80,7 +80,7 @@ GCM = u.flip_c(jres[&quot;areas&quot;][&quot;GCM&quot;])
 a =  u.flip_c(jres[&quot;areas&quot;][&quot;OI2025A&quot;])
 b =  u.flip_c(jres[&quot;areas&quot;][&quot;OI2025B&quot;])
 polys = {&quot;atsb&quot;: atsb, &quot;OI2018&quot;: OI2018, &quot;OI2025A&quot;: a, &quot;OI2025B&quot;: b, &quot;Godfrey&quot;: GCM}
-u.map_coords(cs, polys, zoom=4, colors={&quot;Godfrey&quot;: &quot;#FFFFFF&quot;, &quot;OI2025A&quot;: &quot;#FFFFFF&quot;, &quot;OI2025B&quot;: &quot;#FFFFFF&quot;}, outfile=&quot;map07.html&quot;)
+u.map_coords([-19,110],cs, polys, zoom=4, colors={&quot;Godfrey&quot;: &quot;#FFFFFF&quot;, &quot;OI2025A&quot;: &quot;#FFFFFF&quot;, &quot;OI2025B&quot;: &quot;#FFFFFF&quot;}, outfile=&quot;map07.html&quot;)
 </code></pre>
 
 <p><a href="mbl/2025/map04.html">[-]</a></p>
@@ -201,7 +201,7 @@ Watch shows"</p>
 <hr />
 <p>All near the fault line.. Nothing to worry about. All dandy.</p>
 <pre><code class="python">fl = u.get_json().loads(open(&quot;tr_faultline1.json&quot;).read())
-u.map_coords(dfq, lines=fl, zoom=9, outfile=&quot;map07.html&quot;)
+u.map_coords([40,28],dfq, lines=fl, zoom=9, outfile=&quot;map07.html&quot;)
 </code></pre>
 
 <p><a href="map07.html">[-]</a></p>
@@ -211,7 +211,7 @@ Stanpoli at some point. Are these the signs of the big one?</p>
 <hr />
 <p>Homie got shook? </p>
 <p>#Earthquake</p>
-<pre><code class="python">dfq = u.eq_at(41, 29, 500, 3); u.map_coords(dfq, zoom=9, outfile=&quot;map06.html&quot;)
+<pre><code class="python">dfq = u.eq_at(41, 29, 500, 3); u.map_coords([41, 29], dfq, zoom=9, outfile=&quot;map06.html&quot;)
 </code></pre>
 
 <p><a href="map06.html">[-]</a></p>

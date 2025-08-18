@@ -69,7 +69,7 @@ GCM = u.flip_c(jres["areas"]["GCM"])
 a =  u.flip_c(jres["areas"]["OI2025A"])
 b =  u.flip_c(jres["areas"]["OI2025B"])
 polys = {"atsb": atsb, "OI2018": OI2018, "OI2025A": a, "OI2025B": b, "Godfrey": GCM}
-u.map_coords(cs, polys, zoom=4, colors={"Godfrey": "#FFFFFF", "OI2025A": "#FFFFFF", "OI2025B": "#FFFFFF"}, outfile="map07.html")
+u.map_coords([-19,110],cs, polys, zoom=4, colors={"Godfrey": "#FFFFFF", "OI2025A": "#FFFFFF", "OI2025B": "#FFFFFF"}, outfile="map07.html")
 ```
 
 [[-]](mbl/2025/map04.html)
@@ -246,7 +246,7 @@ All near the fault line.. Nothing to worry about. All dandy.
 
 ```python
 fl = u.get_json().loads(open("tr_faultline1.json").read())
-u.map_coords(dfq, lines=fl, zoom=9, outfile="map07.html")
+u.map_coords([40,28],dfq, lines=fl, zoom=9, outfile="map07.html")
 ```
 
 [[-]](map07.html)
@@ -263,7 +263,7 @@ Homie got shook?
 \#Earthquake
 
 ```python
-dfq = u.eq_at(41, 29, 500, 3); u.map_coords(dfq, zoom=9, outfile="map06.html")
+dfq = u.eq_at(41, 29, 500, 3); u.map_coords([41, 29], dfq, zoom=9, outfile="map06.html")
 ```
 
 [[-]](map06.html)

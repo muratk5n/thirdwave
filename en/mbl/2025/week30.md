@@ -1,4 +1,4 @@
-]# Week 30
+# Week 30
 
 It's a racket. I hope they don't spend a dime for excessive military
 build-up.
@@ -292,7 +292,7 @@ Former Citibank trader tells all \#Housing \#Stevenson
 Massive earthquake.. with many other shakes near it
 
 ```python
-u.map_coords(u.eq_at(51,154,1000,ago=4,minmag=6.0), zoom=9, outfile="map09.html")
+u.map_coords([51,154],u.eq_at(51,154,1000,ago=4,minmag=6.0), zoom=9, outfile="map09.html")
 ```
 
 [[-]](map09.html)

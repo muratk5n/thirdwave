@@ -23,6 +23,12 @@ stay full"
 
 ---
 
+Same data for the EU
+
+[[-]](https://www.dropbox.com/scl/fi/18cmufhe018xb32y3w85w/eu_fin.csv?rlkey=h4au9679c78m3cebij2ydc478&st=iwytgz64&raw=1)
+
+---
+
 In an ideal world the exchange rate would help fix imbalances (and a
 Bancor system would fix it decisively), but impurities in the system
 complicate matters... Many countries have dollar denominated debt,

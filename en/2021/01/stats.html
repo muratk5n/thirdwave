@@ -41,11 +41,11 @@ print (df['growann'].tail(5))
 </code></pre>
 
 <pre><code class="text">DATE
-2024-01-01    1.629067
 2024-04-01    2.988846
 2024-07-01    3.072829
 2024-10-01    2.450461
 2025-01-01   -0.502517
+2025-04-01    2.968252
 Name: growann, dtype: float64
 </code></pre>
 
@@ -80,12 +80,12 @@ plt.savefig('cycle.png')
 
 <pre><code class="text">              gdpyoy
 DATE                
-2023-10-01  3.196217
 2024-01-01  2.901832
 2024-04-01  3.036849
 2024-07-01  2.718769
 2024-10-01  2.533684
 2025-01-01  1.991763
+2025-04-01  1.986664
                  inf
 DATE                
 2025-01-01  3.000483
@@ -133,11 +133,11 @@ plt.savefig('quits.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2025-01-01    2.0
 2025-02-01    2.0
 2025-03-01    2.1
 2025-04-01    2.0
-2025-05-01    2.1
+2025-05-01    2.0
+2025-06-01    2.0
 Name: JTSQUR, dtype: float64
 </code></pre>
 
@@ -154,10 +154,10 @@ plt.savefig('wages.png')
 </code></pre>
 
 <pre><code class="text">DATE
-2024-04-01    4.034761
 2024-07-01    3.746929
 2024-10-01    3.710462
 2025-01-01    3.369434
+2025-04-01    3.559666
 Name: wagegrowth, dtype: float64
 </code></pre>
 
@@ -579,9 +579,9 @@ plt.savefig('medhouse.jpg')
 
 <pre><code class="text">             MSPUS
 DATE              
-2024-04-01  414500
-2024-07-01  415300
-2024-10-01  419200
+2024-10-01  419300
+2025-01-01  423100
+2025-04-01  410800
 </code></pre>
 
 <p><img alt="" src="medhouse.jpg" /></p>
@@ -589,17 +589,17 @@ DATE
 <h2>Foreign</h2>
 <p>Chinese Exports</p>
 <pre><code class="python">df = u.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
-plt.savefig('exchina.jpg',quality=50)
+plt.savefig('exchina.jpg')
 print (df.tail(5))
 </code></pre>
 
 <pre><code class="text">            XTEXVA01CNM667S
 DATE                       
-2024-07-01     2.853014e+11
-2024-08-01     3.020314e+11
-2024-09-01     2.874257e+11
-2024-10-01     3.049651e+11
-2024-11-01     3.000794e+11
+2025-01-01     3.082494e+11
+2025-02-01     2.923886e+11
+2025-03-01     3.271552e+11
+2025-04-01     3.189337e+11
+2025-05-01     3.159533e+11
 </code></pre>
 
 <p><img alt="" src="exchina.jpg" /></p>

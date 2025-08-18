@@ -29,6 +29,27 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
+def plot_us_navy(infile,outfile):
+    df = pd.read_csv(infile)
+    m = folium.Map(location=[0,0], zoom_start=3) 
+    for idx, (ship,loc,lat,lon) in df.iterrows():
+        folium.Marker([lat + np.random.uniform(-0.5,0.5),
+                       lon + np.random.uniform(-0.5,0.5)],
+                      popup=folium.Popup(ship)).add_to(m)
+    m.save(outfile)    
+    
+def parse_latlon_string(lat_str, lon_str):
+    lat_value, lat_hemi = lat_str.strip().split("° ")
+    lon_value, lon_hemi = lon_str.strip().split("° ")    
+    lat_deg = float(lat_value)
+    lon_deg = float(lon_value)
+    if lat_hemi == "S":
+        lat_deg = -lat_deg    
+    if lon_hemi == "W":
+        lon_deg = -lon_deg
+        
+    return LatLon(lat_deg, lon_deg)
+    
 def two_plot(df, col1, col2):
     plt.figure(figsize=(12,5))
     ax1 = df[col1].plot(color='blue', grid=True, label=col1)
@@ -278,8 +299,8 @@ def to_bearing(lat,lon,brng,d):
     lon2 = math.degrees(lon2)
     return lat2,lon2
 
-def map_coords(coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.html"):
-    m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
+def map_coords(center, coords, lines={}, zoom=5, colors={}, outfile="/tmp/out.html"):
+    m = folium.Map(location=center, zoom_start=zoom)
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
             name='subdomains2',
             attr='attribution',
@@ -438,6 +459,7 @@ def baci_all_products(frc, toc):
     amt = baci_totals[key]*1000
     print('$', f"{amt:,}")
     #return amt
+
     
 if __name__ == "__main__": 
     
