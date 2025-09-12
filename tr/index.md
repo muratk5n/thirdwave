@@ -1,17 +1,4 @@
 
-Endüstriyel Çağ toplumu, 2. Dalga, Batı Avrupa'da başladı ve ardından
-Endüstri Devrimi ile tüm dünyaya yayıldı. İkinci Dalga toplumunun
-anahtar özellikleri çekirdek aile, fabrika usulü bir eğitim sistemi ve
-holdinglerdir. Üçüncü Dalga yüksek teknoloji temelli, endüstri sonrası
-toplumdur ve bu çağın yüksek teknolojisi beyaz yakalı çalışanlara,
-bireye kuvvet vermektedir. Bu değişen çalışma şekli, yaşam şeklinde,
-insanların hayata bakışında büyük değişikliklere sebep
-olmaktadır. Kurumlar üretme şekline bağlıdır, yeni bir dalga
-geldiğinde, idare, eğitim, sağlık etrafında kurulmuş yapılar, içinde
-olan insanların tüm iyi niyeti ve gayretine rağmen işlevini kaybetmeye
-başlar.
-
-
 ## En Son
 
 26/1 - [Güneş Kaynağı Haritası](2022/01/solar-map.html)

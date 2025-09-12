@@ -8,8 +8,10 @@ from shapely.ops import unary_union
 from pandas_datareader import data
 from functools import lru_cache
 from datetime import timedelta
+import urllib.request as urllib2
 from itertools import islice
 import matplotlib.dates as mdates
+from pygeodesy import parse3llh, fstr
 from pygeodesy.sphericalNvector import LatLon
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
@@ -28,6 +30,36 @@ def trump_approval():
     df['net'] = df.Approve - df.Disprove
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
+
+def pollution(lat,lon):
+    """
+    Register with Openweathermap site and get a API key, place it
+    in a json file called .twkeys.json under your $HOME directory. The
+    file should look something like '{ "weatherapi": "[key]" .. }
+    """    
+    url = 'http://api.openweathermap.org/data/2.5/air_pollution?'
+    params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
+    payload = { 'lat': str(lat), 'lon': str(lon), 'appid': params['weatherapi'] }
+    r = requests.get(url, params=payload)
+    res = [json.loads(x.decode()) for x in r.iter_lines()]
+    aqi = res[0]['list'][0]['main']
+    comp = res[0]['list'][0]['components']
+    return aqi, comp
+
+def geoname(keyword, ccode):
+    url = "http://www.geonames.org/search.html?q=%s&country=%s" % (keyword,ccode)    
+    url = url.replace(" ","+")
+    r = urllib2.urlopen(url).read()
+    content = r.decode('utf-8')
+    res = re.findall("Latitude.*?<td nowrap>(.*?)</td><td nowrap>(.*?)</td>",content, re.DOTALL)
+    if len(res)==0: return False,99999,999999
+    lats = res[0][1]; lons = res[0][0]
+    lats = lats[1:] + lats[0]
+    lons = lons[1:] + lons[0]
+    geos = lats + "," + lons
+    x = parse3llh(geos)
+    res = fstr(x, prec=6).split(",")
+    return float(res[0]),float(res[1])
 
 def plot_us_navy(infile,outfile):
     df = pd.read_csv(infile)

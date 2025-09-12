@@ -112,14 +112,14 @@ def do_syria():
           get_coords_for_regex2("Armed Groups-S.Raqqa") + \
           get_coords_for_regex2("TIP-Idlib/Hama") + \
           get_coords_for_regex2("Armed Groups-NW.Hama") + \
+          get_coords_for_regex2("Polígono 57") + \
           get_coords_for_regex2("Armed Groups-Quneitra")
     
     chts1 = create_polygon(hts)
     print ('hts 1',len(hts))
     chts1 = [list(x) for x in chts1]
 
-    saa = get_coords_for_regex2("SAA-Latakia") + \
-          get_coords_for_regex2("SAA-Tartus") + \
+    saa = get_coords_for_regex2("Armed Groups-Tartus") + \
           get_coords_for_regex2("Armed Groups-Latakia")
     
     csaa = create_polygon(saa)
@@ -457,4 +457,5 @@ if __name__ == "__main__":
     if sys.argv[1] == "syria":
         prep_syria()
         do_syria()
-    
+        
+    exit()

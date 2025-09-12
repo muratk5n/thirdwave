@@ -26,15 +26,15 @@ perished in the effort.12 Nearly 20 percent of the population of Rome
 in the first few centuries A.D. were slaves. ...
 
 Maintaining [Rome's] infrastructure and population in a
-non-equilibrium state [ruling over bunch ppl, centrally is inherently
-unstable] required large amounts of energy. Its energy regime,
-however, was becoming exhausted. With no other alternative sources of
-energy available, Rome put even more pressure on its dwindling energy
-legacy. By the fifth century, the size of the government and military
-bureaucracy had doubled. To pay for it, taxes were increased, further
-impoverishing the population, especially the dwindling farm
-population. The empire, writes Joseph Tainter, began consuming its own
-capital in the form of 'producing lands and peasant populations'.
+non-equilibrium state required large amounts of energy. Its energy
+regime, however, was becoming exhausted. With no other alternative
+sources of energy available, Rome put even more pressure on its
+dwindling energy legacy. By the fifth century, the size of the
+government and military bureaucracy had doubled. To pay for it, taxes
+were increased, further impoverishing the population, especially the
+dwindling farm population. The empire, writes Joseph Tainter, began
+consuming its own capital in the form of 'producing lands and peasant
+populations'.
 
 Weakened by a depleted energy regime, the empire began to
 crumble. Basic services dwindled. The immense Roman infrastructure

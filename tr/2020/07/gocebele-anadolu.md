@@ -88,7 +88,7 @@ yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve gelenlerin
 burada) 3) Türk insanının kendisi sonradan da tekrar göçmeye
 başlamıştır (kabaca 20'inci yüzyıla referans)
 
-<a name='part2'/>
+<a name='part2'></a>
 
 Ankete cevap verenlere göre Türklerin tarihinin en tanımlayıcı kısmı
 göçmektir, ve göçme kültürüyle temelden bir ilişkide olmak, göçebe

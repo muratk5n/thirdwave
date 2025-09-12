@@ -7,76 +7,74 @@ Pinned Post
 
 ---
 
-KWST: "Semi-truck carrying Tesla vehicles catches fire, shuts down 5
-Freeway in California"
+Monbiot: "I seem to recall the country voting the Tories out last
+year. Part of the reason.. was their staggering incompetence and
+insouciance, epitomised by Liz Truss’s mini-budget. That catastrophe
+was, like Truss’s political career, formed and steered by the
+neoliberal junktanks of Tufton Street... We booted them out through
+the front door.. Yet they still appear to be in the house. Perhaps
+they came round the back..
+
+After taking an interest in the Department for Business and Trade’s
+“growth school” speaker sessions for civil servants, I sent a freedom
+of information request.. Among the external instructors used by the
+department’s 'growth school' so far are no representatives from trade
+unions, social justice, human rights or environmental groups, and no
+representatives from left or liberal thinktanks such as the New
+Economics Foundation or the Institute for Public Policy Research. But
+there are four who work or have worked for the Tufton Street junktanks
+that surrounded Truss."
 
 ---
 
-\#Turbine \#Russia
-
-[[-]](https://youtu.be/n6Eeq9F__lo?t=74)
-
----
-
-That is fast changing
-
-"From cars to construction, if something in Russia works, it is
-probably European."
+The Lever: "The Secret Curriculum That Rewired America’s Judges.. For
+decades, big business-funded economics courses have been pushing the
+nation’s judges to the right. A new study in the Quaterly Journal of
+Economics reveals nearly half of U.S. federal judges attended crash
+courses in economics at the conservative-leaning Manne Economics
+Institute for Federal Judges between 1976-1999 - and it changed how
+they behaved on the bench"
 
 ---
 
-Khanna, *The Second World*: "[2008] In a nation of privatized
-privilege, services that work well—fancy apartment buildings, hotels,
-restaurants, health clubs, private taxis—all cater to the elite and
-their private economy. For everyone else, things fall apart: Public
-transportation systems—roads, tunnels, trains, and buses—are in
-various states of disrepair; broadband Internet penetration has fallen
-behind Europe’s; mobile telephone networks are substandard; and
-archaic taxi cabs don’t accept electronic payment. Even worse, America
-may prove to be afflicted by the same oil curse as many second-world
-states. Much of its infrastructure was built during the post–World War
-II boom when America was the world’s largest oil producer and
-exporter — but today its water pipes and power stations are run-down,
-causing lead and mercury poisoning and sporadic but massive
-blackouts. During New York’s transit strikes in the frigid winter
-of 2005, commuters trudging long distances through the snow declared
-that they felt like they lived in the third world.  Laissez-faire is a
-somewhat inaccurate way to describe America’s social and economic
-principles when skewed societal structures actually favor the
-perpetuation of inequality"
+TASS: "Brazil not afraid of new US sanctions after Bolsonaro's sentencing"
 
 ---
 
-Chimps are bothered by inequality
+You know what that means.. Time to bomb Iran.
 
-[[-]](https://youtu.be/GcJxRqTs5nk?t=788)
-
----
-
-"100x larger hydrogen-rich hydrothermal system found using
-submersible.. Scientists have discovered a massive hydrogen-rich
-hydrothermal system beneath the western Pacific seafloor. The system
-was explored using the crewed submersible Fendouzhe. The system offers
-a new glimpse into deep-sea serpentinization—a process in which iron-
-and magnesium-rich rocks chemically react with water to form
-serpentine minerals and release hydrogen.
-
-<img width='340' src='https://interestingengineering.com/_next/image?url=https%3A%2F%2Fcms.interestingengineering.com%2Fwp-content%2Fuploads%2F2025%2F08%2Fhydrothermal.jpg&w=1200&q=75'/>
-
-Scientists from the Institute of Oceanology of the Chinese Academy of
-Sciences (IOCAS) revealed that the system is critical to understanding
-Earth’s internal processes and the conditions that may have fostered
-life’s origins."
+F24: "Prisoner swap deal between France and Iran nearing 'final stages', says Tehran"
 
 ---
 
-"The Boycott List: A simple boycott list that features Israeli
-companies and global entities with significant activities in
-Israel. It aims to guide those who seek to make purchasing decisions
-that aims to put pressure one the Israeli government and comply with
-international law."
+He was a "Trump whisperer?".. So many Trump whisperers.. 
 
-[[-]](https://boycott-israel.org/boycott.html)
+---
+
+Do not pity the man... he was a f-ing centrist, of the Blair and
+Clinton mold... 
+
+NYT: "U.K. Ambassador to U.S., Peter Mandelson, Fired Over Epstein Links"
+
+---
+
+Charlie Kirk was having second thoughts about being a Zio before his
+death..? Maybe Israel had him killed. ISR is on a bombing spree, why
+not an influential organizer?
+
+---
+
+There are bizarre dead zones in the map, eg SE Aleppo around the
+lake. Who is in charge there?
+
+---
+
+HTS took out a chunk out of the Druze (As-Suweida), and lost territory
+to Israel SW Damascus.
+
+\#Syria 04/19 - 09/11
+
+[[-]](mbl/2025/syrdata/map04.html)
 
 ---
 
