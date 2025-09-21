@@ -7,74 +7,84 @@ Pinned Post
 
 ---
 
-Monbiot: "I seem to recall the country voting the Tories out last
-year. Part of the reason.. was their staggering incompetence and
-insouciance, epitomised by Liz Truss’s mini-budget. That catastrophe
-was, like Truss’s political career, formed and steered by the
-neoliberal junktanks of Tufton Street... We booted them out through
-the front door.. Yet they still appear to be in the house. Perhaps
-they came round the back..
-
-After taking an interest in the Department for Business and Trade’s
-“growth school” speaker sessions for civil servants, I sent a freedom
-of information request.. Among the external instructors used by the
-department’s 'growth school' so far are no representatives from trade
-unions, social justice, human rights or environmental groups, and no
-representatives from left or liberal thinktanks such as the New
-Economics Foundation or the Institute for Public Policy Research. But
-there are four who work or have worked for the Tufton Street junktanks
-that surrounded Truss."
+MEE: "Amnesty names companies contributing to apartheid and genocide
+in Gaza..  The NGO named 15 companies on which it said it has gathered
+credible evidence. This list includes American aircraft manufacturer
+Boeing, whose munitions were used in Gaza, the Chinese company
+Hikvision, which is a world leader in facial recognition technology,
+and the American software manufacturer Palantir, which provides
+services to the Israeli army and intelligence services."
 
 ---
 
-The Lever: "The Secret Curriculum That Rewired America’s Judges.. For
-decades, big business-funded economics courses have been pushing the
-nation’s judges to the right. A new study in the Quaterly Journal of
-Economics reveals nearly half of U.S. federal judges attended crash
-courses in economics at the conservative-leaning Manne Economics
-Institute for Federal Judges between 1976-1999 - and it changed how
-they behaved on the bench"
+NBC News: "Saudi Arabia and nuclear-armed Pakistan have signed a
+mutual defense pact that defines any attack on either nation as an
+attack on both"
 
 ---
 
-TASS: "Brazil not afraid of new US sanctions after Bolsonaro's sentencing"
+The fact that the attack was not deterred despite Qatar's strong
+relationship with the US (hosting a base, lavish gifts to Trump),
+would have forced the Saudis look for options.
+
+Reuters: "Saudi pact puts Pakistan's nuclear umbrella into Middle East
+security picture.. Gulf Arab states said Israel, which has never
+confirmed or denied possessing nuclear weapons, had shown itself to be
+a direct threat following its unprecedented strikes on Qatar last week"
 
 ---
 
-You know what that means.. Time to bomb Iran.
+These are the Russian gains this year, since January 2025. 
 
-F24: "Prisoner swap deal between France and Iran nearing 'final stages', says Tehran"
-
----
-
-He was a "Trump whisperer?".. So many Trump whisperers.. 
+[[-]](mbl/2025/ukrdata/map36.html)
 
 ---
 
-Do not pity the man... he was a f-ing centrist, of the Blair and
-Clinton mold... 
+Kellogg must be a paid shill of the MIC, an ongoing war, however
+terrible its consequences on the Ukranian side, is still profitable.
 
-NYT: "U.K. Ambassador to U.S., Peter Mandelson, Fired Over Epstein Links"
-
----
-
-Charlie Kirk was having second thoughts about being a Zio before his
-death..? Maybe Israel had him killed. ISR is on a bombing spree, why
-not an influential organizer?
+"Keith Kellogg on Monday said he and the chairman of the Joint Chiefs
+of Staff recently advised President Trump that Russia is losing its
+war on Ukraine"
 
 ---
 
-There are bizarre dead zones in the map, eg SE Aleppo around the
-lake. Who is in charge there?
+A second pro shooter is likely, that means Kirk was killed by an
+organized entity, for a specific purpose. What could that purpose be?
+The most powerful entity is the military-industrial complex. Possible
+reasons - trying to change the subject from something they feared
+more, attempting to foment civil war knowing they would profit from
+it, or Kirk's recent doubts about Zionism (no-no, wars in ME are a
+major source of profits). Whatever their reasons, we need to be clear,
+Kirk would not have been sacrificed if he was a loyal soldier of the
+Zionist cause. His doubts, and the fact that he aired them so publicly
+would have moved him up in the list, in that list of possible targets.
 
 ---
 
-HTS took out a chunk out of the Druze (As-Suweida), and lost territory
-to Israel SW Damascus.
+They shifted the moment he nodded to the point where he was told his
+alleged motive so he looked like he was accepting it which is
+different from the local TV version. That means the modification was
+made at the ABC. Small things like this matter.. a manipulation here,
+a manipulation there.. this is how perception is controlled...
 
-\#Syria 04/19 - 09/11
+I see traces of corporate cover-up here.
 
-[[-]](mbl/2025/syrdata/map04.html)
+---
+
+\#BodyLanguage \#Robinson
+
+[[-]](https://www.youtube.com/embed/gW0YM8uI7kg?start=1152&end=1370)
+
+---
+
+.30-06 will blow your head off, it is retarded they even talk about
+this. They should have had a better patsy.
+
+---
+
+CK was not hit by .30-06 caliber bullet (the one used by the suspect's
+rifle). It was probably 22 (what the real shooter used).
 
 ---
 

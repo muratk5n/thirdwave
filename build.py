@@ -133,7 +133,6 @@ base_head = """
       <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
-      <script async="async" data-cfasync="false" src="%(src)s"></script>
       <link rel="stylesheet" type="text/css" media="screen" href="%(css)s">
       <title>thirdwave</title>
       <link rel="canonical" href="%(href)s" />
@@ -155,19 +154,17 @@ base_head = """
 base_bottom = """
         </section>          
       </div>
-     <div id="%(bottom_ad)s"></div>
     </body>
 </html>
 """
 
 def gen_html(target):
 
+    bottom = base_bottom 
     if target=="codeberg":
-        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "href": "/en/", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
-        bottom = base_bottom % {"bottom_ad": "container-3259501b32ee6f817ed88ef5c725b985"}
+        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "href": "/en/"} 
     if target=="github":
-        head = base_head % {"title": "Github Mirror", "css": "/thirdwave/css/style.css", "href": "/thirdwave/en/", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
-        bottom = base_bottom % {"bottom_ad": "container-dd74f296f8cfa448682e8519034dcf34"}
+        head = base_head % {"title": "Github Mirror", "css": "/thirdwave/css/style.css", "href": "/thirdwave/en/"} 
     
     dirs, files = ls(os.getcwd())
     for (f,size) in files:

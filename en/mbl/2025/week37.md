@@ -1,5 +1,76 @@
 # Week 37
 
+Monbiot: "I seem to recall the country voting the Tories out last
+year. Part of the reason.. was their staggering incompetence and
+insouciance, epitomised by Liz Truss’s mini-budget. That catastrophe
+was, like Truss’s political career, formed and steered by the
+neoliberal junktanks of Tufton Street... We booted them out through
+the front door.. Yet they still appear to be in the house. Perhaps
+they came round the back..
+
+After taking an interest in the Department for Business and Trade’s
+'growth school' speaker sessions for civil servants, I sent a freedom
+of information request.. Among the external instructors used by the
+department’s 'growth school' so far are no representatives from trade
+unions, social justice, human rights or environmental groups, and no
+representatives from left or liberal thinktanks such as the New
+Economics Foundation or the Institute for Public Policy Research. But
+there are four who work or have worked for the Tufton Street junktanks
+that surrounded Truss."
+
+---
+
+The Lever: "The Secret Curriculum That Rewired America’s Judges.. For
+decades, big business-funded economics courses have been pushing the
+nation’s judges to the right. A new study in the Quaterly Journal of
+Economics reveals nearly half of U.S. federal judges attended crash
+courses in economics at the conservative-leaning Manne Economics
+Institute for Federal Judges between 1976-1999 - and it changed how
+they behaved on the bench"
+
+---
+
+TASS: "Brazil not afraid of new US sanctions after Bolsonaro's sentencing"
+
+---
+
+You know what that means.. Time to bomb Iran.
+
+F24: "Prisoner swap deal between France and Iran nearing 'final stages', says Tehran"
+
+---
+
+He was a "Trump whisperer?".. So many Trump whisperers.. 
+
+---
+
+Do not pity the man... he was a fricking centrist, of the Blair and
+Clinton mold...
+
+NYT: "U.K. Ambassador to U.S., Peter Mandelson, Fired Over Epstein Links"
+
+---
+
+Charlie Kirk was having second thoughts about being a Zio before his
+death..? Maybe Israel had him killed. ISR is on a bombing, killing
+spree, why not an influential organizer?
+
+---
+
+There are bizarre dead zones in the map, eg SE Aleppo around the
+lake. Who is in charge there?
+
+---
+
+HTS took out a chunk out of the Druze (As-Suweida), and lost territory
+to Israel SW Damascus.
+
+\#Syria 04/19 - 09/11
+
+[[-]](syrdata/map04.html)
+
+---
+
 The Guardian: "More children around the world are obese than
 underweight for the first time, according to a UN report that warns
 ultra-processed junk food is overwhelming childhood diets.There are
