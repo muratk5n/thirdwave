@@ -34,6 +34,7 @@ def get_coords_for_regex(label):
 # SYRIA
 #
 #########################################################################
+
 def prep_syria():    
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Civil Siria.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
@@ -71,6 +72,12 @@ def create_polygon(coord_group,scale=0):
     rrr = list(comb.exterior.coords)
     rrr = downsample_to_proportion(rrr, 0.2)    
     return rrr
+
+    
+################################################################3
+################################################################3
+################################################################3
+################################################################3
 
 def do_syria():
     # clean up SDF-Deir al-Zur, Armed Groups-W.Aleppo
@@ -442,6 +449,7 @@ def map_ukraine_suriyak():
         fout.write('\n')
     fout.write(']\n')
     fout.close()
+
     
 if __name__ == "__main__": 
 

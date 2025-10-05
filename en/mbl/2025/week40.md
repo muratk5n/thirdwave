@@ -1,2 +1,478 @@
 # Week 40
 
+From an interview w/ \#AdamConnover. Interesting take.
+
+Vivek Chibber: "Gore Vidal once said United States has one party with
+two right wings. So basically they're two corporate parties. They
+differ in that one of them, around midcentury, did experience some
+sort of presence on the part of trade unions and then after the 60s
+was identified with what, you today might call, social justice
+movements.
+
+But there was never a party that was rooted in the working class that
+has, as part of its program, some kind of socialist or anti-capitalist
+agenda. In Europe, in Australia, New Zealand, Canada, you had what we
+call social democratic parties, which were historically parties that
+had two aspects to them that no American parties ever had... [T]hey
+were born out of the trade union movement, or they, very early on
+linked themselves up to the trade union movement. That was their
+identity. The second is that they had real political programs, a
+political platform, that was primarily and even exclusively oriented
+towards advancing working-class interests.. not corporate
+interests. US has never had that.
+
+Now there's a there's a variety of reasons where that's the
+case... Part of it has to do with the fact that the US democratized
+very early. So the US actually had the franchise for working-class
+white men about a hundred years before any other country did. In
+Europe, working-class men had to fight for their political rights. So
+who's going to do that? Because the people lined up against their
+political rights were the wealthy. So working class men and women had
+to organize their own political parties to campaign for democratic
+rights, because every single political party in the in Europe, up
+until the 1900s, was a rich person's party. They weren't going to
+fight for democratic rights. The United States, because the American
+Revolution, got people democratic rights early, they got sucked up
+into the system without having to organize their own parties. That has
+a lot to do with why a "Labor Party" was never born... Every single
+place where you got democracy [except US], it was through
+working-class parties fighting for it...
+
+[T]here's another reason.. the US conquered more and more of the
+western regions as it grew, which means that working-class people who
+were unhappy with their situation were just able to go out and get
+some land for themselves, instead of having to fight for through a
+union and through then a political party. [T]his was.. "the
+frontier". The American frontier kept expanding [and kept unhappy
+people occupied].
+
+Then the final reason.. because of the racial mix but also the ethnic
+mix it had a working class was very divided for a very long time and
+because of that coming together in a party was also hard... These are
+the three big reasons [why the left is especially weak in US]"
+
+---
+
+*Play Dirty*, fantastic work.. 
+
+---
+
+Firstpost: "US hiring plans hit 16-year low as labour market
+stagnates"
+
+---
+
+"I can correct problems at the 'system prompt' [nudging AI this way or
+that way, via external direction". Well now you are just patching
+stuff, that is not how these things are supposed to perform.
+
+---
+
+Does (neural net driven, LLM) AI have safe algorithms for medicine? I
+ask bcz traditionally these approaches are pretty bad for planning,
+deep thought, diagnosis.
+
+[[-]](https://www.theatlantic.com/technology/archive/2024/02/chatbots-marketing-plan-your-next-trip/677481/)
+
+---
+
+Politico: "The Trump administration has a message for the biggest
+names in health care and tech: You won’t control the development of
+artificial intelligence in medicine. Top officials at the Department
+of Health and Human Services tell POLITICO that the administration
+does not support a multi-year quasi-regulatory effort by firms
+including Microsoft and OpenAI, and health systems including the Mayo
+Clinic and Duke Health, to pilot private-sector-led vetting of AI
+tools under the banner of the Coalition for Health AI.
+
+'They don’t speak for us,' Deputy HHS Secretary Jim O’Neill said to
+POLITICO. The coalition, he added, threatens to become a 'cartel' in
+which big companies squelch startups and corner the booming market for
+artificial intelligence in health care. He said he’s heard from
+industry 'that if you want to work in the space, you have to be a
+member, and we just want to make clear that that is not the case.'"
+
+---
+
+RT: "Putin compares ideology of modern West to USSR.. The Soviet Union
+imposed its system on others, and it didn’t last, the president
+reminded"
+
+---
+
+The New Republic: "Oracle CEO Safra Catz—who is currently leading the
+acquisition of TikTok’s U.S. assets—told former Israeli Prime Minister
+Ehud Barak in 2015 that they had to 'embed the love and respect for
+Israel in the American culture.'"
+
+---
+
+Chibber, *Confronting Capitalism*: "After more than forty years of
+neoliberalism, the road back to sanity is going to be a long one. And
+it is by no means certain that we will achieve it. Even while free
+market fundamentalism is ideologically weakened, it is still a strong
+political force. For the latter to change, the Left will have to
+gather up its strength at a scale we have not seen since midcentury."
+
+---
+
+Vivek Chibber, *The Class Matrix*: "The particular strategies chosen
+by elites were situationally specific. In Britain and France, the
+charge to dismantle social democratic institutions seems to have been
+taken by political parties, with employers waiting to see if the
+waters were safe and then diving in as labor’s weakness became
+clear...
+
+Swedish employers seemed to have been spurred to action in the late
+1970s as the Social Democrats unveiled the Meidner Plan, an initiative
+that proposed to gradually transfer control over capital to Swedish
+unions. After mobilizing successfully to block its adoption, employers
+gradually ramped up their political campaign. They led the charge to
+dismantle Sweden’s famed [social] institutions, the centerpiece of
+which was the sectoral peak bargaining system, and by the early 1990s
+had succeeded in the endeavor...
+
+Germany followed a similar path of employer-led
+restructuring. Reunification with the East opened up a vast zone of
+nonunionized labor in the newly in- corporated regions, which put
+downward pressure on wages, and employers lost no time in demanding
+concessions from workers in the very core of the manufacturing
+sector... By the early 2000s, German unions were holding on as best
+they could but were unable to hold off employers’ escalating attacks,
+not just on bargaining institutions but also on the welfare state
+itself..
+
+Now, there is ample ground for debate about the specifics of each
+case. But the basic fact of capitalists’ participation in the
+dismantling of redistributive institutions is beyond dispute. This
+reaction from employers is important because it undermines the
+prediction that they might learn to accept social democracy once it is
+in place owing to its growth-enhancing effects. Had they learned to
+appreciate the latter, one might reasonably expect that, at least in a
+substantial plurality of the cases, their reaction to labor’s weakened
+state would be to step in and shore up social democratic
+institutions. So, where labor’s hand was failing, they would
+compensate for its reduced effectiveness. What we find, however, is a
+consistent pattern in their reactions—across the board, they showed an
+enduring hostility to the redistributive institutions."
+
+---
+
+TAC: "Late-night hosts on broadcast television are uniformly and
+almost banally liberal. They have sacrificed much of the comedic and
+entertainment value of their shows by offering bad political
+commentary under the guise of monologues. Most importantly, they have
+decided to appeal to at best half of an already declining audience."
+
+---
+
+The strongest power center in US is the private complex, but not all
+members of that group have equal reach in all aspects of shady
+operations. If you are Coca-Cola you can have a union leader
+assasinated in Columbia, no problem. You have that power. If you are
+in the oil/gas/energy complex, you can have a Kennedy assasinated,
+that is within your reach, as long as form the right alliances, get
+buddy-buddy with a few other power centers. Texas oil interests worked
+with LBJ, and they had JFK assasinated.
+
+But when the oil/gas/energy complex protested against the passage
+Iran-Libya Sanction Act in 1996, they were ignored, because the
+**military**-industrial complex (using AIPAC as their cover and
+lobbying arm) wanted that law, it was aligned with their interests,
+would indirectly create more profits for their weapon sales, increase
+the specter of conflict in West Asia.
+
+MIC is the big dog here... Even their lowly members can have you shot,
+have you killed in broad daylight, like those two people who went
+against Hewlett Packard and "handled", in the same day. Snap. Gone.
+
+That is why the real shooter who assasinated Charlie Kirk is likely an
+MIC operative, the only group who could have arranged something this
+big and daring. 
+
+---
+
+An over-engineered piece of work... That is ACA
+
+---
+
+Year 2025 and the US is still arguing whether or not to subsidize /
+prop up Obamacare.
+
+---
+
+Even if the capability is there it would be too risky to rely on it
+when nuclear weapons are involved. US might as well assume M.A.D.
+
+---
+
+Did DJT just say they can pinpoint the locations of Russian nuclear
+weapons but US' are invisible (giving US an advantage in a
+first-strike scenario)? That can warrant a little investigation. MSM,
+chop chop \#MilitarySpeech
+
+---
+
+Al-Jazeera: "Trump has issued an executive order in which the United
+States pledges to guarantee Qatar’s security – including retaliatory
+military action – if the country were to come under attack again, in
+the wake of Israel’s unprecedented air strikes on the country last
+month that drew regional and global outrage."
+
+---
+
+"@atomicpoet@atomicpoet.org
+
+🔥 Big update: the PeerTube co-op idea is taking off.
+
+Yesterday I shared the proposal publicly—and the response has been
+outstanding. Seven people have already stepped up to become
+founder-members, ready to build a member-owned, democratically
+governed alternative to corporate video platforms.
+
+What started as a loose idea is now a real plan—and credit goes to
+@Crissy for pushing me to turn the idea into a proper proposal.
+
+We’re at the early stages: talking with existing Fediverse co-ops, and
+I’ve reached out to the BC Co-op Association to guide us through
+incorporation. Next up: drafting bylaws, shaping governance, and
+laying a solid foundation together.
+
+Once incorporated, member-owners will decide everything—policies,
+hosting practices, monetization models. This isn’t just another social
+media platform. It’s a co-operative effort to build something
+transparent, resilient, and ours.
+
+If this speaks to you—if you want to help shape a new, community-owned
+video platform—get in touch. This is how alternatives get built."
+
+---
+
+NYT: "Secretive Program That Keeps Ukraine’s Weapons Firing Is
+Suddenly in Doubt.. A Czech Republic-led effort gathers munitions for
+Kyiv from around the world, but an opposition party expected to win
+elections there has vowed to drop it.'
+
+---
+
+"@DF3LX@social.darc.de
+
+@m @GossiTheDog You mean the Vibe President?"
+
+---
+
+"@m@martinh.net
+
+@GossiTheDog Strong possibility that this is only happening so that
+the VP of Vibes can strut out onto a stage while gyrating
+unconvincingly to the tune of a certain Bee Gees song..."
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+Microsoft today"
+
+<img width='250' src='https://cyberplace.social/system/media_attachments/files/115/288/946/923/076/783/original/f7439ff4e5215321.jpeg'/>
+
+---
+
+"For the past 15 years, F-Droid has provided a safe and secure haven
+for Android users around the world to find and install free and open
+source apps. When contrasted with the commercial app stores — of which
+the Google Play store is the most prominent — the differences are
+stark: they are hotbeds of spyware and scams, blatantly promoting apps
+that prey on their users through attempts to monetize their attention
+and mine their intimate information through any means necessary,
+including [trickery and dark patterns](https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years).
+
+F-Droid is different. It distributes apps that have been validated to
+work for the user’s interests, rather than for the interests of the
+app’s distributors. The way F-Droid works is simple: when a developer
+creates an app and hosts the source code publicly somewhere, the
+F-Droid team reviews it, inspecting it to ensure that it is completely
+open source and contains no undocumented anti-features such as
+advertisements or trackers. Once it passes inspection, the F-Droid
+build service compiles and packages the app to make it ready for
+distribution."
+
+---
+
+"@don_atoms@hostux.social
+
+For 15 years, F-Droid has been the antidote to Google Play: no
+trackers, no ads, just open source apps. Now, Google wants to kill it.
+
+Under the guise of 'security', Google is forcing devs to register,
+pay, and surrender control. F-Droid can’t comply without betraying its
+principles. Thousands of apps could vanish overnight.
+
+Fight back: demand sideloading rights, pressure regulators/Parliament,
+and defend one of the safe harbors for ethical tech."
+
+---
+
+"@Geri@mastodon.online
+
+Labour Party members have voted to accept that a genocide is taking
+place in #Gaza by Israel - putting pressure on the government to also
+do so."
+
+---
+
+Who Has the Money? \#Stevenson
+
+[[-]](https://www.youtube.com/embed/bXwcqLl_2aY?start=134&end=597)
+
+---
+
+Racially if they are tigga as in from the East they are only mildly
+related to Anatolia, they can be similar to the extent they are
+regionally close, same way as the Greeks are, or the Arabs. In Asia
+Minor this is an assimilated race, present in the tomato soup (not
+melting pot) which did not change the overall structure as much. The
+official "T-word" narrative is based on a lie.
+
+---
+
+Just talked abt these guys the other day didn't we? The Gagauz..
+My tigga
+
+"Gagauzia head faces court: recent developments.. 'No matter what the
+pro-government media outlets say, I am tried today because I am
+Gagauzia's head,' Evghenia Gutsul stated"
+
+---
+
+Congress is a corporate infested bizarre place.. If something like Jan
+6 happens again I'd bring a f-king bazooka.
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+U.S. Customs and Border Protection and Federal Emergency Management
+Agency had an undisclosed CitrixBleed2 incident which lead to a
+widespread incident and data theft from the USG.
+
+24 people have been fired over the incident.
+
+The USG really needs to have a word with Citrix over this one btw as
+it’s a textbook example of a vendor prioritising its own interests
+over the interests of its customers, in this case the USG.
+
+It wasn’t the only federal government function that got
+compromised. Very weird the cybersecurity response basically got
+outsourced to a porg with a Windows XP avatar on Mastodon [he is
+referring to himself]."
+
+---
+
+\#Galloway \#Arrest
+
+[[-]](https://youtu.be/jIDTEd6r5yg?t=66)
+
+---
+
+Pressure must have been intense to have anti-Mamdani votes united in
+one candidate.. 
+
+Politico: "Eric Adams ends reelection campaign.. The beleaguered New
+York City mayor’s bid was hampered by legal problems, a lack of money
+and unshakable ties to President Donald Trump"
+
+---
+
+"AI Scalers", and their LLM approach already hit an upper limit of
+growth, there is no more improvements to be had by simply scaling, and
+the end result is still pretty stupid. Throwing more hardware at the
+problem is not improving the product.
+
+---
+
+I am on the "AI Designers'" side of that argument..
+
+Video talks about a new approach too that performs better on reasoning
+tasks, with smaller footprint.
+
+[[-]](https://youtu.be/X3A07PvTK9Q?t=73)
+
+---
+
+"Are We at the End of AI Progress?"
+
+[[-]](https://www.youtube.com/embed/3MygnjdqNWc?start=16&end=288)
+
+---
+
+ProPublica: "Psychiatric hospitals — increasingly owned by for-profit
+corporations — are illegally turning away patients during crises. Yet
+only a handful face penalties, with fines that are trivial [our]
+investigation found."
+
+---
+
+The Guardian: "After announcing plans to recognise a Palestinian
+state, Australia’s decision to reject visa application from far-right
+Knesset member heightens tensions with Israel"
+
+---
+
+"Why Are Zionists SUDDENLY Warning of Another 9/11?" \#Werleman
+
+[[-]](https://youtu.be/r71L4zGXfSI?t=102)
+
+---
+
+"A majority of British 18 to 24 year olds do not believe that Israel
+should exist, a poll has revealed."
+
+---
+
+CNBC: "The resilient stock market may be keeping the economy out of a
+recession. Why that's a bad thing.. Consumers with larger stock
+holdings are feeling fine, while those with smaller or no holdings are
+not"
+
+---
+
+Ukraine is like Palestine fighting the 'Goliath' that is Russia? Just
+like Pals are fighting the Goliath Israel.?
+
+That's where you are wrong.. The Goliath in this picture is
+NATO. Russia is David fighting an existential war against them via
+proxy.
+
+---
+
+Kimmel is saved.. I can ignore the excessive Red vs Blue hacky shit,
+but can't they get someone funnier?
+
+---
+
+When I wrote that an Alaskan responded "oh yea we know abt that, the
+Unuit, etc". That makes sense, the *immigrants* would be passing
+through there. Some could've stayed behind.
+
+---
+
+Unending "memes" comparing Americans to immigrants of sorts who could
+be seen a type of immigrants to relative to the "natives" of
+America... Let's not forget the so-called natives also emigrated from
+somewhere else. A long time ago, sure, but they crossed the Bering
+Strait to get there from Asia. They did not **evolve** there, as
+humans did in Africa. They left, and arrived to new lands.
+
+---
+
+Watched *Sneakers* (1992), ahead of its time in some ways, starring
+Robert Redford. RIP
+
+---
+
+\#Ukraine 09/19 - 09/27
+
+[[-]](ukrdata/map37.html)
+
+---
+

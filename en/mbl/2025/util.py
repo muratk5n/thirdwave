@@ -62,9 +62,9 @@ def geoname(keyword, ccode):
     return float(res[0]),float(res[1])
 
 def plot_us_navy(infile,outfile):
-    df = pd.read_csv(infile)
+    df = pd.read_csv(infile,sep='|')
     m = folium.Map(location=[0,0], zoom_start=3) 
-    for idx, (ship,loc,lat,lon) in df.iterrows():
+    for idx, (ship,lat,lon,source) in df.iterrows():
         folium.Marker([lat + np.random.uniform(-0.5,0.5),
                        lon + np.random.uniform(-0.5,0.5)],
                       popup=folium.Popup(ship)).add_to(m)
@@ -498,4 +498,4 @@ if __name__ == "__main__":
     if sys.argv[1] == "approv":
         trump_approval()
     if sys.argv[1] == "usnavy":
-        map_usnavy("/tmp/navy.html")
+        plot_us_navy("usnavy-0928.csv","map15.html")

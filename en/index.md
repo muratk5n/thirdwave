@@ -1,90 +1,114 @@
 
-Pinned Post
-
-"How the military-industrial complex captured US democracy" \#AlJazeera
-
-[[-]](https://www.youtube.com/embed/cVYTb85_dZw?start=270&end=1276)
-
----
-
-MEE: "Amnesty names companies contributing to apartheid and genocide
-in Gaza..  The NGO named 15 companies on which it said it has gathered
-credible evidence. This list includes American aircraft manufacturer
-Boeing, whose munitions were used in Gaza, the Chinese company
-Hikvision, which is a world leader in facial recognition technology,
-and the American software manufacturer Palantir, which provides
-services to the Israeli army and intelligence services."
+Moyers: "[2016] Bill Clinton's legacy in empowering the consolidation
+of corporate media is right up there with the North American Free
+Trade Agreement (NAFTA).. [T]he Telecommunications Act of
+1996.. signed into law on February 8, 1996, was 'essentially bought
+and paid for by corporate media lobbies,' as Fairness and Accuracy in
+Reporting (FAIR) described it, and radically 'opened the floodgates on
+mergers.'"
 
 ---
 
-NBC News: "Saudi Arabia and nuclear-armed Pakistan have signed a
-mutual defense pact that defines any attack on either nation as an
-attack on both"
+BHJ: "In 1983, the US media was controlled by 50 companies.. by 2020
+the number shrank to six... Not only are there six conglomerates alone
+that mainly own the media, but these six are so interconnected that
+they are practically one."
 
 ---
 
-The fact that the attack was not deterred despite Qatar's strong
-relationship with the US (hosting a base, lavish gifts to Trump),
-would have forced the Saudis look for options.
+Robert Reich: "[9/24] The richest man on earth owns X.
 
-Reuters: "Saudi pact puts Pakistan's nuclear umbrella into Middle East
-security picture.. Gulf Arab states said Israel, which has never
-confirmed or denied possessing nuclear weapons, had shown itself to be
-a direct threat following its unprecedented strikes on Qatar last week"
+The second richest man on earth is about to be a major owner of TikTok.
 
----
+The third richest man owns Facebook, Instagram, and WhatsApp.
 
-These are the Russian gains this year, since January 2025. 
+The fourth richest man owns The Washington Post. 
 
-[[-]](mbl/2025/ukrdata/map36.html)
+See the problem here?"
 
 ---
 
-Kellogg must be a paid shill of the MIC, an ongoing war, however
-terrible its consequences on the Ukranian side, is still profitable.
-
-"Keith Kellogg on Monday said he and the chairman of the Joint Chiefs
-of Staff recently advised President Trump that Russia is losing its
-war on Ukraine"
-
----
-
-A second pro shooter is likely, that means Kirk was killed by an
-organized entity, for a specific purpose. What could that purpose be?
-The most powerful entity is the military-industrial complex. Possible
-reasons - trying to change the subject from something they feared
-more, attempting to foment civil war knowing they would profit from
-it, or Kirk's recent doubts about Zionism (no-no, wars in ME are a
-major source of profits). Whatever their reasons, we need to be clear,
-Kirk would not have been sacrificed if he was a loyal soldier of the
-Zionist cause. His doubts, and the fact that he aired them so publicly
-would have moved him up in the list, in that list of possible targets.
+Mortgage demand, their use can cause house price increases, which in
+turn raise demand for mortgages more, raising house prices again, and
+on and on.. A snowball effect.  But if you rewind it all back, why did
+people *start* to need bigger mortgages to begin with? The culprit:
+rising inequality. The snowball naturally will make that worse too,
+only the top 1% will have the money to lend to struggling home owners,
+and middle class' monthly payments will generate a massive passive
+income for the rich which they can use to buy even more assets.
 
 ---
 
-They shifted the moment he nodded to the point where he was told his
-alleged motive so he looked like he was accepting it which is
-different from the local TV version. That means the modification was
-made at the ABC. Small things like this matter.. a manipulation here,
-a manipulation there.. this is how perception is controlled...
-
-I see traces of corporate cover-up here.
+Why isn't Canadian healthcare financing become problematic when their
+conservatives are in power? Well because they haven't done a half
+assed job like the US, their system has proper funding from get-go.
 
 ---
 
-\#BodyLanguage \#Robinson
+Trust the corporatist guy (former chairman of Blackrock DE) to do the
+right thing
 
-[[-]](https://www.youtube.com/embed/gW0YM8uI7kg?start=1152&end=1370)
+"@signalapp@mastodon.world
+
+We are alarmed by reports that Germany is on the verge of a
+catastrophic about-face, reversing its longstanding and principled
+opposition to the EU’s Chat Control proposal which, if passed, could
+spell the end of the right to privacy in Europe."
 
 ---
 
-.30-06 will blow your head off, it is retarded they even talk about
-this. They should have had a better patsy.
+\#Ukraine 09/27 - 10/05
+
+[[-]](mbl/2025/ukrdata/map38.html)
 
 ---
 
-CK was not hit by .30-06 caliber bullet (the one used by the suspect's
-rifle). It was probably 22 (what the real shooter used).
+"Bush was pivoting to a War on Drugs as a new frontier for defense
+contracts".. Them defense contracts
+
+Katz, *Gangsters of Capitalism*: "Noriega rose through the ranks of
+the National Guard of Panama, a force created during the Cold War
+along the lines of the Somozas’ militia in Nicaragua.  While being
+paid by the U.S. government to spy on leftist movements in Panama in
+the early 1960s, he enrolled at the U.S. Army’s School of the Americas
+training center, then based in the Canal Zone. (Noriega’s fellow
+alumni included the future heads of death squads and secret police
+across Latin America.) In 1970, Noriega was made Panama’s chief of
+military intelligence. A year after, he was formally put on the
+payroll of the CIA..
+
+In January 1989, a former director of the CIA, George Herbert Walker
+Bush, became president of the United States. Noriega, who had started
+working with Bush in 1976, must have thought he had won the
+lottery. But with the Cold War coming to an end, Bush was pivoting to
+a War on Drugs as a new frontier for defense contracts, surveillance,
+and a pretext for military control. Once in office, Bush turned on his
+erstwhile employee, calling for Noriega to step down and imposing
+crippling sanctions on Panama. On December 15, 1989, the Panamanian
+national assembly named Noriega the country’s 'maximum leader of
+national liberation' and symbolically declared war on the United
+States. The next day, a group of U.S. troops got into an argument with
+PDF soldiers at a roadblock in El Chorrillo. A Marine lieutenant named
+Robert Paz was shot.  He died soon after at Gorgas Hospital in the
+former Canal Zone. On December 20, citing the Colombian-born
+U.S. Marine’s death as a justification, the United States invaded
+Panama for the second time."
+
+---
+
+The National Interest: "Why Did America Just Send a Dozen Aerial Tankers to Qatar?"
+
+---
+
+Calm down, the word just means "the leader" in Italian.
+
+---
+
+\#USNavy There is still some concentration around Iran, less than last
+time I checked, and of course, there is massive focus around
+Venezuella. What is Il Duce up to?
+
+[[-]](mbl/2025/map15.html)
 
 ---
 
@@ -132,3 +156,7 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
+
