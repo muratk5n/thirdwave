@@ -44,31 +44,6 @@ openness.
 
 ---
 
-Open source hardware, open source microprocessor architecture... Ain't that grand?
-
-EE Times: "The RISC-V instruction set architecture (ISA) is one of the
-most notable contenders to emerge in the ever-evolving realm of
-computer architecture. Because of its modularity, RISC-V provides more
-flexibility and customization possibilities than the ARM and x86 ISAs,
-and it requires no license fees. The open-source ISA, which started in
-2010 as part of the Parallel Computing Laboratory (Par Lab) at the
-University of California, Berkeley, is now being used in more than 10
-billion CPU cores in the market and continues on an aggressive growth
-path..
-
-<img width='340' src='https://tse4.mm.bing.net/th?id=OIP.LciCAqAS8VwUzHcIQw9AFAHaDz&pid=Api'/> 
-
-RISC-V is set to follow the same path as Linux, whose development
-community has made contributions over the years that have expanded the
-open-source operating system’s functionality and market. Similarly,
-developers in the RISC-V ecosystem are working together to create ISA
-and non-ISA specifications that leverage the advantages offered by
-RISC-V. Many companies have started developing products based on
-RISC-V and are targeting use cases from analog intellectual property
-(IP) and formal verification to GPU vector cores"
-
----
-
 H2 Central: "PSM, Thomassen Energy and Hanwha Power Systems, jointly
 and in collaboration with Hanwha portfolio peer companies in Korea,
 shattered an industry record, successfully operating a Frame 7E gas

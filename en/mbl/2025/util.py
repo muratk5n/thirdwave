@@ -13,6 +13,8 @@ from itertools import islice
 import matplotlib.dates as mdates
 from pygeodesy import parse3llh, fstr
 from pygeodesy.sphericalNvector import LatLon
+from scipy.optimize import least_squares
+from numpy.linalg import lstsq
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
@@ -31,6 +33,71 @@ def trump_approval():
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
     plt.savefig('/tmp/approval.jpg')
 
+def sornette_lppl(df,col):
+    def lppl_basis(t, tc, m, w):
+        if np.any(t >= tc):
+            return np.inf * np.ones_like(t)
+        dt = tc - t        
+        basis = np.array([
+            np.ones_like(t),
+            dt**m,
+            dt**m * np.cos(w * np.log(dt)),
+            dt**m * np.sin(w * np.log(dt))
+        ]).T     
+        return basis
+
+    def lppl_residual_scipy(nonlin_params_array, t, log_p):
+        tc, m, w = nonlin_params_array
+
+        if m <= 0 or m >= 1.0 or np.any(t >= tc):
+            return np.full_like(log_p, 1e12) # Çok büyük bir hata döndür
+
+        basis_matrix = lppl_basis(t, tc, m, w)    
+        linear_params, residuals, rank, s = lstsq(basis_matrix, log_p, rcond=None)    
+        model_log_p = basis_matrix @ linear_params    
+        return log_p - model_log_p
+
+    def run_lppl_fit_scipy(t_data, log_p_data, x0_nonlin, bounds_nonlin):
+        result = least_squares(
+            fun=lppl_residual_scipy,
+            x0=x0_nonlin,
+            bounds=bounds_nonlin,
+            args=(t_data, log_p_data), 
+            method='trf',
+            max_nfev=3000, 
+            verbose=1 
+        )
+
+        print(result.message)    
+        tc, m, w = result.x
+        basis_matrix = lppl_basis(t_data, tc, m, w)
+        linear_params, _, _, _ = lstsq(basis_matrix, log_p_data, rcond=None)
+        A, B, C1, C2 = linear_params    
+        C_amp = np.sqrt(C1**2 + C2**2) / np.abs(B) # C = sqrt(C1^2 + C2^2) / |B|
+        phi_phase = np.arctan2(C2, C1)    
+        final_params = {
+            'tc': tc, 'm': m, 'w': w,
+            'A': A, 'B': B, 'C1': C1, 'C2': C2,
+            'C_amplitude': C_amp, 'phi_phase': phi_phase
+        }
+
+        return final_params, result
+
+    price_data = df[col].values
+    log_p_data = np.log(price_data)
+    t_index = df.index
+    t_ordinal = t_index.to_series().apply(lambda x: x.toordinal()).values
+    t_data = t_ordinal - t_ordinal[0] + 1
+    max_t = np.max(t_data) 
+    x0_nonlin = [max_t * 1.05, 0.5, 10.0]
+    bounds_nonlin = (
+        [max_t, 0.01, 6.0],
+        [max_t * 2.0, 0.99, 13.0]
+    )
+    final_params, fit_result = run_lppl_fit_scipy(t_data, log_p_data, x0_nonlin, bounds_nonlin)
+    for key, value in final_params.items():
+        print(f"{key}: {value:.6f}")
+    
 def pollution(lat,lon):
     """
     Register with Openweathermap site and get a API key, place it

@@ -1,114 +1,117 @@
 
-Moyers: "[2016] Bill Clinton's legacy in empowering the consolidation
-of corporate media is right up there with the North American Free
-Trade Agreement (NAFTA).. [T]he Telecommunications Act of
-1996.. signed into law on February 8, 1996, was 'essentially bought
-and paid for by corporate media lobbies,' as Fairness and Accuracy in
-Reporting (FAIR) described it, and radically 'opened the floodgates on
-mergers.'"
+Summary: The US bombing of Serbs was a show, to cover up the Bosnian
+concessions made to them later. I would not expect anything less from
+a Clinton.
+
+\#HarryBlain \#NeutralityStudies
+
+[Excerpt 1](https://www.youtube.com/embed/-v5nnhsBXiI?start=125&end=297),
+[Excerpt 2](https://www.youtube.com/embed/-v5nnhsBXiI?start=1309&end=1767)
 
 ---
 
-BHJ: "In 1983, the US media was controlled by 50 companies.. by 2020
-the number shrank to six... Not only are there six conglomerates alone
-that mainly own the media, but these six are so interconnected that
-they are practically one."
+Some notes from Robert Masse's criticism of the Copenhagen
+Interpretation of QM
+
+[[-]](2025/10/masse2.html)
 
 ---
 
-Robert Reich: "[9/24] The richest man on earth owns X.
-
-The second richest man on earth is about to be a major owner of TikTok.
-
-The third richest man owns Facebook, Instagram, and WhatsApp.
-
-The fourth richest man owns The Washington Post. 
-
-See the problem here?"
+Hinton, "the godfather of AI" is mostly talking out of his ass these
+days.. What happened to one innovation of his, the so-called
+"capsules"?  He had declared regular NN aproaches dead back in 2017
+and was promoting it ad nauseam, capsules, that would revolutionize
+everything... it didn't go anywhere. His best days are clearly behind
+him. He is a just a rambling man now.. talking crazy.
 
 ---
 
-Mortgage demand, their use can cause house price increases, which in
-turn raise demand for mortgages more, raising house prices again, and
-on and on.. A snowball effect.  But if you rewind it all back, why did
-people *start* to need bigger mortgages to begin with? The culprit:
-rising inequality. The snowball naturally will make that worse too,
-only the top 1% will have the money to lend to struggling home owners,
-and middle class' monthly payments will generate a massive passive
-income for the rich which they can use to buy even more assets.
+"Long considered a system reserved for insiders, Linux is experiencing
+a real boom in France. According to an analysis.. based on web traffic
+data published by Cloudflare Radar, more than 2.2 million French
+people regularly use Linux on their personal computers"
 
 ---
 
-Why isn't Canadian healthcare financing become problematic when their
-conservatives are in power? Well because they haven't done a half
-assed job like the US, their system has proper funding from get-go.
+It needs to be stressed, LLMs operate in a "latent space", in the
+compressed knowledge representation of the world, and when asked
+something they can *always* generate something from that latent
+space. I can factorize a matrix $A$ into various components even with
+missing data, get a "reduced dimension" representation, and always
+recreate the whole matrix from those components even fill in the
+missing values whether the prediction is completely right or not. The
+generation can be close, but not always necessarily accurate. This is
+what they mean when the hallucination is embedded in the math.
 
 ---
 
-Trust the corporatist guy (former chairman of Blackrock DE) to do the
-right thing
-
-"@signalapp@mastodon.world
-
-We are alarmed by reports that Germany is on the verge of a
-catastrophic about-face, reversing its longstanding and principled
-opposition to the EU’s Chat Control proposal which, if passed, could
-spell the end of the right to privacy in Europe."
+Retrieval-Augmented Generation is a good idea.. you can have LLM index
+your personal notes, personal documents (obviously orgs can do the
+same on their internal knowledge base), just like LLMs indexed the
+whole Internet and books, they can just add your stuff on top of that,
+then you can "ask", or query that knowledge base silo in plain
+English.
 
 ---
 
-\#Ukraine 09/27 - 10/05
-
-[[-]](mbl/2025/ukrdata/map38.html)
-
----
-
-"Bush was pivoting to a War on Drugs as a new frontier for defense
-contracts".. Them defense contracts
-
-Katz, *Gangsters of Capitalism*: "Noriega rose through the ranks of
-the National Guard of Panama, a force created during the Cold War
-along the lines of the Somozas’ militia in Nicaragua.  While being
-paid by the U.S. government to spy on leftist movements in Panama in
-the early 1960s, he enrolled at the U.S. Army’s School of the Americas
-training center, then based in the Canal Zone. (Noriega’s fellow
-alumni included the future heads of death squads and secret police
-across Latin America.) In 1970, Noriega was made Panama’s chief of
-military intelligence. A year after, he was formally put on the
-payroll of the CIA..
-
-In January 1989, a former director of the CIA, George Herbert Walker
-Bush, became president of the United States. Noriega, who had started
-working with Bush in 1976, must have thought he had won the
-lottery. But with the Cold War coming to an end, Bush was pivoting to
-a War on Drugs as a new frontier for defense contracts, surveillance,
-and a pretext for military control. Once in office, Bush turned on his
-erstwhile employee, calling for Noriega to step down and imposing
-crippling sanctions on Panama. On December 15, 1989, the Panamanian
-national assembly named Noriega the country’s 'maximum leader of
-national liberation' and symbolically declared war on the United
-States. The next day, a group of U.S. troops got into an argument with
-PDF soldiers at a roadblock in El Chorrillo. A Marine lieutenant named
-Robert Paz was shot.  He died soon after at Gorgas Hospital in the
-former Canal Zone. On December 20, citing the Colombian-born
-U.S. Marine’s death as a justification, the United States invaded
-Panama for the second time."
+LLM is glorified search.. LLMs are ok at that, I never said they
+weren't, but remember for regular search we don't expect perfection,
+or crazy accuracy, simply the top 10 or 20 items be relevant, same is
+true here.
 
 ---
 
-The National Interest: "Why Did America Just Send a Dozen Aerial Tankers to Qatar?"
+Computerworld: "OpenAI admits AI hallucinations are mathematically
+inevitable, not just engineering flaws"
 
 ---
 
-Calm down, the word just means "the leader" in Italian.
+Bloomberg: "Ferrari Scales Back Electric Ambitions"
 
 ---
 
-\#USNavy There is still some concentration around Iran, less than last
-time I checked, and of course, there is massive focus around
-Venezuella. What is Il Duce up to?
+The Guardian: "About 5 million British computer users risk becoming
+vulnerable to cyber-attacks and scams after Microsoft next week stops
+updating its decade-old Windows 10 system, consumer campaigners have
+warned.
 
-[[-]](mbl/2025/map15.html)
+One in four of an estimated 21 million UK people using a device that
+runs the Windows 10 software intend to continue using it after updates
+cease and so will be at risk of online security breaches including
+malware and viruses..
+
+The most straightforward move is to update to Windows 11 for free. If
+your PC is less than four years old, it is likely to work [but some
+hardware might not be enough to run 11] ...
+
+Another solution is to convert your computer to a different operating
+system, such as Linux or Google’s Chrome OS."
+
+---
+
+The actress is not Israeli herself, she is a chica. LatinX.
+
+---
+
+NCIS has a new spinoff, *NCIS Tony and Ziva*. The character Ziva is an
+Israeli. Is this part of an attempt to make the Zio look good again?
+
+---
+
+Truth Social exists thanks to FOSS. They took their base code from
+Mastodon. Every time Il Duce posts a message on TS he is expressing
+how much he likes software socialism.
+
+---
+
+The Internet boom of post 90s would be impossible if it had to rely on
+Oracle, Microsoft commercial packages alone... Having a free software
+stack as an alternative (now the main tech avenue) allowed many
+projects to experiment with what worked what didn't, for
+free. Startups did not immediately call up Jew Ellison to be charged
+millions for gargentuan bloated Oracle database before they made any
+money. They relied on open source, paid next to nothing for their
+software stack.
 
 ---
 
@@ -156,7 +159,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
 
 
 

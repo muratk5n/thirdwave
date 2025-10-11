@@ -497,18 +497,6 @@ One of its designers call the Intel 386 instruction set as
 
 ---
 
-Yes, the instruction set is simpler, and then bunch of companies
-jumped on the bandwagon bcz of the clean design, and it snowballed
-from there.
-
-Risc-V is of course open source.
-
-"RISC-V is a new free and open instruction set architecture (ISA)
-developed at UC Berkeley, initially designed for research and
-education, but is now increasingly being used for commercial designs"
-
----
-
 Politics is rough ...
 
 --- 

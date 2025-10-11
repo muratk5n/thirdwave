@@ -216,15 +216,6 @@ combust it for turbines. Japan [has the technology](https://youtu.be/5ejL65tKsGM
 
 ---
 
-CPUs still have some life left in them..
-
-"ETH Zurich Team Unveils RISC-V-Based Snitch Processor, Boasts of
-Sixfold Performance Gains"
-
-[[-]](https://www.hackster.io/news/eth-zurich-team-unveils-risc-v-based-snitch-processor-boasts-of-sixfold-performance-gains-a7d354622888)
-
----
-
 No I dont judge Baldwin for using guns in movies.. There is no
 'gotcha' here. Reagan, a conservative, used guns on the big screen,
 and he was for gun control. Films are escapism.
