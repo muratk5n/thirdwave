@@ -11,7 +11,7 @@ For Overinvesting In Electric Cars"
 Financial Trader Customers on Margin Loans (Total Leverage)
 
 According to data, leverage deployed at this point is around half a
-trillion dollars. It is sky-high and climbing.
+trillion dollars, a sky-high amount and climbing.
 
 [[-]](https://fred.stlouisfed.org/series/BOGZ1FL663067003Q)
 
@@ -47,7 +47,7 @@ Xi Jinping's father. That is some legendary stuff right there.
 ---
 
 The CCP party conf is over, the result seems to be Xi lives to fight
-another day, but according to the infighting scenario power is still
+another day, but, according to the infighting scenario, power is still
 divided.
 
 ---
@@ -91,8 +91,8 @@ the attack, he was told that his own government could not protect him."
 If Ukraine falls Poland can take its Western section that are
 "historically Polish", and Hungary can probably take Transcarpathia -
 there is a Hungarian speaking minority there, and it is right across
-the border, right? It can happen... RU beats it, and UA becomes a rump
-state its neighbors dismember it. 
+the border, right? It can happen... RU beats Ukraine, turning it into
+a rump state, its neighbors dismember it.
 
 ---
 
