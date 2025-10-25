@@ -31,6 +31,7 @@ def trump_approval():
     df.index = pd.to_datetime(df.index,format='%d-%m-%Y')
     df['net'] = df.Approve - df.Disprove
     df['net'].plot(grid=True,title='POTUS Net Approval - ' + datetime.datetime.now().strftime("%m/%d"))
+    print (df['net'].tail(6))
     plt.savefig('/tmp/approval.jpg')
 
 def sornette_lppl(df,col):
@@ -159,7 +160,7 @@ def two_plot(df, col1, col2):
     
 def mov_profit(budget, gross):
   marketing = budget / 2
-  return np.round(gross - (budget + marketing + gross*0.4),2)
+  return float(np.round(gross - (budget + marketing + gross*0.4),2))
     
 def downsample_to_proportion(rows, proportion=1):
     return list(islice(rows, 0, len(rows), int(1/proportion)))

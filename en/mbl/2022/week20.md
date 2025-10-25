@@ -157,12 +157,6 @@ Charly Antolini's Power Dozen - Nofretete's Headache \#music
 
 ---
 
-Klement Julienne - Mannix \#music
-
-[[-]](https://youtu.be/LeIdR3zhXDI)
-
----
-
 JP does good things on H2 though, kudos there
 
 ---

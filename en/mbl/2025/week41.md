@@ -267,7 +267,7 @@ classical, it will reinforce the view that there is no inherent
 parallelism in nature to be exploited at quantum level, the Copenhagen
 interpretation is a farce, as Masse stated below.
 
-[[-]](2025/04/masse-collected-comments.html#qm)
+[[-]](../../2025/04/masse-collected-comments.html#qm)
 
 ---
 
