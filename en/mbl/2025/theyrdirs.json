@@ -1,0 +1,2654 @@
+{
+    Dirs: {
+	Q822657: {
+            n: "Robert M. Kimmitt",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q36215: {
+            n: "Mark Zuckerberg",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q7411262: {
+            n: "Samuel DiPiazza",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q533750: {
+            n: "Patricia Russo",
+            g: "f",
+            c: ["Q81965"]
+	},
+	Q6409905: {
+            n: "Kimberly Casiano",
+            g: "f",
+            c: ["Q44294"]
+	},
+	Q6962779: {
+            n: "Nancy Killefer",
+            g: "f",
+            c: ["Q380", "Q902397"]
+	},
+	Q7793810: {
+            n: "Thomas Schoewe",
+            g: "m",
+            c: ["Q81965"]
+	},
+	Q60733847: {
+            n: "Mark Tatum",
+            g: "m",
+            c: ["Q81965"]
+	},
+	Q7324628: {
+            n: "Richard Carmona",
+            g: "m",
+            c: ["Q570473"]
+	},
+	Q109363035: {
+            n: "Peggy Alford",
+            g: "f",
+            c: ["Q380"]
+	},
+	Q7609568: {
+            n: "Stephen J. Luczo",
+            g: "m",
+            c: ["Q35476", "Q334204"]
+	},
+	Q18720120: {
+            n: "Kathy Mazzarella",
+            g: "f",
+            c: ["Q642271"]
+	},
+	Q16728474: {
+            n: "William J. DeLaney III",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q109498174: {
+            n: "Paul Garcia",
+            g: "m",
+            c: ["Q2103926"]
+	},
+	Q109561606: {
+            n: "John Partridge",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q2579585: {
+            n: "William Kennard",
+            g: "m",
+            c: ["Q35476", "Q44294", "Q607131"]
+	},
+	Q6146371: {
+            n: "Jami Miscik",
+            g: "f",
+            c: ["Q81965", "Q334204"]
+	},
+	Q18217465: {
+            n: "John B. Veihmeyer",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q19282060: {
+            n: "Eric Wiseman",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q7437344: {
+            n: "Scott T. Ford",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q5044572: {
+            n: "Carol Stephenson",
+            g: "f",
+            c: ["Q81965"]
+	},
+	Q5568888: {
+            n: "Glenn Hutchins",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q109531220: {
+            n: "Cindy Taylor",
+            g: "f",
+            c: ["Q35476"]
+	},
+	Q13560794: {
+            n: "Jane Mendillo",
+            g: "f",
+            c: ["Q81965"]
+	},
+	Q21551687: {
+            n: "Eric J. Foss",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q62882: {
+            n: "Marc Andreessen",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q6284393: {
+            n: "Joseph Jimenez",
+            g: "m",
+            c: ["Q81965", "Q212405"]
+	},
+	Q11607: {
+            n: "Jon Huntsman, Jr.",
+            g: "m",
+            c: ["Q44294", "Q319642"]
+	},
+	Q5232570: {
+            n: "David Cordani",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q234653: {
+            n: "Sheryl Sandberg",
+            g: "f",
+            c: ["Q380"]
+	},
+	Q109552147: {
+            n: "Elder Granger",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q705525: {
+            n: "Peter Thiel",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q5995616: {
+            n: "Ike Harris",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q109531557: {
+            n: "Geoff Yang",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q109561155: {
+            n: "Neesha Hathi",
+            g: "f",
+            c: ["Q642271"]
+	},
+	Q109561886: {
+            n: "Kimberly Ross",
+            g: "f",
+            c: ["Q642271"]
+	},
+	Q109562106: {
+            n: "Donna Zarcone",
+            g: "f",
+            c: ["Q642271"]
+	},
+	Q6243718: {
+            n: "John L. Thornton",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q109472754: {
+            n: "Linda Gooden",
+            g: "f",
+            c: ["Q81965", "Q864407"]
+	},
+	Q109562317: {
+            n: "Anthony Earley",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q109562765: {
+            n: "Bill Helman",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q55174: {
+            n: "Meg Whitman",
+            g: "f",
+            c: ["Q81965", "Q212405"]
+	},
+	Q109561430: {
+            n: "George Kurian",
+            g: "m",
+            c: ["Q642271"]
+	},
+	Q5590777: {
+            n: "Wesley Bush",
+            g: "m",
+            c: ["Q81965"]
+	},
+	Q109562405: {
+            n: "Alexandra Ford English",
+            g: "f",
+            c: ["Q44294"]
+	},
+	Q109566909: {
+            n: "Lynn Vojvodich",
+            g: "f",
+            c: ["Q44294", "Q30873"]
+	},
+	Q18352311: {
+            n: "Aneel Bhusri",
+            g: "m",
+            c: ["Q81965"]
+	},
+	Q61985799: {
+            n: "John Stankey",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q75787638: {
+            n: "Henry Ford III",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q6701168: {
+            n: "Luis Ubifas",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q6779013: {
+            n: "Mary Barra",
+            g: "f",
+            c: ["Q81965"]
+	},
+	Q18619565: {
+            n: "Devin Wenig",
+            g: "m",
+            c: ["Q81965"]
+	},
+	Q5248484: {
+            n: "Debra Lee",
+            g: "f",
+            c: ["Q35476", "Q212405"]
+	},
+	Q6832622: {
+            n: "Michael McCallister",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q18630871: {
+            n: "Beth E. Mooney",
+            g: "f",
+            c: ["Q35476", "Q44294"]
+	},
+	Q18921712: {
+            n: "Jim Farley",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q6790760: {
+            n: "Matthew K. Rose",
+            g: "m",
+            c: ["Q35476"]
+	},
+	Q109497888: {
+            n: "Edith Cooper",
+            g: "f",
+            c: ["Q3884", "Q334800"]
+	},
+	Q5307199: {
+            n: "Drew Houston",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q321698: {
+            n: "William Clay Ford",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q6768777: {
+            n: "Mark McClellan",
+            g: "m",
+            c: ["Q642271", "Q333718"]
+	},
+	Q3532722: {
+            n: "Ajit Jain",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q107934870: {
+            n: "Richard T. Burke",
+            g: "m",
+            c: ["Q2103926"]
+	},
+	Q107972944: {
+            n: "F. William McNabb III",
+            g: "m",
+            c: ["Q2103926", "Q37156"]
+	},
+	Q18121649: {
+            n: "Andrew Witty",
+            g: "m",
+            c: ["Q2103926"]
+	},
+	Q30612546: {
+            n: "James C. Smith",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q12988436: {
+            n: "Ram Shriram",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q28018191: {
+            n: "Darren Woods",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q19663942: {
+            n: "Gregory J. Goff",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q3443484: {
+            n: "John W. Thompson",
+            g: "m",
+            c: ["Q2283"]
+	},
+	Q17388808: {
+            n: "Susan Wagner",
+            g: "f",
+            c: ["Q312"]
+	},
+	Q3498872: {
+            n: "Steve Burke",
+            g: "m",
+            c: ["Q217583", "Q192314"]
+	},
+	Q3870086: {
+            n: "Nancy-Ann DeParle",
+            g: "f",
+            c: ["Q624375"]
+	},
+	Q3617636: {
+            n: "Ann Mather",
+            g: "f",
+            c: ["Q20800404"]
+	},
+	Q1360488: {
+            n: "Keith B. Alexander",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q107916597: {
+            n: "Charlotte M. Guyman",
+            g: "f",
+            c: ["Q217583"]
+	},
+	Q265852: {
+            n: "Tim Cook",
+            g: "m",
+            c: ["Q312"]
+	},
+	Q4079744: {
+            n: "Howard Graham Buffett",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q21433424: {
+            n: "Helen Hobbs",
+            g: "f",
+            c: ["Q206921"]
+	},
+	Q107763923: {
+            n: "Bradley E. Lerman",
+            g: "m",
+            c: ["Q570473"]
+	},
+	Q107994030: {
+            n: "Alecia A. DeCoudreaux",
+            g: "f",
+            c: ["Q624375"]
+	},
+	Q27839505: {
+            n: "James Quincey",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q7966092: {
+            n: "Walter Scott Jr.",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q1380459: {
+            n: "John Doerr",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q5517174: {
+            n: "Gail Wilensky",
+            g: "f",
+            c: ["Q2103926"]
+	},
+	Q107994334: {
+            n: "Tony L. White",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q107993911: {
+            n: "C. David Brown II",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q7650926: {
+            n: "Suzanne Nora Johnson",
+            g: "f",
+            c: ["Q206921"]
+	},
+	Q4934: {
+            n: "Larry Page",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q21552641: {
+            n: "Ronald E. Blaylock",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q918630: {
+            n: "Charlie Munger",
+            g: "m",
+            c: ["Q217583", "Q715583"]
+	},
+	Q1557228: {
+            n: "Monica C. Lozano",
+            g: "f",
+            c: ["Q312", "Q1046951", "Q487907"]
+	},
+	Q28229066: {
+            n: "Scott Gottlieb",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q42571366: {
+            n: "Anne Finucane",
+            g: "f",
+            c: ["Q624375"]
+	},
+	Q6128032: {
+            n: "James A. Bell",
+            g: "m",
+            c: ["Q312"]
+	},
+	Q348874: {
+            n: "Alan Mulally",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q1571715: {
+            n: "Judy McGrath",
+            g: "f",
+            c: ["Q3884"]
+	},
+	Q107985563: {
+            n: "Joseph L. Hooley",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q2344783: {
+            n: "Stephen J. Hemsley",
+            g: "m",
+            c: ["Q2103926"]
+	},
+	Q7365155: {
+            n: "Ronald Olson",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q293365: {
+            n: "Penny Pritzker",
+            g: "f",
+            c: ["Q2283"]
+	},
+	Q5234268: {
+            n: "David Gottesman",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q47213: {
+            n: "Warren Buffett",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q92764: {
+            n: "Sergey Brin",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q92854: {
+            n: "John L. Hennessy",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q81810283: {
+            n: "Robin Washington",
+            g: "f",
+            c: ["Q20800404"]
+	},
+	Q107993763: {
+            n: "Fernando Aguirre",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q107994290: {
+            n: "Roger N. Farah",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q6138480: {
+            n: "James M. Kilts",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q16193601: {
+            n: "Alex Gorsky",
+            g: "m",
+            c: ["Q333718", "Q37156"]
+	},
+	Q107769686: {
+            n: "Brian S. Tyler",
+            g: "m",
+            c: ["Q570473"]
+	},
+	Q107048667: {
+            n: "Kaisa Hietala",
+            g: "f",
+            c: ["Q156238"]
+	},
+	Q4273363: {
+            n: "Frances Arnold",
+            g: "f",
+            c: ["Q20800404"]
+	},
+	Q106086392: {
+            n: "Karen S. Lynch",
+            g: "f",
+            c: ["Q624375"]
+	},
+	Q107768268: {
+            n: "Susan R. Salka",
+            g: "f",
+            c: ["Q570473"]
+	},
+	Q465663: {
+            n: "Ursula Burns",
+            g: "f",
+            c: ["Q156238"]
+	},
+	Q2622748: {
+            n: "Shantanu Narayen",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q376800: {
+            n: "Jamie S. Gorelick",
+            g: "f",
+            c: ["Q3884"]
+	},
+	Q709063: {
+            n: "Arthur D. Levinson",
+            g: "m",
+            c: ["Q312"]
+	},
+	Q41812531: {
+            n: "Andy Jassy",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q107933095: {
+            n: "Meryl B. Witmer",
+            g: "f",
+            c: ["Q217583"]
+	},
+	Q2578222: {
+            n: "William C. Weldon",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q7359066: {
+            n: "Roger W. Ferguson, Jr.",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q19673: {
+            n: "Al Gore",
+            g: "m",
+            c: ["Q312"]
+	},
+	Q7148734: {
+            n: "Patty Stonesifer",
+            g: "f",
+            c: ["Q3884"]
+	},
+	Q985719: {
+            n: "Susan Hockfield",
+            g: "f",
+            c: ["Q206921"]
+	},
+	Q5344547: {
+            n: "Edward Mueller",
+            g: "m",
+            c: ["Q570473"]
+	},
+	Q107994316: {
+            n: "Jean-Pierre Millon",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q7945457: {
+            n: "W. Don Cornwell",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q47168572: {
+            n: "Gregory E. Abel",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q107973729: {
+            n: "Michael J. Angelakis",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q107765107: {
+            n: "Linda Mantia",
+            g: "f",
+            c: ["Q570473"]
+	},
+	Q2635773: {
+            n: "Mary Schapiro",
+            g: "f",
+            c: ["Q624375", "Q334204"]
+	},
+	Q93592590: {
+            n: "Timothy P. Flynn",
+            g: "m",
+            c: ["Q2103926", "Q192314", "Q483551"]
+	},
+	Q107749796: {
+            n: "Dominic J. Caruso",
+            g: "m",
+            c: ["Q570473"]
+	},
+	Q55173: {
+            n: "Padmasree Warrior",
+            g: "f",
+            c: ["Q2283"]
+	},
+	Q7647752: {
+            n: "Susan Decker",
+            g: "f",
+            c: ["Q217583", "Q715583"]
+	},
+	Q61754071: {
+            n: "Valerie Montgomery Rice",
+            g: "f",
+            c: ["Q2103926"]
+	},
+	Q63400080: {
+            n: "Albert Bourla",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q869322: {
+            n: "Jon Rubinstein",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q3525537: {
+            n: "Thomas Murphy",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q16186216: {
+            n: "David Dorman",
+            g: "m",
+            c: ["Q624375", "Q30873"]
+	},
+	Q80049510: {
+            n: "Hugh F. Johnston",
+            g: "m",
+            c: ["Q2283"]
+	},
+	Q5188669: {
+            n: "Steven A. Kandarian",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q3503829: {
+            n: "Sundar Pichai",
+            g: "m",
+            c: ["Q20800404"]
+	},
+	Q107994305: {
+            n: "Edward J. Ludwig",
+            g: "m",
+            c: ["Q624375"]
+	},
+	Q18156599: {
+            n: "Susan Avery",
+            g: "f",
+            c: ["Q156238"]
+	},
+	Q107972872: {
+            n: "Michele J. Hooper",
+            g: "f",
+            c: ["Q2103926"]
+	},
+	Q19666133: {
+            n: "Donald Knauss",
+            g: "m",
+            c: ["Q570473", "Q1046951"]
+	},
+	Q107765444: {
+            n: "Maria Martinez",
+            g: "f",
+            c: ["Q570473"]
+	},
+	Q1289900: {
+            n: "Kenneth Frazier",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q19816316: {
+            n: "Andy Karsner",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q20685374: {
+            n: "Thomas O. Ryder",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q5213885: {
+            n: "Dan Littman",
+            g: "m",
+            c: ["Q206921"]
+	},
+	Q516550: {
+            n: "Kenneth Chenault",
+            g: "m",
+            c: ["Q217583"]
+	},
+	Q27058352: {
+            n: "Emma Walmsley",
+            g: "f",
+            c: ["Q2283"]
+	},
+	Q21266693: {
+            n: "Jeffrey W. Ubben",
+            g: "m",
+            c: ["Q156238"]
+	},
+	Q7365310: {
+            n: "Ronald Sugar",
+            g: "m",
+            c: ["Q312", "Q319642"]
+	},
+	Q527495: {
+            n: "Angela Braly",
+            g: "f",
+            c: ["Q156238", "Q212405"]
+	},
+	Q271117: {
+            n: "Andrea Jung",
+            g: "f",
+            c: ["Q312"]
+	},
+	Q55975958: {
+            n: "John H. Noseworthy",
+            g: "m",
+            c: ["Q2103926"]
+	},
+	Q16732385: {
+            n: "Rodney McMullen",
+            g: "m",
+            c: ["Q153417"]
+	},
+	Q109617563: {
+            n: "John Lederer",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q5214356: {
+            n: "Dan Schulman",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q49971: {
+            n: "Ginni Rometty",
+            g: "f",
+            c: ["Q192314"]
+	},
+	Q7367220: {
+            n: "Rosalind Brewer",
+            g: "f",
+            c: ["Q18712620"]
+	},
+	Q5379724: {
+            n: "Enrique Hernandez, Jr.",
+            g: "m",
+            c: ["Q319642"]
+	},
+	Q5075882: {
+            n: "Charles Bunch",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q4725875: {
+            n: "Alice Gast",
+            g: "f",
+            c: ["Q319642"]
+	},
+	Q22279080: {
+            n: "Marvin Ellison",
+            g: "m",
+            c: ["Q459477", "Q1373493"]
+	},
+	Q109637199: {
+            n: "Clyde Moore",
+            g: "m",
+            c: ["Q153417"]
+	},
+	Q4977402: {
+            n: "Bruce Downey",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q21551443: {
+            n: "Carol Tome",
+            g: "f",
+            c: ["Q467752", "Q155026"]
+	},
+	Q109635504: {
+            n: "Nora Aufreiter",
+            g: "f",
+            c: ["Q153417"]
+	},
+	Q109636116: {
+            n: "Anne Gates",
+            g: "f",
+            c: ["Q153417"]
+	},
+	Q109636426: {
+            n: "Karen Hoguet",
+            g: "f",
+            c: ["Q153417"]
+	},
+	Q109579966: {
+            n: "Mike Kaufmann",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q1355678: {
+            n: "Jim Skinner",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q109570254: {
+            n: "Raj Subramaniam",
+            g: "m",
+            c: ["Q459477"]
+	},
+	Q18749182: {
+            n: "Dean A. Scarborough",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q6730335: {
+            n: "Maggie Wilderotter",
+            g: "f",
+            c: ["Q715583"]
+	},
+	Q109626378: {
+            n: "Abdulaziz Al-Khayyal",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q109633478: {
+            n: "Ed Galante",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q109634091: {
+            n: "Frank Semple",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q109634287: {
+            n: "J. Mike Stice",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q109614181: {
+            n: "William Foote",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q17198710: {
+            n: "Shellye Archambeau",
+            g: "f",
+            c: ["Q467752"]
+	},
+	Q109567431: {
+            n: "Kim Jabal",
+            g: "f",
+            c: ["Q459477"]
+	},
+	Q109619240: {
+            n: "Dominic Murphy",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q18631669: {
+            n: "Steven Davis",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q109579686: {
+            n: "Akhil Johri",
+            g: "m",
+            c: ["Q902397", "Q66"]
+	},
+	Q1582880: {
+            n: "Hans Vestberg",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q109580335: {
+            n: "Gregory Kenny",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q109586015: {
+            n: "John Weiland",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q16149081: {
+            n: "Hamilton E. James",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q109626132: {
+            n: "Greg Weaver",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q109633973: {
+            n: "Kim Rucker",
+            g: "f",
+            c: ["Q458363"]
+	},
+	Q109634594: {
+            n: "Susan Tomasky",
+            g: "f",
+            c: ["Q458363"]
+	},
+	Q922169: {
+            n: "Jamie Dimon",
+            g: "m",
+            c: ["Q192314"]
+	},
+	Q27735066: {
+            n: "Jim Umpleby",
+            g: "m",
+            c: ["Q319642"]
+	},
+	Q20685443: {
+            n: "Ron Sargent",
+            g: "m",
+            c: ["Q153417", "Q744149"]
+	},
+	Q4231614: {
+            n: "Sally Jewell",
+            g: "f",
+            c: ["Q715583"]
+	},
+	Q18631482: {
+            n: "Debra Reed",
+            g: "f",
+            c: ["Q319642"]
+	},
+	Q109596529: {
+            n: "Mike Neal",
+            g: "m",
+            c: ["Q192314"]
+	},
+	Q109635746: {
+            n: "Kevin Brown",
+            g: "m",
+            c: ["Q153417"]
+	},
+	Q20984972: {
+            n: "Sandi Peterson",
+            g: "f",
+            c: ["Q2283"]
+	},
+	Q109578893: {
+            n: "Carrie Cox",
+            g: "f",
+            c: ["Q902397"]
+	},
+	Q109579123: {
+            n: "Sheri Edison",
+            g: "f",
+            c: ["Q902397"]
+	},
+	Q109579255: {
+            n: "Patricia Hemingway Hall",
+            g: "f",
+            c: ["Q902397"]
+	},
+	Q109620300: {
+            n: "Roxanne Austin",
+            g: "f",
+            c: ["Q467752"]
+	},
+	Q109625577: {
+            n: "Melanie Healey",
+            g: "f",
+            c: ["Q467752", "Q1046951"]
+	},
+	Q5081061: {
+            n: "Charles Moorman",
+            g: "m",
+            c: ["Q319642"]
+	},
+	Q6174749: {
+            n: "Jeff Raikes",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q4953889: {
+            n: "Marillyn Hewson",
+            g: "f",
+            c: ["Q319642", "Q333718"]
+	},
+	Q466993: {
+            n: "Dambisa Moyo",
+            g: "f",
+            c: ["Q319642"]
+	},
+	Q109596276: {
+            n: "Linda Bammann",
+            g: "f",
+            c: ["Q192314"]
+	},
+	Q109567545: {
+            n: "Brad Martin",
+            g: "m",
+            c: ["Q459477"]
+	},
+	Q109633793: {
+            n: "Mike Hennigan",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q6219939: {
+            n: "John B. Frank",
+            g: "m",
+            c: ["Q319642"]
+	},
+	Q2161181: {
+            n: "Rodney E. Slater",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q109579212: {
+            n: "Dave Evans",
+            g: "m",
+            c: ["Q902397"]
+	},
+	Q109566926: {
+            n: "John Weinberg",
+            g: "m",
+            c: ["Q44294"]
+	},
+	Q64745663: {
+            n: "Laxman Narasimhan",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q5126682: {
+            n: "Clarence Otis, Jr.",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q7153399: {
+            n: "Paul S. Walsh",
+            g: "m",
+            c: ["Q459477"]
+	},
+	Q6251718: {
+            n: "John P. Surma",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q263322: {
+            n: "Elaine Chao",
+            g: "f",
+            c: ["Q153417"]
+	},
+	Q28062340: {
+            n: "Tricia Griffith",
+            g: "f",
+            c: ["Q459477"]
+	},
+	Q4970379: {
+            n: "Phebe Novakovic",
+            g: "f",
+            c: ["Q192314"]
+	},
+	Q6291340: {
+            n: "Joe Almeida",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q109631714: {
+            n: "Jonathan Cohen",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q344930: {
+            n: "Evan Bayh",
+            g: "m",
+            c: ["Q458363"]
+	},
+	Q6813152: {
+            n: "Mellody Hobson",
+            g: "f",
+            c: ["Q192314"]
+	},
+	Q5231666: {
+            n: "David Brailer",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q6262563: {
+            n: "John W. Stanton",
+            g: "m",
+            c: ["Q715583", "Q2283"]
+	},
+	Q16185302: {
+            n: "James Crown",
+            g: "m",
+            c: ["Q192314"]
+	},
+	Q6766732: {
+            n: "Mark Bertolini",
+            g: "m",
+            c: ["Q467752"]
+	},
+	Q7812320: {
+            n: "Todd Combs",
+            g: "m",
+            c: ["Q192314"]
+	},
+	Q3482342: {
+            n: "Shirley Ann Jackson",
+            g: "f",
+            c: ["Q459477"]
+	},
+	Q109613993: {
+            n: "Jan Babiak",
+            g: "f",
+            c: ["Q18712620"]
+	},
+	Q109614242: {
+            n: "Ginger Graham",
+            g: "f",
+            c: ["Q18712620"]
+	},
+	Q109619406: {
+            n: "Nancy Schlichting",
+            g: "f",
+            c: ["Q18712620"]
+	},
+	Q3497982: {
+            n: "Stefano Pessina",
+            g: "m",
+            c: ["Q18712620"]
+	},
+	Q259514: {
+            n: "Valerie Jarrett",
+            g: "f",
+            c: ["Q18712620"]
+	},
+	Q21062493: {
+            n: "David P. Steiner",
+            g: "m",
+            c: ["Q459477"]
+	},
+	Q109566991: {
+            n: "Ken Denman",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q109567014: {
+            n: "Richard Galanti",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q109567030: {
+            n: "Richard Libenson",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q441879: {
+            n: "Susan Schwab",
+            g: "f",
+            c: ["Q459477"]
+	},
+	Q6289742: {
+            n: "Joshua Cooper Ramo",
+            g: "m",
+            c: ["Q459477"]
+	},
+	Q1650162: {
+            n: "W. Craig Jelinek",
+            g: "m",
+            c: ["Q715583"]
+	},
+	Q48562446: {
+            n: "Mike Wirth",
+            g: "m",
+            c: ["Q319642"]
+	},
+	Q7967100: {
+            n: "Wanda Austin",
+            g: "f",
+            c: ["Q319642"]
+	},
+	Q4806029: {
+            n: "Ashton Carter",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q16727786: {
+            n: "Dave Calhoun",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q109718632: {
+            n: "Bob Profusek",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q84053114: {
+            n: "Arvind Krishna",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q109721347: {
+            n: "Randall Weisenburger",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q275117: {
+            n: "Anne Mulcahy",
+            g: "f",
+            c: ["Q333718"]
+	},
+	Q21551743: {
+            n: "Rick Waddell",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q109773654: {
+            n: "Amy Chang",
+            g: "f",
+            c: ["Q212405"]
+	},
+	Q5517112: {
+            n: "Gail Boudreaux",
+            g: "f",
+            c: ["Q1046951", "Q677488"]
+	},
+	Q218630: {
+            n: "Michael Dell",
+            g: "m",
+            c: ["Q30873"]
+	},
+	Q109718040: {
+            n: "Kim Greene",
+            g: "f",
+            c: ["Q1283291"]
+	},
+	Q7335804: {
+            n: "Risa Lavizzo-Mourey",
+            g: "f",
+            c: ["Q54173", "Q248"]
+	},
+	Q30015214: {
+            n: "Stayce Harris",
+            g: "f",
+            c: ["Q66"]
+	},
+	Q80120949: {
+            n: "Greg Smith",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q56868014: {
+            n: "H. Lawrence Culp Jr.",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q21063670: {
+            n: "David S. Taylor",
+            g: "m",
+            c: ["Q212405"]
+	},
+	Q83636: {
+            n: "Andrew Liveris",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q5483294: {
+            n: "Francisco D'Souza",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q116012: {
+            n: "Peter Voser",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q284302: {
+            n: "Ellen Kullman",
+            g: "f",
+            c: ["Q30873"]
+	},
+	Q109718543: {
+            n: "Eric Mullins",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q18684686: {
+            n: "Mary Beckerle",
+            g: "f",
+            c: ["Q333718"]
+	},
+	Q109772673: {
+            n: "David Joyce",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q4481302: {
+            n: "David Farr",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q17180532: {
+            n: "Robert A. Bradway",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q8007467: {
+            n: "Bill Green",
+            g: "m",
+            c: ["Q30873"]
+	},
+	Q20857886: {
+            n: "Brian Cornell",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q1655497: {
+            n: "Sir Ian Davis",
+            g: "m",
+            c: ["Q333718"]
+	},
+	Q3509946: {
+            n: "Sebastien Bazin",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q1239374: {
+            n: "Don Nickles",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q6195257: {
+            n: "Jim Goetz",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q73426541: {
+            n: "Chris Kempczinski",
+            g: "m",
+            c: ["Q212405"]
+	},
+	Q23560320: {
+            n: "Thomas Buberl",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q5052517: {
+            n: "Catherine Lesjak",
+            g: "f",
+            c: ["Q54173"]
+	},
+	Q6490609: {
+            n: "Larry Kellner",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q18634617: {
+            n: "Steve Mollenkopf",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q109743489: {
+            n: "Derica Rice",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q109743505: {
+            n: "Dmitri Stockton",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q16193174: {
+            n: "Hubert Joly",
+            g: "m",
+            c: ["Q333718"]
+	},
+	Q109727298: {
+            n: "Tracey Travis",
+            g: "f",
+            c: ["Q380"]
+	},
+	Q109743323: {
+            n: "Bob Edwards",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q7436228: {
+            n: "Scott Davis",
+            g: "m",
+            c: ["Q333718"]
+	},
+	Q109743425: {
+            n: "Christine Leahy",
+            g: "f",
+            c: ["Q1046951"]
+	},
+	Q109743453: {
+            n: "Mary Minnick",
+            g: "f",
+            c: ["Q1046951"]
+	},
+	Q14538344: {
+            n: "Mark Weinberger",
+            g: "m",
+            c: ["Q333718", "Q607131"]
+	},
+	Q7704557: {
+            n: "Terry Lundgren",
+            g: "m",
+            c: ["Q212405"]
+	},
+	Q7794754: {
+            n: "Thomas Horton",
+            g: "m",
+            c: ["Q54173", "Q483551"]
+	},
+	Q22089391: {
+            n: "Nadja West",
+            g: "f",
+            c: ["Q333718"]
+	},
+	Q1508212: {
+            n: "George Barrett",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q20714442: {
+            n: "Christine McCarthy",
+            g: "f",
+            c: ["Q212405"]
+	},
+	Q26923230: {
+            n: "Dion Weisler",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q7364540: {
+            n: "Ron Williams",
+            g: "m",
+            c: ["Q333718", "Q66"]
+	},
+	Q83802151: {
+            n: "Omar Ishrak",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q5301749: {
+            n: "Douglas M. Baker, Jr",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q6142713: {
+            n: "James Tisch",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q6837087: {
+            n: "Michelle J. Howard",
+            g: "f",
+            c: ["Q37156"]
+	},
+	Q1286705: {
+            n: "Edmund Giambastiani",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q109727988: {
+            n: "Egon Durban",
+            g: "m",
+            c: ["Q30873"]
+	},
+	Q109728193: {
+            n: "David Grain",
+            g: "m",
+            c: ["Q30873"]
+	},
+	Q20111482: {
+            n: "Martha Pollack",
+            g: "f",
+            c: ["Q37156"]
+	},
+	Q56068: {
+            n: "Jennifer Doudna",
+            g: "f",
+            c: ["Q333718"]
+	},
+	Q64009348: {
+            n: "Tsu-Jae King Liu",
+            g: "f",
+            c: ["Q248"]
+	},
+	Q16866325: {
+            n: "Lynn Good",
+            g: "f",
+            c: ["Q66"]
+	},
+	Q109718600: {
+            n: "Phil Pfeiffer",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q5248351: {
+            n: "Deborah Majoras",
+            g: "f",
+            c: ["Q1283291"]
+	},
+	Q109724706: {
+            n: "Ray Wilkins",
+            g: "m",
+            c: ["Q1283291", "Q334204"]
+	},
+	Q7143480: {
+            n: "Pat Gelsinger",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q109751224: {
+            n: "Frank Yeary",
+            g: "m",
+            c: ["Q248"]
+	},
+	Q6832018: {
+            n: "Michael Eskew",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q109743613: {
+            n: "Alyssa Henry",
+            g: "f",
+            c: ["Q248"]
+	},
+	Q109752708: {
+            n: "Al Zollar",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q18153753: {
+            n: "Joe Swedish",
+            g: "m",
+            c: ["Q37156"]
+	},
+	Q109725703: {
+            n: "Ed Garden",
+            g: "m",
+            c: ["Q54173"]
+	},
+	Q108001558: {
+            n: "Eugene Washington",
+            g: "m",
+            c: ["Q333718"]
+	},
+	Q109773425: {
+            n: "Marc Allen",
+            g: "m",
+            c: ["Q212405"]
+	},
+	Q109719549: {
+            n: "Steve Waters",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q108801294: {
+            n: "Simon Patterson",
+            g: "m",
+            c: ["Q30873"]
+	},
+	Q109726412: {
+            n: "Paula Rosput Reynolds",
+            g: "f",
+            c: ["Q54173"]
+	},
+	Q109726715: {
+            n: "Leslie Seidman",
+            g: "f",
+            c: ["Q54173"]
+	},
+	Q16195693: {
+            n: "Jon Moeller",
+            g: "m",
+            c: ["Q212405"]
+	},
+	Q32170944: {
+            n: "David P. Abney",
+            g: "m",
+            c: ["Q1046951"]
+	},
+	Q109771521: {
+            n: "Lynne Doughtie",
+            g: "f",
+            c: ["Q66"]
+	},
+	Q5081762: {
+            n: "Charles Prince",
+            g: "m",
+            c: ["Q333718"]
+	},
+	Q2997321: {
+            n: "John M. Richardson",
+            g: "m",
+            c: ["Q66"]
+	},
+	Q20638131: {
+            n: "Andrea Goldsmith",
+            g: "f",
+            c: ["Q248"]
+	},
+	Q107171612: {
+            n: "Robert Herz",
+            g: "m",
+            c: ["Q621096", "Q334204"]
+	},
+	Q5605326: {
+            n: "Greg Brenneman",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q4964404: {
+            n: "Brian L. Roberts",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q109678821: {
+            n: "Kerry Clark",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q16745344: {
+            n: "Renee James",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109664287: {
+            n: "Ari Bousbib",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q109717841: {
+            n: "Fred Diaz",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q109666390: {
+            n: "Al Carey",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q109666471: {
+            n: "Wayne Hewett",
+            g: "m",
+            c: ["Q864407", "Q744149", "Q155026"]
+	},
+	Q109666513: {
+            n: "Manny Kadre",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q104177467: {
+            n: "Zan Vautrinot",
+            g: "f",
+            c: ["Q744149"]
+	},
+	Q21551980: {
+            n: "Jeff Honickman",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q21066601: {
+            n: "Clayton Rose",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q20631101: {
+            n: "Greg Garland",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q5525500: {
+            n: "Gary Reiner",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q4194276: {
+            n: "Maria T. Zuber",
+            g: "f",
+            c: ["Q487907"]
+	},
+	Q109717948: {
+            n: "Paulett Eberhart",
+            g: "f",
+            c: ["Q1283291"]
+	},
+	Q109666548: {
+            n: "Stephanie Linnartz",
+            g: "f",
+            c: ["Q864407"]
+	},
+	Q109651930: {
+            n: "Manolo Sanchez",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q108809595: {
+            n: "Madeline Bell",
+            g: "f",
+            c: ["Q1113804"]
+	},
+	Q109680126: {
+            n: "Richard Payne",
+            g: "m",
+            c: ["Q744149"]
+	},
+	Q109679226: {
+            n: "Robert Dixon",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q4777219: {
+            n: "Antony Jenkins",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q109679730: {
+            n: "Mark Chancy",
+            g: "m",
+            c: ["Q744149"]
+	},
+	Q4859003: {
+            n: "Barbara Desoer",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109684919: {
+            n: "Juan Pujadas",
+            g: "m",
+            c: ["Q744149"]
+	},
+	Q109679351: {
+            n: "Bahija Jallal",
+            g: "f",
+            c: ["Q677488"]
+	},
+	Q109664714: {
+            n: "Frank Brown",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q109679764: {
+            n: "Celeste Clark",
+            g: "f",
+            c: ["Q744149"]
+	},
+	Q51841506: {
+            n: "Antonio Neri",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q912811: {
+            n: "Brian Moynihan",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q6224386: {
+            n: "John Dugan",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q109648017: {
+            n: "Hugh Frater",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q109648054: {
+            n: "Mike Heid",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q5232041: {
+            n: "David C. Novak",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q109646570: {
+            n: "Amy Alving",
+            g: "f",
+            c: ["Q621096"]
+	},
+	Q109648034: {
+            n: "Renee Glover",
+            g: "f",
+            c: ["Q621096"]
+	},
+	Q109648134: {
+            n: "Karin Kimbrough",
+            g: "f",
+            c: ["Q621096"]
+	},
+	Q19868373: {
+            n: "Edward D. Breen",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q109651879: {
+            n: "Diane Nordin",
+            g: "f",
+            c: ["Q621096"]
+	},
+	Q109656362: {
+            n: "Lionel Nowell",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q109659430: {
+            n: "Frank Bramble",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q109659537: {
+            n: "Pierre de Weck",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q23135812: {
+            n: "Jay Jacobs",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q109679406: {
+            n: "Ryan Schneider",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q26899142: {
+            n: "Amanda Sourry",
+            g: "f",
+            c: ["Q153417"]
+	},
+	Q109661134: {
+            n: "Denise Ramos",
+            g: "f",
+            c: ["Q487907", "Q1656230"]
+	},
+	Q109663453: {
+            n: "Michael White",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q16821049: {
+            n: "Ashok Vemuri",
+            g: "m",
+            c: ["Q153417"]
+	},
+	Q451150: {
+            n: "Sheila Bair",
+            g: "f",
+            c: ["Q621096"]
+	},
+	Q97940148: {
+            n: "Chris Brummer",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q109664553: {
+            n: "Jeff Boyd",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q109667553: {
+            n: "Charles Holley",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q109667669: {
+            n: "Doug Terreson",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q7647573: {
+            n: "Susan Bies",
+            g: "f",
+            c: ["Q487907"]
+	},
+	Q19289251: {
+            n: "Lisa Davis",
+            g: "f",
+            c: ["Q1656230"]
+	},
+	Q109667244: {
+            n: "Julie Bushman",
+            g: "f",
+            c: ["Q1656230"]
+	},
+	Q109667401: {
+            n: "Denise Cade",
+            g: "f",
+            c: ["Q1656230"]
+	},
+	Q109667784: {
+            n: "Marna Whittington",
+            g: "f",
+            c: ["Q1656230"]
+	},
+	Q109699164: {
+            n: "Duncan Hennes",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q22122625: {
+            n: "Theodore Craver",
+            g: "m",
+            c: ["Q744149"]
+	},
+	Q16148720: {
+            n: "Arnold W. Donald",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q109656448: {
+            n: "Sharon Allen",
+            g: "f",
+            c: ["Q487907"]
+	},
+	Q6551659: {
+            n: "Linda Hudson",
+            g: "f",
+            c: ["Q487907"]
+	},
+	Q109698332: {
+            n: "Grace Dailey",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109699379: {
+            n: "Leslie Ireland",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q21997525: {
+            n: "Jane Fraser",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109698241: {
+            n: "Ellen Costello",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109663611: {
+            n: "Tom Woods",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q298149: {
+            n: "Ernesto Zedillo",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q109637258: {
+            n: "Mark Sutton",
+            g: "m",
+            c: ["Q153417"]
+	},
+	Q109679297: {
+            n: "Lew Hay",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q109679389: {
+            n: "Ramiro Peru",
+            g: "m",
+            c: ["Q677488"]
+	},
+	Q109667944: {
+            n: "Kenneth Bacon",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q5271319: {
+            n: "Diana Taylor",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q109667617: {
+            n: "John Lowe",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q109674328: {
+            n: "Asuka Nakahara",
+            g: "m",
+            c: ["Q1113804"]
+	},
+	Q18386868: {
+            n: "Charlie Scharf",
+            g: "m",
+            c: ["Q744149", "Q2283"]
+	},
+	Q109675057: {
+            n: "Liz Tallett",
+            g: "f",
+            c: ["Q677488"]
+	},
+	Q16886228: {
+            n: "Jim Turley",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q109679189: {
+            n: "Susan DeVore",
+            g: "f",
+            c: ["Q677488"]
+	},
+	Q109672849: {
+            n: "Nomi Bergman",
+            g: "f",
+            c: ["Q1113804"]
+	},
+	Q109673983: {
+            n: "Maritza Montiel",
+            g: "f",
+            c: ["Q1113804"]
+	},
+	Q1461050: {
+            n: "Simon Johnson",
+            g: "m",
+            c: ["Q621096"]
+	},
+	Q7614498: {
+            n: "Steven Black",
+            g: "m",
+            c: ["Q744149"]
+	},
+	Q7172847: {
+            n: "Peter Henry",
+            g: "m",
+            c: ["Q219508"]
+	},
+	Q5569148: {
+            n: "Glenn Tilton",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q109680080: {
+            n: "Maria Morris",
+            g: "f",
+            c: ["Q744149"]
+	},
+	Q31202127: {
+            n: "Joseph Gorder",
+            g: "m",
+            c: ["Q1283291"]
+	},
+	Q5248413: {
+            n: "Deborah Wright",
+            g: "f",
+            c: ["Q219508"]
+	},
+	Q60737140: {
+            n: "Gary Adams",
+            g: "m",
+            c: ["Q1656230"]
+	},
+	Q5549228: {
+            n: "Gerald Hassell",
+            g: "m",
+            c: ["Q1113804", "Q607131"]
+	},
+	Q109661064: {
+            n: "Tom May",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q109663877: {
+            n: "David Yost",
+            g: "m",
+            c: ["Q487907"]
+	},
+	Q87725058: {
+            n: "Dennis M. Nally",
+            g: "m",
+            c: ["Q470156", "Q334204"]
+	},
+	Q107749476: {
+            n: "Michael J. Long",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q1162007: {
+            n: "Daniel P. Huttenlocher",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q107749444: {
+            n: "Kathleen W. Hyle",
+            g: "f",
+            c: ["Q470156"]
+	},
+	Q36697638: {
+            n: "Wendell Weeks",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q312556: {
+            n: "Jeff Bezos",
+            g: "m",
+            c: ["Q3884"]
+	},
+	Q50782340: {
+            n: "Henry W. McGee",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q4793776: {
+            n: "Jane E. Henney",
+            g: "f",
+            c: ["Q470156"]
+	},
+	Q7103542: {
+            n: "Ornella Barra",
+            g: "f",
+            c: ["Q470156"]
+	},
+	Q28501080: {
+            n: "Steven H. Collis",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q21067177: {
+            n: "Helena Foulkes",
+            g: "f",
+            c: ["Q864407"]
+	},
+	Q264913: {
+            n: "Indra Nooyi",
+            g: "f",
+            c: ["Q3884"]
+	},
+	Q16249366: {
+            n: "Mark Durcan",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q28920824: {
+            n: "Craig Menear",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q6669610: {
+            n: "Lon R. Greenberg",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q3760907: {
+            n: "Gerard Arpey",
+            g: "m",
+            c: ["Q864407"]
+	},
+	Q107744024: {
+            n: "Richard W. Gochnauer",
+            g: "m",
+            c: ["Q470156"]
+	},
+	Q24524594: {
+            n: "Steuart Walton",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q16196595: {
+            n: "Doug McMillon",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q21551502: {
+            n: "Cheryl Grise",
+            g: "f",
+            c: ["Q607131"]
+	},
+	Q1331179: {
+            n: "Elizabeth Corley",
+            g: "f",
+            c: ["Q334204"]
+	},
+	Q109801698: {
+            n: "Sandra Cochran",
+            g: "f",
+            c: ["Q1373493"]
+	},
+	Q109801717: {
+            n: "Laurie Douglas",
+            g: "f",
+            c: ["Q1373493"]
+	},
+	Q6140775: {
+            n: "James P. Gorman",
+            g: "m",
+            c: ["Q334204"]
+	},
+	Q109807190: {
+            n: "Mary Beth West",
+            g: "f",
+            c: ["Q1373493"]
+	},
+	Q109799888: {
+            n: "Michael Burns",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q5257725: {
+            n: "Denise Morrison",
+            g: "f",
+            c: ["Q607131"]
+	},
+	Q105038817: {
+            n: "Tony Xu",
+            g: "m",
+            c: ["Q380"]
+	},
+	Q7500334: {
+            n: "Shona Brown",
+            g: "f",
+            c: ["Q334800"]
+	},
+	Q16193921: {
+            n: "Darren Walker",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q741648: {
+            n: "Carlos Gutierrez",
+            g: "m",
+            c: ["Q607131"]
+	},
+	Q116679: {
+            n: "Daniel Vasella",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q979750: {
+            n: "Randall L. Stephenson",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q107434318: {
+            n: "Sarah Friar",
+            g: "f",
+            c: ["Q483551"]
+	},
+	Q531633: {
+            n: "Patricia A. Woertz",
+            g: "f",
+            c: ["Q212405"]
+	},
+	Q18044597: {
+            n: "Dave Lewis",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q109819696: {
+            n: "Michel Khalaf",
+            g: "m",
+            c: ["Q607131"]
+	},
+	Q109776171: {
+            n: "Jessica Blume",
+            g: "f",
+            c: ["Q5059102"]
+	},
+	Q6397725: {
+            n: "Kevin Warsh",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q33179081: {
+            n: "Franck Moison",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q109800520: {
+            n: "Kate Johnson",
+            g: "f",
+            c: ["Q155026"]
+	},
+	Q109771426: {
+            n: "Brian Rogers",
+            g: "m",
+            c: ["Q1373493"]
+	},
+	Q109819337: {
+            n: "Ned Kelly",
+            g: "m",
+            c: ["Q607131"]
+	},
+	Q5052888: {
+            n: "Catherine Kinney",
+            g: "f",
+            c: ["Q607131"]
+	},
+	Q21552635: {
+            n: "Rodney Adkins",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q5982101: {
+            n: "Ian Cook",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q56042353: {
+            n: "Ramon Laguarta",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q940771: {
+            n: "Glenn Hubbard",
+            g: "m",
+            c: ["Q607131"]
+	},
+	Q109774885: {
+            n: "Allan Merrill",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q8017227: {
+            n: "William R. Johnson",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q7615193: {
+            n: "Steven Reinemund",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q109783829: {
+            n: "Frederick Eppinger",
+            g: "m",
+            c: ["Q5059102"]
+	},
+	Q109796228: {
+            n: "Bill Trubeck",
+            g: "m",
+            c: ["Q5059102"]
+	},
+	Q109818835: {
+            n: "David Herzog",
+            g: "m",
+            c: ["Q607131"]
+	},
+	Q108001876: {
+            n: "Carla A. Harris",
+            g: "f",
+            c: ["Q483551"]
+	},
+	Q109801283: {
+            n: "Russell Stokes",
+            g: "m",
+            c: ["Q155026"]
+	},
+	Q80050392: {
+            n: "Teri List-Stoll",
+            g: "f",
+            c: ["Q2283"]
+	},
+	Q109796990: {
+            n: "Eva Boratto",
+            g: "f",
+            c: ["Q155026"]
+	},
+	Q65972708: {
+            n: "Michelle Gass",
+            g: "f",
+            c: ["Q334800"]
+	},
+	Q109800296: {
+            n: "Angela Hwang",
+            g: "f",
+            c: ["Q155026"]
+	},
+	Q1209677: {
+            n: "Dick Gephardt",
+            g: "m",
+            c: ["Q5059102"]
+	},
+	Q109801046: {
+            n: "Christiana Smith Shi",
+            g: "f",
+            c: ["Q155026"]
+	},
+	Q109775839: {
+            n: "Sarah London",
+            g: "f",
+            c: ["Q5059102"]
+	},
+	Q211098: {
+            n: "Reid Hoffman",
+            g: "m",
+            c: ["Q2283"]
+	},
+	Q109783481: {
+            n: "James Dallas",
+            g: "m",
+            c: ["Q5059102"]
+	},
+	Q109774757: {
+            n: "Chris Herbert",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q6681124: {
+            n: "Lori Robinson",
+            g: "f",
+            c: ["Q5059102"]
+	},
+	Q14086: {
+            n: "Marissa Mayer",
+            g: "f",
+            c: ["Q483551"]
+	},
+	Q296639: {
+            n: "Alistair Darling",
+            g: "m",
+            c: ["Q334204"]
+	},
+	Q466772: {
+            n: "Tom Glocer",
+            g: "m",
+            c: ["Q334204"]
+	},
+	Q5277839: {
+            n: "Dina Dublon",
+            g: "f",
+            c: ["Q334800"]
+	},
+	Q7426870: {
+            n: "Satya Nadella",
+            g: "m",
+            c: ["Q2283"]
+	},
+	Q5065434: {
+            n: "Cesar Conde",
+            g: "m",
+            c: ["Q334800", "Q483551"]
+	},
+	Q109819965: {
+            n: "Diana McKenzie",
+            g: "f",
+            c: ["Q607131"]
+	},
+	Q28317059: {
+            n: "Segun Agbaje",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q109816976: {
+            n: "Bob Pohlad",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q109817568: {
+            n: "Alberto Weisser",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q5232042: {
+            n: "David C. Page",
+            g: "m",
+            c: ["Q334800"]
+	},
+	Q109776091: {
+            n: "Orlando Ayala",
+            g: "m",
+            c: ["Q5059102"]
+	},
+	Q558501: {
+            n: "Ann Livermore",
+            g: "f",
+            c: ["Q155026"]
+	},
+	Q11483620: {
+            n: "Nobuyuki Hirano",
+            g: "m",
+            c: ["Q334204"]
+	},
+	Q736477: {
+            n: "S. Robson Walton",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q20177269: {
+            n: "Greg Penner",
+            g: "m",
+            c: ["Q483551"]
+	},
+	Q109774638: {
+            n: "Lance Drummond",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109774687: {
+            n: "Aleem Gillani",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109774715: {
+            n: "Mark Grier",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109774938: {
+            n: "Alberto Musalem",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109775348: {
+            n: "Sy Naqvi",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109774627: {
+            n: "Michael DeVito",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q109774822: {
+            n: "Grace Huebscher",
+            g: "f",
+            c: ["Q935969"]
+	},
+	Q109774845: {
+            n: "Sara Mathew",
+            g: "f",
+            c: ["Q935969"]
+	},
+	Q109774608: {
+            n: "Mark Bloom",
+            g: "m",
+            c: ["Q935969"]
+	},
+	Q6376781: {
+            n: "Kathleen Casey",
+            g: "f",
+            c: ["Q935969"]
+	},
+	Q109801662: {
+            n: "Raul Alvarez",
+            g: "m",
+            c: ["Q1373493"]
+	},
+	Q109801686: {
+            n: "David Batchelder",
+            g: "m",
+            c: ["Q1373493"]
+	},
+	Q109801745: {
+            n: "Rick Dreiling",
+            g: "m",
+            c: ["Q1373493"]
+	},
+	Q109801858: {
+            n: "Dan Heinrich",
+            g: "m",
+            c: ["Q1373493"]
+	},
+	Q109807043: {
+            n: "Bertram Scott",
+            g: "m",
+            c: ["Q1373493"]
+	}
+    }
+}
