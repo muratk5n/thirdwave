@@ -1,2 +1,389 @@
 # Week 44
 
+"@kimapr@ublog.kimapr.net
+
+Updates.  System updates.  Please keep your system up to date to avoid
+bugs and security issues and get more bugs and security issues.
+Download size: 4 GiB.  Installed size: 12 GiB.  Net upgrade size: -70
+MiB.  Package install error: 404.  Please update your system to
+continue installing packages.  Please update your system to continue
+updating your system."
+
+---
+
+Beyond Fossil Fuels: "Europeans agree: Time to Put Limits on Big Tech
+Data Centres.. A staggering majority of respondents in a polling
+commissioned by Beyond Fossil Fuels and conducted by Savanta in five
+European countries do not want new data centres (DCs) to jeopardise
+Europe’s clean energy transition, drain water resources and raise
+costs for consumers."
+
+---
+
+Based on Masse's previous expertise I am not surprised a
+groundbreaking theory came from him. RM expertise is seismology, this
+is one of the most demanding, exacting areas in science while being
+100% grounded in mechanics. Under the earth's crust there are massive
+forces at play, there is constant pull and push, there are *waves*
+that travel... If you can work with those you can basically work on
+anything else in theoretical physics. The first time I got a glimpse
+of their domain was while looking for ways to code a certain
+computational method, the top guys on it were from seismology, and I
+saw some of the other work they do, it was hard core. They have the
+right mix of theory, computation, and experimental domain that leaves
+no room for bullshittery. Theoretical physics as profession is full of
+wankers, they are paid to dream up stupid ideas, as a result, that is
+exactly what they produce.
+
+---
+
+8 - High-Precision Clocks in Variable Mass Configurations.. If aether
+flows into matter and produces gravitational effects, then the local
+aether density (and thus the speed of time/light propagation) should
+vary with nearby mass distribution. Deploy ultra-precise atomic clocks
+(optical lattice clocks with ~10^-18 fractional uncertainty) in
+carefully controlled geometries where massive objects can be
+repositioned. Measure whether clock rates show anomalous variations
+when large masses are moved nearby, beyond the standard gravitational
+time dilation predicted by general relativity. If ether accumulates or
+flows differently around matter, you might observe: Directional
+asymmetries in time dilation depending on mass orientation, transient
+clock-rate changes during rapid mass redistribution, non-linear
+effects when multiple massive objects create 'converging' ether flows.
+
+This is a good test because his theory posits ubiquitous aether with
+directional flows into matter. Clock frequency depends on
+electromagnetic oscillations, which would be affected by local aether
+density/flow. This is similar to the idea #3 but focuses on the
+electromagnetic/temporal aspect rather than gravitational acceleration
+directly. Experimental advantage: Clock comparison experiments are
+among the most precise measurements in physics and are already used to
+test fundamental theory (tests of relativity, searches for fifth
+forces, etc.), so the infrastructure exists.
+
+---
+
+An 8th experimental idea above that can prove / disprove Robert
+Masse's aether hypothesis on top of the 7 already shared
+
+[[-]](2025/10/masse3.html)
+
+---
+
+The Verge: "Here’s what ads on your $2,000 Samsung smart fridge will
+look like.. Next month, Samsung will start displaying ads for
+Samsung-related products and services on its Family Hub refrigerators
+in the US."
+
+<img width='340' src='https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Widget-Pilot-Image-Ad.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=1920'/>
+
+---
+
+Russia FM Lavrov: "[In] April 22 when Boris Johnson came [to Ukraine]
+and prohibited Zelensky to accept the deal negotiated in Istanbul,
+which was actually proposed by Ukrainian side.. [the deal] was
+undermined... Now we know that [Johnson] got about 1 million pounds
+from his friend to continue the war because his friend was selling
+guns to Ukraine. [A]fter that they said 'no negotiations with Putin'"
+
+---
+
+Bloomberg: "China pledged to 'significantly' boost the share of
+consumption in its economy over the next five years"
+
+---
+
+\#NZ \#DoomsdayBunkers 
+
+[[-]](https://youtu.be/l23W3J9kmzA?t=971)
+
+---
+
+It is true after 2003 German savings rate increased
+
+[[-]](https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS?locations=DE)
+
+---
+
+Pettis: "The most straightforward effect of the [2003 Labor "reform"]
+law has been a steady rise in the poverty rate, particularly for
+Germans who have jobs. In 2005, when the data begin, only 5 percent of
+German workers were at risk of poverty. By 2015 that proportion had
+doubled to 10 percent. This was driven by a shift to low-paying
+part-time work..
+
+Germany’s precrisis current account surplus—and the corresponding
+deficit in the rest of the world—was recycled abroad by Germany’s
+banks.  Of the country’s cumulative €2.7 trillion in financial
+outflows, a little more than €1.6 trillion can be attributed to banks
+in Germany buying bonds and making loans abroad... Massive lending
+abroad was the only way the banks could reconcile weak German demand
+for credit and heightened German saving."
+
+---
+
+Pettis: "Before 2012, .. Germans consumed less than they produced, and
+they underinvested in their country, which produced large surpluses
+with the rest of the world. At the same time, Spaniards, Greeks, and
+the others experienced booms, spending far more than they earned and
+borrowing to cover the differences. In the years leading up to the
+global financial crisis, Spain had the second-biggest trade deficit in
+the world, behind only the United States, while Greece, a country of
+just eleven million people, had the fifth biggest. But Germany’s
+pathologies—rising inequality, depressed consumption, and systematic
+underinvestment—were a preview of what was to come for the rest of the
+continent...
+
+The European crisis.. was about income distribution. German policies
+developed in response to the twin shocks of reunification and the
+postcommunist liberation of Eastern Europe transferred purchasing
+power from workers and retirees to the ultrarich, which in turn forced
+Germany’s neighbors to tolerate some combination of rising
+unemployment and soaring indebtedness. The sad result was that
+Germany’s leaders undermined what should have been one of the most
+positive transformations of modern times: the creation of a healthy,
+unified Europe."
+
+---
+
+Pettis' analysis is sound. But we also need to pay attn to the
+timeline, and the chicken-egg aspect of the issue in case of
+China... In the beginning if the Chinese state did not turn a blind
+eye to low wages and not supressed dissent, foreign companies would
+not build factories there which they needed for knowledge
+transfer. But later, once they had enough knowledge transfer, good
+infrastructure, and capabilities of their own should they have stopped
+the practice? The answer is, according to Pettis' logic,
+yes. Persistent trade imbalances is not a good thing.
+
+---
+
+Pettis, *Trade Wars are Class Wars*: "[T]here is a conflict between
+economic classes *within* China that has spilled over into the United
+States. Systematic transfers of wealth from Chinese workers to Chinese
+elites distort the Chinese economy by strangling purchasing power and
+subsidizing production at the expense of consumption. That, in turn,
+distorts the global economy by creating gluts of manufactured goods
+and by bidding up the prices of stocks, bonds, and real
+estate. Chinese underconsumption destroys jobs elsewhere, while
+inflated asset values lead to devastating cycles of booms, busts, and
+debt crises...
+
+China’s policies do not just hurt Americans—they also harm ordinary
+Chinese workers and retirees. Chinese workers are underpaid relative
+to the value of what they produce, and they are taxed too much. They
+are unable to access the goods and services they ought to be able to
+afford. They breathe dirty air and drink polluted water because many
+local government officials place the financial interests of
+politically connected business owners above the well-being of the
+public."
+
+---
+
+\#Werleman \#Israel
+
+[[-]](https://youtu.be/PBNSwsw1cec?t=145)
+
+---
+
+Pettis: "The new [1996] rule, which came to be known as
+“check-the-box” by practitioners, was supposed to make things simpler
+for tax filers and make life easier for Internal Revenue Service (IRS)
+examiners. Instead, it opened up massive loopholes in the corporate
+tax code.  Among other things, income from royalties and licenses
+could now be treated the same as income from foreign factories. The
+IRS quickly recognized some of the implications and proposed a new
+rule to prevent arrangements “contrary to the policies and rules of
+subpart F,” but political interference blocked any fix. Once subpart F
+had been neutered, the creatives in law and accounting departments all
+across America began to exploit the new potential of 'intangibility.'
+Unlike factories or office buildings filled with workers, patents and
+other intellectual property occupy no physical space. They can be
+moved anywhere in the world by filling out a few forms...
+
+The simple version of the scheme is to set up a subsidiary in a
+corporate tax haven and then sell the subsidiary the right to license
+the patents to the rest of the company. The parent company gets a
+regular payment from the subsidiary holding the patents, often quoted
+as a share of total research and development (R&D) costs, and the
+subsidiary gets a large cut of the corporation’s global
+sales. Calibrate the deal correctly and profits can be shifted from
+places where taxes are high to places where taxes are low."
+
+---
+
+Michael Pettis, *Trade Wars are Class Wars*: "Although [tight, global]
+economic linkages have many benefits, they can also transmit problems
+from one society to another. People in one country are often
+responsible for unaffordable housing, debt crises, job losses, and
+pollution elsewhere. The Chinese government.. offers cheap bank loans
+to real estate developers, and American manufacturing workers lose
+their jobs. German companies slash wages as the German government cuts
+welfare spending, and Spaniards get a housing bubble.
+
+The thesis of this book is that rising inequality within countries
+heightens trade conflicts between them. This is ultimately an
+optimistic argument: we do not believe that the world is destined to
+endure a zero-sum conflict between nations or economic blocs... The
+problems of the past few decades do not have their roots in
+geopolitical conflict or incompatible national characters. Rather,
+they have been caused by massive transfers of income to the rich and
+the companies they control."
+
+---
+
+Analog (not binary) matrix equation solving.. Nice. Analog
+computation.. Let's hope the claims hold up..
+
+---
+
+"[A Chinese] research team led by Dr. Sun Zhong.. published a
+groundbreaking paper in Nature Electronics titled 'Precise and
+scalable analogue matrix equation solving using resistive
+random-access memory chips.'  The paper announced the creation of the
+new Chinese chip — a high-precision, scalable analog matrix computing
+chip based on resistive random-access memory (RRAM)... This
+achievement marks a significant milestone.. For the first time, analog
+computation has reached a precision comparable to digital computing,
+while delivering up to hundreds or even thousands of times higher
+computational efficiency and energy performance than today’s leading
+GPUs."
+
+---
+
+\#JimmyDore \#Argentina
+
+[[-]](https://www.youtube.com/embed/5zeKkP0RChY?start=541&end=780)
+
+---
+
+Thorium Reserves per Country
+
+<img width='340' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/World_s_Thorium_reserves.png/1200px-World_s_Thorium_reserves.png'/>
+
+---
+
+"China’s Survey Estimates That a One-Million-Ton Deposit of Thorium
+Could Produce Limitless Energy"
+
+---
+
+Lead Scientist Xu Hongjie: "Rabbits sometimes make mistakes or grow
+lazy. That's when the tortoise seizes its chance"
+
+---
+
+Live Science: "[04/20] For the first time ever, scientists in China
+have refueled an experimental nuclear reactor without shutting it down
+— a significant advance in weaning the world off fossil fuels and onto
+more efficient, low-carbon energy sources.. The breakthrough, achieved
+using a prototype molten-salt design which runs on liquid thorium
+instead of uranium, means that China "now leads the global frontier"
+in nuclear innovation, the project's lead scientist, Xu Hongjie, said
+during an April 8 meeting at the Chinese Academy of Sciences.
+
+Thorium reactors were first developed in the 1950s in the U.S., before
+it went all-in on uranium, according to the International Atomic
+Energy Agency. Following this decision, this early research was later
+declassified, and the Chinese researchers made use of it for the
+current project."
+
+---
+
+DW: "Germany's Porsche pauses shift to EVs as profits tank"
+
+---
+
+The Autopian: "Porsche’s Operating Profit Drops 99% As Company Pays
+For Overinvesting In Electric Cars"
+
+---
+
+Financial Trader Customers on Margin Loans (Total Leverage)
+
+According to data, leverage deployed at this point is around half a
+trillion dollars, a sky-high amount and climbing.
+
+[[-]](https://fred.stlouisfed.org/series/BOGZ1FL663067003Q)
+
+---
+
+\#SystemUpdate \#TPUSA
+
+[[-]](https://www.youtube.com/embed/VUHTQYIsO-E?start=297&end=368)
+
+---
+
+"@GeofCox@climatejustice.social
+
+Meanwhile, the old Irish duopoly also stumbles, with Fianna Fáil and
+Fine Gael polling at 17% and 18% respectively, and the broad-left
+supported presidential candidate, Catherine Connolly, likely to win
+big today."
+
+---
+
+FCW: "EU Parliament Clears Path for Low-Carbon Hydrogen Rules,
+Grandfathering Existing Projects"
+
+---
+
+Xi's "princeling status" is lower than some of the other princelings?
+I don't think so. Let's think CCP history, after the "Long March" Mao
+went to Yan'an, the Red Army was in a bad shape, who gave them refuge?
+Xi Jinping's father. That is some legendary stuff right there.
+
+[[-]](https://youtu.be/1ZKBaRsP1gY?t=232)
+
+---
+
+The CCP party conf is over, the result seems to be Xi lives to fight
+another day, but, according to the infighting scenario, power is still
+divided.
+
+---
+
+The Epoch Times: "Gen. Zhang Shengmin, a veteran political commissar,
+was officially promoted on Oct. 23 to the post of second-ranked vice
+chairman of the Central Military Commission (CMC), the Chinese
+Communist Party (CCP) agency that controls the armed forces.. The
+newly appointed vice chair of the CMC appears not to belong to a
+political faction loyal to Xi.. This contrasts with his direct
+predecessor, He, who was described by some China observers as Xi’s
+No. 1 confidant in the military."
+
+---
+
+The Epoch Times: "Xi’s Power Tested as 7 Officials Snubbed in CCP
+Leadership Shuffle.. One of the most striking signs was the quiet
+sidelining of seven alternate Central Committee members who were
+passed over for promotion—a rare move in party protocol that may
+signal their political downfall. The omissions, which include some of
+Chinese leader Xi Jinping’s longtime allies from the military and his
+home province of Shaanxi, point to intensifying internal conflict"
+
+---
+
+The Lever: "Amid The Shutdown, Flood Insurance Profiteers Are Riding
+The Wave.. Private insurers like Neptune Insurance Holdings are
+cashing in on the shutdown and pushing to privatize the National Flood
+Insurance Program, despite risks to homeowners."
+
+---
+
+TAC: "As Israeli Settlers Attack Americans, When Will We Say ‘Enough’?
+Over the weekend, a group of armed Israeli settlers in the West Bank
+staged an attack on American journalist and Drop Site News contributor
+Jasper Nathaniel.. When Nathaniel contacted the U.S. Embassy to report
+the attack, he was told that his own government could not protect him."
+
+---
+
+If Ukraine falls Poland can take its Western section that are
+"historically Polish", and Hungary can probably take Transcarpathia -
+there is a Hungarian speaking minority there, and it is right across
+the border, right? It can happen... RU beats Ukraine, turning it into
+a rump state, its neighbors dismember it.
+
+---
+
